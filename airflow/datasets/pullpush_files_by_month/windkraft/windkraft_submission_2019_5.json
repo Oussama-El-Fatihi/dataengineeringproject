@@ -1,0 +1,374 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "archived": false,
+            "author": "ilahlwa",
+            "author_created_utc": 1552842760,
+            "author_flair_background_color": "",
+            "author_flair_css_class": "KUSA",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Freistaat Kursachsen"
+                }
+            ],
+            "author_flair_template_id": null,
+            "author_flair_text": "Freistaat Kursachsen",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_3fey22rt",
+            "author_patreon_flair": false,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1556896747,
+            "distinguished": null,
+            "domain": "faz.net",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "id": "bk9neu",
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category environment",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Umwelt"
+                }
+            ],
+            "link_flair_template_id": "b96aef02-25bd-11e7-bfe3-0ece441d4918",
+            "link_flair_text": "Umwelt",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "no_follow": true,
+            "num_comments": 10,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/bk9neu/energiewende_die_windkraft_ist_in_großer_not/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "iq8Otcr-FghHUrOnlu4sSd2lJ_lkUk9hNr_CGN54Jk8",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/7ga08GUhLpm04OJzFCItwyDWFUSoM91fA7DjBNk5XXU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8b2c0772c5240cb5b9fd90c2703db43994915aaa",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/7ga08GUhLpm04OJzFCItwyDWFUSoM91fA7DjBNk5XXU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d8ec83f47c6709fcbcc52e98da7b621f6b253bc0",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/7ga08GUhLpm04OJzFCItwyDWFUSoM91fA7DjBNk5XXU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=375140a115aa63d93bee784654523b8250b6c618",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 344,
+                            "url": "https://external-preview.redd.it/7ga08GUhLpm04OJzFCItwyDWFUSoM91fA7DjBNk5XXU.jpg?auto=webp&amp;s=ee80440628b8891548f8b0458c41d3471e973f9c",
+                            "width": 610
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removal_reason": null,
+            "retrieved_on": 1560638932,
+            "score": 1,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 186610,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/pKJgqAu909R-FIJ4DqgsDo5f_i3Pvmz6Fm6vyOyjcpM.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Energiewende: Die Windkraft ist in großer Not",
+            "total_awards_received": 0,
+            "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/energiewende-warum-windkraft-unternehmen-pleitegehen-16160754.html?premium",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "archived": false,
+            "author": "beesandbarbs",
+            "author_created_utc": 1401751854,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_gtlus",
+            "author_patreon_flair": false,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1558270210,
+            "distinguished": null,
+            "domain": "handelsblatt.com",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "id": "bqgkye",
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category newsde",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Nachrichten DE"
+                }
+            ],
+            "link_flair_text": "Nachrichten DE",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "no_follow": false,
+            "num_comments": 69,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/bqgkye/das_problem_mit_der_windkraft/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "-P26ApI4BpuKckX7xjjwwDHBf_oTe_G5djz6t7YVfl4",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/g5iPHtl6PwjV2IHNc7U3of64wVqIxP8_uaGeuH-2kLc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2444ec0725c4012870858cbc5d2f01c3098f6fb6",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/g5iPHtl6PwjV2IHNc7U3of64wVqIxP8_uaGeuH-2kLc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=4b8ac182efd4e108a77184840b088035650fbc64",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/g5iPHtl6PwjV2IHNc7U3of64wVqIxP8_uaGeuH-2kLc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=38a69a30c577c3a4ea9dd62f33b82ecddc0cfe62",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 349,
+                            "url": "https://external-preview.redd.it/g5iPHtl6PwjV2IHNc7U3of64wVqIxP8_uaGeuH-2kLc.jpg?auto=webp&amp;s=346ce89562336efdb9eba9e318a82e6cf21b7524",
+                            "width": 620
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removal_reason": null,
+            "retrieved_on": 1560964778,
+            "score": 11,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 187499,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/8nBsYHCiWXkSi8fF6SrbV_5AVtHUB4CDyog2IdLBlYE.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Das Problem mit der Windkraft",
+            "total_awards_received": 0,
+            "url": "https://www.handelsblatt.com/cmsid/24355964.html",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "archived": false,
+            "author": "GirasoleDE",
+            "author_created_utc": 1417641623,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_js5a5",
+            "author_patreon_flair": false,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1559329185,
+            "distinguished": null,
+            "domain": "spektrum.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "id": "bvbh8l",
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#00301b",
+            "link_flair_css_class": "category science",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wissenschaft&amp;Technik"
+                }
+            ],
+            "link_flair_template_id": "b861e6c8-607f-11e6-9f02-0ea60a88c57b",
+            "link_flair_text": "Wissenschaft&amp;Technik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "no_follow": false,
+            "num_comments": 43,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/bvbh8l/sorgt_die_windkraft_für_ein_insektensterben/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "x5fdNRnzeJ0-eeHnFWCXNQKPuhpeclD4XRoHhY2JwuQ",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/ShOh21fa6XYAffZXLD8yCFY7gGwSopAvsbskMLTPrG8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=221c70b41d887b75eacb9cbfed082fc89a0a670f",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/ShOh21fa6XYAffZXLD8yCFY7gGwSopAvsbskMLTPrG8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2ca50d273256766a3c422ab4d3c55323712ed88a",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/ShOh21fa6XYAffZXLD8yCFY7gGwSopAvsbskMLTPrG8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e52f4615901df57a62210e8d53ad8d51125f356e",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/ShOh21fa6XYAffZXLD8yCFY7gGwSopAvsbskMLTPrG8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=951571e62d4e1ae5b521f4324ee55307f80ba300",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/ShOh21fa6XYAffZXLD8yCFY7gGwSopAvsbskMLTPrG8.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=2fdd7e9dd9aad571a6099de80b36c794a7210f32",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/ShOh21fa6XYAffZXLD8yCFY7gGwSopAvsbskMLTPrG8.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4375f69305bcc0785d1adcb0cddc2447014b1f85",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 1080,
+                            "url": "https://external-preview.redd.it/ShOh21fa6XYAffZXLD8yCFY7gGwSopAvsbskMLTPrG8.jpg?auto=webp&amp;s=7a663f443e2a85ac829523742216a8abfa851885",
+                            "width": 1920
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removal_reason": null,
+            "retrieved_on": 1561096900,
+            "score": 4,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 187719,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/g57IBho_dqE1H3qmRcfKrzh2DCpqA92wsYnNSYRfTXM.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Sorgt die Windkraft für ein Insektensterben?",
+            "total_awards_received": 0,
+            "url": "https://www.spektrum.de/news/verursacht-die-windkraft-das-insektensterben/1639550",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 200,
+        "op_b": 187,
+        "total": 392
+    },
+    "error": null
+}

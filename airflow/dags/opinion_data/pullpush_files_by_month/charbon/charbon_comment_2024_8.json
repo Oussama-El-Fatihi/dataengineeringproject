@@ -1,0 +1,167 @@
+[
+    {
+        "text": "Dans l'industrie (ou en plus général dans les entreprises un peu sérieuses) c'est le TCO qui prime : Total Cost of Ownership. Exemples: \n\nPour les serveurs, la consommation d'électricité joue énormément. Il est donc courant de remplacer un serveur qui marche encore, et qui n'est pas saturé, par un plus moderne, simplement parce qu'il consomme moins et qu'au total on y gagne. Je vous laisse calculer le coût écologique de la manoeuvre, qui n'est pas forcément négatif dans les pays où l'électricité est faite à partir de charbon !\n\nPour les machines industrielles, c'est la même chose : elles durent très longtemps et doivent être maintenables, et c'est le TCO qui prime.\n\nIdem pour les véhicules, etc...\n\nPour un particulier, on a par exemple le frigo. Un modèle premier prix ou un modèle un peu plus haut de gamme vont avoir un coût en matière de ressources quasi identiques pour leur consommation, mais pour ceux qui paient l'électricité, le TCO du frigo plus cher et mieux isolé qui consomme 30% de moins est en fait inférieur au TCO du frigo premier prix. Si il dure plus longtemps, c'est un bonus.",
+        "date": "2024-08-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hello, c'est pas moi qui ait supprimé, mais je l'aurais supprimé si j'étais tombé dessus. Si la majorité est en désaccord avec ça, je mangerai mon chapeau et j'autoriserai ces posts.\n\nPourquoi j'ai supprimé : \n\n1. Le post était franchement inintéressant. Tout est fabriqué en Asie, les peluches, les raquettes de tennis, les jouets, les tee-shirts, et même les casquettes \"Make America Great Again\". Si on fait un post à chaque fois que tu vois un bien de consommation fabriqué là-bas, on s'en sortira pas. Donc à moins que ton post propose une discussion intéressante sur le sujet avec des sources, je considère que c'est nul.\n\n2. L'aspect écologique du transport est anecdotique, entre une peluche faite en France et une peluche faite en Chine, ça ne fera quasiment aucune différence. Pour te donner un ordre de grandeur, pour un conteneur faisant shanghai-europe en bateau, il faut compter 0,00554 kg eq-co2 par tonne de marchandise et par km. Donc pour 19 000km (shanghai-rouen), en considérant que la peluche pèse 100g, ça fait 0,00554/10000 \\* 19000 = 0,010 kg co2. Donc 10g de co2 pour le transport. Étant donné qu'une peluche est faite en coton, j'estime son bilan carbone à \\~10kg, donc le transport fait 1% de son bilan global. Autrement dit, on s'en bat les couilles du trajet en bateau pour venir ici.\n\n3. La part du charbon dans l'électricité chinoise diminue d'année en année : [https://ourworldindata.org/grapher/share-energy-source-sub?country=\\~CHN](https://ourworldindata.org/grapher/share-energy-source-sub?country=~CHN), je suis d'accord que leur production électrique reste massivement carbonée, mais la part de l'électricité semble être pas si importante dans la fabrication d'une peluche comparé à la culture du coton pour faire la peluche.",
+        "date": "2024-08-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je suis pas vraiment d'accord avec toi, mais reddit est aussi fait pour ça 😁\nAvant tout : \"Si la majorité est en désaccord avec ça, je mangerai mon chapeau et j'autoriserai ces posts\", bah non ! Ce n'est pas parce que la majorité pense quelque chose qu'elle a raison ! Si tu as une conviction, qui plus est basée sur des chiffres, fais-toi entendre !!\n\n1. Certains commentaires ont indiqué que certaines de ces peluches étaient fabriquées en France, comme quoi c'est possible, même si mathématiquement plus cher pour le consommateur...\n2. Il est anecdotique, je le sais, mais je n'approuve pas que ça puisse être un argument : aucun produit ne monopolise majoritairement les transports, maritimes, routiers ou autre, peu importe en fait. On ne peut pas dire : c'est rien en volume donc ça rentre pas dans les calculs. La France est responsable de 1% des émissions de CO2 dans le monde, si demain on trouve un moyen de supprimer tout ça, l'argument du \"ça ne pèse rien dans la balance du monde donc pourquoi s'emmerder ?\" est à mon avis équivalent (rhétoriquement parlant, les valeurs ne sont pas comparables evidemment).\n3. C'est un bon point, mais le ratio énergétique de la Chine est complément faussé par leur production massive de photovoltaique (c'est cool) qui cache leur gestion du charbon (carrément moins cool) : moins de 5GW de centrales charbon démantelée, à mettre en face des 53GW construites en 2023 (https://globalenergymonitor.org/fr/report/boom-and-bust-coal-2024/). Une vidéo du réveiller parlait des chiffres de 2024 qui étaient assez effrayants, je ne retrouve pas la vidéo...)\n4. Rien à dire, ces peluches m'ont été envoyées en cadeau pour des enfants, j'étais un peu dégoûté...\n\nBref je voulais souligner avec mon précédent post le décalage (bien connu) entre la communication gouvernementale sur les JO et la réalité. Je comprends le point de vue des modos, merci pour tes précisions !",
+        "date": "2024-08-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La proportion de nucléaire et de renouvelables dans le mixte énergétique chinois n'a aucune importance, étant donné que les centrales à charbon sont de plus en plus construites chaque année. Donc le ratio est meilleur, mais la pollution va augmenter drastiquement.\n\nhttps://globalenergymonitor.org/fr/press-release/chinas-coal-power-spree-could-see-over-300-coal-plants-added-before-emissions-peak/",
+        "date": "2024-08-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est toujours mieux de construire des centrales nucléaires plutôt que des centrales à charbon pour répondre à la demande croissante de l'énergie électrique.",
+        "date": "2024-08-21",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ils font chaque année plus de centrales à charbon que l'année précédente. L'électricité chinoise ne sera jamais moins cartonnée que l'européenne.",
+        "date": "2024-08-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Je crois que vous vous trompez. La construction des centrales charbon est rapide et permet à la Chine de poursuivre l’augmentation de la part de l’énergie électrique dans l’économie. Mais la lame de fond est une décarbonations de la production électrique, grâce au renouvelable et au nucléaire. La Chine est très sensible au changement climatique, et doit donc être rapidement moteur dans l’effort général qui est devant nous.",
+        "date": "2024-08-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les centrales à charbon poussent comme des pissenlits (https://globalenergymonitor.org/fr/press-release/chinas-coal-power-spree-could-see-over-300-coal-plants-added-before-emissions-peak/). La Chine n'est pas très sensible au changement climatique. Elle s'impose néanmoins comme leader maintenant dans la construction du nucléaire, l'éolien et le solaire... mais ça ne compense en rien la pollution générée sur des décennies.",
+        "date": "2024-08-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je bosse en IT et j'ai une très grosse sensibilité pour l'environnement. J'apprécie beaucoup Janco (si tu as quelques minutes [pour écouter ça](https://www.youtube.com/watch?v=ZfJ-21qHuBQ)), [Luc Julia](https://www.babelio.com/livres/Julia-On-va-droit-dans-le-mur-/1396579) ou encore [Gilles Babinet](https://www.odilejacob.fr/catalogue/sciences/environnement-developpement-durable/green-ia_9782415008291.php).\n\nMalgré ces deux dernières lectures particulièrement positives, le problème c'est d'ouvrir la boîte de Pandore alors qu'on a déjà de la merde jusqu'aux genoux. \n\nJe me permets de rappeler que les coûts environnementaux de l'informatique (de manière globale), sont liés [à la fabrication des composants](https://bonpote.com/environnement-faut-il-supprimer-ses-emails/) plus qu'à la consommation électrique. L'IA a ceci de particulier dans les NTIC que c'est à la fois un coût de fabrication mais aussi un [coût d'usage au quotidien](https://www.lemonde.fr/economie/article/2024/02/08/l-explosion-de-la-demande-d-electricite-liee-a-l-ia-a-deja-des-consequences-locales_6215368_3234.html)... \n\nComme Janco l'a expliqué en long, en large et en travers, aucune nouvelle énergie n'est venue remplacer la précédente, elle peut avoir aidé à en diminuer l'exploitation mais on est toujours en train d'extraire du charbon en 2024 parce que nos besoins n'ont fait qu'augmenter et que chaque nouvelle source d'énergie a permis de mettre en place de nouveaux usages plutôt que d'optimiser les anciens. \n\nL'IA est arrivée avant qu'on en ait besoin d'un point de vue technologique et elle n'est développée actuellement que pour des pressions financières (j'y reviens).\n\nCertes l'IA aide (on ne sait pas toujours exactement comment mais en tous cas il y a plein de personnes qui en sont très contentes), mais c'est comme les google glass et toutes les autres technos de merde dont on nous a dit qu'elles allaient révolutionner nos pratiques ces deux dernières décennies : on ne sait pas du tout s'il va y avoir une révolution ou juste une habitude qu'on va créer chez les utilisateurs jusqu'à devoir la maintenir en place.\n\nD'un point de vue investissement, les GAFAM s'intéressent à l'IA car, si c'était la vraie révolution qu'on attend depuis 20 ans, il est hors de question de passer à côté (Micromou a lancé les hostilités avec des rachats). Il n'y a pas d'applications ou de modèle économique pour l'IA grand public à l'heure actuelle (même s'il y en a [côté dev](https://www.learnthings.fr/meilleurs-outils-ia-pour-coder/) et dans certaines niches) et, [étant donné les coûts](https://dcmag.fr/la-consommation-energetique-de-lia/), il va être difficile de maintenir un modèle gratuit...\n\nSur le long terme, oui, on va développer des IA qui aideront à la prise en charge environnementale, genre la smart city ramenée à l'échelle du logement/du particulier. Bien sûr, on trouvera des optimisations énergétiques, le data center à tel endroit renverra du chauffage dans la ville voisine, le moteur machin sera optimisé pour avoir une baisse de consommation, etc. \n\nPotentiellement, on peut toujours rêver d'un nouveau matériaux qui permettra de recycler les millions",
+        "date": "2024-08-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Quand ton bilan carbone est celui d'une centrale à charbon, indirectement oui ça tue ! En fait c'est plutôt un suicide, un suicide collectif avec en figure de proue les ultra riches. \n\nCet aveuglement et inaction face à l'apocalypse à venir me fascine ! \n\nSi les ultra riches payaient leurs impôts correctement, combien d'enfants pourraient t'ont sauver dans les hôpitaux publiques ? \n\nSoit Ronaldo n'a pas de cerveau, soit c'est un criminel. Au choix !",
+        "date": "2024-08-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui c'est vrai, comme l'énergie ne se stocke pas bien, il faut quelque chose pour faire l'appoint. Du charbon ou peut-être à préférer le nucléaire. Je ne sais pas si ils ont du nucléaire civil, si non, alors le solaire réduit leur charbon ce qui est déjà pas mal.\n\nSi ils n'ont pas un coup de grêle ou je ne sais quoi qui oblige à rechanger tous les panneaux bien avant leur usure normale...",
+        "date": "2024-08-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Est-ce tu t'as au moins posé la question de comment l'Inde fait la gestion de l'intermittence de ses énergies renouvelables ?\n\nAh, tiens avec du charbon, comme en Allemagne, c'est curieux non ?\n\nhttps://preview.redd.it/zabks93siykd1.png?width=1013&amp;format=pjpg&amp;auto=webp&amp;s=4b9ffbbc8e35b3297f85cbc98d26776e2439f1f8",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C’est pas tout à fait ça. Le solaire se substitue au charbon qui était la première source d’électricité. Ils ne construisent pas des centrales charbon pour gérer l’intermittence.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Ils ne construisent pas des centrales charbon pour gérer l’intermittence.\n\nIls n'ont rien besoin de construire pour gérer l'intermittence parce qu'ils ont déjà des centrales à charbon.\n\nSi vous pensez qu'ils pourront continuer à augmenter la capacité de production renouvelable au point de s'en débarrasser des centrales à charbon alors vous n'avez rien compris de la gestion d'intermittence des renouvelables.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "# Lisez bien ce que le ministre de l'énergie de l'Inde en conférence de presse [source](https://pib.gov.in/PressReleasePage.aspx?PRID=1986616)\n\n*« La sécurité énergétique du pays ne peut être assurée uniquement par les sources d’énergie renouvelables ; la dépendance à l’égard de la production à base de charbon va probablement se poursuivre jusqu’à ce que des solutions de stockage d’énergie rentables soient disponibles »*\n\nhttps://preview.redd.it/x58ai8ylvykd1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=34ecdb8cdc9ba433e0d1d625d4981362e2bb9e6c",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "# Lisez bien ce que le ministre de l'énergie de l'Inde a dit  en conférence de presse [source](https://pib.gov.in/PressReleasePage.aspx?PRID=1986616)\n\n*« La sécurité énergétique du pays ne peut être assurée uniquement par les sources d’énergie renouvelables ; la dépendance à l’égard de la production à base de charbon va probablement se poursuivre jusqu’à ce que des solutions de stockage d’énergie rentables soient disponibles »*\n\nhttps://preview.redd.it/d9z1z06uvykd1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=1eb2029af67abe96296a5bd7ae77758f2a4c7029",
+        "date": "2024-08-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "# Lisez bien ce que le ministre de l'énergie de l'Inde a dit  en conférence de presse\n\n*« La sécurité énergétique du pays ne peut être assurée uniquement par les sources d’énergie renouvelables ; la dépendance à l’égard de la production à base de charbon va probablement se poursuivre jusqu’à ce que des solutions de stockage d’énergie rentables soient disponibles »* [source](https://pib.gov.in/PressReleasePage.aspx?PRID=1986616)\n\nhttps://preview.redd.it/y2t1br61wykd1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=99c5fa83f0d9484e751ced85dba66aa8ba57344c",
+        "date": "2024-08-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je n’ai pas affirmé que le solaire allait remplacé le charbon. Et le ministre a raison il faut du stockage pour gérer l’intermittence. La bonne nouvelle est que le stockage voit ses prix s’effondrer depuis dix ans.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ce qui est une excellente nouvelle puisque ça réduit leur consommation de charbon.\n\nPar contre, comparez ça à un réacteur nucléaire est totalement stupide, le solaire ne marche pas en permanence quand tu en as besoin. De plus, ton \"pour la moitié du coup\" mériterait d'être sourcé parce qu'aux dernières nouvelles, c'est faux puisque si on veut comparer, il faut prendre en compte les prix du stockage (ou les coûts d'un moyen de production alternatif) et d'adaptation du réseau (je ne sais pas pour l'inde, mais en France cela demanderait des adaptations).",
+        "date": "2024-08-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Je n’ai pas affirmé que le solaire allait remplacé le charbon. \n\nVous faites le troll ou quoi ?\n\n&gt; Et le ministre a raison il faut du stockage pour gérer l’intermittence. La bonne nouvelle est que le stockage voit ses prix s’effondrer depuis dix ans.\n\nQuel type de stockage a vu son prix s'effondrer depuis dix ans ? Qu'est-ce que l'Inde pourrait utiliser comme stockage à l'échelle d'un pays pour s'en passer des centrales à charbon ? Amusez-nous svp..",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Il y a quand même énormément de marge pour l'instant. D'après [Electricity Map](https://app.electricitymaps.com/zone/IN), la production d'électricité à partir de charbon a varié aujourd'hui entre 135 GW (cette nuit) et 155 GW (en journée). En attendant que d'autres solutions puissent gérer l'intermittence, c’est toujours ça de gagné pour le climat et la qualité de l'air.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je suis sûr t'as même pas lu ce qui est écrit dans cette étude ?\n\nl'État de l'Illinois a développé ses renouvelables sur une base de capacité énergétique soutenue par les centrales à charbon et gaz naturel et maintenant ils se demandent comment faire car au rythme actuel le réseau électrique n'aura pas une capacité suffisante pour atteindre 2030, car ils projettent un manque de capacité d'environ 150000MW.\n\nDéjà auraient-ils augmenté la capacité du nucléaire en contrepartie des centrales thermiques et le problème ne se poserait pas ..\n\nBref, du coup ils comparent plusieurs scénarios d'augmentation de capacité du réseau, notamment augmenter l'interconnexion entre états voisins, augmenter centrales thermiques et le développement du stockage à batteries et concluent que la solution batteries est la moins polluante  (Pikachu surpris) et la celle qui reviendra la moins chère à long terme sur la facture des consommateurs.\n\nPar contre, cette étude n'inclut pas les émissions liées à la fabrication de batteries, ni des contraintes d'approvisionnement de ressources stratégiques (lithium etc.. dans l'avenir) ni une comparaison avec d'autres solutions bas carbone de façon à augmenter la capacité du réseau électrique.\n\nL'étude que RTE a élaboré pour la France : horizon 2030, est bien plus complète et présente des conclusions bien différentes.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;le nucléaire tue autant que l'éolien ou que le solaire\n\nAlors pour le coup, non, on est à 4 fois moins de mort dans la filière nucléaire comparé à l'éolien et le solaire posé sur toit.\n\nhttps://www.clubic.com/energie-renouvelable/actualite-875165-nucleaire-provoque-morts-solaire-eolien.html\n\nLien sortit du chapeau, mais qui cite différentes études.\n\n&gt; nucléaire ne causerait pas plus de 0,04 morts par milliard de kilowattheures produits. C'est-à-dire 3,75 fois moins que l'éolien, 11 fois moins que le solaire posé sur toit, 35 fois moins que l'hydraulique, 100 fois moins que le gaz naturel, 600 fois moins que la biomasse, 900 fois moins que le pétrole, et 2 500 fois moins que le charbon...",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le nucléaire tue et pollue moins que le charbon ou le pétrole. Le nucléaire c'est comme l'avion, le moyen le plus sûr de sa catégorie, mais une poignée de catastrophes montées en épingle les font passer pour hyper dangereux.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Hahahaha oui je pense que dans l'idée de l'énergie renouvelable c'est de produire de l'énergie sans faire de combustion. Soit avec de la lumière ou soit en faisant tourner une turbine en utilisant le travail de l'eau ou du vent. \n\nÇa reste des énergies qui peuvent être exploitables plus longtemps que les hydrocarbures. Dans le cas d'un barrage, le cours d'un fleuve sera modifié dans un ordre de temps géologiques. Là où par exemple le charbon ne sera plus jamais produit naturellement depuis que les bactéries dégradent la flore morte.",
+        "date": "2024-08-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Les verts en Allemagne avec leur \"Atomkraft, nein danke\", et que tu vois que leurs centrales thermiques au bon gros charbon qui tournent a plein régime... Ils ont le double d'émission de CO2 qu'en France, c'est complètement débile.\n\nPour moi, y a rien d'écologique ni de scientifique derrière. C'est de la peur, de l'idéologie, de la bêtise voir de la malveillance.",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Peut être que les dégâts psychologiques sont dus à la désinformation de certains médias et politiques sur le nucléaire, jdis ça jdis rien.\n\nTu parles encore de chance, ça n'a rien à voir...\n\nLes dégâts peuvent être considérables ? Non, pas dans le monde réel.\n\nTchernobyl a une nouvelle arche qui été terminée en 2016, tu confonds avec l'ancienne.\n\nFukushima 0 cancers et 0 attendus, tchernobyl 6000 cancers thyroide chez les enfants, pas de hausse chez les adultes (même chez les liquidateurs). Je n'ai pas de source sur les suivit/sequels des 6000 enfants.\n\nIl ne s'agit pas de vouloir habiter ou pas dans le zone, si le taux de radioactivité est en dessous du seuil, pas de problème, les ouvriers ont construit l'arche a proximité de la centrale pendant 10ans, je doute qu'il y avait une rotation journalière.\n\nLes génération futures etc c'est purement philisophique, en pratique osef d'avoir enterré des dechets à 500m sous terre. Un autre com t'a répondu sur CIGEO. Je vois pas en quoi c'est un fardeau, c'est traité par la même génération qui l'a produit (\\~2/3 ans de de traitement de mémoire)  \nEn revanche le CO2 en est un (et un gros celui là)\n\nUn programme politique n'est pas une source scientifique. Tu remarquera qu'aucun pays dans le monde n'utilise ce mix énergétique imaginaire, pour la simple et bonne raison que cela ne fonctionne pas. L'Allemagne promet le même chose depuis 15ans, pour le moment c'est un échec total, avec en moyenne 8 fois plus de CO2 émis en 2023 pour chaque kwh produit qu'en France. (Source [https://app.electricitymaps.com/zone/DE](https://app.electricitymaps.com/zone/DE), très bon site au passage, et open source). M'enfin les dirigeants font comme toi, promettent du 100% ENR pour bientôt, sauf qu'en pratique on fait tourner les mines de charbon (qui provoque plus de cancer que le nucléaire, mais c'est moins bankable pour avoir des votes j'imagine ?).  \nLe seul point cohérent est la sobriété.",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Toute activité humaine est polluante. Mais s'il y a un rapport de 1 à 20 entre les émissions de CO2 du solaire et du charbon, c'est pas pour rien.",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pas exactement, les énergies intermittentes perturbent et complexifient les prévisions de production. A défaut d'avoir du vent et du soleil, les centrales à charbon peuvent avoir besoin de démarrer pour répondre à un pic de production ( mois de décembre à 20h30 au moment du pic de production journalier..). Les réacteurs  nucléaires ne sont pas conçu pour effectuer des variations de charges. Ils sont là pour effectuer de la production de masse. En cas de variation de charge importante, le vieillissement des différents circuits et matériels serait accélérés (contraintes thermiques + chimie etc ...)",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sauf qu'on parle ici de l'inde et non pas de la france....\n\nCela dit, même en France, les renouvelables non pilotables permettent en pratique de réduire l'utilisation de charbon/gaz chez nos voisins grâce aux interconnexions entre les pays.\n\nEn ce qui concerne les centrales nucléaires, je n'ai aucune idée de l'impact sur leurs durées de vie, mais elles ont une capacité de variation de charge aussi importante que les centrales à gaz (et je suppose que les centrales à charbon sont comparables sur ce point aux centrales à gaz).",
+        "date": "2024-08-28",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Et tu rajoutes un petit comparatif des morts du charbon histoire de faire bonne mesure et de montrer que même sans parler climat, mieux vaut du nucléaire avec quelques accidents que des centrales à charbon qui tuent beaucoup plus (et pas dans un facteur de 2 ou 3, plutôt en facteur qui se compte avec plusieurs zéro).",
+        "date": "2024-08-28",
+        "sentiment": "positive"
+    },
+    {
+        "text": "En Inde, le solaire diminue la part du charbon, pas du nucléaire.",
+        "date": "2024-08-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Il y a de quoi être fier.\n\nPour fêter ça, je propose d'envoyer les écolos antinucléaires dans les mines de charbon.",
+        "date": "2024-08-29",
+        "sentiment": "neutral"
+    }
+]

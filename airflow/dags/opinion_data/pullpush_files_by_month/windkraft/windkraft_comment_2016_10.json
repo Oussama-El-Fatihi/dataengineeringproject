@@ -1,0 +1,57 @@
+[
+    {
+        "text": "&gt;...woher kämen Strom und Rohstoffe, wie seltene Erden, Nickel und Kobalt, die dann in gewaltigen Mengen benötigt würden? \n\nNickel ca. 100 Millionen Tonnen, Kobalt ca. 10 Millionen Tonnen Weltreserven. Seltene Erden kommen fein verteilt fast überall vor. Was fehlt, sind, da China die bisherige Nachfrage billigst weitgehend konnte, die Extraktionsanlagen. Lithium (für Batterien) ist das \"neue Öl\", und auf wenige Ländern (Bolivien, Chile, China) konzentriert. Bezeichnenderweise verhandeln Japaner mit Bolivien, nicht Deutsche. [Link](http://www.focus.de/wissen/weltraum/odenwalds_universum/tid-16100/lithium-das-ende-der-reserven_aid_451604.html) - Wieder gepennt? Never mind, Wasserstoff wird eh kommen. Aber auch da liegt Toyota (Mirai) vorn.\n\nLangfristig können alle diese Rohstoffe über Reyclinganlagen nachhaltig zurück gewonnen werden. - Die Stromversorgung hingegen stellt überhaupt keine technische Hürde dar. Windkraft ist erneuerbar. Überbrückend kann Erdgas mit 50% besserer Klimabilanz (CO2) und mehrfach besseren Verschmutzungswerten (SO2, Schwermetalle, Feinstaub, organischem C) genutzt werden.\n\n&gt; Eine schnelle, umweltfreundliche Lösung sind die Strom-Mobile offenbar nicht...könnten die gesundheitsschädlichen Feinstaubwerte erheblich sinken. \n\nDer erste Satz ist fundamentalistisch. Nur Verkehrs**verzicht** ist zu 100% umweltfreundlich. Im zweiten Satz wird (richtigerweise) eine Bilanz eingeführt, die der vorangegangenen These widerspricht.\n\n&gt;...ein Wasserstoff-Fahrzeug auf den Markt bringen. Doch wie erfolgreich diese Technologie sein wird, weiß man noch nicht. Es gibt bislang nur sehr wenige Wasserstoff-Tankstellen in Deutschland. Außerdem ist es noch sehr aufwändig, Wasserstoff ökologisch herzustellen.\n\nErstens eine Henne-Ei-Diskussion: Es wird dann Wasserstofftankstellen geben, wenn es solche Autos gibt. Japan arbeitet intensiv daran. Zweitens falsch: Wasserstoff kann sehr ökologisch durch Wasser-Elektrolyse mit Windstrom hergestellt werden. \n\n&gt;45 Millionen Fahrzeuge in Deutschland...werden nicht alle durch Elektroautos ersetzt werden können.\n\nHier entscheiden einzig der Kosten- und der Zeithorizont. Physikalisch ist es heute bereits möglich. Auch die Rohstoffverfügbarkeit steht dem nicht im Wege. Was im Wege steht, ist die verschlafen Entwicklungszeit der Konzerne. Denn wie immer ist es auch hier einträglicher, mit Alttechnologie und (am Besten abgeschriebenen) Altanlagen Profit zu machen. Solange das gut geht, muss Entwicklung und Investition halt wirklich nicht sein.",
+        "date": "2016-10-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Paar Kritikpunkte zu den Daten, bzw. Relativierungen, warum das weniger schlimm ist, als es sich anhört. Die meisten gehen aus deinem ersten Link bereits hervor:\n\n* Umwandlungsverluste sind ca. 25% des Primärenergieverbrauchs. Das sind vor allem Umwandlungsverluste durch Wärmekraftwerke, welche als statistisches Artefakt wegfallen (PV und Windkraft haben ja keinen Treibstoff in dem Sinne, daher ist Primärenergie = Sekundärenergie, auch wenn das physikalisch nicht korrekt ist), und durch Straßenverkehr, welche immerhin stark verringert werden (&gt;90% Wirkungsgrad bei elektrischen Fahrzeugen vs. 30% bei Benzinfahrzeugen)\n\n* Beim Endenergieverbrauch sind ca. 30% nur Heizwärme und Warmwasserbereitung. Wärme ist im Grunde ein Abfallprodukt, daher kann man mit Wärmepumpen viel machen. Es gibt bereits heute Passivhäuser, die mehr Energie erzeugen als verbrauchen. Das wären noch einmal 20% des Primärenergieverbrauchs, wo man mit Technik von heute bereits sehr viel machen kann.\n\n* Im Moment legt der Ausbau der Solarenergie ein exponentielles Wachstum hin (auch in Deutschland soweit ich weiß, hab aber keine Quelle, darfst mir das also gerne hier widerlegen, wenn du Bock hast die Quelle zu suchen). Das geht natürlich nicht ewig so weiter, aber die meisten Industrienationen sind noch gar nicht richtig in Fahrt, was den Ausbau angeht, da geht also noch durchaus was.\n\nGrund, wirklich pessimistisch zu sein, sehe ich jetzt noch nicht.",
+        "date": "2016-10-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Darum geht auch ein kollektives Aufatmen durch die Branche weil Batterien immer billiger werden, und immer weniger verschleißen. Das ist übrigens auch einer der treibenden Gründe, mehr auf Smart Grids und Elektromobilität zu setzen. So kann man die Last besser verteilen, und damit Peaks verringern.\n\nWas bei Elektroautos oft vergessen wird, ist, wie viel Energie eigentlich dafür generiert werden muss. Wenn alle Autos durch Eletroautos ersetzt würden, müsste Deutschland ~~28%~~ mehr Strom produzieren als 2015. Das ist mehr als alle Braunkohlekraftwerke zusammen. Und zusätzlich fallen ja noch die Atomkraftwerke weg, die momentan 14% unserer elektrischen Energie ausmachen. So schnell kann der Anteil der Erneuernbaren nicht steigen, um das auszugleichen. Man müsste die Zahl der Windkraftanlagen mindestens vervierfachen, ohne, dass sich der Teil von Kohle überhaupt verringert. Irgendwann ist auch mal alles zugebaut.\n\nQuellen: \n\nhttps://pluginamerica.org/how-much-does-it-cost-charge-electric-car/\n\nhttp://www.t-online.de/auto/news/id_74583174/so-viele-kilometer-faehrt-ein-auto-im-durchschnitt.html\n\n~~14200km/Auto * 30kWh/100km *43000000 Autos = 183,18 Mrd. kWh~~\n\n14200km/Auto * 18,6kWh/100km *43000000 Autos = 113,57 Mrd. kWh\n\n\nhttps://www.bmwi.de/DE/Themen/Energie/Strommarkt-der-Zukunft/zahlen-fakten.html\n\nWenn du die Komplette Energie durch Windkraft ersetzen willst, stell dir mal vor, für jede Windkraftanlage die du siehst, würden mehr als 10 Stück da stehen.",
+        "date": "2016-10-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Naja, du hast zunächst mal vergessen die Meilen aus der einen Quelle in Kilometer umzurechnen und hast den Strombedarf daher um 40% überschätzt. Es sind eigentlich eher 114 TWh.\n\nZur Einordnung der Zahlen: NRW sieht bei sich ein Windkraftpotential von 20-50 TWh/a und Solarpotential von ca. 72 TWh/a. Zumindest bei der Windkraft beträgt das unrealisierte Potential (das realisierte Potential lässt sich aus den prozentualen Angaben in der Einleitung auf 5 TWh/a und der Nennung des absoluten Ziels von 20 TWh berechnen) aus 15-45 TWh/a. Quellen hier: http://www.energieatlasnrw.de/site/nav2/Potenzialstudie.aspx?P=8\n\nFür Solar hab ich jetzt keine Lust die Studie so weit zu lesen, bis ich wieder so einen Trick finde, mit dem ich die Angaben berechnen kann, die ich brauche. Aber man sieht am Beispiel NRW dass das Solarpotential das Windpotential im Landesinneren auch in Deutschland deutlich übersteigt. Da die Gesamteinspeisung der Photovoltaik in Deutschland mit 40 TWh (Ende 2015, schnell auf Wikipedia geschaut) noch deutlich  unter dem Potential allein für NRW lag, zeigt dass in Sachen unrealisiertem Potential in Deutschland da durchaus noch was geht.\n",
+        "date": "2016-10-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Naja, du hast zunächst mal vergessen die Meilen aus der einen Quelle in Kilometer umzurechnen und hast den Strombedarf daher um 40% überschätzt. \n\nOk, dummer Fehler von mir, gebe ich zu.\n\n&gt;NRW sieht bei sich ein Windkraftpotential von 20-50 TWh/a und Solarpotential von ca. 72 TWh/a. \n\nDass die Flächen für Solar da sind, ändert nichts daran, dass der Strom unheimlich teuer werden würde und dass die Speichertechnologien noch nicht existieren (oder ein Smart Grid mit Elektroautobatterien halt auch zu den Kosten addieren würde).\n\nAusbau der Erneuernbaren würde zwangsläufig massiven Ausbau der Windkraft bedeuten, weil sich das einfach mehr rechnet, vom Preis der Erzeugung her.\n\nIch bin zwar niemand, der sagt, dass Windkraftanlagen die Umwelt verschandeln, aber irgendwann wird die Menge auch absurd.",
+        "date": "2016-10-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Dass die Flächen für Solar da sind, ändert nichts daran, dass der Strom unheimlich teuer werden würde und dass die Speichertechnologien noch nicht existieren (oder ein Smart Grid mit Elektroautobatterien halt auch zu den Kosten addieren würde). Dass es nicht teuer wird hat hier auch niemand gesagt. Daher muss z.B. auch die EEG-Umlage dringend reformiert werden.\n\nNaja, gehst du jetzt von 100% E-PKW aus oder nicht? Kannst nicht gleichzeitig kritisieren, dass die zuviel Strom fressen, und dass man um den Strom zu speichern nicht genug Batterien hat.\n\n&gt; Ausbau der Erneuernbaren würde zwangsläufig massiven Ausbau der Windkraft bedeuten, weil sich das einfach mehr rechnet, vom Preis der Erzeugung her.\n\nLaut oben verlinkten Studien 2-3% der Flächen in NRW wären dann im Einzugsbereich eines Windkraftwerks. Bin jetzt aber zu faul nachzuschauen wie der definiert ist.",
+        "date": "2016-10-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Warum nicht so ernst nehmen? Du hast damit vollkommen recht. Das ist doch genau der Punkt, warum z.B. Windkraft dreckiger ist, als viele meinen. Die Neodym-Magnete in den Motoren sind ziemlich dreckig.",
+        "date": "2016-10-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Die Stromgewinnung an sich ist auch noch nicht umweltfreundlich(gerade in China).\n\nDer Wirkungsgrad eines Verbrennungsmotors ist geringer als der eines konventionellen Kraftwerks. Außerdem ist in China eben der Smog in Ballungszentren ein großes Problem. Wenn also die Kraftwerke verteilt sind, ist also die Menge der Emissionen insgesamt geringer und man kann in der Stadt wieder atmen. China hat außerdem auch emissionsfreie Wasser- und Atomkraftwerke. EDIT: Und [Windkraft](http://www.erneuerbareenergien.de/china-30-gigawatt-windzubau-2015/150/434/93248/)",
+        "date": "2016-10-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das schlimme sind Stahl und Kohleindustrie. Die Autos machen noch nicht mal so viel aus. Ich wohne zur Zeit in Peking. Wenn der Wind aus Süden kommt, also von den Kraftwerken, dann gibts schlechte Luft. Kommt er von Norden, gibts blauen Himmel und gute Luft. \n\nDie Windkraft wird stark ausgebaut in China. Leider ist die Sache zur Zeit auf dem Papier besser als in Wirklichkeit. Oft werden in Windparks nur die Windräder mit generatoren bestückt, die von dem Regierungsmann kontrolliert werden. Der Rest sind Hüllen!!\nAber früher oder später werden die das schon auch lösen.",
+        "date": "2016-10-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Kohle ist genauso schlimm wie Atomkraft. Das wird wohl niemand bestreiten.\n\nDaher Wasserkraft, Windkraft, Solar, Geothermie, Pumpspeicher.",
+        "date": "2016-10-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Daher Wasserkraft, Windkraft, Solar, Geothermie, Pumpspeicher.\n\nund moderne und sichere Kernkraftwerke, aber keine alten Wasserboiler aus dem letzten Jahrhundert!\n\nJapan hat keinen Platz fuer noch mehr Hydropower Stations,\nWind und Solarkraftwerke boomen sind aber problembelastet.\n\nBtw: das Beben und der Tsunami beschaedigte 13 Reaktoren in total,\n3 haben es nicht ueberstanden, in keinen der Reaktoren hat das Beben zu einen Totalschaden gefuehrt!",
+        "date": "2016-10-25",
+        "sentiment": "negative"
+    }
+]

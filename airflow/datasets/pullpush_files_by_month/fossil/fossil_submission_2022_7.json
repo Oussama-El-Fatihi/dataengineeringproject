@@ -1,0 +1,303 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "m1lh0us3",
+            "author_created_utc": 1295547121,
+            "author_flair_background_color": "",
+            "author_flair_css_class": "MUENCH",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "München"
+                }
+            ],
+            "author_flair_template_id": null,
+            "author_flair_text": "München",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_4qypl",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1658390234,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "tagesschau.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "w4at7r",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#ae9e00",
+            "link_flair_css_class": "category economy",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wirtschaft"
+                }
+            ],
+            "link_flair_template_id": "9a45e4b8-cfe9-11e5-903a-0e6186a3132f",
+            "link_flair_text": "Wirtschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_w4at7r",
+            "no_follow": false,
+            "num_comments": 55,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/w4at7r/pensionsfonds_bund_investiert_in_fossile_aktien/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "qRjHS-MWKh-hGk-UGJqbZzxTIV106Jb6jFIS5hfpeiE",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d011067d47181f3dae975356240cbdd00ea083a0",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5293cfed04294c3ea784a9fdb9dae759e1aa7d6b",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=072688f26e61196bb808b198878430fc3abf88c8",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f93ceedf0ed152408b82e73f206b3625cbbd2852",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=f7e4a34ff72e82e2fb567b48ee36e2beb75e28d3",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=34c5c2f3967af04cf15c424573626effb3536099",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 1080,
+                            "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?auto=webp&amp;s=2cec16169c35f7092e59d8555c017f57b7736e55",
+                            "width": 1920
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1660035240,
+            "score": 88,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 664329,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/s5XZG3NQ8sB-1DvOm54p40l5uHxoULgMPDQrYsNKg9Y.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Pensionsfonds - Bund investiert in fossile Aktien",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.91,
+            "url": "https://www.tagesschau.de/investigativ/panorama/pensionsfond-bund-investitionen-kohle-oel-gas-101.html",
+            "url_overridden_by_dest": "https://www.tagesschau.de/investigativ/panorama/pensionsfond-bund-investitionen-kohle-oel-gas-101.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "GirasoleDE",
+            "author_created_utc": 1417641623,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_js5a5",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1658576394,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "sueddeutsche.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "w620c7",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#00301b",
+            "link_flair_css_class": "category science",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wissenschaft&amp;Technik"
+                }
+            ],
+            "link_flair_template_id": "b861e6c8-607f-11e6-9f02-0ea60a88c57b",
+            "link_flair_text": "Wissenschaft&amp;Technik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_w620c7",
+            "no_follow": false,
+            "num_comments": 2,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/w620c7/restitution_dinosaurierfossil_soll_nach_brasilien/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "jTyxXdS_Z9K531XjEDyblBZgJOVCj6VAxHWvVlLngsU",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/PlCyw6j4GT4bTedgvzkRLy54hHvWCxjRxiLlat_xNt8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=97186f8236518f5f5b30c6ca904706c4d72c90de",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/PlCyw6j4GT4bTedgvzkRLy54hHvWCxjRxiLlat_xNt8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5b7b32190f0d00890fe7a1aea28751f6154c6ae7",
+                                "width": 216
+                            },
+                            {
+                                "height": 179,
+                                "url": "https://external-preview.redd.it/PlCyw6j4GT4bTedgvzkRLy54hHvWCxjRxiLlat_xNt8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=772b66486a1a09235f918456b0bd944e103907fd",
+                                "width": 320
+                            },
+                            {
+                                "height": 359,
+                                "url": "https://external-preview.redd.it/PlCyw6j4GT4bTedgvzkRLy54hHvWCxjRxiLlat_xNt8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b58c6e2108dbef3cc60a72544c18703da82432ad",
+                                "width": 640
+                            },
+                            {
+                                "height": 539,
+                                "url": "https://external-preview.redd.it/PlCyw6j4GT4bTedgvzkRLy54hHvWCxjRxiLlat_xNt8.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=217cdba7caafe635c13874f91e654b0c83c550ca",
+                                "width": 960
+                            },
+                            {
+                                "height": 606,
+                                "url": "https://external-preview.redd.it/PlCyw6j4GT4bTedgvzkRLy54hHvWCxjRxiLlat_xNt8.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a2b547ae4d2ae5453ff05aecbacb0f0037610107",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 618,
+                            "url": "https://external-preview.redd.it/PlCyw6j4GT4bTedgvzkRLy54hHvWCxjRxiLlat_xNt8.jpg?auto=webp&amp;s=9d6c71186820a62d0037dc7fcbd9c4d2cf31f5ed",
+                            "width": 1100
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1660033366,
+            "score": 16,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 664322,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/0DmC0o6SNi8inGPgYSxLAV7v8X4mgDv2pqFADJGj_go.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Restitution: Dinosaurier-Fossil soll nach Brasilien zurückgebracht werden",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.75,
+            "url": "https://www.sueddeutsche.de/wissen/ubirajara-dinosaurier-brasilien-baden-wuerttemberg-1.5624191",
+            "url_overridden_by_dest": "https://www.sueddeutsche.de/wissen/ubirajara-dinosaurier-brasilien-baden-wuerttemberg-1.5624191",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 197,
+        "op_b": 174,
+        "total": 376
+    },
+    "error": null
+}

@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Tao_Dragon",
+            "author_created_utc": 1499986281,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_70agce6",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1663751570,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "tagesschau.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "xjzs8q",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#00301b",
+            "link_flair_css_class": "category science",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wissenschaft&amp;Technik"
+                }
+            ],
+            "link_flair_template_id": "b861e6c8-607f-11e6-9f02-0ea60a88c57b",
+            "link_flair_text": "Wissenschaft&amp;Technik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_xjzs8q",
+            "no_follow": false,
+            "num_comments": 14,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/xjzs8q/wellenkraftwerk_in_jaffa_die_energie_von_der/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "Rfw13NeApD9h_oRB5G7G-gXWJ5Ps92KhnCZEpLfQ6uQ",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/BUh_syE_hzpx09pPziACqOuCuGgp7WZuucoaGlJC2VI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=918af205896408d360a70603ddcfc55be1e64122",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/BUh_syE_hzpx09pPziACqOuCuGgp7WZuucoaGlJC2VI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=6880602fdd930d3552bb64511495a4241c19147f",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/BUh_syE_hzpx09pPziACqOuCuGgp7WZuucoaGlJC2VI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6d25bee37cdd8b1759f8ed961b535f14f34956ef",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/BUh_syE_hzpx09pPziACqOuCuGgp7WZuucoaGlJC2VI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69ad88eda455d3784b369e205c5db615ec1715f6",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/BUh_syE_hzpx09pPziACqOuCuGgp7WZuucoaGlJC2VI.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3b45d17876606e4ee6b4ee6df48505613936615c",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/BUh_syE_hzpx09pPziACqOuCuGgp7WZuucoaGlJC2VI.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3a071dfa01166076e5f1eff571ebd15a7fcd50cb",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 1080,
+                            "url": "https://external-preview.redd.it/BUh_syE_hzpx09pPziACqOuCuGgp7WZuucoaGlJC2VI.jpg?auto=webp&amp;s=201d95e2729e740fe9cdf71f75f7d1ff51f81f0a",
+                            "width": 1920
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1665439468,
+            "score": 23,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 703551,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://a.thumbs.redditmedia.com/pJOnR270YRTV89hxJTB1nPLKZeG_jQDa0ERA-SjAkM4.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Wellenkraftwerk in Jaffa - Die Energie von der Hafenmauer | \"Obwohl Israel Sonne, Wind und Wasserkraft im Überfluss hat, nutzt das Land vergleichsweise wenig Erneuerbare Energien. Eine Firmengründerin will das ändern - mit einem Wellenkraftwerk.\"",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.84,
+            "url": "https://www.tagesschau.de/wirtschaft/technologie/israel-wellenkraftwerk-101.html",
+            "url_overridden_by_dest": "https://www.tagesschau.de/wirtschaft/technologie/israel-wellenkraftwerk-101.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 188,
+        "op_b": 177,
+        "total": 374
+    },
+    "error": null
+}

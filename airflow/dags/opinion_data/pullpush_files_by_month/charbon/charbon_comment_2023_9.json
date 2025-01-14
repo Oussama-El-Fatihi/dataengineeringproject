@@ -1,0 +1,352 @@
+[
+    {
+        "text": "Oui peut-être, mais comme les allemands cela ne les empêchent pas de construire en en masse de nouvelles centrales à charbon.\n\n&amp;#x200B;\n\n[https://www.connaissancedesenergies.org/centrales-charbon-un-coup-dacceleration-en-chine-230314](https://www.connaissancedesenergies.org/centrales-charbon-un-coup-dacceleration-en-chine-230314)",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "L'énergie qui n'est pas consommée en France peut être exportée vers des pays qui tournent au charbon, donc je ne trouve pas ça pertinent de prendre uniquement le mix énergétique français.\n\nConcernant les panneaux, l'important c'est l'EROI (Energy Return on Investment) qui est en général très positif... à condition de produire  toute l'énergie que le panneau peut produire !\n\nSi tu as des panneaux mais que la production est bridée car tu ne consommes pas et que l'onduleur limite l'injection car tu es en autoconsommation, alors ils ne produisent pas tout ce qu'ils pourraient produire, mais l'énergie et les ressources pour les fabriquer ont quand même été mises en oeuvre : c'est donc moins écolo.\n\nConcernant l'autoconso il y a donc deux philosophies (je ne parle pas de la revente, et autres) :\n\n\\- Tu souhaites avant tout diminuer ta facture et te couvrir contre l'augmentation future du prix du kWh ainsi que contre les éventuels blackouts. Dans ce cas il faut une installation surdimensionnée pour avoir plus de production garantie, mais pas trop quand même, sinon ce n'est plus rentable.\n\n\\- Tu souhaites diminuer ta facture tout en étant le plus écolo possible : dans ce cas il ne faut pas surdimensionner et avoir juste assez de panneaux pour pouvoir utiliser toute l'énergie disponible.\n\nCe n'est rentable QUE si tu fais l'installation toi-même. Sinon c'est beaucoup trop cher.\n\nDans les deux cas il faut adapter la consommation à la production en pilotant les charges : routeur solaire pour le chauffe-eau ; pilotage de la clim et de la charge de la voiture électrique ; manuellement pour les autres trucs type lave-linge, lave-vaisselle, sèche linge.\n\nIl n'existe pour l'instant pas de gestionnaire d'énergie intégré qui puisse faire ça tout seul, mais plein d'équipements hétéroclites qui ne communiquent pas selon des protocoles ouverts et faciles d'emploi. C'est un bordel monstre, donc tout le monde se retrouve avec une solution \"ad-hoc\" souvent bricolée avec du raspberry pi ou autre.\n\nBon, là mes panneaux solaires chargent ma voiture électrique, donc je suis content : l'énergie est utilisée et je vais rouler gratos. Mais il faut que j'installe une wallbox pilotable pour gérer ça, c'est tout un bordel.",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Production d'électricité en majorité venant du charbon.\nFabrication et recyclage des batteries et moteurs.\nLa voiture reste un moyen de transport extrêmement inefficace (scoot et autre ok)",
+        "date": "2023-09-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ah c'est clair qu'il vaut mieux ne pas avoir de voiture. \n\nMais même avec une électricité au charbon (comme en Pologne par exemple), une voiture électrique reste mieux sur son cycle de vie qu'une voiture thermique équivalente.",
+        "date": "2023-09-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le plus agacant c'est de devoir constamment rappeler les stats pour les ENR par MWH pour les énergies versus le nucléaire:\n\n* la surface \n* les métaux/béton \n* un bilan carbone plus faible en cycle de vie (surtout pour le PV)\n* l'intermittence et les besoins en charbon/gaz pour faire face à un manque de vent/soleil parce qu'il faut expliquer que l'électricité ca se stocke mal\n\nLe truc du prix du nucléaire, on répond facilement qu'avoir de l'électricité abondante et peu carbonée, ca n'a pas de prix, surtout que les ENR solaire/éolien, c'est fabriqué avec du charbon chinois.\n\nL'analogie du cerveau est très bonne: \"le cerveau représente une faible partie du poids de votre corps, mais ca veut pas dire qu'il faut le payer à un faible prix, donc son prix n'a pas d'importance\".\n\nPlein de choses devraient couter cher: l'eau, la santé, la nourriture, l'électricité, le logement, et pourtant on achète ces choses avec le meme argent qu'on utilise pour netflix, un téléphone à 800 euros, une mercedes, du parfum, un voyage dans les iles. Donc quand le gouvernement fait des choix pour sécuriser l'approvisionnement à tout le monde de services VITAUX, c'est pas la peine de tout le temps parler de prix.",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;pourquoi ignorent-ils ce danger mortel\n\nTu te bases sur quoi pour dire ça?\n\nCe sont les plus grand producteurs d'énergie renouvelable, c'est qu'ils ont bien compris le problème, et ils ont comme projet dans un future proche de fermer leurs centrales à charbon pour passer au gaz (cf les accords passés avec les russes et les nouveaux gazoducs en construction) pour ensuite transitionner jusqu'à avoir une énergie neutre en carbone. \n\nEt regarde ce qu'il s'est passé avec la guerre en Ukraine, ont a arrêté d'importer du gaz russe mais la 1ière chose qu'on a fait ensuite, ce n'est pas de s'en passer mais de trouver d'autres fournisseurs, ça se passerait pareil avec la Chine, si ils arrêtent de produire, ça ne ferait que déplacer le problème.\n\nC'est pour ça que je parle d'hypocrisie, le problème ne vient pas d'un unique pays mais d'un système mondial qui demande toujours à produire plus, si la Chine sort du système, un autre pays comme l'Inde prendra le relais (d'où le lien avec la guerre de l'opium et la mentalité chinoise de ne plus jamais redevenir faible face aux autres puissances).",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C’est écologique et… ça soulage le réseau !\n\nIl faut bien comprendre que je parle d’une installation complète (panneaux + onduleur + batterie). Le bloc qui te sert d’onduleur a d’ailleurs une double fonction : te permettre de consommer en alternatif mais aussi maximiser la production d’énergie. Et la batterie permet de stocker et restituer quand tu veux dans les limites (énergie ET puissance qui y sont indiquer, si t’as assez d’énergie dedans pour faire tourner tes appareils pendant des heures le débit peut ne pas être suffisant).\n\nIl faut bien comprendre que sur cycle de vie d’un panneau (qui a une durée de vie de 20 ans) l’installation produit environ 8 fois plus qu’elle ne consomme (en terme d’énergie grise pour sa fabrication, phase de vie et fin de vie).\n\nPour la fin de vie un panneau solaire est recyclable à 95-98%, généralement il n’y a qu’un film plastique protecteur à l’intérieur qui n’est pas recyclable. Et les filières se sont fortement développées, le panneau est donc recyclable ET recyclé (c’était pas le cas ya 20 ans). L’onduleur si bien dimensionné est capable de vivre bien plus longtemps, sa fin de vie est plus variable. La batterie est la partie la plus discutable, ses impacts sont bien pris en compte dans une ACV. Cependant il y a des options qui se créent pour baisser l’impact comme l’usage de batterie en seconde vie : des batteries de véhicules électriques qui ne sont plus capables de suivre les débits de puissance nécessaires pour un véhicule (plusieurs dizaine de kW) mais peuvent encore tenir un usage stationnaire pendant des années.\n\nPour le côté réseau ce qu’il faut voir c’est que le réseau français est régulièrement sous pression avec les maintenances des centrales en été et durant les gros piques de consommation l’hiver (période où on active nos centrales à charbon / pétrole pour compenser des piques qui n’ont lieu que durant 3-4 mois). Tu permets donc, si tu te chauffes en électrique, de bien soulager le réseau ET de verdir le réseau électrique.\n\nAjoutons à ça une résilience si tu as effectivement une batterie, car en cas de coupure tu peux t’iloter (c’est à dire couper du réseau électrique).\n\nBref tout les voyants sont au vert.",
+        "date": "2023-09-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;10-15 ans de construction pour UNE centrale\n\nDonc elles seraient finies s'ils avaient pas cassé les couilles ? \n\nEt d'ailleurs ils ont quoi comme solution, qui serait plus rapide que \"10-15 ans\" ? Lâcher l'économie ? Même moi qui suis pour, on va pas demander aux gens de fermer la moitié des usines du jour au lendemain, c'est fantasque de penser ça. Le renouvelable, à grande échelle, prendra bien plus que 10-15 ans. Rénover les logements, les infrastructures ferroviaires et cyclables c'est bien gentil, mais ça n'alimente pas le pays. D'ailleurs la SNCF est le plus gros consommateur électrique de France, on va les faire rouler comment les trains ? On reprends des loco charbon ou diesel ? Sachant que le traffic ferroviaire devrait exploser si on veut un jour remplacer la voiture, les camions et les avions.",
+        "date": "2023-09-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "1 - Le volume total de déchets émis par le nucléaire est ridiculement faible, de l'ordre de quelques mètres cubes par an. Uniquement des déchets solides (le mythe du baril rempli de liquide radioactif n'existe pas) \n\n2 - Plusieurs projets de recherches et réacteurs expérimentaux visent à exploiter les déchets actuels comme carburant. C'est notre meilleur piste. \n\n3 - Ça serait surement bien mieux pour les générations futures et leurs poumons si on continue à produire de l'énergie via le charbon (coucou l'Allemagne ), remarque quand il fera 60° en Europe l'été d'ici 1 siècle, les déchets radioactifs ce sera le cadet de nos soucis. s/",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pour l’homme de paille tu parles de l’angoisse populaire ? Là malheureusement une peut n’a rien de rationnel c’est compréhensible qu’ils soient nombreux à tomber dedans. Le problème c’est surtout ceux qui en jouent.\n\nPour les arguments qui m’ont été avancés ils n’ont rien de secret. Tout d’abord on m’a recontectualiser le nucléaire dans le mix énergétique mondial, car si on a l’habitude d’entendre 60-75% en France (selon qu’on est en énergie électrique finale ou primaire) à l’échelle mondiale le nucléaire c’est 4%. Le charbon en comparaison c’est plus de 30% et presque autant pour le gaz et le pétrole.\n\nEt ensuite c’est un raisonnement simple sur les réserves exploitables. Car oui sous la croûte terrestre on a de la marge… mais tout n’est pas accessible à court terme. Actuellement la limite d’extraction est autour de 270$/kg et on a déjà des installations éoliennes et les dernières générations de solaires qui sont économiquement viables face au nucléaire. Et à 270$/kg on a une estimation (très floue, ça pourrait être plus en réalité mais ça pourrait tout aussi bien être moins) d’environ 100 ans. Donc si le nucléaire remplaçait uniquement le charbon dans 12 ans ces réserves sont épuisées. Le prix du nucléaire augmenterai alors (pour forer plus loin et mieux traiter le minerai) ce qui n’a progressivement plus de sens. D’autant plus qu’il y a aussi des défis technologiques à passer pour aller vraiment plus loin.\n\nPour les autres ressources qui existent comme ce qui est contenu dans les océans (estimé à 100 ans de plus à consommation actuelle) et ce qui est dans le charbon (300 ans à la consommation actuelle), en supposant qu’on arrive à extraire tout ça et que ce soit économiquement viable on passerait de 12 à 60 ans de ressources en ayant remplacé uniquement le charbon.\n\nEt n’oublions pas aussi le contexte géopolitique, est-ce qu’on veut que tout les pays soient équipés au nucléaire ?\n\nDonc ça pose une question importante sur la place du nucléaire à long terme. Soit notre consommation reste élevée et il doit être marginal, soit on diminue drastiquement et il peut être présent à un taux élevé, soit on va dans le mur.\n\nIl y a un tout, un équilibre à trouver. Mais pour ma part je suis hautement pessimiste à une époque où tout les moyens de production sont considérés uniquement comme étant en concurrence",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Pourquoi par exemple ils investissent pas dans le nucléaire?\n\nNon mais sérieux, tu te renseignes avant d'écrire ce genre de chose?\n\n50 centrales nucléaires construites en 40ans, pour toi ils investissent pas?\n\nEt je préfère les chinois qui passent au gaz pour arrêter le charbon plutôt que les allemands qui abandonnent le nucléaire pour le charbon (les centrales gaz polluent bien moins que celles au charbon), les 2 ayant pour volonté de finir par être neutre en carbone, tu parles de promesse en l'air pour la Chine donc c'est pareil pour l'Allemagne?",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Et encore.. Le volume total de déchets radioactifs dangereux et longue durée généré depuis qu'on fait du nuke en France ,ça fait la taille d'un gymnase et on sait parfaitement stocker ça dans des couches géologiques que l'on sait stables sur des millions d'années. Et puis franchement, si y'a 10 personnes qui meurent dans 2000 ans parce qu'elles sont allés fouiller un site de stockage longue durée, sachant que ça permet d'éviter de cramer du charbon (qui cause 23 000 mort par an en Europe), on s'en fout un peu non ?",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Relax coco, on discute gentiment là, ok?\n\nMaintenant la Chine investit dans le nucléaire et le gaz parce que le pays requiert un montant monumental d'énergie, pas par conscience écologique, puisque le gaz c'est pas exactement carbone-neutre, et parce qu'elle construit actuellement, en parallèle, deux fois plus de centrales à charbon qu'elle n'en a construit l'an dernier. Alors l'idée qu'ils essaient de réduire ou même de limiter leurs émissions carbone est risible. \n\nDonc la question demeure, têtue comme la névrose à Greta: comment ça se fait qu'ils (les Chinois) continuent d'émettre de plus en plus de carbone, s'il était unilatéralement reconnu que ça va tous nous tuer sous un délai très court?",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Certes. Mais le minage d'uranium n'est pas très différent du minage d'autres métaux dont les alternatives au nucléaire sont gourmands (sans parler de l'extraction de gaz ou charbon !). Il y a même, en pratique, moins de métaux à extraire du sol pour un kilowattheure nucléaire que pour un kilowattheure d'origine dite renouvelable...\n\nL'enrichissement, c'est un faux problème. Il y a deux gros industriel dans l'UE qui maîtrisent l'enrichissement. L'occident s'est un peu trop reposé, depuis 10 ans, sur l'enrichissement peu cher des Russes mais on va savoir relocaliser ça en France et aux Pays-Bas (notamment) et augmenter les capacités d'enrichissement. Pas d'souci.\n\nQuant à la gestion des déchets... On se débrouille très bien depuis 20 ans mais il va y avoir des décisions stratégiques à prendre sur la suite dans les prochains mois et années. Débats à suivre !",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Faudrait voir sur un trajet mais dans l'idée on doit être dans le même ordre de grandeur.\nSi on met genre 5kg de charbon par barbeuc, sachant que c'est plus dense que le pétrole ça équivaut peut-être à 10L d'essence\nJ'ai pas fait les calculs exats mais c'est un ordre de grandeur.\n\nTon barbeuc/cheminée dure environ une heure 2h et pareil pour un trajet de 200km à 5L/100km.",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le nucléaire reste l une des méthodes de production les moins polluante.\n\nEt on peut pas juste couper d'un coup l approvisionnements.\n\nMême les éoliennes ça pollue plus, quand ça tourne pas c est le même processus que les centrale à charbon de merde de l Allemagne, et ça demande beaucoup de maintenance pour sa rentabilité.\n\nC est plutôt sur les autres processus fossile qu il faudrait taper.\n\nLa France c est pas le super hero du monde...\nMême si demain on stop le nucléaire, les changements apportés ne seront pas énormes, car les autres pays continueront avec des productions d électricité plus polluantes.\n\nEt si eux font aucun effort, en dehors de continuer de sacrifier les français, ça servira à rien...",
+        "date": "2023-09-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Tellement effrayé par quelques déchets radioactifs mais le charbon qui brûle et nous empoisonne : RAF\n\nC’est fatiguant cette absence de logique dans les priorités…",
+        "date": "2023-09-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les anti nuc sont très loin de n'en avoir rien à foutre de la pollution liée au charbon",
+        "date": "2023-09-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Si seulement ils savaient que les centrales charbons rejettent plus de radioctivité que les centrales nucléaires par kW/h",
+        "date": "2023-09-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Pour aller au boulot t'as pas forcément d'autre choix que de participer au réchauffement climatique.\nLà les écolo choisissent de participer en diminuant le nucléaire au profit du charbon.",
+        "date": "2023-09-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ne nous trompons pas, les voitures électriques actuelles sont là pour sauver les fabricants de voitures et, au mieux, du greenwashing. \nLa fabrication et le recyclage des batteries est le plus gros problème. Vu les matières rares pour la fabrication non seulement de la batterie mais aussi de l'électronique, la pollution engendrée par cette extraction et fabrication, on peut presque dire que ça tourne aux ressources fossiles. \nLes voitures modernes telles qu'on nous les vends dépensent tellement d'énergie juste pour déplacer leurs énormes batteries que ça en est ridicule. \nl'ADEME a sorti un rapport sur la pollution en ville: le pire maintenant ce n'est plus vraiment les moteurs mais les pneus (que les gros véhicules électriques détruisent à cause du couple et de la masse à freiner) ainsi que la poussière de plaquette de frein (que les véhicules électriques, plus lourds que les thermiques) détruisent aussi. \nL'énergie électrique n'est pas verte. Au mieux, si tu prends l'un des rares distributeurs d'énergie qui assurent utiliser 95% d'énergie verte (éoliennes, panneaux solaires, tout aussi non recyclables dans la majorité, et les éoliennes coûtent tellement à fabriquer et à maintenir que l'énergie qu'elles produisent est négligeable), on pourra dire que tu fais ça bien. L'énergie en France c'est des barrages et du nucléaire, en Allemagne c'est du charbon (bonne idée hein). La transformation de l'électricité pour charger la batterie est très peu efficiente aussi. \nLes seuls véhicules \"sensés\" sont les mini-voitures qui ont très peu d'autonomie pour la ville. \n\nPour revenir aux motos, même problème que les voitures dans l'ensemble. Batteries, autonomie, origine de l'électricité, électronique à foison, bref.",
+        "date": "2023-09-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "C'est un sujet compliqué, mais pour le principal, arrêter tout veut dire arrêter brutalement le gaz, le pétrole et le charbon avant qu'on ait des substituts en quantité suffisante que ce soit pour l'énergie (renouvelables et nucléaire), la chimie (plastique d'amidon ?) ou pour les engrais (engrais azotés produits à l'hydrogène vert ou que sais-je) pour assurer un niveau de vie jugé acceptable par la population, et donc probablement globalement proche de celui d'aujourd'hui.",
+        "date": "2023-09-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est une bonne chose, l'Inde a fort besoin de s'en débarrasser de ses centrales à charbon.",
+        "date": "2023-09-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Les écolos allemands sont à fond dans le charbon pour le bien de l'environnement. \n\nL'écologie aujourd'hui c'est une sorte de religion, où la moindre remise en question est déjà le début des heures les plus sombres de notre histoire.\n\nPlus sérieusement les écolos seront crédible quand ils arrêteront de  dénigrer le nucléaire et auront un programme un tant soit peu moins marxiste (cf le programme Eelv en 2017/2022)",
+        "date": "2023-09-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Un français produit en moyenne 10 tonnes de CO2 par an et doit réduire à 2 tonnes. \nDonc prendre l avion ne doit plus être une option.\nL humanité doit utiliser en quasi totalité une énergie qui ne dépend pas du pétrole et du charbon si elle veut survivre.",
+        "date": "2023-09-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est pas eux qui ont poussé pour l'arrêt de fessenheim au nom de l'écologie ? Pour se baser essentiellement sur du gaz et qui de part le conflit ukraine/russie, ont du rouvrir des centrales à charbons ? \n\nIl sont fou ces allemands !",
+        "date": "2023-09-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ce qui me fascine c'est aussi voir à quel point vous pensez être nombreux alors que pas du tout.\n\nÀ quel point vous pensez que tout les pays sont affolés et vont se battre pour ça alors que la Chine et l'Inde (50% de la population mondiale) s'en battent un rein.\n\nOn vous prends pour des cons à venir avec 50 A380 pour 5 personnes lors des réunions au sommet pout l'écologie mais on retrouve toujours des gens en mode comme toi, c'est fascinant.\n\nLe gouvernement français qui t'explique que tu dois te privé pour sauver la planète mais ne signe même l'accord de protection des oceans et des mers, Rousseau qui passe son temps à détruire la France traditionnelle, à t'expliquer que les barbecues c'est matcho et mal mais un de ses conseiller veut interdire une course de bateau à voile.\n\nDevrais-je m'attarder sur l'Allemagne qui retire ses éoliennes après avoir enlevé ses centrales nucléaires pour de nouvelles mine à charbon ? Ou encore de voitures électriques qui polluent limite plus et qu'on sait pas recycler ? Ou des panneaux solaires qu'on ne sait pas non plus recycler derrière ? \n\n\nNon mais vraiment, niveau crédibilité, vous vous sentez comment les pro ecolos ? (Que le réchauffement soit vrai ou non, au point où on en est)\n\nÇa va ? Pas trop fatiguée d'être pris pour des cons ? Je vous remercie pas pour les taxes par contre",
+        "date": "2023-09-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ah complètement d'accord. C'est bien pour ca \n\n\\- qu'on a RIEN fait sur la question climat depuis 40 ans\n\n\\- qu'on continue à faire du rien à part du greenwashing (oui parce que bon, quand l'allemagne en est à raser ses éoliennes pour agrandir ses mines de charbon wala quoi...)\n\n\\- qu'on continuera à faire du rien sur les 50 prochaines années\n\n\\- que le système se régulera par la famine, la mort et la guerre. L'arabie Saoudite accueille les réfugiés climatique à la mitrailleuse lourd, la Lybie les laisse crever fertiliser le désert, idem pour l'europe qui les laisse crever en méditerrannée, les pays d'afrique tombent comme des dominos sous la pression du chantage à la bouffe organisé par Poutine, etc etc.",
+        "date": "2023-09-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "L origine est bien connue : les émissions des usines a charbon de l Allemagne",
+        "date": "2023-09-13",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Les rues piétonnes vont de pair avec toute l'infrastructure qui permet quelles existent.\n\nCest le meme exemple ridicule d'une dame qui prétendait avoir produit un kilo de déchet en un an, évidemment en déléguant ces déchets aux restaurants quelle fréquente, en donnant ses vêtements et en laissant les acquéreurs les jeter lorsqu'ils sont trop usés on peut se voiler la face\n\nAutre exemple, c'est comme dire qu'en commandant uber on ne polue pas, cest le livreur qui pollue\n\nAutrement dit cest bien beau les rues piétonnes mais est-ce qu'on fait pas juste déplacer la pollution ?\n\nCest comme dire que la voiture électrique pollue pas et oublier le bilan carbone complet.\n\nEst-ce que les rues piétonnes réduisent le trafic global ou la pollution (mis a part sonnore pour les 200 privilégiés de la rue). Sachez que lorsque nos amis allemands brûlent du charbon la pollution arrive chez nous par exemple",
+        "date": "2023-09-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Non, ta consommation.\n\nQue ton four soit allumer grâce à une éolienne, un panneau solaire, une centrale nucléaire, ou une centrale à charbon, c'est le même problème.",
+        "date": "2023-09-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ils n’y a que des pubs pour des suv électriques en ce moment, c’est de la dissonance cognitive\n\nOn peut pas juste passer a l’électrique et continuer à acheter toujours plus gros, c’est symptomatique d’une volonté de consommer toujours plus … On est en 2023 et toujours sur l’idée que la consommation à outrance c’est ok.\nLà c’est juste l’exemple du changement concernant la voiture individuel dans le cadre de l’atténuation du dérèglement climatique, et cet exemple soulève vraiment le peu d’effort qui sont fait dans ce sens … \n\nAu moins la bonne conscience des gens qui achètent ce genre de véhicule est propulsé non pas par du charbon mais par du nucléaire. Cependant la sobriété énergétique reste d’actualité, et c’est malheureusement pas dans cette direction qu’on se dirige.",
+        "date": "2023-09-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Comme le charbon et le gaz naturel pour l'[électricité ](https://www.connaissancedesenergies.org/lelectricite-dans-le-monde-en-2021-annee-de-records-220330).\n\nJ'imagine qu'un véhicule deux fois plus lourd consomme deux fois plus d'énergie.",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Tu oubliés la phase :\n\"Nous on a fait des efforts,  mais on voit bien que les ministres continuent à se déplacer en jet pour des raisons futiles, que les pubs pour les SUV ne sont toujours pas interdites,  que les trajets en train sont 10 fois plus chers qu'en avion, que nos voisins allemands n'ont aucun scrupule à revenir au charbon, que les COP sont sans effet, etc.\"",
+        "date": "2023-09-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Alors eux ils sont vraiment cons... ils pourraient pas brûler des gros SUV allemands qui roulent au diesel plutôt ? Des avions? Des mines de charbon?",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "mais... on brule déjà des mines de charbon! \n\n&amp;#x200B;\n\n/s",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Brûler des mines de charbon ça serait contre productif. Si c'est pour le brûler autant qu'il serve a produire de l'énergie au lieu de le brûler dans le vide....",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Non la voiture électrique c'est penser pouvoir continuer sur les mêmes bases en déplaçant simplement le problème, on finira par se retrouver en pénurie d'une autre matière première mais c'est ok pour tous le monde tas eu as rustine sur ton pneu cramé, tu te sent comme un héro parceque whaou la voiture elle est électrique....mais bordel quand le monde entier s'électrifie au charbon ça change rien aux problème!\n En outre il est prévu que les moteurs thermiques soient interdites en 2035.\nFaut plus que jamais être dans les extrêmes si on veut faire en sorte que les \"élites\" réalisent que leur \"croissance verte\" et autre merde greenwashé n'a aucun avenir et que nous autre par contre on aimerait bien en avoir un, d'avenir.\nEt je ne parle pas d'un avenir comme la vie de papa et maman, non, non je parle de pouvoir vivre avec le réchauffement climatique car oui nous devrons faire des concessions, c'est pas un débat c'est comme ça et c'est le résultat de cinquante et quelques années à se foutre des oeillières.",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Tu aurais pas des actions chez Total toi?\n\nPourquoi tu dis ça ? C'est bien vrai que l'ère industrielle a été déclenchée par le charbon et après a explosé avec le pétrole donnant lieu à la croissance démesurée à\n qu'on est arrivé aujourd'hui. Notre difficulté à faire la transition vers des énergies autres que les combustibles fossiles en est la preuve.",
+        "date": "2023-09-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Mais toi ça pour dire qu’il a d’autres sujet bien plus préoccupant. La chine qui fait dès tonnes de voiture électrique MAIS rechargées avec des centrales à charbon! Après les chinois ont de supers centrales super optimisées, autour de 42% de rendement contre à peine 30 pour un moteur thermique mais rien qu’avec l’effet joule pour le transport de l’électricité on retombe sur 30% de rendement ..\nLa voiture c’est le dernier maillon le plus facile à remplacer. La transition se fera toute seul sert à rien de taper dessus…",
+        "date": "2023-09-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je ne suis même pas sûr que l'arrêt d'émission de gaz a effet de serre servent à quelque chose au point d'emballement où on en est mais il faut essayer avant de sortir la géo ingénierie.\n\nC'est des petits combats quotidien.\n\nPour l'exemple j'ai passé plusieurs réunions dans ma commune pour convaincre les élus vieux et peureux de couper l'éclairage la nuit et collecter l'eau de pluie pour arroser les compositions florales.\n\nOn m'a proposé de passer un week-end a compter les grenouilles et les aider à traverser la route j'ai refusé parce que je cible les combats mais un vrai militant ferait les deux.\n\nOn crame du pognon au niveau national pour des énergies renouvelables contestable je suis plutôt nucléaire mais c'est important de diversifier pour des raisons stratégique.\n\nLes écolos refusent les barrages hydroélectriques moi je suis pour. Je suis pour tout ce qui va dans le sens de réduire les gaz a effet de serre. Les écolos Allemands préfèrent le charbon.\n\nJe suis même pas opposé à l'idée que les scientifiques se trompent et que ce réchauffement climatique soit principalement d'origine non humaines mais il faut se fixer une ligne directrice et ne pas rester les bras balant à voir l'eau se raréfier et attendre les guerres",
+        "date": "2023-09-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Superbe impact médiatique, l’image des ecolo c’est un gamin qui a jamais rien fait de sa vie et qui ne peut pas sortir en cas de vent.\n\nC’est de la pure caricature. \n\nEt ça n’apporte rien, c’est de merde en barre.\n\nSans parler du combat contre le nucléaire des associations ecolo, prêtes a fermer des centrales nuke et ouvrir des centrales a charbon sous les applaudissements. Tu parlais de cohérences?\n\nEt d’ailleurs si c’est l’huile moteur qui te dérange, ils peuvent aussi bien larguer des litres d’huile d’olive bio, le résultat sera le même.",
+        "date": "2023-09-18",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Tu crée un bouchon et tu empêche de repartir. C’est assez simple et le risque d’accident est assez limité, il faudra surtout beaucoup de sable pour nettoyer la route et la réouvrir a la circulation.\n\nEt en plus c’est safe pour les participants, pas besoin de perdre une mains ou même d’être face a la police.\n\nAprès si l’huile plait pas, on peut faire des teuc genre des camions en surcharge, tu serre le frein a mains, tu crèves les pneus et un camarade vient te ramasser.\n\nBref des solutions efficaces il y en as plein. Mais le but du jeux c’est de faire le beau devant la caméra.\n\nC’est exactement pareil que les anti ecolo qui roulent au charbon ou les anti woke qui mettent des bud a lz poubelle. Ça sert a rien, a par rendre content des gens déjà d’accord.",
+        "date": "2023-09-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Sans le pétrole on serait resté au charbon ….",
+        "date": "2023-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "On est resté au charbon.\n\n&amp;#x200B;\n\nhttps://preview.redd.it/0weu7ory43pb1.jpeg?width=1367&amp;format=pjpg&amp;auto=webp&amp;s=fcaa087bd82697c45ede6a3dd395b582f2db1559",
+        "date": "2023-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sans le petrole on aurait que le charbon, maintenant on a les deux. Et le reste aussi.",
+        "date": "2023-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le pétrole a apporté tellement de chose …pas juste en terme de carburant. Essaie de faire voler un avion au charbon …",
+        "date": "2023-09-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Il est très difficile de lier des morts prématurées à cette catastrophe, donc je pense que peu importe l'organisme, on ne pourra jamais avoir des statistiques exactes\n\nToutefois, comme Mr Jancovici l'a dit à de nombreuses reprises, les dangers du nucléaire sont bien trop exagérés comparés à d'autres ; Le Monde a publié sur YouTube une analyse comprenant le nombre de morts causés par chaque type d'énergie ; le nucléaire est en dessous d'au moins la plupart des énergies renouvelables, et biiieeennn en dessous du pétrole, gaz &amp; charbon",
+        "date": "2023-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je suis d'accord avec toi, mais on a quand même une estimation qui n'est jamais mentionnée par Janco. C'est sûr que même avec cette fourchette, le nucléaire est bien moins dangereux que le charbon, mais alors pourquoi ne pas mentionner cette estimation ?",
+        "date": "2023-09-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Les effets immediats de pollution aux particules fines dûs à la combustion de charbon s'observent dans un périmètre assez local autour des centrales, mais oui dinon évidemment qu'à long terme c'est au niveau mondial que cela peut se ressentir.",
+        "date": "2023-09-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Sont mignons mais ils sont pourtant pas les derniers à reconnaître la nécessité du gaz comme énergie « de transition » (facilitant la sortie du nucléaire et éventuellement du charbon), à l'inclure dans leurs scénarios de transition énergétique, à se taire sur le greenwashing de Engie et GRDF, à prêter leur nom à des marchands de gaz prétendument vert...\n\nMais là, ils se réveillent et se battent ?\n\nTrès tentant de penser que leur combat n'est pas contre le gaz mais contre le gaz américain. De quoi nourrir encore plus les soupçons d'influence russe dans l'ADN de Greenpeace.",
+        "date": "2023-09-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "il me semble que quand il compare, il compare les morts dans les mines de charbon (exemple en Chine) avec les morts du nucléaire directe (genre 0). Si on veut compter les indirect, va falloir prendre en compte les morts par particules (genre 10 000 rien qu'en France) dont une partie est due au charbon, gaz, petrole des centrales non nucléaires .. pas sur que les opposants à Janco les prennent souvent en compte dans leur estim",
+        "date": "2023-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Alors le système électrique est complexe car doit rester à l'équilibre production/consommation avec une capacité de stockage très limitée. \nOu pour le moment le charbon et le pétrole font office de variable d'ajustement en Europe.\n\nApparemment le café et le chocolat vont voir leur prix exploser rapidement aussi.",
+        "date": "2023-09-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Il fait mal parce qu’il est pragmatique. Aujourd’hui quand certains écologistes sont contre le nucléaire, je ne comprends pas la priorité. C’est quoi le CO2 donc le réchauffement climatique ou dérèglement climatique. Ou la problématique du recyclage des déchets. On a compris la maison brûle. Mais il faut prioriser. L’écologie en Allemagne est une catastrophe, ce qu’on appelle énergie renouvelable et clairement des énergies intermittente. il faut bien trouver une solution pour compenser et malheureusement le gaz et le charbon n’est pas une solution. Bref ce que je raconte c’est complètement banal mais encore aujourd’hui Certaines personnes ne le comprennent pas. C’est là où le discours de jancovici est difficilement critiquable. Quand tu regarde sa vidéo de 2011, où ils expliquent l’absurdité de construire des panneaux solaires en Chine, 12 ans plus tard, on est encore dedans. Impact écologique, nuance du résultat de ces énergies renouvelable, déficit de la balance commerciale et enjeux humains. Bref tout n’est pas bons à prendre. Dans ce qu’il dit, il faut pas se mentir c’est un chef d’entreprise il est là pour vendre sa société ses services et clairement ils profitent indirectement de ce changement climatique et des enjeux économiques autour de l’énergie. Mais ce qu’il dit sont des propos basé sur des chiffres, et c’est quand même plus intéressant que des interprétations basé sur un ressenti.",
+        "date": "2023-09-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est vrai, personne n'habite en dehors des villes, y'a personne en \"Province\" c'est juste un décor. Les marchandises arrivent à pied par la Chine et les matières premières circulent à vélo, c'est bien connu. \n\nLes agriculteurs ont des tracteurs électriques, les avions fonctionnent à pile et bientôt en pédalant, les Zallemands fonctionne au charbon écologique, #touvabien.\n\nQuant aux aspirations des gens, ces cons, entassont les d'autorité dans des grandes barres d'immeubles, juste à côté des zones commerciales, ça fonctionne super bien depuis les années 60, c'est flagrant, quelle grande victoire socio-économique, ça vends du rêve. \n\nAchète un peu d'empathie et ouvre les yeux. Ton mode de vie est ultra minoritaire et ne permet pas de faire fonctionner un pays. Allo ?",
+        "date": "2023-09-20",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; il suffit à un cinglé pour obtenir ce résultat en détournant un avion sur la Hague\n\nAlors non, ça ne marche pas comme ça.\n\n\n&gt;Tchernobyl a failli raser la moitié de l'Europe \n\nCar c'étaient les communistes et leur système rétributif de se faire bien voir du supérieur sans remonter les problèmes à l'extrême (on retrouve la même chose en Chine ou ce genre de planification a causé des famines car personne n'était capable d'ouvrir sa bouche quand c'était la merde pour ne pas finir au goulag ou des mensonges dans les chiffres du COVID et sa gestion de manière générale). Les mecs ont allègrement négliger les procédures en place et les soucis de conception du réacteur ont été sciemment cachés. Bref ça ne peut plus arriver.\n\nEt quand bien même la moitié de l'Europe de l'est aurait disparu sous un nuage de vapeur, c'est littéralement rien à côté de la catastrophe climatique. Le nucléaire a sauvé des vies par rapport au charbon depuis qu'il a été mis en place.\n\n\n\n\n&gt;Le pétrole nous détruit et le nucléaire nous détruira. Il ne faut vouloir ni l'un ni l'autre.\n\n&gt;Je dois dire que cette position pseudo écolo consistant à vouloir fuire un mal pour un autre est tout à fait insupportable\n\nMaintenant je réitère ma question, car la vie c'est un ensemble de compromis. Si demain tu arrêtes toutes les centrale à charbon, le pétrole et le nucléaire c'est la guerre et tout le monde meurt sous un mois. Avancer ce genre d'argument de \"je ne veux rien car tout est caca\" c'est une vision de Bisounours en pensant qu'on pourra \"résoudre\" le soucis à coup de baguette magique instantanément, avec des des productions d'énergie 100% propres et en respectant les droits de l'homme et dans la démocratie et en ayant le sourire.  \nEt si tu me dis que \"oui de toutes façons ça va mal se passer\" alors ton avis ne sert pour ainsi dire à rien car tu n'a que pour objectif de renier les maigres éléments qui pourrait apporter une solution de décroissance plus paisible en conservant un minimum de stabilité sociale. En bref tu souhaites le chao et pas des solutions. (Spoiler tu ne survivras pas longtemps au chao). Donc à mon avis la meilleure des solutions est quand même d'accepter un petit risque nucléaire plutôt qu'un gros risque de guerre civile et de ta copine qui se fait violer pendant qu'un type te pète la gueule pour vous voler trois litre d'eaux dans le monde de mad Max. Perso mon choix est vite fait.",
+        "date": "2023-09-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Si les évaluations européennes reposaient sur la science, le charbon serait interdit depuis des décennies....",
+        "date": "2023-09-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je propose de fermé toute les centrales nucléaire et de les remplacer par des centrales à charbon bien plus respectueux pour la planète !",
+        "date": "2023-09-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Électricité produite avec du charbon XD",
+        "date": "2023-09-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Si c’est pour produire des carburants synthétiques à partir d’électricité au charbon, je comprend pas trop l’interêt écolo.",
+        "date": "2023-09-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Déjà avant d'utiliser l'hydrogène comme carburant il faudrait remplacer toute la production d'hydrogène actuelle par de l'hydrogène vert qui représente moins de 1% de la production d'hydrogène actuel. Et si on devait construire des nouvelles centrales pour produire tout cet hydrogène, est-ce qu'il faudrait pas d'abord les utiliser pour remplacer les centrales à charbon, gaz ou pétrole avant? On en est encore très loin. D'ailleurs les transports ne sont pas forcément les premiers à devoir être électrifiés: le chauffage, l'industrie sont surement prioritaire car beaucoup plus adaptés.",
+        "date": "2023-09-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Tu peux me dire où je suggère que c'est ces jeunes qui sont responsables ?  \n\nMon propos est que les états n'ont pas été inactifs. Mais on goûte aujourd'hui les conséquences de ces actions et regrette les autres qui auraient pu être prises.   \n\"ils n'ont pas fait ce que j'aurais souhaiter qu'ils fassent &lt;&gt; inactif\".   \n\nOn peut aussi regarder les programmes politiques des partis écologiques européens ces dernières décennies: combien poussaient pour des moratoires sur le charbon, combien sur le nucléaire ? Les états ont **agis** en accord avec les priorités telles que données par les gens inquiets pour l'environnement.",
+        "date": "2023-09-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ça va être très écologique de recharger sa voiture électrique avec les centrales à charbon si ils veulent arrêter le nucléaire",
+        "date": "2023-09-28",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Oui. Ou de chauffer son logement avec de l'électricité provenant du charbon",
+        "date": "2023-09-28",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Les neuneus ont enfin compris que le nucléaire était une énergie très peu carbonée, mieux vaut tard que jamais ! \n\nSurtout quant on voit la catastrophe du modèle allemand, solaire et vent dans un pays froid et quand le vent est plus faible que jamais depuis des années, et qui ont donc recours au gaz liquéfié américain dégueulasse écologiquement et hors de prix, ou pire leur propres mines de charbons, bref les champions européens !\n\n Pas étonnant que leur industrie se barre aux USA!",
+        "date": "2023-09-28",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Alors il y a débat parce que electricity map montre un tableau statique, pas la dynamique. L'Allemagne avait une électricité plus carbonée précédemment. Le graphique est ici https://commons.m.wikimedia.org/wiki/File:Energiemix_Deutschland.svg \n\nIls sont en cours de sortie du charbon (sur une courbe descendante, et objectif inscrit dans la loi) et, que ça plaise ou non, grâce aux renouvelables. Si ils s'étaient entêtés sur le nucléaire, à tout miser dessus, et n'étaient pas sortis du projet EPR, ils n'auraient pas fermé à l'heure actuelle une seule centrale au charbon — Flamanville n'est pas encore en marche hein.\n\nAlors après, il y a bien un point de débat : la stratégie de sortie du nucléaire. À mon avis, c'était une connerie. Sur le graphique précédent, c'est la partie violette : avec leur montée des renouvelables, si ils avaient gardé leur production nucléaire historique, ils seraient quasiment sortis des énergies fossiles pour la génération d'électricité. \n\nAprès c'est difficile de refaire le match : pour garder des centrales en fonctionnement, il faut des investissements lourds, comme le grand carénage français. 90 Milliards d'€ en France pour prolonger le parc de 20 ans. La stratégie allemande, ça a été de ne pas faire ce grand carénage (ça ne sert pas à grand chose d'investir sur une filière pour 20 ans si derrière tu ne construits pas de nouvelles centrales), donc de fermer les centrales, et tout investir sur les renouvelables. C'est peut être pas si con que ça d'un point de vue financier : quand tu vois les prix du nouveau nucléaire et du renouvelable, quand tu pars d'une situation très carbonée comme la leur, y'a débat.\n\nBref.\n\nEnfin faut pas non plus caricaturer la stratégie allemande. Ils partaient de bien plus loin que la France.\n\nAh oui et aussi ne pas oublier que l'électricité ce n'est qu'une part minoritaire de l'énergie aujourd'hui. 70% d'énergie fossile en France hein, ne pas l'oublier (essence pour les transports, chauffage, industrie). Faut être un peu plus humbles sur nos cocoricos vive le nucléaire on a le cul propre. L'enjeu pour tout le monde c'est trouver comment générer vite et à bas prix beaucoup plus d'énergie pour décarboner les transports, le logement et l'industrie. À court et moyen terme y'a pas trop le choix, il n'y a que les renouvelables qui peuvent être déployés. Sans fermer les centrales historiques en France histoire de pas faire la même connerie que les allemands (surtout que le grand carénage, on l'a payé nous, donc autant s'en servir, là on est bons jusqu'aux années 2040).",
+        "date": "2023-09-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Non mais les batteries, c’est vraiment une aide ponctuelle pour les variations intra-journalières hein. De toutes façons, les scénarios zéro énergie fossile (pas de gaz, fioul, charbon) parient sur un excédent de production électrique de base qu’on convertit en hydrogène et pas mal d’effacement de la demande.\n\nDans l’idéal, on utilisera les capacités de véhicle-to-grid du futur parc automobile électrifié pour avoir du stockage batterie. Si t’as 20 millions de véhicules avec 50kWh chacune, et que tu t’autorises à vider de 20% la batterie pour équilibrer le réseau, ça te fait 100GWh mobilisables en journée (pour être ensuite rechargés à nouveau pendant la nuit). C’est pas rien. Et c’est pas non plus si utopique que ça : on peut facilement proposer des offres de fournisseur électrique intéressantes, où le fournisseur te rachète ton électricité de batterie au prix spot du pic moins une marge, donc où tu monétises ta voiture, en fait, les compteurs Linky permettent ça… Et je crois que vu le volume de voitures attendu, les batteries vont coûter de moins en moins cher, il y aura des économies d’échelle.",
+        "date": "2023-09-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ah mais tu vois t'as beau indiquer des faits, genre l'évolution du mix allemand où on voit le recul du charbon et l'émergence des renouvelables, avec des chiffres et des courbes, ça a l'air de gêner vu les downvotes massifs.\n\nAprès je ne suis pas (plus) complètement antinucléaire. C'est une solution temporaire, sur certains territoires. Ce n'est juste PAS une solution massive et magique mondiale. Comme tu le prouves ça n'aura jamais qu'un rôle marginal à cette échelle.\n\nJe pense cependant que faut pas s'en priver. En France à horizon 2050 c'est un complément nécessaire aux renouvelables, et il faut même faire quelques EPR pour compenser la moindre disponibilité du parc historique. À l'échelle mondiale, il faut pousser la génération EPR, les SMR, et faire de la recherche sur la surgénération (ne serait ce que pour traiter les déchets existants).\n\nEn gros, le ratio optimal et crédible à mi siècle, si on veut sortir des énergies fossiles, c'est peut être 30% de nucléaire en France, 10% à l' échelle mondiale, et le reste en renouvelables, hydrogène, batteries, biomasse.",
+        "date": "2023-09-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Il me semble que ça a été fermé pour soulager les Allemands.\n\nPar contre eux ne nous soulagent pas avec leur smog issue du charbon en hiver",
+        "date": "2023-09-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Alors, je suis sur le r/ecologie et il y a pleins de débats sur lesquels je vous rejoins totalement. Mais par contre, ne pas être pour le nucléaire, c'est juste être contre l'électricité. À aujourd'hui c'est la manière de produire de l'électricité la plus SAINE possible. De but en blanc, les énergies renouvelables, c'est une merde sans nom. C'est bien joli sur le papier, on produit de l'électricité \"à partir de rien\". Mais c'est pas vrai, ils ont une empreinte carbone qui est non négligeable, dans leur cycle de vie ! \nEt quand on prend le cycle de vie d'une centrale et d'un champ d'éoliennes/panneau solaires et bien on se rend compte que le taux de carbone rejeté dans l'atmosphère par kilowatts est supérieur pour les énergies renouvelables que pour le nucléaire. Je vous ressors les sources pour ceux qui le veulent, mais on est à environ 3g de carbone par kW pour une centrale, 15 g / kW pour les barrages, 28 g / kW pour les éoliennes, 35 g / kW pour les panneaux solaires , et bon vous vous en doutez mais 295 g / kW pour les centrales à charbon. \n\nPour avoir suivi une formation d'ingénieur, avec un aspect poussé sur la protection de l'environnement et une utilisation réfléchie des ressources, le nucléaire ça à pleins de defauts, c'est actuellement le plus écologique des système de production d'électricité.",
+        "date": "2023-09-30",
+        "sentiment": "neutral"
+    }
+]

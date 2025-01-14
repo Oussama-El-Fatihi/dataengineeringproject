@@ -1,0 +1,27 @@
+[
+    {
+        "text": "Oui c'est vrai , on en parle jamais assez mais l'hydraulique est super important, pas cher et pilotable , dans une grande partie des cas c'est bien le gaz qui fixe le prix de l'électricité, surtout dans le pays étranger (sauf Suède , Norvège, etc )\nIl ce qui paraît on a laissé les barrages du Rhône a Total , \nCes barrages serait les plus rentables de France , peut tu me confirmer ou pas cette information ?",
+        "date": "2024-01-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Si ça permet d’éviter de brûler du charbon et du gaz c’est que justement qu’il y a du charbon et du gaz dans le mix et qu’il est donc sale, c’est ça le problème de l’éolien avec back-up fossile pour les journées sans vent. C’est d’ailleurs pour ça qu’Engie et consorts poussent à fond pour cette formule, comme ça ils raflent la mise deux fois. Crltiquer le sois-disant lobby nucléaire quand on a pas conscience de l’ampleur des lobbies gaziers derrière l’éolien c’est mignon…\nNon, le vrai potentiel de l’éolien c’est pas avec du back-up fossile mais du back-up hydraulique, et des STEP.",
+        "date": "2024-01-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est justement l'intérêt de l'éolien : ça produit bien l'hiver alors que le PV ou l'hydraulique produise plus l'été. Ça complète plutôt bien les autres énergies.",
+        "date": "2024-01-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; C'est un bon moyen de decarbone la production d'acier mais qu'en est-il de l'hydrogène ?\n\n&gt; Le vaporeformage, procédé de production de l'hydrogène grâce au methane, rejette 6 tonnes de CO2 pour 1,1 tonne d'hydrogène, sans procédé de captage et stockage du CO2. Ça serait bête que ça ne soit qu'un déplacement de la pollution mais c'est peut-être aussi un bon moyen pour valider la technologie.\n\n**FAUT LIRE LE PUTAIN D'ARTICLE !**\n\n« Ce nouveau procédé, **qui utilise de l'hydrogène produit à partir d'électricité hydraulique**, doit permettre de réduire jusqu'à 95% les émissions de CO2 de l'acier par rapport à celui issu des hauts fourneaux sidérurgiques traditionnels utilisant le charbon pour désoxyder le minerai de fer. »",
+        "date": "2024-01-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; C'est un bon moyen de decarbone la production d'acier mais qu'en est-il de l'hydrogène ?\n\n&gt; Le vaporeformage, procédé de production de l'hydrogène grâce au methane, rejette 6 tonnes de CO2 pour 1,1 tonne d'hydrogène, sans procédé de captage et stockage du CO2. Ça serait bête que ça ne soit qu'un déplacement de la pollution mais c'est peut-être aussi un bon moyen pour valider la technologie.\n\n\n&gt; Les technos à base d'hydrogène sont pour l'heure très loin d'être bas carbone l'essentiel de celui-ci étant encore principalement produit à partir de méthane. C'est un peu le même problème que pour les voitures électriques lorsque tu produits ton électricité à partir du charbon. \n\n&gt; De ce fait et dû aux contraintes liées à l'utilisation et au stockage de l'hydrogène toute techno substituant l'utilisation directe des combustibles fossiles par de l'hydrogène pollue plus et constitue même une perte sèche d'énergie.\n\n&gt; Tant que la problématique de production d'hydrogène bas carbone n'aura pas été solutionnée on reste dans de la fiction, car l'électrolyse de l'eau est  thermodynamiquement et électriquement une très mauvaise solution de stockage de l'électricité.\n\n&gt; D'ailleurs encore faudrait-il que celle-ci soit suffisamment excédentaire pour être stockée de manière si peu efficace. A l'heure actuelle on est plutôt sur des problème de concurrence des usages en raison de l'électrification de plus en plus importante des usages (qui est nécessaire).\n\nTiens, encore unautre...\n\n\n**FAUT LIRE LE PUTAIN D'ARTICLE !**\n\n« Ce nouveau procédé, **qui utilise de l'hydrogène (vert) produit à partir d'électricité hydraulique**, doit permettre de réduire jusqu'à 95% les émissions de CO2 de l'acier par rapport à celui issu des hauts fourneaux sidérurgiques traditionnels utilisant le charbon pour désoxyder le minerai de fer. »\n\nPS: J'ajoute que la Suède est très riche en énergie hydroélectrique, elle représente environ la moitié de leur production nationale d'électricité.",
+        "date": "2024-01-24",
+        "sentiment": "negative"
+    }
+]

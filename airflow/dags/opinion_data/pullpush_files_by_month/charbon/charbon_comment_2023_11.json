@@ -1,0 +1,222 @@
+[
+    {
+        "text": "Il faut arrêter de dire voiture électrique, il faut dire voiture au [source d'origine de l'électricité selon région]\n\nEn France on parlera de voiture nucléaire et en Allemagne et dans beaucoup d'autres pays on parlera de voiture au charbon. 🙂\n\nMais puisque que la combustion de matière fossile se fait à plusieurs centaines de kilomètres du conducteur et plus juste derrière ses pieds ça donne bonne conscience.",
+        "date": "2023-11-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Les nuances et les bémols sont dans l'article que personne ne s'est donné la peine de lire. Changer les moteurs thermiques en moteurs électriques, c'est blanc bonnet bonnet blanc. Ça ne fait que déplacer les problèmes des ressources énergétiques du pétrole à l'électricité. Aucun pays au monde pour l'instant n'est en mesure de fournir à la demande électrique qui sera induite par la taille et l'obésité du parc automobile. Il faudra produire de l'électricité en brûlant du charbon dans certains pays ou en construisant du nucléaire ailleurs. La solution, c'est la sobriété énergétique, la densification des villes et des moyens de transport efficaces, ce que l'automobile solo n'est pas.",
+        "date": "2023-11-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;La voiture électrique a déjà pollué plus que la voiture thermique avant même d'être mise en service.\n\nCeci vaut aussi pour une source d'électricité décarboné par rapport à une centrale thermique à flamme. Doit-on dès lors mettre sur un plan d'égalité une centrale à charbon et son équivalent en éoliennes ? Évidemment que non. Ce qu'il faut, c'est raisonner en analyse de cycle de vie.",
+        "date": "2023-11-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; À véhicule semblable, les VÉs sont environ un tiers plus lourds à cause  essentiellement de la batterie. C'est une pression indue sur les freins  et les pneus (et sur la chaussée, sans même parler des collisions  aggravées avec les piétons ou les cyclistes), ce qui provoque davantage  d'émissions de particules fines. C'est pourtant tellement connu et  abondamment documenté que je m'étonne que l'on le conteste. \n\nJustement, personne ici ne le conteste. Ce qui est également connu, c'est que l'absence de moteur à combustion et le freinage régénératif font également émettre moins de particules que l'équivalent en thermique. Et au global, comme le lien mentionné par u/Pandanloeil l'indique, c'est un peu en faveur des voitures électriques.\n\n&amp;#x200B;\n\n&gt; L'émission de GES des VÉs est aussi largement documentée, et elle est bien supérieure à celle des voitures thermiques ([https://ici.radio-canada.ca/nouvelle/1137571/vehicule-electrique-essence-electricite-charbon-ges-gaz-effet-serre-pollution](https://ici.radio-canada.ca/nouvelle/1137571/vehicule-electrique-essence-electricite-charbon-ges-gaz-effet-serre-pollution)).  Rares sont les pays dont l'électricité est propre; la Chine est un gros  producteur de VÉs qu'elle fabrique et recharge avec du charbon, de même  qu'aux USA où à peine un tiers de l'électricité est propre. Cela  s'ajoute à l'ensemble du bilan GES des VÉs. \n\n[Voici un site](https://climobil.connecting-project.lu/?batteryLifetime=240000&amp;batteryCapacity=30&amp;greenhouseGas=65&amp;electricCarRange=250&amp;carbonElectricityMix=300&amp;greenhouseBattery=30&amp;greenhouseWTT=25&amp;greenhouseTTW=150&amp;batteryPenalty=0.9&amp;annualMileage=20000&amp;ICECurb=1551&amp;ECurb=1977&amp;NEDCpenalty=0.39&amp;decarbonization=0) qui permet de comparer les émissions de GES en fonction du mix électrique des pays européens et des états américains, fabrication incluse. Il convient de comparer des voitures au gabarit équivalent. Tu pourras constater que en Europe, c'est nettement favorable aux voitures électriques, même s'il y a quelques pays pour lesquels ça n'est pas le cas (Pologne, Grèce, Estonie par exemple). Aux États-Unis, je n'ai pas tout essayé, mais je n'ai trouvé que le cas d’Hawaï pour lequel c'est défavorable. Et ça c'est aujourd'hui\n\n&amp;#x200B;\n\n&gt; C'est le culte du tout à l'auto (que je retrouve intact ici malgré la crise actuelle) qui donne des attraits aux VÉs \n\nTu donnes ça littéralement en réponse à quelqu'un qui écrit \"la voiture n'est pas l'avenir des transports\".\n\n&amp;#x200B;\n\nDans tous ces cas, il y a des arguments qui vont dans un sens et d'autres dans l'autre, mais tu ne choisis de retenir que ceux qui soutiennent ton apriori. C'est une mauvaise manière de se forger une opinion.",
+        "date": "2023-11-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Vous partagez curieusement un article de Reporterre qui confirme mes critiques et infirment les vôtres, en dépit d'une parenthèse mineure sur l'aspect régénératif du système de freinage :  «Il est donc vain, selon l’organisme public, de parier uniquement sur l’électrification du parc automobile pour réduire la pollution de l’air. Des démarches de sobriété sont également nécessaires : allégement des véhicules, développement de l’écoconduite, des transports en commun, de la marche, du vélo et du covoiturage… Pour respirer un air sain, mieux vaut miser sur les mobilités douces plutôt que sur les SUV électriques.» \n\nQuant au cycle de vie, vous éludez totalement le fait que quelques rares pays sont présentement producteurs d'énergie propre, et que l'arrivée massive des VÉs va entraîner un grave problème de production d'énergie pour laquelle il faudra compenser par du charbon, du gaz, du nucléaire, etc. Et finalement, on revient à la case départ : c'est blanc bonnet bonnet blanc. Faudrait faire la même étude ailleurs que dans un pays à l'énergie «propre» comme le nucléaire, qui n'est propre qu'en ignorant les déchets radioactifs. Une voiture qui se recharge au charbon n'est électrique que de façon très secondaire ; c'est d'abord une voiture au charbon, ou au gaz, ou à l'hydrogène (propre en ce cas-ci, oui). \n\nC'est une problème d'énergie. Les voitures en ont besoin, en auront toujours besoin. \n\nToute cette technologie ne sert qu'à préserver le statu quo de l'auto solo, à sauver l'industrie des constructeurs automobiles et à faire grossir encore davantage le parc automobile déjà doublement obèse par la taille monstrueuse (qu'aggravent les VÉs) et le nombre croissant de véhicules.  Blanc bonnet bonnet blanc, c'est ce que je dis depuis le début.  À entendre les partisans des VÉs, on croirait entendre les louanges qui accompagnaient la soi-disant révolution du plastique, révolution aveugle qui n'a pas vu venir l'immense problème environnemental en gestation, et qui n'apparaît qu'aujourd'hui avec ses innombrables conséquences.",
+        "date": "2023-11-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Vous partagez curieusement un article de Reporterre qui confirme mes critiques et infirment les vôtres\n\nAlors non, vos critiques étaient que les VE émettent plus de particules fines que les thermiques, ce qui est faux à taille de véhicules égale, c'est d'ailleurs ce que j'ai déjà répondu.\n\n&gt;Quant au cycle de vie, vous éludez totalement le fait que quelques rares pays sont présentement producteurs d'énergie propre, \n\nEncore une fois non, c'est exactement ce que contient le lien de /u/Qxotl,. On peut choisir le pays ou même regarder juste avec une source d'énergie.\n\nHormis quelques rares pays ou le charbon représente l'immense majorité du mix électrique, les VE sont toujours finalement moins émetteurs de GES au cours de leur vie que les équivalents thermiques.\n\nOn peut même remarquer qu'il vaut mieux avoir des centrales électriques au pétrole pour alimenter des VE que mettre directement l'essence dans des véhicules thermiques, grâce au bien meilleur rendement des centrales thermiques.\n\n&gt;Toute cette technologie ne sert qu'à préserver le statu quo de l'auto solo\n\nA moins que tu n'aies une solution magique pour remplacer l'intégralité des voitures par d'autres moyens de transports, la voiture électrique fait partie de la solution globale pour décarboner les transports. \n\nEt ce n'est pas une histoire de culte de l'automobile. Je n'ai d'ailleurs plus de voiture depuis presque 10 ans.",
+        "date": "2023-11-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ok, je reviens du site qui compare les thermiques et les électriques. Nulle part ne parle-t-on des pays où sont chargées ces voitures, de sorte qu'on ne distingue aucunement les véhicules chargés au charbon des recharges avec de l'énergie propore. Et malgré votre biais favorable, c'est un raccourci à bien courte vue que de prétendre qu'une centrale électrique au pétrole pollue moins que les voitures thermiques, ou alors donnez les chiffres. Même une centrale hydro-électrique n'est pas 100% sans émissions de GES dans sa construction et son entretien, sans compter les dommages collatéraux qu'elle entraîne ; je le sais assez pour vivre dans le pays de l'hydro-électricité qu'on appelle abusivement de l'énergie renouvelable parce qu'elle dépend de l'eau... dont les bassins s'assèchent à cause du réchauffement du climat. Tiens, on ne l'avait pas vue venir celle-là, comme on ne voit pas venir les problèmes futurs des minerais, des batteries et surtout, de la pénurie prochaine d'énergie quand toutes les voitures du parc mondial seront électriques : ça fait partie des nombreuses questions que vous éludez commodément.\n\nParticules fines : vous parlez d'émissions à taille égale, alors qu'elles ne sont pas de poids égal justement à cause des batteries, de sorte qu'on n'y gagne rien de ce côté, hormis pour l'usure des pneus et de la chaussée qui augmentent, toujours à cause du poids excessif. \n\nVous dites ne pas avoir de voiture, comme si c'était une preuve de votre savoir ou de votre vertu en ce domaine : ça n'a rien à voir et ça n'excuse pas tout ce que vous évitez, éludez et contournez sans cesse.  \n\nLe mot d'ordre aujourd'hui de la plupart des écologistes (et c'est pourquoi je suis stupéfait de votre entêtement ainsi que de l'appli un peu absurde et inutile qui compare voitures thermiques aux électriques sans tenir compte de sources d'énergie), *c'est la sobriété énergétique*. Le train, le tramway, les bus électriques, les vélos à assistance électrique et surtout, tout ce que les petites batteries permettent en termes de mobilité nouvelle, en micro-mobilité urbaine ,c'est là qu'est l'avenir. C'est là que se décarbone le transport. Et c'est à cela que l'industrie automobile tourne le dos présentement parce que son objectif n'est que de remplacer les voitures thermiques par des voitures électriques pour garder le consommateur captif et maintenir bien vivant le culte de la voiture, que vous en possédiez une ou non. Et elle réussit fort bien, à en juger encore une fois par votre entêtement. \n\nPour ce qui est des énergies qui servent à charger ces voitures, le petit tableau suivant est assez instructif. Les énergies renouvelables ne constituent qu'une partie infime de l'ensemble. Le reste va au charbon, au pétrole et au gaz.  \n\n[https://ourworldindata.org/energy-production-consumption](https://ourworldindata.org/energy-production-consumption)",
+        "date": "2023-11-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Ok, je reviens du site qui compare les thermiques et les électriques. Nulle part ne parle-t-on des pays où sont chargées ces voitures, de sorte qu'on ne distingue aucunement les véhicules chargés au charbon des recharges avec de l'énergie propore\n\nC'est une liste déroulante, difficile a manquer, juste en dessous des modèles de véhicules comparés. On peut choisir le mix électrique du pays, ou une seule source d'énergie.\n\n&gt;Et malgré votre biais favorable\n\nqui n'existe que dans votre imagination\n\n&gt;Tiens, on ne l'avait pas vue venir celle-là, comme on ne voit pas venir les problèmes futurs des minerais, des batteries et surtout, de la pénurie prochaine d'énergie quand toutes les voitures du parc mondial seront électriques : ça fait partie des nombreuses questions que vous éludez commodément.\n\nNon, tout le monde l'avait vu venir, y a des études complètes sur les besoins en métaux. Par ailleurs, a aucun moment je n'ai écris qu'il fallait remplacer toutes les voitures thermiques par des VE. \n\n&gt;Particules fines : vous parlez d'émissions à taille égale, alors qu'elles ne sont pas de poids égal justement à cause des batteries, \n\nJe parle de taille égale justement, pas de poids. Une 3008 électrique n'émettra pas plus de particules fines qu'une 3008 thermique.\n\n&gt;Le mot d'ordre aujourd'hui de la plupart des écologistes (et c'est pourquoi je suis stupéfait de votre entêtement ainsi que de l'appli un peu absurde et inutile qui compare voitures thermiques aux électriques sans tenir compte de sources d'énergie), *c'est la sobriété énergétique*.\n\nA un moment il va falloir faire l'effort de lire les commentaires avant de répondre. Si entêtement il y a un, il est de votre côté a ignorer absolument tout les arguments qu'on vous donne pour venir répéter des choses évidentes. \n\n    Il faudra bien évidemment repenser la mobilité pour réduire massivement le nombre de déplacements en voiture.\n\nLa phrase ci dessus fait partie de mon deuxième commentaire dans ce fil. Je vois pas comment faire plus clair.",
+        "date": "2023-11-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Alors tu proposes quoi ? C'est la meilleure solution pour le moment, après on peut la faire à l'écolo Allemande et rouvrir les centrales à charbon ?",
+        "date": "2023-11-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Tu parles d'énergie électrique. Penses-tu que le pétrole ne sert qu'à ça?\nLe nucléaire éclaire sûrement ton ampoule mais il ne sert pas à fabriquer ton smartphone qui doit être fabriqué à 80% avec du charbon et du pétrole. Le nucléaire ne servant qu'à charger la batterie fabriqué à base de métaux lourd, précieux et autres terres rares issues de pays corrompus jusqu'à l'os.\nBref, le nucléaire c'est l'arbre qui cache la forêt.",
+        "date": "2023-11-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Bah ouais et donc ? C’est pas pour sa que on a des usine à mazout ou à charbon tes légèrement hors sujet mdr",
+        "date": "2023-11-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Goûtez nous la paix avec nos voitures, et laissez le temps aux choses de s'installer. C'est une illusion de vouloir braquer a 180 en 10 ans.\nFaut chercher d'autres pistes, au hasard, les centrales à charbon, le béton,etc.",
+        "date": "2023-11-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Oui mais alors ? N’est ce pas pour cela que nous délaissons les usines à mazoute et à charbon ? Tu es légèrement en dehors du sujet. *rire*\n\nTiens j’ai traduit.",
+        "date": "2023-11-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "L’énergie est optimisée lorsqu’elle se distribue de manière localisée dans le sens où une partie de l’énergie se perd dans la distribution, je pars du principe que même si c’est une centrale à charbon qui la fournit, réduire la surface habitée par la densification permet de redédier de l’espace à la nature, à la forêt et donc à des capteurs de carbone.\n\nCe que j’évoque est une réduction du transport, de la consommation de pétrole par la diminution de déplacement personnel. Les transports en commun sont pas non polluant mais baissent à rôle égale l’empreinte carbone des usagers/produits. \n\nLe pire du pire c’est l’étalement urbain que l’on a qui rend accroc à la voiture",
+        "date": "2023-11-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Titre putaclic et plutôt mensonger. \n\nUn peu de contexte politique:\n\nChristian Lindner, le Ministre des Finances et leader des Libéraux (FDP), 3ème parti de la coalition gouvernementale, a effectivement fait une sortie médiatique en \"posant cette question\". Cela fait suite à de lourdes défaites de son parti à des élections régionales, afin de récupérer de l'électorat de l'extrême-droite foncièrement anti-écolo.\n\nCela dit, la sortie du charbon en 2030 est un des principaux accords du contrat de coalition. Robert Habeck, le Ministre de l'Économie et de l'Énergie (en charge de ce dossier donc) et vice-chancelier, est le co-leader des Verts (2ème parti de la coalition). Il est totalement irréaliste de le voir renoncer à cette sortie en 2030.\n\nSi jamais un arbitrage de la part du Chancelier Scholz (social-démocrate) décidait de suivre Lindner le libéral plutôt que Habeck le Vert sur ce sujet, le gouvernment tomberait tout de suite et je ne vois vraiment pas son intérêt là-dedans. \n\nDonc c'est plutôt une \"petite phrase\" pour draguer l'électorat d'extrême-droite, dans le contexte tendu de la coalition, plutôt que d'un signe d'une quelconque décision du gouvernement.",
+        "date": "2023-11-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Reste le fait que l'Allemagne (et son gouvernement de coalition SPD-Verts-Liberaux) continue investie (1) dans les centrales à charbon et cela probablement pendant les années à venir en conséquence de la pression de la gauche écolo pendant la dernière décennie pour l'arrêt définitif du programme nucléaire Allemand.\n\nL'extrême droite allemande a tout à fait une part de la responsabilité concernant les mauvaises décisions de politique énergétique (comme la libéralisation du marché énergétique et climatosceptisme politique) mais la gauche écolo est également à blâmer ...\n\n(1) [Énergie : L’Allemagne retourne au charbon pour passer l’hiver](https://www.humanite.fr/environnement/allemagne/energie-lallemagne-retourne-au-charbon-pour-passer-lhiver)",
+        "date": "2023-11-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le Parti Vert est le seul qui se bat depuis des années pour la fermeture rapide des centrales à charbon. C'est d'ailleurs ce point qui avait fait capoter leur entée au gouvernement en 2017 (avec le FDP qui était contre, et les conservateurs en arbitre). Tu peux leur reprocher beaucoup de choses, mais pas ça.",
+        "date": "2023-11-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La Rhénanie compte trois mines de charbon qui font de cette région le plus grand émetteur de CO2 en Europe. \nEurope étrangement muette.",
+        "date": "2023-11-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "C’est la conséquence directe de leurs choix politique en matière d’énergie. Je trouve ça fou d’all in sur ces types d’énergies alors qu’on est en même temps un des pays les plus industrialisé d’Europe. D’ailleurs, je suis même pas sûr qu’ils extraient leur charbon…",
+        "date": "2023-11-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Non mais ok pour se battre pour la fermeture des centrales à charbon, le problème c'est qu'ils ont aussi milité pour l'arrêt du programme nucléaire Allemand et cela quand les combustibles fossiles sont toujours l'une des sources primaires d'énergie dans le pays ! Donc ils sont indirectement responsables pour la situation où ils se retrouvent..",
+        "date": "2023-11-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Bref, c'est un peu gonflé de mettre tout ça uniquement sur le compte des Verts.\n\nIls ont mené la bataille culturelle contre le nucléaire, les Verts allemands (mais aussi français) sont littéralement nés de la lutte antinucléaire. Lorsque l'écologie est censée être le cœur de ton projet politique mais que tu passes ton temps à diaboliser l'une des énergies les plus bas carbone en jouant les marchands de peur, tu mérites d'être pointé du doigt.\n\n&gt; Alors que les autres partis, non seulement ils ont pris la décision de sortir du nucléaire, mais en plus en renforçant les combustibles fossiles pour compenser. \n\nParce que l'alternative, c'est des pensées et des prières. Difficile de faire tourner ta machine à laver avec seulement de la pensée magique et des énergies intermittentes, même en investissant massivement dans les énergies renouvelables. Pour rappel, l'Allemagne a dépensé depuis 2000 le double du coût total du parc nucléaire français dans leur Energiewende pour un résultat absolument médiocre. L'ordre aurait dû toujours être sortie du charbon&gt;sortie du gaz/pétrole et éventuellement, sortie du nucléaire. Mais grâce aux écologistes, la peur irrationnelle de l'atome a pris le dessus sur le reste. Merci les Vers.",
+        "date": "2023-11-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Si c'est importé c'est d'autant plus absurde, ya presque plus que les pays producteurs qui utilisent du charbon",
+        "date": "2023-11-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "https://amp.dw.com/en/germany-coal-imports-increase-in-2022-amid-ukraine-war/a-64818198\n\nBon, la majorité de leur charbon est bien importé. Dans l’ordre, avant la guerre : Russie, US, Afrique du Sud, Colombie. \nLes importations ont d’ailleurs augmentées de 8% après la guerre. \n\nDonc c’est vraiment absurde",
+        "date": "2023-11-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Attention avec les chiffres, on peut dire n’importe quoi. Ton article chiffre l’augmentation en tendance, mais ne démontre en rien que la majorité du charbon est importée.\n\nParce que ce n’est pas le cas.\n\nhttps://www.cleanenergywire.org/factsheets/germanys-dependence-imported-fossil-fuels\n\nEn 2021 l’Allemagne a extrait 126 Mt de lignite, un charbon de faible profondeur humide et de mauvaise qualité, entre la tourbe et le charbon classique ou houille. Cela représentait 20% de leur production d’électricité.\n\nLa même année ils importent 41 Mt de charbon de houille. Je n’ai pas les chiffres quant à l’utilisation pour l’électricité cette année. Normalement le rendement est supérieur à la lignite car il est plus sec. Mais ils peuvent l’avoir stocké pour l’année suivante.",
+        "date": "2023-11-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Tu déplaces les buts, l'ami.\nEst-ce que Mélenchon a proposé le 100% renouvelable en un quinquennat ? Non, c'est pour 2035 en 2017 et 2050 en 2022.\n\nIl aurait fallu 3 à 4 décennies pour se débarrasser progressivement de nos vieilles centrales en fin de vie, parce que personne n'a prévu la suite ou d'autres alternatives à ce stade.\n\nCe que tu proposes, c'est en fait le programme des Insoumis 🙂\n\nEt Mélenchon a toujours dit qu'il arrêterait chaque centrale à chaque fois que ce serait possible : ça n'a rien à voir avec l'Allemagne, scénario que certains se régalent à prendre alors que \n\n1) même avant ils polluaient comme des porcs car ils ont toujours eu du charbon\n\n2) ils ont coupé leurs centrales AVANT d'avoir la production ENR équivalente disponible\n\nC'était idiot mais même sans ça, ils polluaient et ont toujours pollué bien plus que nous 😔\n\nAu final, un Mélenchon qui aurait produit énormément d'énergie décarbonnée sur 5 ans ça aurait été mieux qu'un Macron qui a produit du \"rien\" pendant 10 ans : parce que la conséquence de scientifique et mathématique au final, c'est ça.",
+        "date": "2023-11-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui, l'Allemagne a déjà essayé de faire cela et a échoué complètement, ils sont même au point de prolonger le fonctionnement de leurs centrales a charbon... 🤦\n\nPuis, le RU n'est référence pour personne en ce qui concerne le programme énergétique.. Si tu connais un peu leur passé énergétique tu comprendras..\n\nPuis nous sommes en France pas au RU, les réalités ne sont pas les mêmes. Pourquoi n'as-tu pas partagé des études faites en France ? Par exemple l'étude de RTE ?",
+        "date": "2023-11-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Faudrait peut-être d'abord s'attaquer aux vrais pollueurs et aux vrais industries qui génèrent les pollutions. Ça c'est anecdotique. Facile à arrêter ou à interdire, ça fait plaisir, en attendant les allemands et leur charbons et lignites, les Chinois et les ricains, les transports, la liste est si longue. Mais on ne peut pas taper sur les gros. Alors, ben on fait une fixation sur les sports motorisés. Ok. Super idée. Allez y , downvotez .",
+        "date": "2023-11-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "La consommation de pétrole mondiale est de 100 millions de baril de pétrole par jour, la consommation de gaz naturel est de 3.94 mille milliards de metre cube par an et enfin le monde consomme 8 milliards de tonnes de charbon par an. J'espère que ces chiffres mettent en perspective l'interdiction des \"mouvements de foules\" pour sauver la planète.",
+        "date": "2023-11-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ca s'appelle la démocratie. Ce n'est pas parce que des agitateurs veulent dicter au monde entier ce qu'il devrait faire (quand bien même ils peuvent avoir raison sur certaines parties de leur discours), que le monde entier doit céder à des personnes pas toujours mentalement stable.\n\nEn plus les \"évènements\" du type 24h du mans, sont absolument ridicules face à une seule centrale à charbon qui fonctionne toute l'année.\n\nDonc en dehors de faire chier le peuple pour un résultat uniquement symbolique de prise de pouvoir, c'est totalement inutile.",
+        "date": "2023-11-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Et ça vaut encore plus largement bien sûr : le transport en avion,\n\nMais c'est exactement ce que j'ai dit !   \nOn est en train de taxer les vols en avion justement voir d'en interdire certains... Or à choisir et si on devait voter qu'est-ce qu'on préférerait supprimer ? Les Monster Jam et les 24H du Mans ? Ou pouvoir prendre l'avion pour aller voir ma famille qui est dans un autre pays ? C'est un choix à faire nous sommes d'accord.\n\n=&gt; Et pourtant supprimer des vols fait aussi perdre des emploi hein, tout comme fermer les mines de charbon ou autoriser les caisses automatiques ;) \n\nOr on a su rebondir et inventer de nouveaux métiers comme il y en aura grâce à la transition écologique...",
+        "date": "2023-11-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "En partant du principe qu'un data center serait forcément alimenté par une centrale charbon, on peut se demander quelle est la finalité des deux. Je peux vous retourner la question : entre regarder vos emails pendant 2 jours ou regarder des 4x4 au matmut stadium que préférez-vous ?",
+        "date": "2023-11-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Il produise quand même comme des entres porc sa change rien entre une usine alimenter par des centrale nucléaire et des usine alimenter par des centrale à charbon et à pétrole il a une ÉNORME différence",
+        "date": "2023-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je suis bien moins compréhensif que toi haha, et pourtant (parce que ?) j'ai beaucoup côtoyé des familles bourgeoises (\"nouvel argent\") plus jeune, après avoir été scolarisé dans une école de cité.\n\nDe mon côté, je suis très pessimiste : \n\nTu me parles de banques qui financent la transition énergétique, moi je pense aux trois banques françaises qui font actuellement l'objet d'une procédure pour financement de l'industrie du charbon.\n\nQuand tu regardes l'histoire des luttes, pour changer les choses, il a souvent fallu deux mouvements, l'un radical pratiquant la désobéissance civile (ou plus, afin de mettre le sujet au centre des préoccupations), l'autre plus légaliste (pour traduire les exigences dans la loi). On disait des suffragettes du début 20e en Angleterre que leur radicalité nuisait à la cause. Et pourtant, les initiatives parlementaires précédentes avaient échoué. On oublie aussi souvent le rôle joué par les terroristes sionistes de l'Irgoun dans la création d'Israël. C'est triste à dire, mais l'illégalité est souvent la seule manière de changer les choses. Quand les profs ou les sages-femmes font grève, ils n'obtiennent rien. Quand les agriculteurs viennent déverser du lisier devant les préfectures, on leur donne ce qu'ils veulent.",
+        "date": "2023-11-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "[...]\n\nLa barre est symbolique, car +2 °C, c’est le réchauffement maximal que les Etats avaient juré de ne pas dépasser lors des accords de Paris, en 2015.\n\nCertes, pour cette limite devrait être franchie sur plusieurs années, en moyenne, pour considérer que le seuil de l’accord de Paris serait dépassé. Dans un rapport spécial du Giec de 2018, les experts du climat réunis sous l’égide de l’ONU ont retenu comme définition du réchauffement une moyenne «sur une période de 30 ans» par rapport «à la période de référence 1850-1900». Nous n’y sommes pas encore, mais on s’en approche.\n\nVendredi, à Rio, **au Brésil, la température est montée jusqu’à 59,3 °C**. Une **femme de 23 ans est morte durant un concert dans un stade de Taylor Swift**. Selon des données provisoires, les températures mondiales sont montées, ce jour-là, de 2,06 °C au-dessus de la moyenne de 1850 à 1900. Un pic alors que le climat actuel est considéré comme réchauffé d’environ 1,2 °C par rapport à 1850-1900.\n\n[...]\n\nCes records de températures **se traduisent par des sécheresses synonymes de famines, des incendies dévastateurs ou des ouragans renforcés**, avertissent les scientifiques. Les représentants du monde entier sont attendus à Dubaï du 30 novembre au 12 décembre pour tenter de se mettre d’accord sur la nécessaire réduction de la production et consommation du pétrole et du charbon pour limiter le réchauffement climatique en cours lié aux activités humaines.",
+        "date": "2023-11-20",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "La classique, c’est exactement le process de greenwashing de la Chine : « oui mais on est nombreux, regardez par habitant »\n\nC’est de la pure malhonnêteté statistique que pratique le CCP sur plein de domaine y compris écologique. Pourquoi ? Il y a 600 millions de pauvres en Chine qui pollue 0. Donc forcément ils font baisser la moyenne. Imaginez qu’on fasse la moyenne européenne en rajoutant l’Afrique. Le sujet est complexe en allant en détail. Le secteur ultra polluant la bas c’est l’immobilier. Ils construisent des villes fantômes, ou détruisent deux ans après pour refaire du neuf au même endroit pour créer de l’activité économique (30% du pib chinois est lié à l’immobilier et constitue la première recette fiscale locale). Mais cet immobilier ça s’est fait pas fait dans le vide.\n\nQui plus est l’énergie employée est sous performante, avec du charbon de très mauvaise qualité, peu raffiné, donc beaucoup de consommation pour peu d’énergie. Et le charbon est ultra mauvais pour la planète comme on le sait.\n\nDans mon autre commentaire, j’ai parlé du fait qu’ils vont ouvrir 50 centrales mais regardez déjà la consommation de charbon en Chine par rapport aux reste du monde. De mémoire ils consomment 40% du charbon mondial contre 12% pour le deuxième. Non seulement ils consomment près de la moitié du charbon au monde sans représenter la moitié de l’activité mondiale mais ça va s’empirer sachant que la Chine est en plein ralentissement économique.\n\nJ’égratigne la surface la, mais vous voyez le temps qu’il faut pour contrer la propagande de greenwashing ? C’est pour ça que c’est perdu. Personne va plus loin que les deux arguments “ils sont nombreux” “mais c’est de la pollution exportée” qui sont faux et de la pure malhonnêteté intellectuelle.",
+        "date": "2023-11-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est oublié pourquoi on veut les fabriquer \n\n1. Les économies d'échelle à termes quand ils seront produites en usine plutôt que sur place. \n\n2. la sécurité qui repose sur des mécanismes passif \n\n3. L'impossibilité de les renouveler ou de les ouvrir sur place ce qui empêche leur usage pour la production de plutonium \n\n4. Ils ne sont pas destinés à remplacer les centrales nucléaires mais à remplacer la source de chaleur des centrales à charbon et à gaz, ce qui limite la coût de création et permet de convertir un site vers une production bas carbone. \n\n5. la plupart des grandes infrastructures ne sont pas rentables, sans soutien d'un état aucune ligne de TGV ne peut exister  \n\n6. Les grands sites industriels comme les fonderies pourraient bénéficier d'une source de chaleur et d'énergie fiable avec un coût prévisible pour leur installation",
+        "date": "2023-11-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&amp;#x200B;\n\nC'est la chose la plus intelligente à dire.\n\n&amp;#x200B;\n\n1 - mieux vaut prévoir le pire. Si on prévois nos infrastructures pour +2° et qu'on a +4°, on est mort. Si on prévois nos infrastructures pour +4° et qu'on a +2°, on tient le coup\n\n&amp;#x200B;\n\n2 - faut arrêter le ouinouin sur la pollution en France. \n\nOn est déjà l'un des pays du globe les moins polluant par rapport à son PIB (merci le nucléaire, les transports en commun ou la culture des petites voitures). De fait on est le 1er pays le moins polluant au G7, et 7e si on regarde le G20 (qui intègre des pays pauvres comme l'Indonésie ou l'Egypte)\n\n[https://www.worldometers.info/co2-emissions/co2-emissions-per-capita/](https://www.worldometers.info/co2-emissions/co2-emissions-per-capita/)\n\n19eme en total de pollution (sachant qu'on est 21e en terme de population) et.... 66e en pollution par habitant \n\nOn est littéralement sur la moyenne mondiale, qui pourtant intègre aussi les pays les plus pauvres (et les moins pollueurs) de la planète !\n\n[https://ourworldindata.org/grapher/co-emissions-per-capita?tab=chart&amp;time=1983..latest&amp;country=FRA\\~OWID\\_WRL\\~OWID\\_EU27\\~CHN\\~USA\\~DEU](https://ourworldindata.org/grapher/co-emissions-per-capita?tab=chart&amp;time=1983..latest&amp;country=FRA~OWID_WRL~OWID_EU27~CHN~USA~DEU)\n\nEt enfin comme le montre ce graph, ca fait 40 ans qu'on est l'un des  pays les moins pollueurs parmi les pays développés. Si on fait le cumulatif des émissions depuis les années 80, on est TRES largement devant, c'est pas les très récentes avancées de l'allemagne qui vont compenser demain ses décennies de charbon.\n\n&amp;#x200B;\n\nDe fait, les DEUX seuls pays qui font mieux que nous en europe sont des petits pays bénéficiant d'un énorme avantage naturel, la suède (énorme réseau de rivière et énormes forêts pour une population faible, 23hab/km² contre 110 en France) et la suisse (idem, gros réseau de rivière grâce aux montagnes)\n\n... et inutile de chercher des pays développés qui font mieux que l'Europe, il n'y en a aucun (le plus bas que j'ai trouvé hors UE c'est Israël, qui est à 6tonnes, la moyenne de l'UE)",
+        "date": "2023-11-23",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Je rejoins tout ce que les autres redditeurs on pu ajouter (les vidéos du réveilleur sur le sujet sont très bien ficelées, et l’analyse est de bonne qualité, la biblio est bien brassée) \n\nJe souligne un autre point qui n’a pas été abordé ici :\nL’année dernière, on nous avait déjà « menacé » de black-out pour pénurie d’électricité. Qu’adviendra t-il de notre demande énergétique si le parc automobile thermique est remplacé par un parc automobile électrique ? \n\nTon sujet semble focalisé sur la France, mais je me permets une petite digression. En France, notre énergie est majoritairement décarbonée via la production nucléaire. Rouler en électrique grâce aux EPR est donc bien decarbonné (je te laisse décider du caractère polluant ou non). \nPar contre, rouler en Tesla en Allemagne ou l’énergie est produite au charbon, je ne sais pas si c’est pertinent (faudrait comparer ce que génère une centrale à charbon pour alimenter un véhicule électrique à ce que génère un véhicule thermique)\n\nDans tous les cas, et ca a déjà été mentionné, la question fondamentale réside dans notre utilisation de la voiture. La voiture électrique ne pourra pas être la solution finale, quand bien même nous l’adopterons, nous ne devons pas attendre à pouvoir l’utiliser comme nous avons utilisé les voitures jusqu’à maintenant.\n\nEt courage à toi pour le concours ! ;)",
+        "date": "2023-11-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Au gaz?!\nTu est gentil l'Allemagne pollue 5× plus que nous car ils misent sur le charbon.",
+        "date": "2023-11-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui c'est vrai mais c'est pas un argument. Ou plutôt en défaveur de la voiture électrique puisque l'énergie qui n'est pas consommée en France est vendue à l'étranger.\n\nEt qu'en hiver la production nucléaire et renouvable française ne suffit pas et que le surplus et donc fourni au gaz (et au charbon allemand vu qu'en réalité on importe)",
+        "date": "2023-11-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui, et donc des dizaines ou centaines si on se place à la taille de l'Europe (en sachant que le réseau électrique est connecté). Et donc on voit bien que c'est pas compatible et que ça fera des voitures qui en hiver tourneront au gaz ou au charbon. Tant qu'elle resteront aussi peu optimisées.\n\nD'autant qu'une centrale nucléaire ne se monte pas en 10 jours...",
+        "date": "2023-11-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Bonsoir \n\nJe ne sais pas ce que vous allez pouvoir tirer de tous ces commentaires. Tout cela évolue très vite. Les chiffres d'aujourd'hui (souvent construits avec des données du passé) sont à prendre avec précaution. \n\nPour le VE électrique un des points clef est la batterie, plusieurs commentaires pointent, des couts, des impacts environnementaux des dépendances etc. Beaucoup de ces commentaires concernent les batteries Lithium traditionnelles, mais déjà aujourd'hui la moitié des véhicules électriques vendus en chine est équipée de batteries lithium fer phosphates (LFP) : plus du tout de cobalt et autre métaux critiques. On commence aussi à voir apparaitre des voitures équipées de batteries au sodium, donc sans lithium. (Sodium : un des composants su sel). En conséquences de tout cela, les cours du lithium et d'autres minéraux se sont déjà effondrés ce qui amène des baisses de prix sur les batteries. Comme en plus les batteries LFP se dégrade environ 4 fois moins lors des cycles de charge et de décharges, les calculs faits sur l’amortissement des impact écologiques lors de la fabrication sont à prendre avec des pincettes. \n\nSur le coté pollution aux particules, très important dans les villes car cela fait des morts prématurées, le tableau est contrasté, les véhicules électriques, plus lourds et accélérant plus fort, usent plus leur pneus et font donc plus de particules mais elles usent moins leurs freins car elles freinent souvent avec le moteur. A taux de particules identiques il semblerait que les particules issues de la combustion soient nettement plus nocives que les particules dues aux usures de frein ou de pneus. (études faite sur le charbon et pas sur le pétrole). Donc avantage probable pour l'électrique. \n\nTout cela pour dire que même avec des chiffres qui semblent précis il est difficile de faire le tri dans tous les affirmations et surtout de prédire ce qui sera vrai dans 10, 20 ou 50 ans. Nous sommes en train de comparer une industrie mature avec une industrie naissante. Au vu des chiffres d'aujourd'hui il est à peu près certain qu'en 2035 (date de l'interdiction des voitures thermiques) les doutes ne seront plus de mise (d'autant plus que même la production d'électricité sera moins carbonée dans de nombreux pays) , mais bien malin qui pourrait chiffrer cela aujourd'hui. \n\nSur la vision globale des déplacement : pourquoi autant de voitures ? On trouve souvent des commentaires de personnes vivant dans des lieux bien desservis par des transports en commun. Mais il faut penser que beaucoup de kilomètres sont faits en campagne et qu'il existe même un département sans aucune gare (ou ils ont peut être rouvert l'unique gare de ce département à vérifier.) \n\nIl aurait fallu poser la question au futur, je pense que tout le monde devrait être à peu prêt d'accord avec la situation en 2035 et après. \n\nPour élargir le débat comme vous avez parlé de véhicules dans la question sans plus de précisions, il faut savoir qu'une étude à montré qu'une \"voiture volante\" serait plus écologique qu'une voiture terrestre. Plus légère, déplacement en ligne presque droite, pas d'accélération/freinage, quasiment pas de particule, etc. Mais là pour encore quelque temps cela reste de la science fiction.",
+        "date": "2023-11-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "L'Australie de Murdoch est pas prête de lâcher son charbon (ni Murdoch et sa descendance). Et la demande chinoise est pas prête de diminuer.\n\nOn est pas sorti du sable.",
+        "date": "2023-11-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Juste pour donner un peu de perspective, même si on prend les chiffres de Greenpeace (qu'on peut difficilement accuser de les minimiser), cela correspond à 2,5 [fois](https://www.spiegel.de/international/greenpeace-vs-the-united-nations-the-chernobyl-body-count-controversy-a-411864.html) Tchernobyl, par an.   \n\nLe [charbon ](https://www.wwf.mg/?272333/Dark%2DCloud) non plus ne s'arrête pas aux frontières.",
+        "date": "2023-11-29",
+        "sentiment": "negative"
+    }
+]

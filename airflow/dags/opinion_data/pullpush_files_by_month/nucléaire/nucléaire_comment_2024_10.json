@@ -1,0 +1,502 @@
+[
+    {
+        "text": "C'est juste factuellement faux.\nIl serait beaucoup moins cher et plus efficace d'utiliser batteries + hydro pour le stockage plutôt que l'hydrogène.\nEt non il n'en faudrait pas des montagnes, en tout cas nettement moins que de réservoirs d'hydrogène. \n\nEt nos barrages font déjà du tampon pour compenser le fait que nos centrales nucléaires ne sont pas pilotables et absorber le surplus d'elec la nuit.\nCe qui est absurde.",
+        "date": "2024-10-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le nucléaire n'est pas pilotable ? Ah merde.",
+        "date": "2024-10-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Parce qu'une grille électrique se doit d'être à l'équilibre. Si on n'utilise pas l'électricité on la vend au voisin ou on la stocké. Le nucléaire est bien évidemment pilotable, mais sur quelques heures, d'où l'intérêt des barrages réversibles pour stocker l'électricité.\n\nDes centaines de milliers d'ingénieurs se sont posés la question et cest ce quils ont trouve de mieux, mais tu as apparemment une idée à laquelle ils n'ont pas pensé. Tu devrais la partager.",
+        "date": "2024-10-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Alors s'ils y ont pensé mais :\n1) Le politique s'en est sérieusement mêlé.\n2) A l'époque où ces arbitrages ont été faits les coûts et rendements de l'éolien, du solaire et des batteries étaient des dizaines de fois supérieurs à aujourd'hui.\n3) Les ingénieurs non impliqués idéologiquement dans le nucléaire et qui juste regardent les données factuelles arrivent à la même conclusion aujourd'hui.",
+        "date": "2024-10-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Les rapports d'RTE sont écrit avec la pression de justifier les choix passés et futurs (absurdes) en matière de nucléaire (notamment mais pas que) : 0% de confiance.\n\nOui, c'est sûr que c'est vous qui connaît mieux que RTE en matière de gestion du réseau électrique....\n\n🤦\n\n&gt;Regardez donc ce que dit le GIEC plutôt.\n\nSoyez honnête, vous n'avez jamais lu aucun rapport du GIEC et vous n'avez pas une idée claire de quoi réellement c'est dit, hein ?\n\nParce que si vous avez réellement lu au moins le dernier rapport du GIEC vous auriez compris qu'il va dans le sens de RTE ..\n\nPour vous démontrer à quel point vous êtes à côté de la plaque, je cite ce qui est **réellement écrit** dans le rapport AR6 du GIEC :\n\n https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-6/\n\n« *These future energy systems would not use hydrogen for all end uses; they would use hydrogen to complement other energy carriers, mainly electricity, where hydrogen might have advantages. Hydrogen could provide long-term electricity storage to support high-penetration of intermittent renewables and could enable trading and storage of electricity between different regions to overcome seasonal or production capability differences* »\n\nDonc s'il vous-plaît, faites-vous un faveur et arrêtez de raconter des conneries.",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Notez le conditionnel 👆 et 👇\n\n\"However, the potential role of hydrogen in future energy systems depends on more than just production methods and costs. For some applications, the competitiveness of hydrogen also depends on the availability of the infrastructure needed to transport and deliver it at relevant scales (Lee et al. 2021). Transporting hydrogen through existing gas pipelines is generally not feasible without changes to the infrastructure itself (Gumber and Gurumoorthy 2018; Muratori et al. 2018). Existing physical barriers, such as steel embrittlement and degradation of seals, reinforcements in compressor stations, and valves, require retrofitting during the conversion to H2 distribution or new dedicated pipelines to be constructed (Dohi et al. 2016). The capacity to leverage and convert existing gas infrastructure to transport hydrogen will vary regionally, but in many cases could be the most economically viable pathway (Cerniauskas et al. 2020; Brändle et al. 2021; Brooks 2021; Wettengel 2021). Hydrogen could also be transported as liquid gas or as liquid organic hydrogen carriers such as ammonia, for which industry knowledge exists (Demir et al. 2018; Wulf et al. 2018; Hong et al. 2021). Additionally, improvements in fuel cell technologies are needed to make hydrogen-based transport economically viable. There are also safety concerns associated with the flammability (Nilsson et al. 2017) and storage (Andersson and Grönkvist 2019; Caglayan et al. 2019) of hydrogen which will need to be considered\"\n\nOn part sur de la bataille de citation ?  \nC'est absurde. \n\nLe GIEC parle de toutes les solutions possibles évidemment et arrive à la conclusion logique : l'hydrogène n'a qu'une utilité potentielle marginale. \n\nEntre 0 et pas grand chose selon les développements technologiques et les choix politiques.  \n\nComme le nucléaire d'ailleurs. \n\nEt être méprisant, hautain et insultant ne vous donne pas raison.",
+        "date": "2024-10-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Seulement 900 générateurs pour remplacer un réacteur nucléaire...",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ce n’est pas toujours vrai.\n\nOn peut tout à fait produire autant en polluant moins, avec de meilleures technologies (et ce en incluant tout le cycle de vie).\n\nUn exemple trivial : une ampoule LED vs. une ampoule classique. Ou si on veut parler d’une industrie : une centrale nucléaire vs. une centrale à charbon.",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mmmhmmmh parle moi plus de tous ces investissements.. privés.. dans le nucléaire français.",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ok mais t'as des preuves de ce que tu avances ?\n\nAu hasard je pourrais te répondre que l'énergie pas cher a favorisé l'industrie française ou encore que si ce que tu dis était vrai alors les pays qui n'ont pas choisi le nucléaire auraient une industrie plus forte (ce qui n'est pas vrai).\nEn vrai je balance ça mais j'en sais rien j'ai pas de preuve.\n\nC'est bien d'avoir des idées et des opinions mais ils faut les présenter comme telles pas comme des vérités absolues.",
+        "date": "2024-10-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je pense que la disparition de l'industrie textile en France est dû au développement du nucléaire est l'idée la plus stupide que j'ai entendu ce mois-ci. Tu tiens ce raisonnement de quelle source afin que je sache qu'elle n'est absolument pas fiable ?",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le programme nucléaire français a capté des ressources financières colossales pendant plusieurs décennies. L’État, via EDF et d’autres acteurs publics, a alloué des centaines de milliards d’euros à la construction du programme.\nL’énorme capital nécessaire pour financer le programme nucléaire a eu un effet d’éviction sur d’autres secteurs industriels. Les effets d’éviction surviennent lorsque les investissements publics massifs dans un secteur spécifique limitent la disponibilité de ressources pour d’autres industries. Le capital privé et public qui aurait pu être investi dans la modernisation d’autres secteurs industriels ou dans l’innovation technologique a été largement orienté vers le nucléaire.",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dommage que le nucléaire s’exporte si mal. On aurait pu se refaire la cerise.",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le nucléaire a capté la moitié des investissements industriels français pendant 20 ans.",
+        "date": "2024-10-04",
+        "sentiment": "positive"
+    },
+    {
+        "text": "C’est bien pour ça que l’Allemagne (notre amie) essaye inlassablement de mettre des bâtons dans les roues de notre nucléaire pour pas que nos industriels aient accès à une énergie moins chère et donc aient des coûts de production bas qui les concurrenceraient.",
+        "date": "2024-10-04",
+        "sentiment": "positive"
+    },
+    {
+        "text": "A cause du nucléaire on n'a pas eu le concorde, le TGV, la fusée Ariane, le Minitel...\n\nC'est vraiment dommage...",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "e programme électronucléaire français a été en grande partie financé par l’État, mais des capitaux privés y ont également contribué de manière significative.\n\nD’abord, des crédits bancaires privés ont été accordés par des institutions comme BNP Paribas et Société Générale, sous forme de prêts à long terme pour financer la construction de centrales nucléaires, souvent sécurisés par des garanties de l’État.\n\nEnsuite, EDF a levé des fonds en émettant des obligations sur les marchés financiers, permettant à des investisseurs institutionnels et des particuliers d’apporter des capitaux pour financer de grands projets nucléaires.\n\nEnfin, des partenariats industriels avec des entreprises comme Areva et Framatome ont permis à ces entreprises d’investir dans la construction et le développement technologique du programme nucléaire en échange de contrats lucratifs. Ces contributions ont complété les financements publics en diversifiant les ressources financières disponibles pour le programme.",
+        "date": "2024-10-04",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Je pense que la disparition de l'industrie textile en France est dû au développement du nucléaire est l'idée la plus stupide que j'ai entendu ce mois-ci. Tu tiens ce raisonnement de quelle source afin que je sache qu'elle n'est absolument pas fiable ?\n\nC'est probablement un truc inventé par ChatGPT ou similaire. \n\nJe viens de poser la question « peux-tu m'écrire comment les investissements sur le nucléaire en France ont contribué à la désindustrialisation du pays ? » et il me sort plus ou moins les mêmes arguments.",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "L’idée est de moi mais si il faut une référence :\n“Un nouveau plan nucléaire pour la France, quand l’histoire se répète” (Transitionsenergies.com)",
+        "date": "2024-10-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Tu veux dire le doigt mouillé ? \nComment as-tu procédé pour déterminer dans quelle proportion la désindustrialisation est liée à l'investissement dans le nucléaire (en admettant qu'il y a vraiment une causalité ) par rapport à d'autres facteurs comme par exemple la hausse des salaires ?",
+        "date": "2024-10-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pas si trivial que ça :\n\nEncore faut-il prouver que tous les moyens industriels et techniques mis en œuvre pour développer et démocratiser  la LED compensent les impacts qu'elle évite. Cela va donc au delà d'une simple étude sur le cycle de vie de l'objet (qui  ne considère que des cycles stationnaires, plutôt qu'inscrits dans une historicité).\n\nIl faudrait aussi montrer que le gain d'efficacité obtenu ne se traduit pas par une augmentation de l'utilisation d'autant plus grande (effet rebond), ce qui mettait en péril ta prémisse comme quoi on on se limiterait à \"produire autant\", et pas davantage, une fois qu'on déploie ces technologies.\n\nEt tout ceci ne prend meme pas en compte le fait que chaque nouvelle innovation constitue une branche supplémentaires dans un arbre technologique, qui peut servir de substrat à d'autres sous-branches, dont l'impact n'est pas considéré dans cette analyse. \n\nEnfin, il faut réaliser que plus une technologie est récente, plus elle tend à reposer sur un grande chaîne technique. Même si elle paraît écolo en surface, son existence est dépendante de nombreuses strates qui ne sont pas considérées dans le cycle de vie. Par exemple, une centrale nucléaire repose sur l'existence d'un système technique complexe et presqu'exclusivement fossile. Cette forte dépendance pourrait faire du nucléaire un sous produit de l'industrie fossile, plutôt qu'une véritable solution de \"rupture\", puisque rien ne prouve que l'industrie nucléaire soit viable sans ses perfusions de pétrole. \n\nEn fait, c'est toute la notion de \"progrès technique\" et la fuite en avant qui l'accompagne que je mets en questionnement ici.",
+        "date": "2024-10-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Et ensuite? Quelle conclusion attend ses points de suspensions ?\n\nQue le nucléaire c'est mieux en tout point.\nMoins cher, moins polluant.\n\nIl n'y a qu'au niveau du risque que le nucléaire fait moins bien.",
+        "date": "2024-10-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Et les déchets. Et l'approvisionnement en ressources minières.  \n(Je suis d'avis que le nucléaire c'est mieux, mais faut pas oublier ces points la)",
+        "date": "2024-10-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Moins de finances publiques disponibles , hausse des coûts de production, délocalisation. Même si le titre paraît surprenant, ça a le mérite de mettre en avant les coût indirect des choix concernant des politiques durables. Quoique il en soit, cet investissement même si il n'est peut être pas au top permet a la France detre dans le top des nations dans l'industrie du nucléaire.",
+        "date": "2024-10-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les déchets ont déjà des solutions (et personnes n'a été en contact avec les déchets nucléaire français faut savoir faire la différence entre risque et danger).\nQuand aux mines, je rappelle que pour l'instant toute les technologies de production d'énergie sont en cycle ouvert et donc ont des processus minier pour leur construction (et oui la construction d'un réacteur à plus d'impact que l'extraction de l'uranium dont l'une des principales sources est la lixiviation in situ une des procédés minier les moins pire (c'est pas super c'est sur mais y a toujours pire malheureusement). A ajouter à cela que beaucoup de l'uranium mondial est un co produit (on exploite une mine pour un autre produit et en même temps on récupère l'uranium ) franchement c'est pas si pire.\nLe nucléaire est une des technologie nécessitant le moins de ressources pas mwh faisant d'elle une des moins extractivisme.",
+        "date": "2024-10-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Il y a extrêmement peu de déchets, et on a des solutions pour ceux-ci (enfouissement en profondeur).\n\n&gt;Et l'approvisionnement en ressources minières.\n\nFaut comparer aux autres sources d'énergies.\n\nIl faut entre 250 et 1400 éoliennes pour atteindre la production d'une centrale nucléaire en France, ça dépend de quel type d'éoliennes, du vent, etc... Sans compter que les éoliennes ne produisent pas forcément au moment des pics de consommation.\n\nConstruire autant d'éoliennes coûterait plus qu'une centrale nucléaire à la construction (en argent et en matériaux) et à la maintenance. Sans parler de la place que prendrait ces éoliennes.\n\nIdem pour les barrages hydroélectriques,en plus de détruire une partie du terrain alentour, ça coûterait plus à la construction.\n\nY a pas de solution miracle, y a des pour et des contres pour chaque source d'énergie. Mais le nucléaire est la meilleure solution.",
+        "date": "2024-10-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Aussi un héritage gaulien (napoléonien ?) de folie des grandeurs qui fait qu'on ne sait faire que du colossal (en vrac tgv, avions, fusées, nucléaire, armement, j'en oublie), mais si tu veux un t-shirt il faut qu'il vienne de l'autre bout de la planète...",
+        "date": "2024-10-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Il faut tenir compte que tu compares une technologie qui a - quoi ? - 60 ans d'utilisation commerciale et qui a englouti des fond inégalés en recherche à une technologie qui n'a pas 20 ans. Surtout quand tu parles du coût de reviens. Sinon on fait jamais rien de nouveau en fait.\n\nLe sujet de l'article n'est pas ailleurs pas de trancher entre l'un ou l'autre, donc amener ça ici c'est soit croire qu'il faut avoir du nucléaire et rien d'autre, soit avoir un trouble obsessioniel compulsif pour l'atome.\n\nJe ne suis pas d'accord avec ton idéalisation du nucléaire mais ce n'est pas le sujet.",
+        "date": "2024-10-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La première éolienne date de 1888, si aujourd'hui le monde n'utilise pas en majorité cette technologie c'est bien parce qu'il y a eu mieux comme source d'énergie.\n\nComme je l'ai dis plus haut aucune source d'énergie n'est parfaite, mais aujourd'hui tu ne fais pas mieux que le nucléaire.",
+        "date": "2024-10-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "On parle ici de génératrice houlomotrice à flotteurs, la première date de 2008.\n\nComme je l'ai dit plus haut je n'accorde aucun crédit à votre évaluation du nucléaire.",
+        "date": "2024-10-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "En continuant à taper dans le charbon. Il me semble que si la France des années 1980 a fait le choix du nucléaire c'est en partie parce que ses mines de charbons étaient pas loin d'être vides (en tout cas certainement pas pour des considérations écologiques).",
+        "date": "2024-10-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Du coup, c'est plutôt une bonne chose d'avoir fait cet investissement dans le nucléaire.",
+        "date": "2024-10-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je suis complètement d'accord. Je trouve que les gens en France particulièrement surestiment énormément leur pouvoir face au problème climatique. Les autres réponses confirment déjà ton argument que l'action individuelle a un effet complètement négligeable sur le problème: ça parle d'écologie des gestes, d'impacter son entourage en prenant des décisions plus écologiques, etc. Donc pour une partie des écologistes sur ce même sub, c'est clair que ce n'est pas en allant tous à vélo entre amis que le problème va être résolu. En plus, on fait ça en France, un des pays au monde (développé) qui est déjà en tête des solutions decarbonées (avec le nucléaire en tête d'affiche).\n\nPour moi cet état d'esprit tourne très très facilement en tribalisme classique tout bête. Les gens écolos sont entre eux, ils ont tous leurs vacances low carbon, leurs vélos électriques, leurs brosses à dents en bambou, bref. Ils critiquent les gens qui prennent l'avion pour aller en vacances, qui roulent en voiture ou encore qui mangent de la viande et du coup ça les différencie du reste des mortels. Ça devient comme n'importe quelle autre tribu urbaine. Cela est encore plus clair quand on voit que les mêmes acteurs capitalistes profitent du faible control émotionnel des gens qui pensent appartenir à l'élite écologique, en créant des biens et services \"éco conçus\", qui sont partout en ce moment, en rajoutant un emballage réduit et un autocollant vert sur essentiellement les mêmes produits qu'avant, juste en le vendant bien plus chères. \n\nEt je suis d'accord que les gestes comptent, et que l'impact que l'on peut avoir sur les autres est *un peu* plus important que nos actions individuelles, mais au moins que vous soyez un influencer où un politicien, vos efforts pour réduire votre impact carbone risquent d'être que du sacrifice religieux. L'action la plus puissante qu'un citoyen quelconque peut avoir c'est de prendre le bon choix aux élections de son pays/région/municipalité.",
+        "date": "2024-10-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;On pourrait également remplacer les pneus en caoutchouc par des roues en acier qui rouleraient sur des rails pour diminuer les pertes liées à la friction sur l'asphalte ainsi que supprimer une source de pollution\n\nCe qui multiplie aussi le coût de l'infrastructure par 3 ou 5, et relègue son déploiement à un horizon que même le nucléaire parait court terme en comparaison. En attendant on continuera à cramer du pétrole et à financer des dictatures.\n\n&gt;Et si on les met sur une voie dédiée, éloignée du trafic routier on pourrait rassembler des centaines de camions ensemble qui partageraient le plus gros du trajet et se sépareraient pour faire le dernier kilomètre.\n\nÇa s'appelle du truck platooning. Pas besoin de les mettre sur une voie séparée. On peut mutualiser l'infrastructure comme ça. Et ce système exclut les voies ferrées qui ne sont pas assez souples pour ça.\n\n&gt;En plus comme ça on diminue le nombre de conducteurs nécessaires\n\nPas si tu veux justement faire le dernier kilomètre sans attendre une demi-journée.\n\n&gt;on optimise encore le rendement énergétique grâce à des gains sur l'aérodynamique du convoi\n\nOui, c'est le principe du truck platooning.\n\n&gt;Je pense même que l'on pourrait proposer certains emplacement de fret à des bus de passagers qui souhaitent effectuer les mêmes trajets...\n\nHé oui, comme ça les passagers verront leur temps de trajet multiplié par 10. Ils vont être tellement contents !\n\n\n\nIl y a des raisons au fait que le fret ferroviaire ne s'est imposé *nulle part sur Terre* pour de la desserte fine et rapide. Même en Suisse où l'État a investi massivement, ils ne sont qu'à [un peu plus d'un tiers](https://www.bfs.admin.ch/bfs/fr/home/statistiques/mobilite-transports/transport-marchandises/rail.html).",
+        "date": "2024-10-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Au contraire, on est pas dans un top pays du tout, le top pays ce serait genre le Bhoutan sans accès à la consommation de masse. Le nucléaire c’est comme la voiture électrique",
+        "date": "2024-10-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mais comme la vraie solution décarbonée c'est de ne pas être \"développé\", le nucléaire ce n'est qu'un pantin. Pour reprendre Barrau, \"quelle suffisance\".\n\nJe vois ce que tu veux dire, mais le choix des mots est important car comme ce que décrit op, le vrai soucis c'est notre système, agiter la voiture électrique ou les petits geste en solution nous fait oublier, du moins ne nous questionne pas, sur la remise en cause de notre système via nos choix, nos habitudes, nos aspirations et notre logiciel intellectuel. Et même si parmi nous on \"le sait\", c'est pas pour ça qu'on est prêt à abandonner ce système.",
+        "date": "2024-10-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Vous pourrez tourner le problème dans tous les sens que vous voulez, je vais rester cynique face à la politique énergétique de notre voisin allemand qui cherche toujours à foutre des bâtons dans les roues du nucléaire français.\n\nEt vous avez raison parce que l'Allemagne investi énormément dans l'hydrogène précisément pour pouvoir s'en passer de ces centrales à gaz et charbon qu'ils ont été obligés de prolonger en raison de l'arrêt du programme nucléaire.\n\nPour arriver à s'en passer de leurs centrales fossiles et attendre les objectifs climatiques le gouvernement Allemand compte pouvoir importer de l'hydrogène vert issu des renouvelables éoliennes de la mer du nord ( produit par la Norvège et pays bas) et du hydrogène vert issu du photovoltaïque produit par le Maroc. Si tu creuses un peu tu verras qu'il a déjà des pipelines de gaz en reconversion pour permettre cela dans les années à venir.",
+        "date": "2024-10-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Et vous avez raison parce que l'Allemagne investi énormément dans l'hydrogène précisément pour pouvoir s'en passer de ces centrales à gaz et charbon qu'ils ont été obligés de prolonger en raison de l'arrêt du programme nucléaire.\n\nBeeeen ça me paraissait logique et lié, oui.\n\nTiens, à propos de gaz et d'hydrogène: est-ce que les terminaux GNL ont la moindre chance de servir à quelque chose, ou on a juste ces saletés sur le dos pour les 30 prochaines années ?",
+        "date": "2024-10-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mais quelle bande de bras cassés… Greenpeace encore aux abois pour détruire l’environnement \nEn attendant ils jubilent sur l’allemagne qui fonctionne au charbon , tant que cela convient à leurs idéologies anti-nucléaires.\n\nL’étude du projet à été faite en bonne et due forme, la quantité d’eau pour le réacteur est tout bonnement typique et oui pour pouvoir accueillir tout le beau monde (centrale, condensateur, refroidissement, bureau administratif, garde et surveillance etc) les travaux sont d’envergures.",
+        "date": "2024-10-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;&gt;Peut-être qu'une petite sélection naturelle ne ferait pas de mal en ce qui concerne la lutte contre le dérèglement climatique.... /s\n\n&gt;Et je suis très premier degré. Et on ne devrait même pas faire l'effort d'essayer de les sauver.\n\nEt ceux-là ont quand même un impact limité sur le reste de la société car leur connerie coûtera, dans le pire des cas, leur vie et la vie de ses enfants.\n\nIl m'inquiète plus ceux qui essayent de divulguer leur connerie ou la imposer à la société, par exemple par moyen d'influence sur des gens en position vulnérable (complotistes qui essayent de recruter des jeunes par les réseaux sociaux) ou par moyen associatif (par exemple les anti-nucléaire).",
+        "date": "2024-10-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Et dans le même temps, EELV lance une manif' anti-nucléaire à Rouen....",
+        "date": "2024-10-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je donne mon opinion, comme toi et OP. Bon, sur les leviers technologiques, je pense que c'est assez connu. \n\nD'abord, il faut être clair, à moyen terme, il y aura un certain réchauffement, donc, oui, le ski dans le massif central, dans 30 ans, c'est probablement fini (sauf si le Gulf Stream s'arrête), ce n'est pas terrible pour ceux qui ont investi dans des résidences de vacances au Mont Dore, mais pas l'arrêt de notre civilisation. Et dans ce réchauffement, il y a un point vraiment critique, le rendement agricole, et les études faites sur le sujet montrent que dans un scenario relativement pessimiste (où on brûle plus que tout le pétrole restant, ce qui veut dire une hausse de 4 degrés si je me souviens bien), il y aurait, toute chose égale par ailleurs, de 5 à 15% de baisse de rendement agricole à l'horizon 2100, baisse qui sera probablement largement compensée par les progrès en agronomie.\n\nEt donc, il faudra gérer les changements de climat et une légère montée du niveau de la mer avec des digues, des logements robustes au vent fort, des climatiseurs pour l'été, des usines de déssalement de l'eau de mer...\n\nA plus long-terme, on va effectivement remplacer l'énergie carbonnée par l'énergie décarbonnée, le nucléaire classique ou de surgénération (uranium / plutonium / thorium), une filière qu'à cause des écologistes des années 90, nous avons bêtement arrêté. On peut coupler cela avec des renouvelables massifs, ce qui a été en partie fait par exemple en Allemagne sans ruiner le pays, d'autant que de nouvelles technologies, comme les batteries géantes, permettent de mieux gérer ces renouvelables. Il faut aussi remplacer le charbon par l'hydrogène dans les filières métallurgiques. Tout ceci existe, et continue à monter en maturité.\n\nEt tout ça, c'est ce qui est connu, les gros titres, mais il y a aussi des milliers d'innovations dans la science des matériaux, l'agronomie, la chimie, l'électronique et bien d'autres domaines, avec un nombre toujours croissant de chercheurs et d'ingénieurs. Et il y a, par dessus, l'arrivée de l'IA dont je pense on mesure mal encore tout ce qu'elle va changer, et ce, même si l'IA n'arrive pas à l'AGI (Artificial General Intelligence). Sur certains sujets, déjà, travailler avec l'IA augmente la productivité d'un facteur 1 à 30.",
+        "date": "2024-10-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Alors, tu parles beaucoup de choses qu'on \"devra faire\", mais sans aucunement parler du chemin qu'il reste à parcourir pour pouvoir utiliser lesdites technologies. Par exemple, le thorium, bah c'est encore que de la recherche, rien de concret. L'uranium, on commence à voir le début de la pénurie. Filière qu'on a JAMAIS arrêté, contraitement à ce que tu dis. Source : j'ai un master en physique nucléaire appliquée.\n\nAussi, tu parles de réchauffement climatiques, alors que c'est bien un *dérèglement* qui arrive. C'est tour de suite beaucoup moins facile à prédire/contrecarrer.\n\nEt les innovations c'est cool, mais encore faut il réussir à les concrétiser. Rendre viable un techno c'est infiniment plus complexe que de trouver cette dite techno.\n\nL'IA pollue plus qu'elle n'aide. Source : cherche \"pollution IA\".\n\nJ'ai l'impression que tu as une base de culture générale sur le sujet, pas affreuse, mais clairement pas assez poussée pour avoir un avis tranché comme tu te le permets.",
+        "date": "2024-10-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sauf erreur de ma part, le thorium, la Chine s'y met avec les premières applications industrielles (la construction du réacteur commence l'an prochain), et si j'ai bien compris, il n'y a rien de plus dans la technologie que de la surgénération que nous maîtrisions déjà dans les années 90 (Phenix / SuperPhenix), l'uranium en utilisation classique, il nous reste une bonne centaine d'années de réserve je crois, mais avec la surgénération, ça peut durer extrêmement longtemps.\n\nOui, je sais que déployer une technologie est autre chose que la découvrir en labo. Par contre, ça va quand même de plus en plus vite, et tous ceux qui prédisent comment ça va se passer se plantent  en général, soit en prédisant les voitures volantes pour après-demain, soit en ronchonnant que rien n'est possible façon JM Jancovici (dont j'admire en général les analyses, mais dont je pense que ce point-là est son talon d'Achille). Au passage, il y a maintenant des initiatives pour faire du nucléaire plus souple / plus rapide, l'émergence d'un acteur qui fasse au nucléaire ce que Space X a fait au spatial (complètement massacrer les acteurs existants) semble assez probable.\n\nSur l'IA, les études faites actuellement sur la pollution qu'elle engendre ne valent à mon avis pas grand chose, la technologie étant encore en train à la fois de trouver ses usages, et d'optimiser son matériel (Tesla est notamment en train de construire des puces faites exactement pour l'entraînement de l'IA, et faire des puces spécifiques à un usage plutôt que générales peut multiplier l'efficacité énergétique par un facteur 5 à 100). Ce que je constate, c'est qu'on peut déjà aujourd'hui sur certaines tâches remplacer un mois de travail d'un humain (soit 2000€ dont on va dire 10-20% en énergie pure) par 20€ d'IA. Et l'ordinateur permettant a peu près la conduite autonome consomme je crois 200W. 200W pour remplacer un conducteur, c'est plutôt bien.\n\nBon, quand on met tout cela ensemble, c'est impossible de prédire exactement si ça va 'passer crème' (on déploie le solaire, l'hydrogène et le nucléaire et il n'y a pas de baisse du niveau de vie), si ce sera dur (la même chose avec le retour à un mode de vie plus basique, par exemple, de la viande 3 fois par an, maisons peu chauffées, on repasse au porno sur DVD plutôt que sur Internet...), ou s'il y aura des drames majeurs, mais même dans le pire des cas, je ne vois aucun scenario où la France ne peut survivre avec a peu près sa population actuelle.\n\nJ'ai l'impression que tu as une base de culture générale sur le sujet, pas affreuse, mais clairement pas assez poussée pour avoir un avis tranché comme tu te le permets ;-)",
+        "date": "2024-10-13",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Rappel: en France un déchet est classé comme radioactif (tfa ou autre) en fonction de son endroit de production, selon un [zonage déchet](https://www.irsn.fr/sites/default/files/2023-03/irsn_livret_dechets_radioactifs.pdf).      \nLe bâtiment réacteur est, en entier, une Zone à Déchets Nucléaire.    \nDonc **tout** déchet produit dans le bâtiment réacteur, entre autres, sera un \"déchet radioactif\", tfa à minima; quelque soit sa radioactivité. Aucun argument ne permet de dire \"regardez, je mesure, je trouve rien, c'est pas radioactif !\", la règle c'est \"produit en zdn = filière déchet radioactif\"; la fameuse \"libération\" .        \n\nJe vous laisse deviner l'effet que ça a sur les estimatifs de \"déchets radioactif\", et le coût de leur gestion. Les mauvaises langues diront que c'était le but.      \n\nÇa vous semble overkill? L'Académie des Sciences [aussi](https://www.academie-sciences.fr/fr/Rapports-ouvrages-avis-et-recommandations-de-l-Academie/gestion-responsable-raisonnee-matieres-dechets-radioactifs.html): \"des seuils de\nlibération doivent être définis pour que l’essentiel des matériaux, en fait non radioactifs, issus des opérations de démantèlement, puissent être utilisés ou stockés de manière conventionnelle.\".     \n\nÀ vous maintenant de compter les média qui jugeront pertinents de mentionner le contexte ci-dessus en parlant de cette nouvelle réglementation, ou qui s'arrêteront aux fourchettes.",
+        "date": "2024-10-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Et c'est ce genre de complaisance dans la peur et l'ignorance qui nous abrutissent.   \nDe croire que la radioactivité n'existent que dans la [pollution humaine](https://remap.jrc.ec.europa.eu/Advanced.aspx), grimper aux rideaux dès qu'on entend parler de [Bq](https://www.irsn.fr/savoir-comprendre/environnement/bilan-qualite-radiologique-eaux-conditionnees-produites-france-2012).       \n\nEt après on se plaint qu'on devrait écouter les scientifiques.   \n\nOui, avoir plus peur d'une clef à molette qui a eu le malheur d'être passée dans une zone qui a jamais vu un neutron avant de devenir une poignée de porte que d'un rbnb en Bretagne ou un [vol en avion](https://www.sievert-system.org/#Calcul); pour un bain de soleil sur une plage [brésilienne](https://m.youtube.com/watch?v=RvgAx1yIKjg) ou une cure en [Allemagne](https://www.forbes.com/sites/geoffreykabat/2019/02/02/in-germany-and-austria-visits-to-radon-health-spas-are-covered-by-health-insurance/?sh=6013590155c4).     \n\nL'Académie de Médecine, \"Radioprotection et communication\", [1999](https://gallica.bnf.fr/ark:/12148/bpt6k62620763/f187.image)\n\nL'OMS, en [2020](https://www.who.int/publications/i/item/9789240015456) \"Lessons learned from past radiological and nuclear accidents have demonstrated that the mental health and psychosocial consequences can outweigh the direct physical health impacts of radiation exposure.\"\n\n\nPour répondre à ta question, je rêve d'un monde où le plus grand risque pour ma santé soit des poignées de portes issues de métaux recyclés en dessous de seuil de libération.     \n\nFun fact: les seuils de libérations sont bien souvent inférieurs à ce qui peut se trouver dans la nature. Même dans des pays avec libération (US par ex), des métaux issus d'industrie non nucléaire sont recyclés alors que d'autres moins radioactifs mais issus de l'industrie nucléaire partent en déchets.      \nIls sont où les défenseurs du recyclage ?",
+        "date": "2024-10-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "J'imagine qu'on aura des écolo anti nucléaire qui seront contre.\n\nLe but de cette fonderies est de recycler les métaux issues du démantèlement des centrales nucléaires.\n\nElle va être installée sur le terrain de la centrale de Fessenheim.",
+        "date": "2024-10-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Assez intelligente pour reconnaitre du sealioning quand j'en ai sous les yeux. Une personne aussi énergique à défendre la filière nucléaire qui ignorerait la guirlande de scandales liés à ce secteur c'est juste trop gros pour être pris au sérieux.\n\nBonne continuation.",
+        "date": "2024-10-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "En tout cas, faut pas compter sur eux pour partager l'avis de L'OMS sur le sujet, parce que... Bill Gates contrôle l'OMS il paraît.    \nC'est pas moi qui le dit, [c'est](https://aje-environnement.org/wp-content/uploads/2020/02/Dossier_presse_ActionJO_web-1.pdf) l'association des journalistes environnement. \"L'OMS n'a d'ailleurs plus la maitrise de sa politique censée protéger la santé de la population mondiale puisque plus de 80 % de son financement dépend désormais de « contributions volontaires » dont celles des pays nucléarisés (USA, GB et France) , de la Fondation Bill et Melinda Gates et des fondations pharmaceutiques\".    \nIls savent manifestement mieux que nous ce que méritent de savoir le bon peuple français; les académies des sciences ou de médecine ne font pas le poids.   \nMerci L'AJE de nous protéger contre la propagande du lobby nucléaire /s",
+        "date": "2024-10-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Du coup pas de soucis pour en équiper toutes les maisons des pro-nucléaire, des bourgeois et des décideurs de cette mesure.\n\nÇa devrait suffire à écouler les 500.000 tonnes.",
+        "date": "2024-10-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Du coup, non il y a pas de soucis.\n\nEst-ce que ça sera fait ? Non, à mon grand regret également, et ça serait un excellent coup de com' pour atténuer la sale réputation du nucléaire en Europe.",
+        "date": "2024-10-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Deux réponses. L'une basée sur l'irrationnalité, l'autre rationnelle.\n\nLa première est : ils ne veulent ni réacteurs, ni démantèlement, ni déchets. C'est incohérent mais ça ne les intéresse pas. Ils seront contre, quelle que soit l'activité dont tu leur parles.\n\nLa seconde est cynique. Pas de démantèlement, c'est pouvoir continuer à dire que le nucléaire est inacceptable, qu'on ne sait pas démanteler et qu'on lègue les risques aux générations futures pour les siècles à venir. Ça fournit un argument au discours antinucléaire.",
+        "date": "2024-10-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ah c'est anti nucléaire primaire me fascine c'est comme les platistes.\n\nOu les climatoceptique",
+        "date": "2024-10-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;La première est : ils ne veulent ni réacteurs, ni démantèlement, ni déchets. C'est incohérent mais ça ne les intéresse pas. Ils seront contre, quelle que soit l'activité dont tu leur parles.\n\nIl veulent rien ? Qu'il aille vivre nue dans la nature.\nLes déchets ce faut problème du nucléaire. \n\nJ'espère qu'il prennent jamais l'avion il risquerait de se faire irradier.",
+        "date": "2024-10-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "« On ne peut pas comparer aux doses en avion parce que c'est de la radioactivité naturelle alors que les déchets c'est de la radioactivité du nucléaire ». Argument réellement énoncé hier. On parle de gens qui n'ont pas encore franchi le cap d'aller au-delà de « naturel c'est bon, de synthèse c'est mal ».\n\nEn plus c'est en partie faux : le Technocentre aura pour client important Orano, qui voudrait y envoyer les diffuseurs de l'usine d'enrichissement Georges Besse I et des fûts de l'usine Malvési ; c'est donc bien de radioactivité naturelle dont on parle pour ces déchets-là.",
+        "date": "2024-10-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ah je censure rien (je n’ai aucun pouvoir sur Reddit), j’illustre, en restant sur le thème du sujet (nucléaire) l’avis général sur Reporterre (que je partage hein).",
+        "date": "2024-10-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Que dire ?\nLe low effort semble inévitable face à une telle question.\nNotre trajectoire semble écrite à l'avance.\n\nFaut il donc espérer un hiver nucléaire pour arrêter ça ?\nCar sur le plan géopolitique on en prend le chemin depuis quelques années. \n\nJe lance le débat.",
+        "date": "2024-10-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ca me semble évident. Outre le fait de réguler le climat ça permettrait de faire un peu le ménage et de réduire la population. Puis y a qu'à voir Tchernobyl, la nature s'en sort très bien, donc ce serait pas si terrible après tout.\n\nCe qu'il faut pas lire. N'hésite pas à envoyer spécifiquement ton adresse si la Russie décide d'effectuer une frappe nucléaire, pour montrer l'exemple.",
+        "date": "2024-10-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je crois que tu n'as pas saisi le ton de mon questionnement. Pas grave.\n\nCe que je veux dire c'est que pour se soucier des enjeux du climat à horizon 2040, voire 2050, encore faut-il qu'il y ait encore une humanité sur Terre.\n\nOr j'ai de plus en plus l'impression qu'on joue avec le feu sur la question d'une éventuelle guerre nucléaire, les stratèges de la guerre froide n'étant plus aux affaires depuis longtemps.\n\nCertes, ça dépasse le strict cadre de l'écologie.",
+        "date": "2024-10-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le mix énergétique européen n'a pas de sens. Les pays du nord veulent installer des panneaux solaires et les italiens investissent dans le nucléaire.\n\nJe ne suis pas contre le nucléaire mais avec leur niveau de corruption et l'état de certaines de leurs infrastructures, je ne suis pas complètement serein.",
+        "date": "2024-10-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dans ce cas là il y a plus qu'à prier pour que les ingénieurs italiens trouvent une manière de construire du nucléaire antisysmique :/",
+        "date": "2024-10-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Le mix énergétique européen n'a pas de sens. Les pays du nord veulent installer des panneaux solaires et les italiens investissent dans le nucléaire.\n\nNon, tu racontes n'importe quoi.\n\nLes pays du nord investissent majoritairement dans l'énergie éolienne et hydraulique. Il en produisent tellement qu'il y a plusieurs projets visant à acheminer cette énergie vers le reste de l'UE.\n\nL'exploitation du photovoltaïque dans l'UE reste marginale par rapport à des pays comme le Maroc..\n\n[https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023](https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023)\n\nhttps://preview.redd.it/a4k2nv7cqbwd1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=37c3a351a3dd88248cd6836795e80702676009a5",
+        "date": "2024-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Le mix énergétique européen n'a pas de sens. Les pays du nord veulent installer des panneaux solaires et les italiens investissent dans le nucléaire.\n\nNon, tu racontes n'importe quoi.\n\nLes pays du nord investissent majoritairement dans l'énergie éolienne et hydraulique. Il en produisent tellement qu'il y a plusieurs projets visant à acheminer cette énergie vers le reste de l'UE.\n\nL'exploitation du photovoltaïque dans l'UE reste marginale par rapport à des pays comme le Maroc..\n\n[https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023](https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023)\n\nhttps://preview.redd.it/39y1rpujqbwd1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=06e914e1d4e900107c6a113724842d6b78da723e",
+        "date": "2024-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les gouvernements de droite autoritaire (voir d’extrême droite) aiment bien le nucléaire : puissance, centralisation, possibilité d’en faire une arme…",
+        "date": "2024-10-23",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;A voir comment c’est géré et construit, ça pourrait être une nouvelle inquiétante vu les risques sismiques du pays…\n\nC'est inquiétant pour ceux qui ne comprennent pas grand-chose au nucléaire.\n\nFaut se souvenir que l'accident de Fukushima n'était pas directement lié aux plusieurs séismes qui ont eu lieu mais à une vague géante d'eau qui a inondé la centrale. La centrale nucléaire a été construite pour résister aux séismes...\n\nEnsuite le nombre de morts liés au accident de Fukushima est marginal par rapport au nombre de morts provoqué par les séismes et vagues géantes.\n\nIl n'y a aucune raison pourquoi une centrale nucléaire puisse être construite en Italie.\n\nTout ça ne fait que souligner l'importance de la recherche sur des réacteurs à neutrons rapides, car ce type de réacteurs nucléaires ne sont pas capables de soutenir la réaction nucléaire sans influence extérieure, ou autrement dit, la réaction nucléaire s'arrête dès qu'on arrête de fournir du combustible.",
+        "date": "2024-10-23",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Yep mais bien fabriqué pas de soucis.\n\nLe Japon est le signe : Fukushima a pris mais car gérer pas des branques.\nLa centrale nucléaire de Tokaï, plus proche de l'épicentre , a plutôt bien survécu",
+        "date": "2024-10-23",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Une centrale nucléaire ça peut être une cible à la rigueur, mais une arme 🤔",
+        "date": "2024-10-24",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "C’est pas non plus les mêmes densites de population et les possibilités du terrain.\n\nDans les pays nordiques exemple la Norvège, alors oui ils ont essentiellement des barrages mais le pays c’est 5 ou 6 millions d’habitants. Dans une zone où il y a de quoi faire. Dans ces conditions, en moyenne un norvégien consomme deux fois plus d’énergie qu’un français.\n\nLe nucléaire en termes d’énergie fournit en fonction du terrain occupé est très intéressant et a le mérite d’être continu (directement, sans la construction de mini barrage).\n\nConstruire un réacteur, faut avoir les connaissances etc. Même en supposant une corruption c’est pas si simple.\nPar exemple pour les connaissances encore présente, en France on a des manques sur la soudure. On paye notre désindustrialisation et ça sera sûrement le cas de l’Italie.",
+        "date": "2024-10-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dès qu'on parle de l'hydrogène c'est toujours le même argument. Les gens ne réfléchissent même pas, ils régurgitent toujours les mêmes arguments.\n\nC'est comme pour le nucléaire en revanche, *Cé PaS SûR et On Ne SaiT PaS QuOi fAiRe AvEc LeS déChEtS!*",
+        "date": "2024-10-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "En Europe on essaye aussi de reconvertir les gazoducs existants. Si tu creuses un peu la carte interactive que j'ai partagé tu t'en rendras compte que vers le nord il y a déjà pas mal de projets de reconversion de pipelines de façon à acheminer les quantités colossales d'hydrogène vert produit à partir des éoliennes offshore dans la mer du Nord.\n\nAprès, l'article parle spécifiquement de l'Algérie mais il y a aussi des projets pour importer de l'hydrogène vert à partir du Maroc (qui est un pays relativement plus stable que l'Algérie).\n\nIl paraît que l'Allemagne est le pays qui bénéficiera le plus de cet hydrogène importé car ils en ont besoin pour remplacer leurs centrales à charbon et au gaz naturel... Tout ça parce qu'ils ont décidé que le nucléaire était mauvais 🤷",
+        "date": "2024-10-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "On a déjà parlé de ce sujet plusieurs fois et vous insistez toujours sur le même point.\n\nSi Airbus cherche une solution pour rendre leurs avions zéro émission alors bien évidemment quand on parle d'hydrogène dans ce contexte il s'agit **de l'hydrogène vert** bas-carbonne produit à partir d'énergie renouvelable ou nucléaire.\n\nSi l'objectif était d'utiliser l'hydrogène gris d'origine fossile alors Airbus n'aurait pas à se faire chier à convertir le gaz naturel en hydrogène, le gaz naturel serait utilisé directement dans ses avions 🤷\n\nRéfléchissez un peu svp, ce n'est pas trop d'effort.",
+        "date": "2024-10-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je crains qu'ils essayent de faire un avion nucléaire avant",
+        "date": "2024-10-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je n'ai rien contre les ENR, mais l’intermittence aussi bien temporel que physique est un vrai problème et leur principal défaut qu'on le veuille ou non.\n\nJ'en veux par contre à tous les \"écologistes\" de gauche qui essayent de nous faire croire sur la base de mensonges idéologiques que les ENR sont la solution miracle et qu'ils faut faire du 100% alors qu'on sait très bien que çà ne peut pas marcher.\n\nJ'en veux aux politiques des 40 dernières années qui ont tout fait pour détruire l’industrie du nucléaire français, des personnes comme Voynet devraient être en prison à l'heure actuelle.\n\nJ'en veux tout particulièrement à Jospin puis Macron qui ont successivement enterré la filière de la surgénération avec Superphenix puis Astrid, alors qu'on sait très bien que la surgénération c'est l'avenir de la production énergétique, que sans eux (surtout Jospin) on serait probablement aujourd'hui les leaders mondiaux de cette technologie et qu'on aurait une capacité de production d'électricité sur plusieurs millénaires vu notre stock de plutonium (le 2ème mondial) et qu'on serait indépendant sur notre approvisionnement.",
+        "date": "2024-10-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nucléaire plus ou moins. \nL'hydraulique aussi dans une certaine mesure, bien qu'elle ne prend pas le relais (remplacement de l'existant, vu qu'on est a capacité max) elle fait partie du mix comme une énergie pilotable.",
+        "date": "2024-10-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Il est difficile de miser sur l'hydraulique vu qu'il est impossible de construire de nouveaux barrages en France. Et compte tenu du changement climatique, c'est difficile de parier sur l'abondance en eau.\nEt faire du pilotage avec du nucléaire c'est un non sens économique. A moins de vouloir assumer l'explosion de la facture.",
+        "date": "2024-10-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je suis d'accord avec toi sur l'hydraulique mais pilotage = donner quand le reseau en a besoin. L'hydraulique a cette capacité tout comme le nucléaire, je comprends pas ton point.\nDe plus le nucléaire reste quans même une energie peu coûteuse, c'est ce qui a permis a la france de proposer un prix faible d'energie contrairement aux allemands qui sont au charbon.\nPour ce qui concerne l'eau je suis pas assez renseigné.",
+        "date": "2024-10-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le problème de l'hydraulique, c'est que ces dernières années les niveaux étaient très bas et donc la production incertaine. Et ca ne va pas s'arranger avec le changement climatique. Donc quelque part il faut prévoir des moyens de production de secours (lesquels ?) pour l'hydraulique qui lui même serait le relais des renouvelables. Ce n'est pas le plus efficient, et le moins coûteux d'empiler les moyens de production.\nEt non le nucléaire n'est pas un moyen de production peu cher. Construire (et démanteler) une centrale, ca coute des milliards. Pour rembourser ces sommes il faut que la centrale vende de l'électricité en grande quantité, et là ca commence a être intéressant dur les prix. Une centrale qui ne produit pas coûte très cher contrairement à une centrale au gaz ou au fioul. Donc si tu l'utilises pour pallier l'intermittence des renouvelables, comme elle produit moins, le kWh doit être vendu plus cher. Donc la facture des clients va augmenter.",
+        "date": "2024-10-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Et puissance installé carboné ça donne quoi ?\nCerte, ils sont très fort pour de0loyer beaucoup d'enr, nucléaire etc\nMais aussi très fort pour déployer des centrales à charbon ou à gaz",
+        "date": "2024-10-29",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Et tout ça en ralentissant considerablement le deployment du nucléaire.",
+        "date": "2024-10-29",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Bah le rendement de l'hydrogène c'est quelque chose comme 30-40% c'est effectivement pas terrible. \n\nPas terrible comparé à quoi ?\n\nSais-tu combien c'est le rendement d'un moteur thermique aujourd'hui ? C'est environ 35%. Et le rendement de toute la chaîne d'extraction de pétrole, raffinage, transport etc .. ? Est-ce que t'as l'impression que ce faible rendement a empêché le monde de s'en servir et abuser de la consommation d'hydrocarbures ?\n\nPourquoi alors faire une obsession avec le rendement de l'hydrogène et oublier toutes les autres avantages qu'il offre, dans certains cas étant la seule solution qu'on a de décarbonisation?\n\nPuis c'était combien le rendement d'un moteur à combustion interne il y a 80 ans ?\nUne voiture des années 40s consommait en moyenne 14L/100km or qu'aujourd'hui c'est plutôt 6L. On a réduit à moitié la consommation d'une voiture tout en ajoutant tout type d'extras pour le confort et sécurité.\n\nDe la même façon ne penses-tu qu'on doit s'y attendre à un amélioration du rendement des technologies liés à l'hydrogène vert fur et à mesure que cet usage se démocratise ? Jusqu'à présent la production et consommation d'hydrogène était un niche industriel qui en plus utilisait des procédés de production (vaporéformage du méthane) différents de ce qu'il va falloir utiliser pour produire de l'hydrogène vert (électrolyseurs, thermocraquage d'eau, nucléaire, etc..).\n\nSi l'hydrogène nous permet de stocker des quantités colossales d'énergie (par exemple dans des cavités salines) en contrepartie d'une perte d'énergie à stocker, pourquoi cela serait une solution inacceptable face par exemple les batteries qui ont un rendement largement supérieur mais utilisent massivement plus de ressources premières (lithium, cuivre, etc.. ) qui en plus sont rares dans les pays de l'UE ?",
+        "date": "2024-10-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est surtout les [11 nouvelles centrales](https://www.lesechos.fr/monde/chine/chine-feu-vert-a-11-nouveaux-reacteurs-nucleaires-2114275) nucléaires, en plus des 25 déjà en construction qui vont décarboner l'économie chinoise.",
+        "date": "2024-10-29",
+        "sentiment": "positive"
+    },
+    {
+        "text": "De mon point de vue, le point négatif principal, c'est que quand tu n'as plus l'argent/la stabilité politique/les matières premières importées/l'eau pour entretenir une centrale nucléaire, et que tu te refuses à l'arrêter parce que tu as vraiment, vraiment besoin de l'électricité en question, tu risques assez gros.\n\nAprès, c'est infiniment mieux que le charbon, et c'est probablement notre seule solution si on continue à avoir besoin d'énergie. C'est pas ChatGPT qui va nous faire économiser des GigaWatts :(",
+        "date": "2024-10-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le Crayon a fait une video d’un debat entre une anti-nucleaire et une pro-nucleaire. Mais en gros, le mouvement anti-nucleaire est né de la peur d’événement comme chernobyl (malfonction lié au contexte de l’union soviétique) et fukushima (accident lié a seisme+tsunami, au final cet accident nucléaire n’aura fait aucun mort).\n\nDonc la peur d’un accident nucléaire reste une croyance, surtout que les usines a charbon tue beaucoup plus de gens chaque année en polluant l’air bref\n\nLes points negatifs sont le coût, le temps de construction/demantelement, la gestion des déchets nucléaire. A savoir que ces déchets sont très bien géré et complètement inoffensif.\n\nEn conclusion, l’énergie nucléaire est la meilleure chose dont l’on dispose actuellement. Ca a des points negatifs, mais toujours moins que ses alternatives. (Les energies renouvelables ne sont pas une réel alternative car moins puissant et/ou non-pilotable)\n\nLe futur ? L’ideal serait la fusion nucléaire",
+        "date": "2024-10-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je suis pro nucléaire, mais je pense que c'est une bonne solution seulement pour certains pays. Le nucleaire necessite des competences tres particulieres, alors que combo energies renouvelables - stockage ne necessite pas autant d'expertise ni de controle. Pour la plupart des pays, il est beaucoup plus simple d'importer des palettes de panneaux solaires made in China a des tarifs extremement bas (10 centimes par Watt crete) plutot que de se lancer dans un enorme programme industriel d'acquisition de competences, a supposer bien sur que les autres pays autorisent le pays en question a faire du nucleaire civil. \n\n  \nJe pense que malgre ses avantages en termes de rendement, le solaire et l'eolien (surtout le solaire) vont finir par l'emporter a terme, car les couts des panneaux solaires et des batteries de stockage n'arretent pas de diminuer a mesure que la production augmente.",
+        "date": "2024-10-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Les 160 GW de centrales solaires ajoutees cette annee vont produire autant que 22 centrales nucléaires (facteur de capacite de 14%)",
+        "date": "2024-10-29",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Les opposants ont de nombreuses raisons différentes de s'opposer. Certains ont juste peur, d'autres sont terriblement désinformés. D'autres inscrivent le nucléaire comme symbole ou incarnation d'une cause plus grande qu'ils combattent. Le capitalisme, la centralisation, l'État, le sentiment de toute puissance de l'humanité, la pérpétuation de la société thermo industrielle... Choisis ta cause, tu trouveras une raison de t'opposer au nucléaire parce qu'il l'incarne. \n\nMais, personnellement, comme motif d'opposition plus fondamental, j'y vois quelque chose d'identitaire. Les mouvements et partis écologistes sont, pour la plupart, nés de l'opposition au nucléaire. Alors ça peut être de l'opposition à la course à l'armement, aux essais, ou au complexe militaro-industriel... Mais en tout cas, ces organismes très influents sur la politique et sur l'opinion existent en conséquence de l'opposition au nucléaire. C'est dans leur identité. Leur ADN - et c'est revendiqué ainsi.\nDonc ils continuent de s'opposer et d'influencer la politique et l'opinion dans cette opposition. Peu importe les raisons finalement. D'ailleurs, les raisons changent avec le temps. Ils sont contre par définition et, ensuite, y ajoutent tel ou tel prétexte.",
+        "date": "2024-10-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dans les scénarios du GIEC aucun ne fait sans les renouvelables, idem chez RTE, chez l'ADEME etc, par contre il y a des scénarios sans nucléaire. Le rythme de construction des centrales nucléaires est le réel problème du nucléaire face au contre-la-montre du changement climatique, les capacités de renouvelables peuvent s'ajouter très vite.",
+        "date": "2024-10-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "L'Arménie a, par le passé, fait ce choix de faire fonctionner coûte que coûte une centrale complètement en-deçà des standards de sûreté internationaux, plutôt que d'avoir des milliers de morts de froid chaque hiver. \n\nLe \"tu risques assez gros\" pour une probabilité extrêmement faible d'accident grave est un caprice de riches qui ont le luxe d'avoir des alternatives et d'en assumer les conséquences (ou de faire assumer les conséquences à d'autres).\n\nLa centrale nucléaire la plus dangereuse reste celle qu'on ne construit par car, si le nucléaire présente des risques de dommages éventuels, ses alternatives présentent des dommages systématiques.",
+        "date": "2024-10-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le mouvement antinucléaire est né de la peur de l'annihilation par les armes nucléaires, certainement pas de la catastrophe Tchernobyl et encore moins de l'accident de Fukushima-Daiichi. Ces deux accidents ont seulement été des âges d'or pour un mouvement qui n'a jamais eu besoin d'accident pour faire régner la peur de l'accident.",
+        "date": "2024-10-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pour moi la difficulté c'est que ça aurait pu être une énergie d'avenir (càd centrale dans les scénarios mondiaux et européens de décarbonation)... Si on était pas pris de court dans l'urgence de baisser nos émissions et qu'on avait électrifié plus dans les 20 ans qui se sont écoulés. Aujourd'hui aucune grande puissance ne compte sur le nucléaire comme pilier de la transition.\n\nLe rythme de construction qu'annonce EDF en France (une paire d'EPR tous les 5 ans) et la tendance constatée dans les autres grands pays (Chine, US) est plutôt un développement modéré du nucléaire et un développement exponentiel des renouvelables.\n\nCf : scénarios d'Edf pour l'Europe, le résumé des scénarios du Giec, les travaux de l'Aie et de RTE",
+        "date": "2024-10-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;fukushima (accident lié a seisme+tsunami, au final cet accident nucléaire n’aura fait aucun mort)\n\nFaut être à l'aise pour la faire sans trembler des genoux celle-là.",
+        "date": "2024-10-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le nucléaire c'est\n\n1) un accident grave tous les dix ans environ, avec son armée d'experts qui explique que c'est pas vraiment grave/ça ne se reproduira pas. Des répercussions sur la moitié de la planète, un déni effarant des autorités.\n\n2) l'incapacité à gérer les déchets sur le temps long (on parle d'une durée de vie égale à celle de l'humanité, rien n'est envisageable à cette échelle de temps pour garantir la sureté de l'installation), si ce n'est en brutalisant les lanceurs d'alerte et en manipulant l'opinion.\n\n3) un combustible dont l'approvisionnement exige soit de dépendre de la Russie (Kazakhstan) soit de poursuivre le pillage colonial de l'Afrique\n\nLe seul avenir éthique c'est de réduire drastiquement la consommation d'énergie, pas de chercher comment \"mieux\" produire davantage pour répondre à des  \"besoins\" qui n'en sont que dans un régime capitaliste.",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "On voit clairement que tu es dans l'opposition la plus totale du nucléaire, et c'est dommage car le risque de sortir de faux arguments pour soutenir ton militantisme peut nuire à ton combat. En l'occurence, le nombre de morts est d'environ 20 000 personnes, dont presque tout est dû: au séisme, le tsunami, le déplacement et l'évacuation des gens (accident, dégradation de santé). Le Japon ne reconnaît que une personne il me semble comme morte à cause des radiations. Alors bien sûr, ce sont les chiffres donnés par le Japon, mais bon moi j'étais pas sur place pour compter. On peut reprocher beaucoup de chose au nucléaire, mais pour le coup en effet, ce n'est pas la centrale de Fukushima en elle-même qui a été responsable des morts.\n\nJe te recommande cet article qui en parle mieux que moi :\n\n[https://www.liberation.fr/checknews/2019/04/20/est-il-vrai-que-l-accident-nucleaire-de-fukushima-n-a-cause-aucun-mort\\_1720075/](https://www.liberation.fr/checknews/2019/04/20/est-il-vrai-que-l-accident-nucleaire-de-fukushima-n-a-cause-aucun-mort_1720075/)\n\nSi tu as d'autres sources qui contredisent mon message, je suis intéressé par les lires.",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "[https://reporterre.net/Fukushima-le-bilan-humain-est-plus-lourd-qu-annonce](https://reporterre.net/Fukushima-le-bilan-humain-est-plus-lourd-qu-annonce)\n\nTa condescendance et ta rhétorique passive-agressive n'ont pas leur place ici. Tu es aussi militant que moi, tu es pro-nucléaire, et ce n'est clairement pas à toi de décréter comment je dois m'exprimer, sur ce sujet ou sur un autre.\n\nQuel degré de naïveté faut-il pour gober sans aucun recul un bilan dressé par les personnes qui sont directement mises en cause par leurs manquements tant dans les dispositifs de sécurité de la centrale que dans l'organisation des secours ?",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le nucléaire est tout beau sur le papier, mais...\n\n* Le prix de l’électricité ne comprends pas le prix des démantèlements.\n* Personne ne sait comment démanteler une centrale, ni son coup. (50 milliards? 100 milliards?) Le prix de l’électricité ne prend pas en compte le démantèlement.\n* Le stockage des déchets est problématique. refroidissement en piscine. Quid du stockage. Comment s'assurer que personne va y toucher pendant plusieurs millénaires?\n* En cas de problème, la radioactivité de certains élément durent plusieurs millénaires en ayant un impact sur la faune et la flore. De quoi voir passer plusieurs civilisations.\n* il y a eu 3 catastrophes nucléaires ( Three Mile Island, Tchernobyl, Fukushima) en moins de 60 ans; un accident majeurs tout les 20 ans...) la terre est pratiquement contaminée ad vitam æternam.\n* Avec les conséquences des changements climatiques; l'avenir s’annoncent chaotique. Chaque été plusieurs centrale sont coupées par manque d'eau. quand sera t il demain?\n* En cas de gros probleme: guerre, épidémie, manque d'eau ou même de carburant; qu’elle sera la priorité du personnel de la centrale? s'occuper de leurs famille ou éteindre la centrale ( ça prend 6 mois)?",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "On se détend jean-charles. Ton message sonne très complotiste. J'ai lu tes articles, intéressant mais ils ne contredisent pas enormement le fait que il n y a pas eu bcp de gens mort du au nucléaire a fukushima. Les articles font preuve de retenu en soulignant le fait que il y a eu bcp plus de diagnostique effectué, augmentant du coup le risque de trouver une maladie, et quil faudra  encore plusieurs années pour que certains cancers n apparaissenent.\nDonc pour le moment la pollution engendré par les energies fossiles tuent plus que les accidents de centrales nucléaires.",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ton article reporterre ça vole quand même pas haut. Tu l’as lu au moins ? \n\nLeur meilleur argument ça reste 2 scientifiques japonais qui contestent le consensus dans le pays (on rappelle quand même que le consensus c’est l’opinion extrêmement majoritaire de la communauté scientifique…) pour dire que c’est pas sur que l’on ai fait du surdiagnostique… oui donc rien de dingue quoi. \n\nPar ailleurs on pourrait sourire quand on voit reporterre aligner (sans trembler des genoux, pour reprendre ton expression) le magnifique poncif écolo des années 70/80 « Si c’était le vrai bilan, on n’aurait rien à craindre d’une guerre atomique » en gros et en gras en fin d’article… \n\nMerci de nous rappeler que la guerre des anti nucléaires contre cette énergie restera toujours un combat face à l’ignorance d’activiste qui amalgament le nucléaire civil et militaire…",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "- \"Le groupe EDF assume seul la responsabilité financière du démantèlement des centrales nucléaires. Ce coût est pris en compte dès leur mise en fonctionnement et intégré au prix du kWh. Le coût de la déconstruction d’un réacteur à eau pressurisée (REP) est estimé entre 350 et 400 millions d’euros.\"\n- https://www-iaea-org.translate.goog/bulletin/nuclear-decommissioning-addressing-the-past-and-ensuring-the-future?_x_tr_sl=en&amp;_x_tr_tl=fr&amp;_x_tr_hl=fr&amp;_x_tr_pto=rq#:~:text=The%20decommissioning%20process%20typically%20takes,than%2030%20years%20to%20complete. \n\nJ'aimerais bien vos sources concernant le fait qu'on ne connait pas le prix et le fait que ce ne soit pas pris en compte, en voici deux qui disent totalement le contraire.\n\nConcernant le stockage des déchets, les projets d'enfouissement semblent intéressants de mon point de vue, j'ai jamais vu d'argument vraiment convainquant contre mais je suis preneur. Il faut reconnaître que les déchets réellement problématiques représentent un volume relativement faible.\n\nThree miles island j'ai du mal à appeler ça une \"catastrophe nucléaire\" à mettre dans le même panier que Tchernobyl, qui pour le coup a eu un impact énorme mais est le seul accident nucléaire qu'on puisse qualifier de catastrophe. Et qui a eu lieu dans des circonstances particulières (les normes de sécurité et la gestion de Tchernobyl sont extrêmement loin de ce qui se fait en France). Et certaines zones sont considérées comme inhabitables effectivement (par les humains en tout cas), mais comparées aux surfaces qu'on pollue globalement ça reste extrêmement limité. Sans minimiser le problème, ça n'est pas dans la même catégorie que le réchauffement climatique.\n\nEn France les centrales sont plutôt à fonctionnement réduit pour éviter de trop réchauffer les cours d'eau, c'est plus un problème de performance de production que de sécurité. Ça montre que le nucléaire ce n'est pas la panacée surtout en été, mais pas que ce n'est pas une solution qui a son utilité.\n\nEn cas de gros problème il y a des protocoles et des mesures mises en place pour gérer ça, les scénarios d'une guerre à l'échelle mondiale qui empêcherait qu'on gère correctement nos centrales en France relèvent plus du post apo que du scénario crédible à court et moyen terme. \n\n\nPour résumer le nucléaire ça a pas mal de défauts effectivement, certaines qualités, ça va pas nous sauver et faut pas se reposer entièrement dessus. Mais vu les défis en termes de ressources et de dérèglement climatique qu'on doit affronter dans une société qui est encore loin de faire le grand pas en avant du point de vue des habitudes de consommation etc, je vois très très mal comment on pourrait se passer de nucléaire dans les prochaines décennies (disons à horizons 2050-2070).",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ok, bon il faudrait verifier ce qu'on dit avant de l'écrire. \n\n- le coût du démantèlement est intégré au prix du kWh, c'est écrit sur le site d'EDF : https://www.edf.fr/groupe-edf/produire-une-energie-respectueuse-du-climat/lenergie-nucleaire/edf-une-expertise-nucleaire-unique/deconstruction-des-centrales-nucleaires\n\n- on sait le faire, puisqu'on le fait, et on a grosso modo une idée de combien ça coûte. On a déjà démantelé des installations, notamment des reacteurs expérimentaux. https://fr.m.wikipedia.org/wiki/D%C3%A9mant%C3%A8lement_nucl%C3%A9aire\n\n- pour les déchets y'a plusieurs solutions : Cigeo, MOx , fermeture du cycle avec la GEN IV etc... il s'agirait maintenant aux politiques de pas changer d'avis comme de chemise sur le nucléaire. \nhttps://international.andra.fr/solutions-long-lived-waste/cigeo\nhttps://fr.m.wikipedia.org/wiki/Superph%C3%A9nix\n\n- oui, tout comme énormément d'activité humaine (la chimie par exemple) pourquoi faire un cas de précisément celle là sur ce point là ?\n\n- Non la terre est pas condamné ad vitam aeternam, y'a de la faune et de la flore autour de Chernobyl. Et bcp de youtubeurs autour de fukushima. Pour le coup je veux bien te l'accorder ici pour Chernobyl.\n\n- les centrales sont surtout à l'arrêt pour eviter d'augmenter trop la température des cours d'eau puisqu'elles ont des limites d'augmentation de la température en sortie du système. En cas de manque d'eau certaines peuvent assurer un refroidissement par l'utilisation des aero-refrigerants. Ces derniers nécessitent tout de même un prélèvement d'eau.\nhttps://www.asn.fr/l-asn-informe/actualites/modification-temporaire-des-prescriptions-encadrant-les-rejets-thermiques-de-5-centrales-nucleaires\n\n- Ça prend pas 6 mois d'éteindre une centrale, sinon j'imagine mal comment EDF ferait pour recharger les reacteurs et faire les arrêts de tranche pour entretien et visite décennale.",
+        "date": "2024-10-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Peut-être que d'autres vont me corriger mais je pense qu'il faut faire quelques précisions :\n- le coût de l'électricité comprend le prix du démantèlement (EDF a plusieurs dizaines de milliards de côté pour cette raison)\n- le démantèlement de plusieurs centrales en France est en cours.\n- le stockage géologique profond à l'air prometteur. Bien que pas encore mis en œuvre et qu'il subisse le même traitement que l'éolien (\"pas dans mon jardin\").\n- le nombre de millénaires pour que les populations ne comprennent plus aucune des langues les plus répandues actuellement sur terre est en effet inconnu. Est-ce une justification suffisante ? C'est un débat philosophique.\n- la biodiversité va très bien à Tchernobyl, je te laisse lire les quelques articles sur le sujet.\n- là il y a un vrai problème sur la disponibilité de l'eau, il me semble que quelques associations dénoncent également le réchauffement de l'eau de quelques degrés (2 ou 3 de mémoire) qui perturbe la biodiversité au moment du rejet.\n- pour les épidémies, la réponse d'EDF au Covid à été jugée comme l'une des meilleures il me semble. Pour le manque de carburant je pense qu'on peut raisonnablement imaginer que les réserves stratégiques de l'état peuvent être fléchées vers les employés des centrales, au-delà de ça je ne sais pas trop honnêtement. Pour les guerres, c'est clairement pas un avantage, certains énoncent que le vrai problème, c'est la guerre en elle-même, je pense que ça rajoute des cibles stratégiques donc ça reste moyen.\n\nIl y a d'autres problèmes identifiés :\n- il y a des réserves, mais la disponibilité du combustible est quand même à prendre en compte,  ça crée des dépendances géopolitiques. Il y a par exemple des problèmes avec le Niger actuellement.\n- il y a également le débat philosophique sur le modèle économique global. Je crois avoir compris que certains n'aiment pas le nucléaire car ça encourage un modèle productiviste. C'est un débat également.\n\nIl ne faut pas oublier que les nouvelles énergies renouvelables ne sont pas sans défauts non plus.",
+        "date": "2024-10-30",
+        "sentiment": "neutral"
+    }
+]

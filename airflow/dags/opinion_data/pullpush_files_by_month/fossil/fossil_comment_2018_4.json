@@ -1,0 +1,37 @@
+[
+    {
+        "text": "&gt;As per a 2008 report, Evolutionary biology was included in the high-school curricula of most Muslim countries. Science foundations of 14 Muslim countries, including Pakistan, Iran, Turkey, Indonesia, and Egypt, recently signed a statement by the Interacademy Panel (IAP, a global network of science academies), in support of the teaching of evolution, including human evolution.\n\n&gt;A 2009 survey conducted by the McGill researchers and their international collaborators found that 85% of Indonesian high school students and 86% of Pakistani high school students agreed with the statement, \"Millions of fossils show that life has existed for billions of years and changed over time.\"\n\nAuf der anderen Seite:\n\n&gt;According to a more recent Pew study these numbers appear to increase slowly but steadily. For instance, a relatively large fraction of people accept human evolution in Kazakhstan (79%) and Lebanon (78%), but relatively few in Afghanistan (26%) and Iraq (27%), with most of the other Islamic countries somewhere in between.\n\nhttps://en.m.wikipedia.org/wiki/Islamic_views_on_evolution\n\nDu hast zwar Recht, die Meinungen sind da noch geteilt. Scheint aber ein Problem mangelnder Bildung zu sein. Da kann die Lehrerin durchaus entgegenwirken. ",
+        "date": "2018-04-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Geh mal weg du Fossil, jeder weiß das Schnappunterhaltung der letzte Schrei ist.",
+        "date": "2018-04-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ähm, nein. Seite 18 deines Links:\n\n&gt; Die nach dem ENTSO-E-Ten-Year-Network-Development-Plan 2016 geplanten Kapazitäten für\nden Stromimport reichen während der kalten Dunkelflaute jedoch nicht aus, um einen Ausgleich\nvon Stromnachfrage und -angebot am Strommarkt herzustellen. Für den 5. Februar ergibt sich\nmit dem Sonnenuntergang um 17 Uhr kurzzeitig ein maximaler zusätzlicher Flexibilitätsbedarf\nvon 20,5 GW. Auch in den Tagen um den 5. Februar treten ähnliche Situationen auf, sodass eine\npunktuelle, kurzfristige Flexibilitätsoption nicht wirkungsvoll ist. Würden im Zuge einer europä-\nischen Energiewende auch im Ausland fossile Kraftwerkskapazitäten verstärkt durch Wind- und\nSolarenergie ersetzt, so könnte der Import von Strom in Zeiten der kalten Dunkelflaute einen\nnoch geringeren Anteil zur Versorgungssicherheit beitragen.\n\nUnd später wird ein Szenario entworfen, dass hier 2040 abhelfen könnte. 2040 ist aber für den \"sofortigen Kohleausstieg\" wie im Titel 20 Jahre zu spät. Außerdem behandelt die Untersuchung lediglich den Braunkohleausstieg. Steinkohle schlägt dort immer noch mit ~20 GW zu Buche. Bei einem sofortigen Kohleausstieg haben wir also mit den für 2030 geplanten Anlagen eine Flexibilitätslücke, die das maximal mögliche Importvolumen übersteigt, von rund 40 GW. Laut Greenpeace.",
+        "date": "2018-04-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "NASA-Studie: [Nuclear power may have saved 1.8 million lives otherwise lost to fossil fuels, may save up to 7 million more.](https://blogs.scientificamerican.com/the-curious-wavefunction/nuclear-power-may-have-saved-1-8-million-lives-otherwise-lost-to-fossil-fuels-may-save-up-to-7-million-more/)",
+        "date": "2018-04-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Neue Unterlagen beweisen: Diese Firmen wussten seit 1957, dass das Verbrennen fossiler Brennstoffe das Klima verändert",
+        "date": "2018-04-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Der wird doch verstromt, aber eben auf der Strecke um sich eben diese Oberleitungen zu sparen aber dennoch auf fossile Energieträger zu verzichten.   \nDa der Wasserstoff sowieso schon vorhanden ist ist dies eine gute Nutzung der Ressourcen in diesem Szenario. ",
+        "date": "2018-04-23",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Willkommen zu den Spätnachrichten:   \n[Fossile Spuren legen Jagd von Menschen auf Riesenfaultiere nah](https://www.tagesspiegel.de/wissen/halali-aus-der-steinzeit-fossile-spuren-legen-jagd-von-menschen-auf-riesenfaultiere-nah/21213170.html)",
+        "date": "2018-04-25",
+        "sentiment": "positive"
+    }
+]

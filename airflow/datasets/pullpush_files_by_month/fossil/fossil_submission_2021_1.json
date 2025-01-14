@@ -1,0 +1,882 @@
+{
+    "data": [
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 500,
+                    "coin_reward": 100,
+                    "count": 2,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 7,
+                    "description": "Gives 100 Reddit Coins and a week of r/lounge access and ad-free browsing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                    "icon_width": 512,
+                    "id": "gid_2",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Gold",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                    "static_icon_width": 512,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 300,
+                    "coin_reward": 0,
+                    "count": 3,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "When an upvote just isn't enough, smash the Rocket Like.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_q0gj4/35d17tf5e5f61_oldrocketlike.png",
+                    "icon_width": 2048,
+                    "id": "award_28e8196b-d4e9-45bc-b612-cd4c7d3ed4b3",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Rocket Like",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/35d17tf5e5f61_oldrocketlike.png?width=16&amp;height=16&amp;auto=webp&amp;s=9d714b25ca25d05e3310bc60bc1714ddf7951331",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/35d17tf5e5f61_oldrocketlike.png?width=32&amp;height=32&amp;auto=webp&amp;s=d584b15c8e17d61fa8ae319a91d351c8fe35b918",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/35d17tf5e5f61_oldrocketlike.png?width=48&amp;height=48&amp;auto=webp&amp;s=d9fb2c025611a15e6bb4437734f92db99b93fd12",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/35d17tf5e5f61_oldrocketlike.png?width=64&amp;height=64&amp;auto=webp&amp;s=744fb200d76bf21f6e023ba98d3b4189b34973e3",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/35d17tf5e5f61_oldrocketlike.png?width=128&amp;height=128&amp;auto=webp&amp;s=c180572afbc080622a8ac8441c3bc5214597d05a",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/9fmmyy3c68361_RocketLikeSanta.png?width=16&amp;height=16&amp;auto=webp&amp;s=24fc4d912e595c3fed2ce0deef1c13f70df56056",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/9fmmyy3c68361_RocketLikeSanta.png?width=32&amp;height=32&amp;auto=webp&amp;s=f9d869602e0d8b719186cc603864a42699e5c96e",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/9fmmyy3c68361_RocketLikeSanta.png?width=48&amp;height=48&amp;auto=webp&amp;s=b223ac8fdd206b683b840c2782307c3f01b04fb7",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/9fmmyy3c68361_RocketLikeSanta.png?width=64&amp;height=64&amp;auto=webp&amp;s=a0b840c6ecdee904012a6c53c40194733b72bca8",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/9fmmyy3c68361_RocketLikeSanta.png?width=128&amp;height=128&amp;auto=webp&amp;s=b2e2ca67e067f82ff9b4ea1fe1b39395ca622894",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/9fmmyy3c68361_RocketLikeSanta.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 2,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Thank you stranger. Shows the award.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "icon_width": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 125,
+                    "coin_reward": 0,
+                    "count": 4,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "When you come across a feel-good thing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "icon_width": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Wholesome",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 6,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Shows the Silver Award... and that's it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "icon_width": 512,
+                    "id": "gid_1",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Silver",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "static_icon_width": 512,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 80,
+                    "coin_reward": 0,
+                    "count": 2,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Everything is better with a good hug",
+                    "end_date": null,
+                    "giver_coin_reward": 0,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png",
+                    "icon_width": 2048,
+                    "id": "award_8352bdff-3e03-4189-8a08-82501dd8f835",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Hugz",
+                    "penny_donate": 0,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=73a23bf7f08b633508dedf457f2704c522b94a04",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=50f2f16e71d2929e3d7275060af3ad6b851dbfb1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ca487311563425e195699a4d7e4c57a98cbfde8b",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=7b4eedcffb1c09a826e7837532c52979760f1d2b",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=e4d5ab237eb71a9f02bb3bf9ad5ee43741918d6c",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=16&amp;height=16&amp;auto=webp&amp;s=69997ace3ef4ffc099b81d774c2c8f1530602875",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=32&amp;height=32&amp;auto=webp&amp;s=e9519d1999ef9dce5c8a9f59369cb92f52d95319",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=48&amp;height=48&amp;auto=webp&amp;s=f076c6434fb2d2f9075991810fd845c40fa73fc6",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=64&amp;height=64&amp;auto=webp&amp;s=85527145e0c4b754306a30df29e584fd16187636",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=128&amp;height=128&amp;auto=webp&amp;s=b8843cdf82c3b741d7af057c14076dcd2621e811",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "can_gild": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1609562325,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 2,
+            "gildings": {
+                "gid_1": 6,
+                "gid_2": 2
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "koqwmg",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Frage/Diskussion"
+                }
+            ],
+            "link_flair_text": "Frage/Diskussion",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_koqwmg",
+            "no_follow": false,
+            "num_comments": 434,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/koqwmg/ausblick_2021das_ändert_sich_grundrente_soliabbau/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "qbwUAWE0ZVNejo6SpSh2S6BHQoe8fmHz9qw2OfqDch0",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/JfRanblGIOV1dze1fJOGo8icBAEAlRwsba04yKdOsu4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d617dd8cb43f1998a649c01389d9b8031ef5e51d",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/JfRanblGIOV1dze1fJOGo8icBAEAlRwsba04yKdOsu4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=001592a5fca5270b683460369f3def6beb7c6f75",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/JfRanblGIOV1dze1fJOGo8icBAEAlRwsba04yKdOsu4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5a6a9d7280fdba29f5161c82559fa28c505314f8",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/JfRanblGIOV1dze1fJOGo8icBAEAlRwsba04yKdOsu4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9edce0b6caebb12dce2b3a337a3f2f2a190e8d9c",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/JfRanblGIOV1dze1fJOGo8icBAEAlRwsba04yKdOsu4.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=013c28e435c40e739afe85646cb2e4c0ae72afbe",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/JfRanblGIOV1dze1fJOGo8icBAEAlRwsba04yKdOsu4.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6c01414b7d5db83089d599191de6fa9fd9e77eea",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 675,
+                            "url": "https://external-preview.redd.it/JfRanblGIOV1dze1fJOGo8icBAEAlRwsba04yKdOsu4.jpg?auto=webp&amp;s=c5e724652999eb0ba8cf22d70549a0c0d4fbcd4c",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623330772,
+            "score": 1245,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "https://www.fr.de/politik/das-aendert-sich-2021-grundrente-soli-abbau-teures-benzin-zr-90156241.html\n\nBERLIN (dpa-AFX) - Ältere Menschen mit kleiner Rente bekommen einen Zuschlag. Die meisten Bürger müssen keinen Soli mehr zahlen. Mit Maßnahmen zum Klimaschutz könnten Sprit und Kfz-Steuer teurer werden. Diese und weitere Änderungen hat die Bundesregierung auf den Weg gebracht. Die wichtigsten Änderungen zum Jahreswechsel im Überblick:\n\nGRUNDRENTE: Rund 1,3 Millionen Menschen mit kleiner Rente bekommen einen Aufschlag. Es profitieren diejenigen, die mindestens 33 Jahre Rentenbeiträge aus Beschäftigung, Kindererziehung und Pflegetätigkeit aufweisen können. Ihre Lebensleistung soll anerkannt, der Gang zum Sozialamt erspart werden. Im Schnitt gibt es einen Zuschlag von 75 Euro. Die Grundrente startete zwar offiziell zum 1. Januar, die Auszahlung wird sich aber wegen des hohen Verwaltungsaufwands voraussichtlich um mehrere Monate verzögern - und dann rückwirkend erfolgen.\n\nHOMEOFFICE-PAUSCHALE: Wer in der Corona-Krise von zu Hause aus arbeitet, bekommt einen Steuerbonus. Pro Homeoffice-Tag kann man 5 Euro geltend machen, maximal aber 600 Euro im Jahr. Die Pauschale zählt zu den Werbungskosten. Daher profitieren nur diejenigen Steuerzahler davon, die über die ohnehin geltende Werbungskostenpauschale von 1000 Euro kommen.\n\nCO2-PREIS: Um fossile Energien zu verteuern und klimaschonende Alternativen voranzubringen, gibt es nun einen nationalen CO2-Preis für Verkehr und Heizen. Pro Tonne CO2, die beim Verbrennen von Diesel und Benzin, Heizöl und Erdgas entsteht, müssen verkaufende Unternehmen wie Raffinerien zunächst 25 Euro zahlen. Der Preis wird an die Kunden weitergegeben, nach Angaben der Bundesregierung steigt der Literpreis bei Benzin um 7 Cent, bei Diesel und Heizöl um 7,9 Cent, Erdgas wird um 0,6 Cent pro Kilowattstunde teurer. Dafür sollen Bürger anderswo entlastet werden - so wird etwa die Ökostrom-Umlage, die Bürger mit dem Strompreis zahlen, aus Steuermitteln gesenkt.\n\nCO2-KOMPONENTE BEIM WOHNGELD: Damit Menschen mit geringen Einkommen durch die CO2-Bepreisung nicht belastet werden, gibt es nun die sogenannte CO2-Komponente beim Wohngeld. Die zu erwartenden Mehrkosten beim Heizen sollen durch einen Zuschlag ausgeglichen werden. Dessen Höhe richtet sich nach der Haushaltsgröße und dem Einkommen des Haushaltes.\n\nSOLI-ABBAU: Für fast alle Bürger fällt der Solidaritätszuschlag weg. Weiter zahlen müssen ihn die zehn Prozent mit den höchsten Einkommen.\n\nVERBOT VON UPSKIRTING: Das heimliche Filmen oder Fotografieren unter den Rock (Upskirting) oder in den Ausschnitt kann nun mit bis zu zwei Jahren Gefängnis bestraft werden. Gleiches gilt für die Weiterverbreitung solcher Aufnahmen.\n\nMEHRWERTSTEUER: Seit dem Jahreswechsel gilt wieder der reguläre Mehrwertsteuersatz von 19 Prozent auf die meisten Güter und 7 Prozent auf Waren des täglichen Bedarfs. Die Bundesregierung hatte die Steuer wegen der Corona-Pandemie für ein halbes Jahr gesenkt, damit die Menschen trotz der unsicheren Zeit weiter Geld ausgeben und die Konjunktur stützen.\n\nGRUNDSICHERUNG: Die Hartz-IV-Regelsätze sind leicht gestiegen. Ein alleinstehender Erwachsener bekommt jetzt 446 Euro im Monat - 14 Euro mehr als zuvor. Der Satz für Jugendliche zwischen 14 und 17 Jahren ist um 45 Euro auf 373 Euro gestiegen, der für Kinder bis fünf Jahre um 33 auf dann 283 Euro. Für Kinder zwischen 6 und 13 Jahren ist mit monatlich 309 Euro ein Plus von einem Euro vorgesehen.\n\nMINDESTLOHN: Der gesetzliche Mindestlohn ist leicht von 9,35 Euro pro Stunde auf 9,50 Euro pro Stunde gestiegen.\n\nKINDERGELD UND KINDERZUSCHLAG: Mit dem Jahreswechsel ist auch der staatliche Zuschuss für das erste und zweite Kind gestiegen, von 204 auf 219 Euro pro Monat. Für das dritte Kind gibt es nun 225 statt den bisherigen 210 Euro, ab dem vierten Kind 250 statt den bisherigen 235 Euro. Der steuerliche Kinderfreibetrag wurde um mehr als 500 Euro auf 8388 Euro angehoben. Einen Anstieg gibt es auch beim Kinderzuschlag, eine Leistung zusätzlich zum Kindergeld für Familien mit geringem Einkommen. Der Maximalbetrag beim Kinderzuschlag wurde von 185 auf 205 Euro im Monat erhöht.\n\nKFZ-STEUER: Für neue Autos mit hohem Spritverbrauch wurde die Kfz-Steuer angehoben. Das soll Bürger dazu bringen, sparsamere Wagen zu kaufen. Bereits zugelassene Autos sind allerdings nicht betroffen. Einer Studie zufolge wird es pro Jahr im Schnitt um 15,80 Euro teurer\n\n- bei vielen Autos ändert sich aber überhaupt nichts.\n\nEINWEG-PLASTIK-VERBOT: Ab 3. Juli 2021 ist es in der ganzen EU eine Ordnungswidrigkeit, bestimmte Artikel aus Einwegplastik zu verkaufen\n\n- nämlich Besteck und Teller, Trinkhalme, Wattestäbchen,\n\nLuftballon-Halter, Rührstäbchen etwa für den Kaffee sowie Styroporbecher und -behälter für Essen zum Mitnehmen.\n\nEINKOMMENSTEUER: Für alle Steuerzahler ist der Grundfreibetrag, auf den man keine Steuern zahlen muss, gestiegen. 2021 liegt er bei 9744 Euro statt bisher 9408 Euro. Die Grenze, ab der der 42-prozentige Spitzensteuersatz fällig wird, stieg leicht auf ein Jahreseinkommen von 57 919 Euro. Außerdem dürfen Alleinerziehende höhere Unterhaltsleistungen bei den Steuern abziehen.\n\nSTEUERERLEICHTERUNG FÜR MENSCHEN MIT BEHINDERUNGEN: Menschen mit Behinderungen können bei der Steuererklärung seit dem neuen Jahr höhere Pauschbeträge geltend machen. Durch diese Pauschalen kann man es sich in vielen Fällen sparen, etwa Fahrtkosten aufwendig einzeln nachzuweisen. Konkret gilt etwa bei einem Grad der Behinderung von 50 nun eine Pauschale von 1140 Euro, bei einem Grad von 100 sind es 2840 Euro.\n\nELEKTRONISCHE PATIENTENAKTE: Ab sofort sollen allen Versicherten Elektronische Patientenakten zur freiwilligen Nutzung angeboten werden. Sie sollen beispielsweise Befunde, Röntgenbilder und Medikamentenpläne speichern können. Beim Datenschutz ist zum Start eine etwas \"abgespeckte\" Version vorgesehen. Patienten können festlegen, welche Daten hineinkommen und welcher Arzt sie sehen darf. Genauere Zugriffe je nach Arzt nur für einzelne Dokumente kommen aber erst 2022.\n\nMAKLERKOSTEN: Wer eine Immobilie kauft, muss nur noch maximal die Hälfte der Maklerkosten übernehmen. Bisher übernimmt meist der Käufer komplett die Maklerprovision von bis zu sieben Prozent des Kaufpreises.\n\nPERSONALAUSWEIS: Für einen neuen Personalausweis werden ab sofort statt 28,80 Euro nun 37,00 Euro fällig - zumindest für Bürger, die mindestens 24 Jahre alt sind. Sie brauchen nämlich erst nach zehn Jahren einen neuen Personalausweis. Für jüngere Antragsteller, deren Ausweis nur sechs Jahre lang gültig ist, werden 22,80 Euro fällig.\n\nLEBENSVERSICHERUNG: Verbraucher sollen Lebensversicherungen nun besser vergleichen können. Versicherungsunternehmen müssen seit dem Jahreswechsel die sogenannten Effektivkosten nach einheitlichen Kriterien angeben. Damit können Kunden leichter erfassen, wie sich die Kosten eines Vertrags auf die Auszahlung der Lebensversicherung auswirken.\n\nBEITRAGSBEMESSUNGSGRENZEN: In der gesetzlichen Renten- und Arbeitslosenversicherung werden im Westen bis zu einem monatlichen Einkommen von 7100 Euro (bisher 6900 Euro) Beiträge fällig, in Ostdeutschland bis 6700 Euro (bisher 6450 Euro). Die Beitragsbemessungsgrenze für die gesetzliche Kranken- und Pflegeversicherung stieg auf bundeseinheitlich 4837,50 Euro monatlich. Bisher lag sie bei 4687,50 Euro.\n\nFLEISCHINDUSTRIE: Werkverträge für die vor allem osteuropäischen Arbeitnehmer in Schlachthöfen sind nun verboten. Auch Leiharbeit soll es beim Schlachten und Zerlegen nicht mehr geben.\n\nULTRASCHALL: Medizinisch nicht notwendiges \"Babykino\" oder \"Babyfernsehen\", also Ultraschall bei Ungeborenen im Mutterleib, ist nun verboten. Babys sollen so vor unnötigen Einflüssen geschützt werden.\n\nNEUE ENERGIELABEL FÜR ELEKTROGERÄTE: Ab dem 1. März 2021 gelten für einige Elektrogeräte neue EU-Energieeffizienzlabel. Klassifizierungen wie \"A++\" oder \"A+++\" werden bei Geschirrspülern, Waschmaschinen, Kühl- und Gefriergeräten, Fernsehern und Monitoren wieder durch besser unterscheidbare Klassifizierungen von A bis G ersetzt. Gleichzeitig steigen die Anforderungen an die Geräte.\n\nKRANKENKASSENWECHSEL: Mit dem Jahreswechsel ist der Wechsel der gesetzlichen Krankenversicherung einfacher geworden. Beim Wechsel muss der Versicherte nur noch eine neue Krankenkasse auswählen und den Beitritt erklären. Eine schriftliche Kündigung der bisherigen Versicherung ist nur noch nötig, wenn der Versicherte das System der gesetzlichen Krankenkasse verlässt, also etwa zu einer privaten Krankenversicherung wechselt oder ins Ausland umzieht.\n\nKREDITKARTENZAHLUNGEN: Kreditkartenzahlungen im Internet werden sicherer, aber auch etwas komplizierter. Künftig reicht es beim Bezahlen in Onlineshops mit Visa, Mastercard und Co. nicht mehr aus, neben der Kreditkartennummer die Prüfziffer von der Rückseite der Karte einzugeben. Ab dem 15. Januar 2021 müssen Zahlungen ab 250 Euro mit zwei voneinander unabhängigen Faktoren freigegeben werden, ab 15. Februar greift die \"Zwei-Faktor-Authentifizierung\" dann ab 150 Euro. In vollem Umfang sollen die Regeln ab Mitte März 2021 angewendet werden./gba/DP/zb",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449152,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "AUSBLICK 2021/Das ändert sich: Grundrente, Soli-Abbau, teureres Benzin",
+            "top_awarded_type": null,
+            "total_awards_received": 19,
+            "treatment_tags": [],
+            "upvote_ratio": 0.99,
+            "url": "https://www.reddit.com/r/de/comments/koqwmg/ausblick_2021das_ändert_sich_grundrente_soliabbau/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "kraal42",
+            "author_created_utc": 1379954038,
+            "author_flair_background_color": "",
+            "author_flair_css_class": "OBERFRA",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Selbcity"
+                }
+            ],
+            "author_flair_template_id": null,
+            "author_flair_text": "Selbcity",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_d9c9z",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1610729180,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "novo-argumente.com",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "kxyca8",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#00301b",
+            "link_flair_css_class": "category science",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wissenschaft&amp;Technik"
+                }
+            ],
+            "link_flair_template_id": "b861e6c8-607f-11e6-9f02-0ea60a88c57b",
+            "link_flair_text": "Wissenschaft&amp;Technik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_kxyca8",
+            "no_follow": true,
+            "num_comments": 13,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/kxyca8/das_nettonullgaskraftwerk_ein_game_changer_kohle/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "NBUdPViYNzE9k0Gi2WSio1p6G4zVIEmC-PyGUZZC9dU",
+                        "resolutions": [
+                            {
+                                "height": 81,
+                                "url": "https://external-preview.redd.it/hz_Hazk3I2Y71sS_GtaC_1ZF0VyiixZp9foMUl35Roc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=96c3c2fa0d9605bfaefa22ff901b92c60787c9ae",
+                                "width": 108
+                            },
+                            {
+                                "height": 162,
+                                "url": "https://external-preview.redd.it/hz_Hazk3I2Y71sS_GtaC_1ZF0VyiixZp9foMUl35Roc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=6d103d71915a318d3bfa4200c39935234840ec22",
+                                "width": 216
+                            },
+                            {
+                                "height": 240,
+                                "url": "https://external-preview.redd.it/hz_Hazk3I2Y71sS_GtaC_1ZF0VyiixZp9foMUl35Roc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e6608a56189f85531d71a3c86833756d45ed3ade",
+                                "width": 320
+                            },
+                            {
+                                "height": 480,
+                                "url": "https://external-preview.redd.it/hz_Hazk3I2Y71sS_GtaC_1ZF0VyiixZp9foMUl35Roc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c89ddf2c28e494d92e36dc7dcbefa9e5d7b16608",
+                                "width": 640
+                            },
+                            {
+                                "height": 720,
+                                "url": "https://external-preview.redd.it/hz_Hazk3I2Y71sS_GtaC_1ZF0VyiixZp9foMUl35Roc.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=6b2ba20e2ce5bab8d2dd1525b5dec264afba3d5b",
+                                "width": 960
+                            },
+                            {
+                                "height": 810,
+                                "url": "https://external-preview.redd.it/hz_Hazk3I2Y71sS_GtaC_1ZF0VyiixZp9foMUl35Roc.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=66171359fa784edcfcae89aa6b1f291a83e6f537",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 900,
+                            "url": "https://external-preview.redd.it/hz_Hazk3I2Y71sS_GtaC_1ZF0VyiixZp9foMUl35Roc.jpg?auto=webp&amp;s=0105dd31407afaf0c14a8f5fdc0acb0824849f5b",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623347699,
+            "score": 0,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449261,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/wLsgtz4AXKRgmQ1bsEKOcnicNJdIc_olL01tyslzhFQ.jpg",
+            "thumbnail_height": 105,
+            "thumbnail_width": 140,
+            "title": "Das Netto-Null-Gaskraftwerk – Ein Game Changer: Kohle- und Gaskraftwerke ohne CO2-Emissionen können das fossile Zeitalter verlängern, ohne zur Klimaerwärmung beizutragen",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.27,
+            "url": "https://www.novo-argumente.com/artikel/das_netto_null_gaskraftwerk_ein_game_changer",
+            "url_overridden_by_dest": "https://www.novo-argumente.com/artikel/das_netto_null_gaskraftwerk_ein_game_changer",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "sjskdlsl",
+            "author_created_utc": 1608671388,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_9d4gognq",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1612007572,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "l8k57w",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ff8206",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Frage/Diskussion"
+                }
+            ],
+            "link_flair_template_id": "829665e0-25c9-11e7-9fe9-0eb196278378",
+            "link_flair_text": "Frage/Diskussion",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_l8k57w",
+            "no_follow": false,
+            "num_comments": 6,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/l8k57w/hey_leute_brauche_fragen_für_eine_umfrage_aus/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623366986,
+            "score": 0,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449358,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Hey Leute brauche Fragen für eine Umfrage aus ethischer Sicht über fossile Brennstoffe, wäre euch dankbar",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.32,
+            "url": "https://www.reddit.com/r/de/comments/l8k57w/hey_leute_brauche_fragen_für_eine_umfrage_aus/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 188,
+        "op_b": 171,
+        "total": 365
+    },
+    "error": null
+}

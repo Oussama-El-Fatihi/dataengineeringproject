@@ -1,0 +1,17 @@
+[
+    {
+        "text": "Parce que c'est un enorme investissement de base, avec une rentabilité sur le tres long terme, tout le contraire de ce que veulent les investisseurs. \n\nAlors que l'eolien c'est pas si cher, ça va vite a construire, et t'es payé des que les eoliennes tournent meme si personne n'a bessoin d'electricité a ce moment la.",
+        "date": "2024-12-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Je ne crois pas confondre, je réagissais aux propos au-dessus : \"*et t'es payé des que les eoliennes tournent meme si personne n'a bessoin d'electricité a ce moment la.*\"\n\nC'est un poncif que j'entends souvent sur les éoliennes, que ça ne sert pas à grand chose puisque c'est trop aléatoire, et que dans le meilleur des cas c'est juste pour vendre de l'élec à l'étranger. Je ne connais pas vraiment le fonctionnement de notre réseau de distribution d'électricité, mais j'ai du mal à croire que ce ne soit pas optimisé pour recevoir la production éolienne.",
+        "date": "2024-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je serais pro-nucleaire a vu de la reussite du nucleaire en France. Cependant pour le futur c'est moins sur. Meme si je pense que le nucleaire est sur et sans danger, et surtout tres decarbonne, le probleme est qu'il necessite une maitrise technologique qui echappe a beaucoup de pays. Du coup, quand on voit les couts des panneaux solaires, eoliennes, et surtout la tendance recente a faire des enormes batteries de stockage, je pense que le futur appartient au solaire (principalement) et a l'eolien, avec du stockage. C'est beaucoup plus facile a maitriser comme technologie, et les couts du solaire ont tellement baisse que meme avec toute la bonne volonte du monde le nucleaire est bien trop cher pour les pays emergents.\n\nImaginez: le solaire coute maintenant $60/kWc. Pour 60 dollars, vous pouvez acheter une machine qui vous produit 1 MWh d'energie par an a 12% de facteur de capacite. Le cout de generation du MWh nucleaire est a $30. Les panneaux solaires durent bien 30 ans. Alors evidemment, le nucleaire est pilotable, le solaire non, mais le solaire reste quand meme largement moins cher, plus facile a distribuer. Par exemple pour faire une petite centrale nucleaire c'est impossible, par contre pour faire une mini centrale solaire pour un village, ca peut se faire relativement facilement. Et n'oublions pas que les couts vont encore baisser dans le futur. quand on sera a $10/kWc par exemple, la il faudra etre fou pour ne pas prendre du solaire.",
+        "date": "2024-12-31",
+        "sentiment": "neutral"
+    }
+]

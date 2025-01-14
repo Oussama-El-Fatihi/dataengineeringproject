@@ -1,0 +1,52 @@
+[
+    {
+        "text": "Das ist richtig, aber wenn man die Zahlen aus dem Artikel nimmt, sind e-Fuels aus Solarenergie selbst mit angenommen 15% Wirkungsgrad immer noch mehr als 3mal Flächeneffizienter, als Treibstoff aus Energiepflanzen. \n\n&gt;Denn im Vergleich zu bestenfalls 0,4 W/m2 mit Zuckerpalmen, 0,25 W/m2 mit Mais, 0,1 W/m2 mit Holz und 0,08 W/m2 mit Rapsöl erzeugt ein normales Solarkraftwerk in Deutschland rund 10 W/m2 im Jahresdurchschnitt.",
+        "date": "2024-06-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Der 16 Jahre lange gebremste Ausbau der Solarenergie zum Beispiel. Aber ja, wenn man so voreingenommen ist wie du können die ja gar nix richtig machen.\n\nhttps://www.ndr.de/nachrichten/ndrdata/Deutschland-erreicht-gesetzliches-Ziel-fuer-Solarausbau,erneuerbare106.html",
+        "date": "2024-06-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; irgendwie sind Klimamaßnahmen sehr oft mit steigenden Kosten verbunden, habe ich so das Gefühl.\n\n\nIm Prinzip läuft das ja andersrum: Die Dinge sind heute so günstig, weil wir sie quasi auf Kredit kaufen. Wir plündern die Erde heute auf Kosten von morgen. Im Umkehrschluss kann man also nicht überrascht sein, wenn die Kosten von morgen schon heute eingepreist werden müssen.\n\n\nAndererseits sind manche Dinge, die dem Klima helfen, zufällig auch für uns vorteilhaft. Benziner zu verbrennen ist ja auch schlecht für unsere Gesundheit. Öl und Gas müssen für Geld aus anderen Ländern importiert werden, Solarenergie können wir kostenlos vor Ort produzieren.",
+        "date": "2024-06-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Der Dackel vom BDI fordert Lösungen von der Politik und wiederholt vom Prinzip her was Habeck vor einer Weile gefordert hat.... Kannste dir nicht ausdenken, dass die wirtschaftsnahen FDP, AFD und Unionspolitiker (also im Prinzip die Opposition) das permanent ablehnen scheint ihn nicht zu jucken. \nUnd auch die Idee vorzuschlagen keine Schulden zu machen, aber 400 Mrd Schulden zu machen? Realsatire \nWas kommt als nächstes? Man müsse etwas gegen den Klimawandel machen, z.b. mit Solarenergie und Windkraft, aber gleichzeitig einen Ausbaustopp von erneuerbaren fordern...?",
+        "date": "2024-06-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Fun fact: In den Fünfziger Jahren wurde mal versprochen, dass Atomstrom so billig sei, dass Haushalte gar keinen Stromzähler mehr bräuchten. Abgesehen davon, dass es damals auch ernsthafte Überlegungen gab, einen neuen Panamakanal mit Atombomben zu sprengen, beruht dies auf den folgen zwei betriebswirtschaftlichen Grundeigenschaften der Atomenergie:\n\n1. Atomkraftwerke brauchen, diplomatisch ausgedrückt, recht hohe Anfangsinvestitionen. Betriebswirtschaftlich sind das \"versunkene Kosten\".\n2. Die Grenzkosten der Stromerzeugung, d.h. die Kosten für die Erzeugung einer zusätzlichen Kilowattstunde, wenn das AKW erst mal steht, sind nahe Null (wenn man mal von der Lagerung des Atommülls absieht).\n\nNun, eben diese Grenzkosten bestimmen bei einem freien Markt für ein fungibles Gut den Preis - daher die Aussage mit den Stromzählern.\n\nDas Witzige ist nun, dass Solarenergie rein betriebswirtschaftlich genau dieselbe Characteristik hat - vergleichsweise teure Anfangsinvestitionen, und extrem niedrige Grenzkosten.\n\nDie Photovoltaik macht also lediglich genau das wahr, was die Atomenergie vor 75 Jahren versprochen hat.",
+        "date": "2024-06-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Fun fact: In den Fünfziger Jahren wurde mal versprochen, dass Atomstrom so billig sei, dass Haushalte gar keinen Stromzähler mehr bräuchten. Abgesehen davon, [dass es damals auch ernsthafte Überlegungen gab, einen neuen Panamakanal mit Atombomben zu sprengen](https://en.m.wikipedia.org/wiki/Project_Plowshare), beruht dies auf den folgen zwei betriebswirtschaftlichen Grundeigenschaften der Atomenergie:\n\n1. Atomkraftwerke brauchen, diplomatisch ausgedrückt, recht hohe Anfangsinvestitionen. Betriebswirtschaftlich sind das \"versunkene Kosten\".\n2. Die Grenzkosten der Stromerzeugung, d.h. die Kosten für die Erzeugung einer zusätzlichen Kilowattstunde, wenn das AKW erst mal steht, sind nahe Null (wenn man mal von der Lagerung des Atommülls absieht).\n\nNun, eben diese Grenzkosten bestimmen bei einem freien Markt für ein fungibles Gut den Preis - daher die Aussage mit den Stromzählern.\n\nDas Witzige ist nun, dass Solarenergie rein betriebswirtschaftlich genau dieselbe Charakteristik hat - vergleichsweise teure Anfangsinvestitionen, und extrem niedrige Grenzkosten.\n\nDie Photovoltaik macht also lediglich genau das wahr, was die Atomenergie vor 75 Jahren versprochen hat.",
+        "date": "2024-06-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Nostradamus TV:\n\nSeptember 2025 - Unionskanzlerkandidat Friedrich Merz (69) erklärt \"Kernenergie ist die einzig ökologische Zukunftsenergie\" und verspricht Wiedereinstieg in die Kernenergie als erste Maßnahme nach seiner Wahl zum Bundeskanzler. \n\nNovember 2025 - BlackRock und JA Solar Holdings investieren gemeinsam in ein milliardenschweres Joint-Venture zur Produktion von Windkrafträdern und Solarzellen. \n\nJanuar 2026 - Bundeskanzler Friedrich Merz (69) kritisiert die Ampel für zögerlichen Ausstieg aus der Kernenergie: \"Wind und Solarenergie sind die einzig ökologischen Zukunftsenergien. Die letzten Kernkraftwerke hätten viel früher vom Netz gehen müssen und in den letzten vier Jahren hätte eine viel höhere Zahl an Windrädern und Solarzellen aufgestellt werden müssen\".\n\n/s",
+        "date": "2024-06-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Volt: \"Die Menschheit steht erst am Anfang, das Potenzial, die Chancen und Ressourcen des Weltraums zu nutzen. Nach Schätzungen der European Space Agency (ESA) sind aus jedem dort investierten Euro im Durch- schnitt mehrere Euro als Return on Investment zu erwarten. Europa ist im Bereich der Erdbeobachtung weltweit führend, liegt jedoch bei der Erforschung des Weltraums sowie der Raumfahrt im Vergleich zu den großen Raumfahrtnationen zurück. Wir wollen erreichen, dass die EU weltweit eine Führungsrolle in der Weltraumpolitik übernimmt. Zu den wichtigsten Zielen unserer Weltraumpolitik gehören die Verbesserung der Erdbeobachtung und die Nutzung dieser Informationen für den Erhalt unserer Lebensgrundlagen, die Erschließung weltraumgestützter Energiequellen wie Solarenergie und Kernfusion, der Abbau wertvoller Materie und die Besiedlung des Sonnensystems.\"\n\nYeah, dass wir gerade unsere Welt abfackeln reicht uns noch nicht aus. Kapitalismus, volle Kraft voraus! Ab ins Weltall und ordentlich Ressourcen schöpfen.",
+        "date": "2024-06-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Natürlich kann er den für seinen SONNENkult bekannten Pharaoh nicht meinen, wenn es um SOLARenergie geht.",
+        "date": "2024-06-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "#Städteregion Aachen. Die Nachrichten der Region.\n\nDie Stadt Aachen hat ihre Online-Dienstleistungen umgestellt, man muss sich ab jetzt mit einer BUND ID [anmelden](https://www.antenneac.de/artikel/aachende-bundid-ab-montag-noetig-2016445.html).\n\nDas Aachener Tierheim nimmt keine Katzen mehr auf. Der Grund: [Überfüllung](https://www.antenneac.de/artikel/tierheim-aachen-aufnahme-stopp-fuer-katzen-2020536.html) - aktuell sind über 160 Katzen dort.\n\nDie Ergebnisse des Zensus 2022 [liegen vor](https://www.antenneac.de/artikel/zensus-bevoelkerungszahlen-bei-uns-steigen-2023141.html) (ja, wir haben Mitte 2024). Seit 2011 ist die Städteregion um 38k Menschen auf über 577k Bewohner angewachsen. Davon entfallen auf die Stadt Aachen alleine 261k Menschen.\n\nDie Stadt Herzogenrath will durch das Nutzen von Solarenergie künftig fast 300.000 Euro pro Jahr an Stromkosten [einsparen](https://www.antenneac.de/artikel/herzogenrath-setzt-auf-solarenergie-2024451.html). Dafür sollen verschiedene öffentliche Gebäude mit PV-Anlagen ausgestattet werden. Bezahlen soll die Maßnahme zu über 90% das Land NRW - das bietet im Rahmen des \"Gigawattpakts\" entsprechende massive Förderoptionen für solche Projekte an. Da die Kosten für die Stadt dadurch sehr gering sind, wird bereits damit gerechnet, dass die Anlagen durch Einsparungen bereits nach einem Jahr einen Nettogewinn in die Stadtkasse spülen werden.\n\nBei Eschweiler ist Mittwoch am frühen Nachmittag ein Regionalzug {stecken geblieben}(https://www.antenneac.de/artikel/bei-bruetender-hitze-im-zug-eingesperrt-2025401.html) - ohne Strom, ohne Klimaanlage, die Türen gingen nicht auf. Es wurde bis 50°C in dem Zug. Die Insassen wurden zum Glück nicht verletzt, mussten aber durch die Feuerwehr befreit werden.",
+        "date": "2024-06-27",
+        "sentiment": "negative"
+    }
+]

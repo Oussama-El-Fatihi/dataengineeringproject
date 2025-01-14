@@ -1,0 +1,502 @@
+[
+    {
+        "text": "Thema Werbung:\n\nIch kann beim besten Willen nicht verstehen, weshalb beispielsweise in der Halbzeitpause des WM Finale (oder der gesamten WM), als 90% der Zuschauer eh aufs Klo oder zum Kühlschrank marschiert sind, nicht einfach Werbung lief statt einer Tagesschau Spezialausgabe. Ob ich keine Werbung gucke oder keine Tagesschau gucke, macht dabei keinen Unterschied. Und mit der Kohle hätte man einen guten Teil der Lizenzgebühren wieder drin gehabt. ",
+        "date": "2018-03-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dass die Handfeuerwaffenhersteller bei weitem nicht so viel Kohle haben wie deutsche glauben wollen. Um das Geld von einer einzigen neuen F-irgendwas kann man ein Land wie Polen mit Sturmgewehren komplettversorgen.\n",
+        "date": "2018-03-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Nutten, die sind raffiniert! Die nehmen die Kohle!",
+        "date": "2018-03-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Dann sollte aber verhindert werden, dass Zivis wieder nur als Sklaven und Ärsche für alles zu Hungerlöhnen missbraucht werden. Es DARF und KANN nicht sein, dass man für Zwangsarbeit unter Mindestlohn bekommt, nur, um Kohle zu sparen. Kohle, die da ist, aber lieber für anderen Schwachsinn ausgegeben wird.",
+        "date": "2018-03-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Ich bin nicht wirklich bewandert, was Kryptographie angeht, aber kann man sicher sein, dass Whatsapp (bzw. Facebook) keine Möglichkeit hat an die Inhalte der Nachrichten zu kommen?\n\nNein, das kannst du aber nie. Wenn mans auf die Spitze treibt kann man versuchen Konstanten in Verschlüsselungsalgorithmen so standardisieren zu lassen, dass nur man selbst eine Hintertür hat und niemand sonst. So tat es die NSA z.B. mit [Dual_EC_DRBG](https://en.wikipedia.org/wiki/Dual_EC_DRBG).\n\nEin realistischeres Szenario ist vielleicht dass Facebook einfach eine neue Version von Whatsapp ausliefert die gar keine Crypto mehr hat.\n\nOpen Source würde hier allerdings auch nicht helfen, ausser du schaust dir den Quellcode bei jedem Update genau an und kompilierst ihn dann selbst.\n\n&gt; Soweit ich das verstanden habe, kann die Verschlüsselung an sich nicht gebrochen werden, da die Ver- und Entschlüsselung nur lokal auf dem Gerät durchgeführt werden kann.\n\nDas ist die Idee von Ende zu Ende Kryptographie, ja.\n\n&gt; Aber gibt es nicht innerhalb der App Möglichkeiten den Inhalt irgendwie zu transferieren, oder würde man das zu schnell herausfinden und im Scheißesturm ertrinken?\n\nNatürlich gibt es die, wie gesagt, z.B. mit einem Update was diese Funktionalität besitzt. Aber ich seh die Motivation für Facebook nicht ganz. Wieso sollten sie Kohle ausgeben und tatsächlich eine technisch gute Lösung umsetzen und die dann wiederum Hintertüren umgehen bei denen man erwischt werden könnte. Da gäbe es dann schon Scheissesturm-Potential wenn man erwischt wird.\n\nSie hätten genau so gut einfach sagen können \"WhatsApp verschlüsselt nun alle Chats!\" und dabei aussen vor lassen dass es nicht Ende-zu-Ende ist und sie trozdem mitlesen können. Wie auch du selbst, sind die meisten Leute nicht sonderlich bewandert was Kryptographie angeht.\n\nIch glaube tatsächlich Facebook ist vollkommen zufrieden mit den Meta-Daten die sie kriegen, wer hat wen im Adressbuch und wer redet wann mit wem. Und verzichten dann auf die eigentlichen Inhalte.",
+        "date": "2018-03-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Das find ich ja nicht schlimm - es ging mir eher um das 'hab mir nen Larry geschoben mit der Kohle meiner Eltern lol'.",
+        "date": "2018-03-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Und für unter Mindestlohn schuften ist auch nicht gerade so toll\n\nKommt auf die persönliche Situation an. Ich hatte während meiner Zivizeit kein Auto und keine eigene Wohnung. Diese Ausgaben fielen also schonmal weg. Eine Unterkunft zum Wohnen bekam ich kostenlos gestellt und essen konnte ich oftmals was auf Station übrig blieb (letzteres war allerdings offiziell nicht erlaubt). Den letzten Monat musste ich nicht mal mehr erscheinen, da ich meinen gesamten Urlaub aufgespart hatte. War also nochmal ein voller bezahlter Monat fürs Nichtstun und anschließend gab es nochmal ein paar Hundert Euro Entlassungsgeld. Alles in allem hatte ich jeden Monat soviel Kohle übrig, dass ich gar nicht mehr wusste, wohin damit. Das ging mir anschließend nie wieder im Leben so. Ich glaube mein Ziviausweis war zusätzlich auch noch ne Bahncard 50. In dem Punkt bin ich mir allerdings nicht mehr ganz sicher. Das alles soll keine Aussage darüber sein, wie es anderen im Pflichtdienst erging oder ergehen würde. Sind nur meine persönlichen Erfahrungen.",
+        "date": "2018-03-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Geh Blut spenden. Hab ich als Student damals auch gemacht, gab Kohle (ich glaube 20 Euro oder so) und was zu mampfen.",
+        "date": "2018-03-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Als jemand der noch Wehrdienst hatte würde ich eine Wiedereinführung auf jeden Fall befürworten. Man lernt dort Disziplin, Kameradschaft und Selbstüberwindung wie sonst kaum noch. Und der Bürger in Uniform ist letztendlich auch eine sehr gute Idee die dafür sorgt, dass die Armee immer auf der richtigen Seite steht und nicht nur die ärmsten und bildungsfernsten Schichten am Ende dort landen weil es dort eben relativ viel Kohle gibt (USA).",
+        "date": "2018-03-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Als Abiturientin die Kohle haben über den Globus zu reisen und sich dann aufregen, dass man als Tourist in einem armen Land mehr zahlen soll, wenn man nicht mal im Ansatz die Landessprache spricht?",
+        "date": "2018-03-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Dieser Typ ist so dumm. Man kann wirklich alles mit der EU machen. Sie auslachen, sie militärisch ignorieren, sie beleidigen und natürlich sie außenpolitisch bloßstellen. Alles OK. Aber sobald es um ihre Kohle geht versteht die EU absolut keinen Spass mehr. Die heilige Kuh Exportwirtschaft angreifen? Ooooh nein. Da stehen dann sogar Orban und Macron Seit' an Seit'.",
+        "date": "2018-03-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja, es ist nichts was ich einer Angebeteten vorsetzen würde, aber wenn du nix hast und keine Kohle um was zu kaufen... So what, immer noch besser als Ketchup auf die Nudeln zu ballern.",
+        "date": "2018-03-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Besser ist es mit, ja. Aber wenn OP überhaupt keine Kohle dafür hat? Das hier wäre wohl das unterste Level was Kosten angeht.",
+        "date": "2018-03-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Musst Du nicht so weit gehen. Schon Helmut Kohl wollte die Arbeitslosen halbieren.",
+        "date": "2018-03-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Danke dafür. Ja, das macht Sinn, für die abgeschriebenen Nuklearanlagen zu lobbyen. Zumindest für die Aktionäre. \n\nGaskraftwerke sind m.E. auch deshalb unwirtschaftlich, weil Emissionen und Folgekosten von Kohle /Atom in erheblichem Maße externalisiert werden dürfen. Die Gesellschaft zahlt dafür aus 4 anderen Töpfen: Versicherung (Klima, Unwetter), Krankenkasse und Pflege (Umweltbelastung), Agrarsubventionen (Ernteverluste) sowie Ewigkeitskosten/ Renaturalisierung/ Endlagerung. Die meisten \"Rechte\" für diese Externalisierung sind 100 und mehr Jahre alt und werden trotz inzwischen verfügbarer Alternativen weiter geschont. Nur die Einführung und prompte Aushebelung des Emissionshandels ist ein Akt des Vorsatzes aus der jüngeren Geschichte. \n\nUnd, noch ein wichtiger Aspekt: Ein wesentlicher Teil deutscher Müllverbrennung läuft über Kohlekraftwerke. Auch hier ist der Investitionsstau politisch gewollt. Die stofflichen Recyclingquoten in Japan sind z.B. um 25% höher als hierzulande. Wir zahlen Entsorgungsgebühren und das Duale System, um Brennwert ins Kraftwerk zu liefern. [Leseprobe](http://eu-recycling.com/Archive/8348). Geht mit Gas auch nicht so gut, bzw. erfordert Zusatzinvestitionen (Pyrolyseanlagen).\n\nBei Irsching sehe ich für die Erdgas-Blöcke 4 und 5 einen weiteren Widerspruch. Die [Investitionsentscheidung fiel wohl 2005](https://de.wikipedia.org/wiki/Kraftwerk_Irsching), auf dem Höhepunkt des Gaspreises [Diagramm hier, unten rechts auf MAX klicken](https://www.investing.com/commodities/natural-gas). Warum war das damals wirtschaftlich und ist es heute nicht mehr, wo das Gas um den Faktor 3 billiger ist?\n \n",
+        "date": "2018-03-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Gaskraftwerke sind m.E. auch deshalb unwirtschaftlich, weil Emissionen und Folgekosten von Kohle /Atom in erheblichem Maße externalisiert werden dürfen.\n\nGanz richtig. In GB haben sie das wohl ein Stück weit berücksichtigt, und dort wurde Kohle fast vollständig verdrängt.\n\n&gt;Warum war das damals wirtschaftlich und ist es heute nicht mehr, wo das Gas um den Faktor 3 billiger ist?\n\nDer Strompreis (Börsenpreis) ist durch erneuerbare Energien gesunken. Allerdings hat man es verpennt, mit den Erneuerbaren Kohle zu verdrängen. Stattdessen ist Gas quasi hinten runter gefallen.",
+        "date": "2018-03-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Merkel regiert sehr bewusst. Sie mag halt konservative, neoliberale Politik, so wie sie Schröder und Kohl gemacht haben.",
+        "date": "2018-03-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die Alternative zur invasiver Werbung sind nun einmal Leser die für die Artikel auch bezahlen. Statische Werbung bringt nun einmal keine Kohle, selbst wenn dort alle Verlage mitmachen, was sowieso Ansich schon ziemlich unrealistisch sind. Kein Firma zahlt dir für statische Werbung Premiumbeiträge wenn sie für weniger Geld auch bei Facebook, Youtube und Co. ihre zielgruppengerichtenden Anzeigen schalten kann. Besonders wenn die Verlage am viel kürzeren Hebel sitzen. Die Firmen überleben es, wenn sie ein paar Monate lang keine Anzeigen beim Spiegel schalten, der Spiegel im Gegensatz überlebt es nicht.\n\nWenn du also nicht für Journalismus bezahlen willst, dann ist die einzige Alternative eben invasive Werbung. Wenn du darauf auch keinen Bock hast, tja, dann darfst du dich eben nicht über schlechter werdenden Journalismus beschweren. Man kann eben nicht alles haben. Billig und gut geht nicht. \n\nEs ist ja auch nicht so, als gäbe es mittlerweile nicht **genügend** Möglichkeiten gute Artikel zu bezahlen und dann ganz ohne Werbung zu lesen. Nur wird das eben von den meisten nicht wahrgenommen. Die wollen diese Artikel kostenlos haben **und** beschweren sich dann noch über die Werbung. ",
+        "date": "2018-03-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Gibt es wirklich Leute die nicht wissen, dass die Industrie Hochschulen finanziert? Und überrascht es wirklich jemanden, dass sie in erster Linie Projekte finanzieren, aus denen sie einen Nutzen ziehen? Das ist doch der Sinn und Zweck solcher Forschungskooperationen. Und ehrlich gesagt sind 25 Millionen ein winziger Betrag im Vergleich zu den Budgets der Unis.\n\nEs ist ja nicht so, dass die Unternehmen sämtliche Forschungsthemen diktieren und die Hochschulen an nichts mehr arbeiten darf. Die Finanzierung von Forschung zum Wohle der Allgemeinheit ist und bleibt Aufgabe des Staates. Es wäre schon extrem naiv zu glauben der Statt müsse keine Kohle mehr für Forschung ausgeben, weil die Unternehmen schon die \"richtigen\" Themen finanzieren werden. Wenigstens wurde das Thema im Bericht mal ganz kurz am Ende angeschnitten.\n\nEs ist für mich schockierend, dass es in dem Bericht als negativ dargestellt wird, dass Leute aus der Industrie auch an den Unis tätig sind. Wo sollen sie denn sonst ihre Praxiserfahrung her haben? Will man denn nur noch Leute aus dem Elfenbeinturm haben, damit die Studenten hinterher nicht vernünftig für ihren späteren Job vorbereitet werden? Dass man die Leute pauschal vorwirft, dass sie von der Industrie \"gekauft\" wären, grenzt für mich an übler Nachrede.",
+        "date": "2018-03-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "So macht man sich das aber auch etwas einfach. Ich kritisiere oftmals auch gern meine absurde Steuerbelastung, trotzdem bin ich nicht dafür Steuern komplett abzuschaffen. Man darf durchaus ein System auf den sinnvollen Umgang mit fremder Leute Geld überprüfen. \n\nWir alle müssen mit unserer Kohle einigermaßen auskommen, der Eindruck bei den öffentlich-rechtlichen Sendern ist aber, daß sie ihre Budgets recht großzügig bemessen. ",
+        "date": "2018-03-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Sowas z.b.. \n\nUuuuh das gefällt mir. Mein letzter Stand war, dass die Metalloxidakkus alle noch mit mangelhafter Wiederaufladeeignung kämpfen, aber sie kommen wohl voran. :) \n\n&gt;Wenn in dem Bereich mal zufällig überraschend eine neue Technologie Marktreif wird, ist halt praktisch der ganze Li-Ionen Akku Markt am Arsch und ein Großteil der dazugehörigen Produktion Wertlos. \n\nDas wäre glaube ich garnicht mal so extrem. Nur weil eine unterm Strich leistungsfähigere Lösung auf den Markt kommt bedeutet das ja nicht, dass die andere nutzlos wird. Erstmal würde die Nachfrage für die stärkeren Akkus massiv ansteigen, sie würden also erstmal teurer, wodurch zumindest kurz- und mittelfristig viele Hersteller weiterhin mit Lithiumionenakkus arbeiten würden, wenn ihre Produkte die Mehrleistung nicht dringend brauchen, bzw. sie würden beides anbieten, mit den stärkeren Akkus als Premiumversion.\n\nSo ähnlich lief das ja, als die Alkaline aufkamen und nach und nach die Zink-Kohle-Akkus verdrängt haben. Letztere gibts aber bis heute. Sind spottbillig, taugen im Haushalt auch nur für sowas wie Fernsehfernbedienungen. Aber der Übergang zu Alkaline war keineswegs abrupt. \n\nEs könnte auch noch passieren, dass die nächste wichtige Akkutechnik in bestimmen Eigenschaften dauerhaft nicht an Alkaline und Li-Ion rankommt, etwa hinsichtlich der Wiederaufladbarkeit, Schnellladefähigkeit, Lagerungsfähigkeit, Temperaturtoleranz, usw. \nIn dem Fall könnten (wie heute ja auch der Fall ist) einige verschiedene Akkutypen mit unterschiedlichen Qualitäten nebeneinander existieren.\n\n\nAlles in allem bleibt es spannend und noch scheint niemand so wirklich absehen zu können, wo die Reise hingeht. Aber eine geile Entwicklung legen wir so oder so hin, schon heute.",
+        "date": "2018-03-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Wir alle müssen mit unserer Kohle einigermaßen auskommen, der Eindruck bei den öffentlich-rechtlichen Sendern ist aber, daß sie ihre Budgets recht großzügig bemessen.\n\nMmhhja, bin selber nicht immer froh von wie viel die Öffentlich-Rechtlichen an Geld anfordern und was sie teilweise daraus machen. Bin immerhin sehr froh, dass es sie gibt, ansonsten würde die Ü40-Bevolkerung hier ihr gesamten Medienkonsum aus RTL, ProSiebenSat und Co. beziehen.",
+        "date": "2018-03-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wow, 100€ für eine kaputte Tür, was hat der Chef mit all der übrig gebliebenen Kohle gemacht?",
+        "date": "2018-03-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Was ist denn die Alternative? Ich will ja gar nicht bestreiten, dass den Ossis böse mitgespielt wurde, das Treuhandvermögen an Kohl-Lakaien verscherbelt, Ossis von raffgierigen Wessis übern Tisch gezogen, etc. Aber es ist ja ehrlicherweise so, dass diese Form der Wiedervereinigung vor allen Dingen von den Ossis selbst gewählt wurde. In keinem neuen Bundesland war die CDU nicht stärkste Kraft.",
+        "date": "2018-03-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Kosten können meinetwegen auch so hoch bleiben. Man könnte nur deutlich mehr für so viel Kohle bekommen.",
+        "date": "2018-03-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wenn für das Papier aber mehr Öl oder Kohle verbrannt werden muss bringt dir das aber nicht viel.",
+        "date": "2018-03-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Öl und Kohle zur Energiegewinnung zu verwenden ist aber kein inhärentes Problem des Werkstoffs.",
+        "date": "2018-03-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ja, das stimmt. Mir wäre es auch lieber, wenn man mal etwas spart und nicht ständig noch mehr Kohle will. Das derzeitige Programm ist nicht schlecht, rechtfertigt aber den jetzigen Preis schon kaum. Von meinen Unibekannten schaut kaum jemand die Öffis bzw. überhaupt noch Fernsehen.",
+        "date": "2018-03-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dazu kommt auch noch, dass die Unternehmen langsam kapieren, dass diese superduper targeted ads doch nicht so super targeted und ihre Kohle nicht wert sind. Procter&amp;Gamble hat letztes Jahr das Internetwerbungsbudget um 200Mio. $ eingedampft.",
+        "date": "2018-03-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja, irgendwo muss die Kohle für ein Grundeinkommen eben herkommen. Da liegt es nahe, sich bei denen zu bedienen die mehr als genug haben als bei denen, die “nur“ ganz gut durch kommen. Wieso sollte man denn statt dessen bei den mittleren und niedrigen Einkommen anfangen?",
+        "date": "2018-03-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Die Nachnamen der Familien sind auf den Ämtern wie dem Sozialamt, Versorgungsamt, der Arbeitsagentur usw. bekannt. Trotzdem suchen die Clans den Weg des geringsten Widerstandes. Hat man jetzt eine Person die in einem der Ämter arbeitet, kann diese Person auf seine Kollegen einreden.\n\nEinem Zeugen z.B wird zuerst immer ordentlich Kohle angeboten. Wir sprechen hier von fünfstelligen Beträgen.\n\nDas kann eine Person bei einer KFZ Zulassungsstelle sein oder einer Autoversicherung die denen die Inhaber von Kennzeichen besorgt. \n\nJemand bei Ordungsamt, wenn man koodiniert mit der Polizei Durchsuchungen macht, gibt diese Person vorher einen Tipp.\n\nWenn es ein Anwalt oder Richter ist kann man den auch gut erpressen das er auf seine Kollegen einredet, quasi Sie ihm einen Gefallen tun.\n\nDann haste natürlich viele Promis die sich mit den Leuten in den Medien zeigen, so wirken sie super nett. Wie es die Hells Angels gemacht haben und immer noch machen, Straßenfeste organisieren oder mal mit nem behinderten Kind ablichten lassen. Schon sind es Helden. So kann man dann auch die eigenen Dienstleistungen wie Sicherheitsdienste usw. besser vermarkten.\n\nWenn die dann aber nicht mitspielen kriegen die Familien, Freunde oder die Personen auf der Arbeit halt ein Sextape zugespielt.\nOft sind die Freier verheiratet, haben eine Freundin, buchen eine Nutte die so alt ist oder so ausschaut wie die eigene Tochter. Es kann auch sein das sich jemand einen Stricher bucht, er aber nicht will das die Welt von seiner bi-/homosexualität erfährt.",
+        "date": "2018-03-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Oder man kapiert, dass man sich im Jahre 2018 selbst IM GESAMTEN INTERNET mit Informationen versorgen kann. Von multiplen Quellen ohne eine quasi Steuer zu blechen für einen Senioren Laden der nicht weiß, ob er die Kohle für Schlager, Fussball oder Olympia raushauen soll. Ach, oder Lanz oder Tatort oder sonst so echt wichtige Sachen die komplett von ihren sogenannten \"Auftrag\" gedeckt sind.",
+        "date": "2018-03-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "also ein gutes Gebrauchtes rechne ich mal mit ~4k Eu. Wie gesagt bin da nicht so der Autokenner aber mit der Kohle zieh ich erstmal los. In den letzten Jahren hatte ich da einiges wo das Material zwar nicht so immens teuer ist aber die Meisterstunden die den Kram einbauen - runden wir das mal auf grob 2k Eu. Jetzt muss ich also nur noch 1k Eu zusätzlich auf den Tisch legen für einen Neuwagen. Ich denke, das rechnet sich durchaus.\n\nDie Garantiebegrenzung ist mir auch bekannt, ich schrieb ja extra dass es das Zweitauto ist. Für den Erstwagen würde ich das vermutlich auch nicht in Erwägung ziehen (vom fehlenden Geld mal ganz zu schweigen)\n",
+        "date": "2018-03-04",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Kohls ist so am Ende wie KarstadtQuelle in Deutschland vor einigen Jahren schon. Wer einmal dorthin ist um sein Zeug am schnellsten, einfachsten und problemlosesten Weg zurück nach Amazon zu schicken (Kooperation) und gedacht hat, dort könnte man ja auch einkaufen, wird das feststellen. Teuer, traditionell, uninnovativ. \n\nAldi oder Lidl sind an günstigen Mieten interessiert und werden das als Übergang benutzen, bis sie ihre eigenen Objekte haben. Ich geb Kohls noch 3 Jahre.\n\nAußerdem könnte Aldi Lidl niedermachen, wie Goliath Abraham. Die haben aber auch Interesse daran, dass sich  deutsch wahrgenommene Supermärkte ein positives Image verschaffen, wie die Autoindustrie das vor Dieselgate hatte.",
+        "date": "2018-03-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Gerade bei so großen Verlagen und ähnlichem habe ich wenig Verständnis dafür, dass die Werbung nicht selber gemanagt wird.\n\nAlle heulen sie rum, dass die Leserschaft die Werbung blockiert und jeder, der ein kleines bisschen Wert auf Privatsphäre und die Integrität und Sicherheit seines Computers legt, wird dafür verantwortlich gemacht, dass der Qualitätsjournalismus den Bach runter geht. Aber wenn man andersherum mal die Webseiten in die Verantwortung ziehen möchte, wenn die eigene Werbung Malware verteilt, Sicherheitslücken aufmacht, alle Systemressourcen verbraucht (ohne Adblocker kann ich mit meinem iPhone 4s quasi nicht mehr auf werbefinanzierten Seiten surfen) oder einfach nur völlig unzumutbar ist (wie im Screenshot von OP), wird jegliche Verantwortung von sich gewiesen und alles wird auf dritte abgeschoben, auf die man angeblich keinen Einfluss hat.\n\nDie Kohle für den sicherlich völlig überteuerten Adblock-Blocker ist da und es werden wahrscheinlich viele tausende von Euros dafür ausgegegeben, um rauszufinden, wie man am besten dem \"Kunden\" noch viel aufdringlichere und so viel Werbung wie möglich in den Hals stopfen kann. Aber mal nen eigenes CMS für Werbung zu entwickeln und Leute dafür zu bezahlen, dass sichergestellt wird, dass die javascripts auf der eigenen Webseite nicht völlig freidrehen, scheint ein Ding der Unmöglichkeit zu sein.",
+        "date": "2018-03-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Wie Kohl`s bei der Bekanntgabe der Jahresergebnisse klarstellte, soll das Pilotprojekt mit Aldi in fünf bis zehn Filialen beginnen.\n\nBei 19 Mrd. USD Umsatz von Kohl erscheinen mir 10 Filialen als ziemlich wenig.\n\nEdit:\n&gt;Das Abkommen sei nicht exklsuiv. Kohl`s könnte auch mit anderen Supermärkten zusammen arbeiten, sagte er.\n\nok. ",
+        "date": "2018-03-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Saubere Kohle für alle!",
+        "date": "2018-03-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Es gibt ja tatsächlich eine Kette namens Kohl's. Dachte erst, die hätten iwas mit Coles verwechselt. \"Du, Heinz, sage mol für de Artiggl, wie heißt nochemol diese amerikanische Kätte?\" \"Ha, Coles.\" \"Ala guud, Kohls.\"",
+        "date": "2018-03-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wir nehmen die Kohle aus der Erde und schrubben sie sauber!",
+        "date": "2018-03-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Das Problem an der CDU/CSU ist doch dass das letzte mal als die unter Kohl durchweg an der Macht waren, und immer weniger produktiv für das Land getan haben, es noch eine Alternative gab die man wählen konnte um dem Schwachsinn Einhalt zu gebieten.  \nHeute ist die Alternative teil der Regierung und macht bei Schwachsinn fleissig mit während sich der Fascho-Abschaum Alternative nennt - was an und für sich gar nicht mal so dumm ist für das Pack!",
+        "date": "2018-03-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Natuerlich ist Merkel nicht an allem Schuld. Aber wenn Deutschlands Kernkompetenz und größtes Standbein die Sklaverei wäre, dann würde sie eine nicht allzu geringe Mitschuld tragen. \n\nAbbau von Kohle ist im Grunde genommen der Anfang der Wertschöpfungskette für ein Unternehmen, dass sich auf Kohlekraft spezialisiert. Natürlich ist er dann mit daran mit Schuld, wie die Arbeitsbescheinigungen am Abbauplatz sind.",
+        "date": "2018-03-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Dann muss aber auch was vom Staat oder von anderer Stelle kommen was das Auto ersetzt.\n\nFahrrad und ÖPV. Muss halt beides ausgebaut werden, aber das schrieb ich ja schon. Solange aber Leute nicht bereit sind, einen 5 (!) Minuten längeren Arbeitsweg auf sich zu nehmen, kann die Politik auch Kopfstand machen. Und ja, ich habe wirklich schon mit Leuten diskutiert, denen es um 5 Minuten im wortwörtlichen Sinne ging.\n\n&gt;Außerdem bringt es wenig in Deutschland auf die Umwelt zu pochen wenn (z.B. bei mir) 50km weiter Fahrzeuge rumfahren die bei uns nie durch den TÜV kommen würden. Die Abgase und sonstiges interessiert die Grenze wenig.\n\nNach der Logik muss nie jemand irgendwas verbessern, weils immer irgendwas gibt, was bei anderen noch schlechter ist. Man vergleicht sich aber nicht mit den schlechteren, das lernt man normalerweise in der Schule. Man guckt dahin, wos besser läuft: Amsterdam, Kopenhagen, Barcelona, und und und. Gibt inzwischen mehr als genug Beispielstädte.\n\nEs wird immer so getan, als wäre die Verkehrswende etwas komplett idealistisches, das sich nie verwirklichen lässt. Gerade Kopenhagen hat aber gezeigt, dass das nicht stimmt. Dort fahren über 60% der Menschen täglich Fahrrad, nur noch ~3% täglich Auto (Rest ÖPNV+zu Fuß) - und das eben ganzjährig. Angefangen haben die den Strukturwandel übrigens mit teureren Parkplätzen im Zentrum. Wenn das hier jemand fordert, ist er quasi der Antichrist.\n\nNoch einmal: Der Klimawandel sorgt dafür, dass wir nicht mehr die Option haben, die Verkehrswende auf ewig hinauszuzögern. Will man tatsächlich noch die Klimaziele erreichen, die - ausgehend von *wissenschaftlichen*, nicht politischen Erkenntnissen - notwendig sind, dann kommt man zu dem Schluss, dass die Zeit der Gemütlichkeit eben vorbei ist. Jetzt ist der Zeitpunkt gekommen, wo schmerzliche Opfer notwendig sind, denn wir habens einfach zu lange aufgeschoben. Nur mal ein paar Beispiele für von der Wissenschaft geforderte Maßnahmen:\n\n* Subventionen für fossile Brennstoffe bis 2020 beenden (das ist derzeit weltweit etwa so viel Geld, wie man für den Wechsel auf EE bräuchte)\n* spätestens ab 2030 keine Neuzulassungen von Verbrennungsmotoren mehr\n* Moratorium für neue Kohlekraftwerke\n* reiche, \"kohle-intensive\" Staaten müssen beim Ausstieg vorangehen\n* Anteil der erneuerbaren Energien alle 5-7 Jahre verdoppeln\n* Nullemission bis spätestens 2050, eher 2040 (bei zu spätem Ausstieg für Wirtschaft\nkaum zu bewältigen, Stichwort: carbon crunch)\n\nMan kann viel darüber diskutieren, ob man es schafft, diese Maßnahmen umzusetzen. Tatsache ist aber, dass es umso teurer und schmerzlicher (und unmöglicher) wird, das 2-Grad-Ziel anzusteuern (1.5 Grad kannste jetzt schon knicken), je später man mit solchen Maßnahmen beginnt.",
+        "date": "2018-03-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Bevor Du also irgendjemandem Gewalt androhst, solltest Du vielleicht mal ein Buch öffnen, vorzugsweise die Verfassung. **Da steht das nämlich drin** (in den Ausgaben der BPB übrigens mit Hymne auf dem rückwärtigen Einband, mit Erläuterung in der Klappe, warum das so ist).\n\nZitat fehlt, weil dazu **im Grundgesetz nichts steht**. In [Art. 22 GG](https://www.gesetze-im-internet.de/gg/BJNR000010949.html) steht nur was zur Bundesflagge und zur Bundeshauptstadt, von Nationalhymne ist aber weit und breit nichts zu sehen.  \n  \nWieso werden so leicht widerlegbare Falschinformationen dennoch so oft upgevoted? So einen belehrenden und besserwisserischen Ton an den Tag legen, aber so falsch liegen - OP von dem Kommentar über mir hat ganz offensichtlich selbst noch nie die Verfassung in die Hand genommen, um eine Norm zur Hymne zu suchen - sonst wüsste er, dass es dort nicht steht. Aber Hauptsache arrogant und herablassend was von \"solltest Du vielleicht mal ein Buch öffnen, vorzugsweise die Verfassung\" faseln. Anscheinend stehen die Leute hier aber auf sowas.  \n  \n  \nEdit: Für die vielbeschäftigten Redditors hier der Link zum Gesamtext des [Grundgesetzes](https://www.gesetze-im-internet.de/gg/BJNR000010949.html); bei einer Suche (beispielsweise bequem über Strg+F) nach Wörtern wie \"Hymne\", \"Fallersleben\" oder sonstiges kommt nix bei raus. Für bisschen interessiertere oder sorgfältiger recherchierende Redditors gibt's dann noch den Wikipediaeintrag zur [Deutschen Nationalhymne](https://de.wikipedia.org/wiki/Deutsche_Nationalhymne) - dort sind die Abschnitte zu Vereinigtes Deutschland und Geltungsgrund und Strafrechtlicher Schutz des Deutschlandliedes relevant. Dort könnte man dann lesen:  \n\n&gt; Im Gegensatz zu den Nationalhymnen anderer Staaten wie Frankreich, Polen oder Ungarn ist das Deutschlandlied **nicht in der Verfassung verankert**. Auch eine Festlegung der Nationalhymne durch ein formelles Gesetz fehlt.  \n  \n&gt; Nach der deutschen Wiedervereinigung erklärte Bundespräsident Richard von Weizsäcker in einem Brief an Bundeskanzler Helmut Kohl am 19. August 1991 **ausschließlich die dritte Strophe** des Deutschlandliedes zur offiziellen Nationalhymne; Kohl stimmte dem in seinem Antwortschreiben vom 23. August zu.  \n   \nDas heißt auch diese **Behauptung bzgl. der Strophen ist falsch**:\n&gt; Es wurde nichts gestrichen, und es wird genauso gesungen, wie von Fallersleben es getextet hat. Das gesamte Deutschlandlied ist deutsche Nationalhymne, auch wenn nur die eine Strophe öffentlich gesungen wird.\n  \nDenn [wie Weizsäcker an Kohl schrieb](https://www.gesetze-im-internet.de/nhbrfbek/BJNR021350991.html):\n&gt; **Die 3. Strophe** des Liedes der Deutschen von Hoffmann von Fallersleben mit der Melodie von Joseph Haydn ist die Nationalhymne für das deutsche Volk.  \n  \nUnd [Kohl ihm antwortete](https://www.gesetze-im-internet.de/nhbrfbek/BJNR021350991.html):  \n&gt; Der Wille der Deutschen zur Einheit in freier Selbstbestimmung ist die zentrale Aussage der **3. Strophe** des Deutschlandlieds. Deshalb stimme ich ihnen namens der Bundesregierung zu, daß sie Nationalhymne der Bundesrepublik Deutschland ist. ",
+        "date": "2018-03-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Wie soll man der Partei, den Kampf für soziale Gerechtigkeit und den kleinen Mann abnehmen, wenn sie derzeit durchgehend mit der CDU/CSU koalieren und mit der Agenda 2010 selbst die FDP in Sachen unkontrollierter Turbokapitalismus überholt haben.\n\nDer Witz geht ja noch weiter. Merkel, so wenig linke Politik sie auch macht, hat mehr für \"den kleinen Mann\" getan als Schröder. Was haben wir denn unter Merkel bekommen? Mindestlohn, höheres Elterngeld, und eine Erhöhung (!) des Spitzensteuersatzes von 42% auf 45% - Nachdem Schröder ihn von 53 auf 42 gesenkt hatte.\n\nAlso was haben wir denn da jetzt. Nehmen wir mal an wir sind Ende 30 Anfang 40. Was kennen wir? Wir kennen Kohl, Schröder und Merkel.\n\nWomit identifizieren wir Kohl?\n\n* Einheit\n* Euro\n* Korruption\n\nWomit identifizieren wir Schörder?\n\n* HarzIV\n* Krieg (Kosovo, Afghanistan)\n* Senkung der Körperschaftssteuer\n* Effektive Abschaffung der Erbschaftssteuer\n* Atomausstieg in 18 Jahren\n\nWomit identifizieren wir Merkel?\n\n* Abschaffung der Wehrpflicht\n* Europapolitik\n* Mindestlohn\n* Flüchtlingskrise\n* Sofortiger Atomausstieg ohne rechtliche Grundlage\n\nWenn man sich die Liste mal anschaut, dann kommt man nicht zwingend darauf, dass Schröder der SPD Kanzler war.",
+        "date": "2018-03-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Beweise sind da halt nur sehr schwer zu beschaffen. Dass die Minirepubliken da aber nur dank russischer Hilfe überhaupt überleben können, dürfte aber nicht in Zweifel stehen. Es macht für mich nur sehr wenig unterschied, ob da nun russische Russen oder Ukrainische Russen von russischem Geld bezahlt und mit russischen Waffen ausgerüstet werden, und ob die Kohle von Putin selbst oder seinem besten Kumpel stammt. Oligarchen und Regierung sind in Russland ungefähr so gut trennbar wie Kirche und Staat im Vatikan.",
+        "date": "2018-03-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die AfD wird sich auch deshalb halten, weil sie das Fenster dessen, was man öffentlich diskutieren kann, erfolgreich nach rechtsaußen verschoben haben. Da sind Positionen dabei, die keine andere größere Partei mehr besetzen möchte, und für die man sich früher zurecht geschämt hätte, die aber dennoch in der Bevölkerung virulent sind (wie du ja sagtest). Das wird so schnell nicht verschwinden, denke ich, und ist insofern auch eine Normalisierung der deutschen politischen Landschaft, zumindest wenn man den internationalen Vergleich sucht, wo solche Parteien seit langem Erfolge in dem Bereich haben. \n\nHinzu kommt, dass wir momentan in einem neuen goldenen Zeitalter der Propaganda leben. Feels over reals. Entscheidend ist nicht, was wahr oder belegbar ist, sondern was sich wahr und richtig anfühlt. Kombiniere das mit einem nicht zu vernachlässigenden Anteil der Bevölkerung, der seine Interessen von der Politik nicht gewahrt sieht und einem nicht zu vernachlässigenden Anteil, der die Probleme der Zukunft am liebsten mit Rezepten aus dem letzten Jahrhundert lösen möchte, weil sich dann nicht so viel ändert, und du wirst die AfD halt nicht mehr los. Alldieweil die jetzt auch die fette Kohle abgreifen und für Wahlkampf nutzen können, was bislang noch keiner Partei aus dem Bereich gelungen ist.\n",
+        "date": "2018-03-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Du könntest mit der Geschichte versuchen über fundraiser ein bisschen Kohle zu bekommen, weiß nicht ob es klappt aber was hast du zu verlieren?",
+        "date": "2018-03-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Also man kann beim Amt auf jeden Fall Umzugshilfe beantragen. Ist aber glaube ich ein Darlehen.\n\nhttps://www.umzug.de/tipps/umzugskosten/umzug-hartz-4.html\n\nAuch wenn ihr jetzt kein Hartz4 oder so bezieht würde ich es mal versuchen. Muss nicht immer alles erfüllt sein wenn du die richtige Person erwischt. Kann da auch viel in die Wege leiten.\n\nKlingt dumm und wenn du da perse nichts gegen hast: Bei Fernsehsendern anfragen. Irgendeine nette Mail schreiben. Die machen eine Geschichte mit viel Herzschmerz draus und ihr bekommt bisschen Kohle für den Umzug.\n\nUnd dann gibt es halt noch Familie, Freunde etc. die man Fragen könnte. Ist nicht immer angenehm, aber nach so einer Geschichte wird der ein oder andere gerne aushelfen. Sei es mit Geld, Transporter, Möbeln etc.",
+        "date": "2018-03-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Ära Merkel (und Kohl) in einem Satz zusammengefasst.",
+        "date": "2018-03-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Und wie ich neulich feststellen durfte, wird tagsüber fröhlich Werbung geschaltet. Und das nicht zu knapp! \n\nMeine Kohle wird für Sport rausgeballert, der mich nicht die Bohne juckt. \n\nMeine Kohle wird für Quiz- und Kochsendungen rausgeballert, die mich nicht die Bohne jucken.\n\nMeine Kohle wird für die Rentenfinanzierung von Ex-Intendanten rausgeballert, die mich nicht die Bohne jucken.\n\nEs macht mich so zornig! :(",
+        "date": "2018-03-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nur schade um die Kohle. Lass dir nich den Tag von dicken Haralds (aka Fahrprüfer) versauen. Nächstes Mal regelst du das Ü",
+        "date": "2018-03-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\"Datenschutz wie im 18ten Jahrhundert\"\n\nÜbersetzung:\n\nBoah geil! Die Daten der User lassen sich astrein zu Kohle machen. Mach ma weniger Datenschutz.",
+        "date": "2018-03-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mit genug Millionen aufm Konto kriegst du in jedem Land auch auf dem express Weg ne neue Staatsbürgerschaft. Du must da nur versichern dass du genug Kohle in die lokale Wirtschaft investierst und dann geht sowas ruckzuck.",
+        "date": "2018-03-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "ZB weil der Aufbau eher einem Verdampfer ähnelt, als einer Vorrichtung zur Verbrennung. Die Kohle fungiert als indirektes Heizelement, die heiße Luft wird durch den Tabak gezogen und verdampft dort größtenteils Glycerin/Melasse. Würde da etwas brennen und tatsächlich Rauch produzieren, würde es nicht nach Frucht und Co schmecken sondern widerlich stinken und vollkommen ungenießbar sein.\n\nRichtig geraucht und direkt befeuert werden eigentlich nur traditionelle Tabake, die dann auch kein Glycerin enthalten. Das macht hier aber kein Schwein.\n\nMan kann übrigens auch komplett ohne Tabak Shisha \"rauchen\". Tut man dann ein paar aromatisierte Steine ins Köpfchen, die Glyzerin enthalten. Dampft genauso.\n\nWie kommen dann Mortlers Shisha Horrorfantasien zustande? Gute Frage. Es gibt eine Studie, die von gigantischen Mengen an Schadstoffen redet, als würde man unzählige Zigaretten wegmachen. \n\nIch vermute ja, die hatten keine Ahnung, wie ein korrekter Aufbau aussieht und haben ihr Material komplett verkohlt. Über den Verdampfungspunkt von Glycerin hinaus sollte da jedenfalls nicht gegangen werden.\n\n",
+        "date": "2018-03-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Haha ich hab meine Kohle in bitcoins fuck you staat",
+        "date": "2018-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der ADAC hat auch echt Verbrecher unter Vertrag. Ich hatte mal ne ähnliche Situation, wo ich meinen Wagen zerlegt habe und dann abschleppen ließ. ADAC-Bert wollte den Haufen kaufen, ich hab ihn aber an jemand anderen verkauft, der mehr gezahlt. ADAC-Bert hat dann plötzlich angefangen 75€ für´s drunter schauen zu verlangen plus Standgeld für die Zeit des Wagens auf seinem Hof. Zumindest die Kohle für´s drunter schauen brauchst Du nicht bezahlen, oder hast Du einen Auftrag dafür unterschrieben? Freundlicher Hinweis auf Rechtsschutz sollte genügen, damit die schnallen dass sie dich nicht einfach so ficken können. Wenn Du wirklich eine Rechtsschtz hast, dann sprich mit Deinem Anwalt. Wenn nicht zieh den Bluff so durch, die Werkstatt macht das ja auch gerade mit Dir.\n\nIn der Zwischenzeit hol Dir einen Freund und schieb Dein Auto vom Hof, stell es irgendwo legal ab und klapper andere Werkstätten ab und hol Dir Angebote für die Reparatur. Schnell selbst mit einem Seil rübergeschleppt, fertig ist der Auflauf.\n\nOder schreib die Kiste einfach ab, verkauf Sie an den nächsten Import-Export und kauf Dir ne S-Klasse.",
+        "date": "2018-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich hab schon Diabetiker erlebt, die wegen Sanktionen vom Jobcenter keine Kohle für Essen hatten und dann bei dem gerade angefangenen Job in der ersten Woche umgefallen sind und vom Krankenwagen abgeholt werden mussten. Die Sanktionen gab es glaube ich, weil die Person immer noch jeden Tag zur saufenden Mutter fahren musste, um sich um 2 kleine Geschwister zu kümmern die nicht ausreichend versorgt wurden. Das kann für nen jungen Menschen (zwischen 18 und 20) schnell etwas zu viel werden und dann kann es schwer fallen, den ganzen Verpflichtungen beim Jobcenter nachzukommen. Und das sowieso schon knappe und sanktionierte Hartz 4 wurde denn wohl auch eher dafür genutzt, um bei den kleinen Geschwistern den Kühlschrank zu füllen und dafür war der eigene dann leer.",
+        "date": "2018-03-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Genau deswegen findest du auch später nicht mehr raus wo die Kohle hin ist.",
+        "date": "2018-03-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Warte erstmal, bis hier jemand Bilder von Kohl im Vader-Suit mit Riesenhelm als \"Lord Helmutchen\" postet..",
+        "date": "2018-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "der Mann hat nach dem Krieg noch für ein halbes Dutzend Geheimdienste gearbeitet und Kohl „verhinderte eine Auslieferung an die Bundesrepublik Deutschland, um eine erneute Schulddebatte […] nicht aufkommen zu lassen“ ICH GLAUB ES HACKT",
+        "date": "2018-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die guten, alten Zeiten... Mit Papa und Opa und so ins Stadion und ein gutes Spiel geboten bekommen, mit reeler Chance auf einen Sieg. Danach dann die glorreichen Geschichten von Früher zu hören bekommen, als Werder noch viel besser war.\n\nJetzt hingegen... Die Stadt ist jedes Mal überfüllt, und nach den meisten Spielen nur lange Gesichter. Ein Unentschieden wird hier schon als Sieg gefeiert.\n\nEs gibt eben 0 Treue und Ehre mehr im Fußball. Am Tag zuvor noch was von ewiger Dankbarkeit geschwafelt, davon, gefördert und gefordert geworden zu sein, von Freunden in der Mannschaft, von Treue zum Verein... Dann kommt ein gutes Angebot und weg sind sie. 5 Mio auf dem Konto reichen halt nicht, es müssen 6 sein. Und so weiter.\n\nGeld macht das Spiel, Geld bringt die Siege. Die meisten Plätze stehen schon von Anfang an fest. Wer besser werden will, der braucht noch mehr Geld. Wer also jetzt keine Kriegskasse hat, der kommt nicht mehr hoch. Der Fußball verkommt zur Egoshow reicher Investoren. \n\nIch bin ja schon froh, dass die Werksmannschaften nicht richtig aufdrehen und den Markt mit noch mehr Kohle fluten. Unsere Liga ist mir schon südeuropäisch genug, wir brauchen kein deutsches Real.",
+        "date": "2018-03-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Aber wer fährt denn hier bitte mit 100% kohle?\n",
+        "date": "2018-03-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Um auf diese auf dem Kontext gerissene Frage mit einer aus dem Kontext gerissene Analogie zu antworten: Wenn ich in einem Haus den Strom abstelle, und dir dann die Frage stelle ob du in diesem Haus leben wollen würdest, würde das viel Sinn machen? Das ist es nämlich was die Sanktionen tun - wortwörtlich den Koreanern den Strom abstellen.\n\nUm konkret auf deine Frage einzugehen: Das kommt drauf an. Hätte ich Kohle, würde ich Südkorea wählen. Hätte ich keine Kohle, würde ich ohne Einschränkungen Nordkorea wählen. ",
+        "date": "2018-03-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Jetzt wo Du's sagst, auf Wikipedia ist bspw. zum Kohlekraftwerk Jänschwalde eine Studie der EU verlinkt, die besagt, dass dieses Kraftwerk allein Umwelt- und Gesundheitsschäden im Wert von 1,2 Milliarden bis 2 Milliarden Euro jährlich verursacht. Davon unbetrachtet sind natürlich der riesige Landstrich der durch den Abbau der Kohle verwüstet wird. [Link](https://www.eea.europa.eu/publications/cost-of-air-pollution) \n\nDa stimme ich Dir vollkommen zu, dem Elektroantrieb würde ich das als Stadtbewohner auch nicht zu Last legen und mir trotzdem ein Elektroauto kaufen. Wenn der Fokus der öffentlichen Diskussion auf die alten Kraftwerke kommt, dann bessert sich das hoffentlich. ",
+        "date": "2018-03-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Weil das Gesamtpaket am überzeugendsten war.\n\nDadurch, dass ich keine Partei wählen möchte, die nach einhelliger Meinung aller bekannten Umfrageinstitute keine Chance auf einen Einzug in den Bundestag hat, blieben nur noch sechs Optionen. Die AfD war für mich aus hoffentlich nachvollziehbaren Gründen keine Option, also nur fünf.\n\nAls nächstes werden dann unsere aktuellen Regierungsparteien ausgeschlossen. Beider Politik dient primär nicht meiner Generation, sondern gerade noch so meinen Eltern. Die Rentenpolitik sollte für jeden unter 50 eigentlich untragbar sein. Beide zeigen sich nicht als Visionär, sondern halten Abstand von großen Projekten. Beide sind (sicher auch aufgrund ihrer Zielgruppe) auch bei sozialen Themen sehr konservativ, die Union natürlich noch einmal deutlich mehr. Ein Paradebeispiel, auch wenn das Thema für mich inhaltlich kaum relevant ist, ist die Haltung zu Cannabis, bei der selbst die SPD sehr ablehnend ist. Auch wenn ich mit vielen Punkten der beiden Parteiprogramme konform gehen kann, passt das Gesamtbild hier kein bisschen. Bei der SPD kommt erschwerend hinzu, dass ich Schulz kaum ernst nehmen kann. Als er Merkel kurz vor der Wahl anbot, Ministerin im Kabinett Schulz zu werden, war das vielleicht Galgenhumor, hat aber auf jeden Fall einen bleibenden negativen Eindruck hinterlassen. Auch bei vorherigen Wahlkampfauftritten empfand ich ihn als sehr unsouverän. Der Wahlkampf der SPD war auch nicht mein Fall. [Dieses Plakat](http://www.br.de/nachrichten/faktencheck/gender-pay-gap-spd-wahlplakat-lohngerechtigkeit-104~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=4ce91) impliziert beispielsweise sehr deutlich, dass Frauen bei gleicher Leistung 21% weniger verdienen als Männer, was sachlich einfach falsch ist. Auch sagte Schulz, dass 40% aller Beschäftigungsverhältnisse von jungen Leuten (25-35) befristet seien, was sachlich genauso falsch ist. Entweder versuchte die SPD also, die Situation in Deutschland bewusst schlecht zu reden, um Wahlkampf zu machen - oder sie kennt die Realität nicht. Transkriptionsfehler seien Schuld.\n\nAlso stehen wir bei Linken, Grünen und FDP. \n\nBei Linken und Grünen kann ich jeweils mit dem \"Realo\"-Flügel sehr gut leben, Wagenknecht und Özdemir halte ich für sehr kompetent und weite Teile der Programmatik insbesondere die gesellschaftspolitische Grundhaltung finde ich sehr begrüßenswert.\n\nBei den Linken kommt leider zu tragen, dass mein Landesverband eine Gruppe Hampelmänner ist, der auch in der Partei meines Wissens auch relativ isoliert ist. Jemand, der Joachim Gauck unironisch mit Hitler und Stalin vergleicht, jemand, der erklärt, deutsche Medien unterstehen dem Weißen Haus, jemand, der Xavier Naidoo unterstützt und Kritiker als antideutsche Shitstorm-SA bezeichnet, jemand, der offen mit RAF-Terroristen sympathisiert, jemanden, der kritischen Journalismus als Schreibagenten von der BND-Tankstelle bezeichnet, ist auf /r/de vielleicht zuhause, hat aber nichts in Regierungsverantwortung zu suchen. Eine ostdeutsche Linke wäre mir da deutlich lieber. Dazu kommen ein paar inhaltliche Punkte, besonders in der Außen-, Sicherheits- und Migrationspolitik. Wirtschaftspolitisch stehe ich der Linken zwiegespalten gegenüber. Ich sehe viele interessante Konzepte, die aber häufig zu groß sind, um sie ohne absolute Mehrheit auch nur halbwegs sinnvoll durchsetzen zu können.\n\nDamit sind wir noch bei zwei \"wählbaren\" Parteien. Bei den Grünen gibt's ein paar besondere Personalien, von denen wohl primär Hofreiter relevant ist. Ich glaube nicht, dass ich jemals etwas sachliches von ihm gehört habe. Mit hochrotem Kopf herumbrüllend ist nicht meine Idealvorstellung eines Politikers. Ansonsten ist meine Unterscheidung dort aber rein inhaltlich und geht wohl primär auf die Fundis zurück. Allerdings muss ich gestehen, dass mich die Motivation gerade etwas verlassen hat, daher gibt's jetzt nur noch ein paar unvollständige Schlagworte.\n\nPro FDP: Bildung, Bürokratie, Gleichberechtigung statt Gleichstellung, Digitalgesetzgebung, Einwanderungsrecht, Europa, Flüchtlingskonzepte, Steuerkonzepte, offene Autobahnen, Wohnungspolitik, Landwirtschaft. Besonders wichtig: Arbeitsrecht.\n\nPro Grün: Umwelt, teilw. Energie, teilw. Drogenpolitik, Ernährung, hier fehlt sicher noch 'ne Menge.\n\nEin Punkt, der nicht wirklich in Schlagworte passt, ist der Umgang mit Infrastruktur. Das FDP-Konzept mit dem Verkauf der Telekom-Anteile finde ich beispielsweise sehr interessant. Primär gilt, dass ich der FDP eine Regulierung privater Wettbewerber in natürlichen Monopolen deutlich eher zutraue als den Grünen. Irgendwer muss ja Kohls Telekom-Murks wieder gut machen.",
+        "date": "2018-03-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wie genau, glaubst du, würde die FDP das Thema Infrastruktur konkret angehen und welche Versäumnisse der Ära Kohl ausbessern und wie?",
+        "date": "2018-03-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Wie genau, glaubst du, würde die FDP das Thema Infrastruktur konkret angehen und welche Versäumnisse der Ära Kohl ausbessern und wie?\n\nNehmen wir die Telekom als Beispiel. Kohls Versäumnis ist konkret das zweite Postgesetz und die seitdem unzureichend regulierte Monopolstellung der Telekom. Warum ist die Telekom beispielsweise nicht verpflichtet, jedem Kunden zumindest einen DSL-Anschluss anzubieten? Nicht viel, aber doch besser als Richtfunk oder ISDN. Warum ist es der Telekom überhaupt erlaubt, Vertrieb und Netzbetrieb zu bündeln? Die daraus entstehenden Interessenkonflikte sind aus meiner Sicht untragbar, da die Telekom so ein wirtschaftliches Interesse hat, einige Marktteilnehmer (sich selbst) anders zu behandeln als andere (die Wettbewerber). Privatisierung funktioniert nur mit zielführendem Unbundling. Die Finanzierung der Telekom sollte darüber hinaus umgestellt werden. Statt freier Preisbildung sind regulierte Netzentgelte das Ziel. Der ein oder andere wundert sich vielleicht darüber, dass die FDP gegen freie Märkte ist, zumindest habe ich das schon häufiger wahrgenommen, aber regulierte Märkte sind schon lange das Ziel der Partei. Befürworter von freien Märkten sind wohl (fast) nur die BWL-Erstsemester bei den JuLis.\n\nDarüber hinaus plant die FDP die Telekom-Anteile zu verkaufen, um mit den Erlösen eine staatliche Förderung des Infrastrukturausbaus anzustoßen. Damit wird auch der Interessenkonflikt des Bundes aufgelöst, der mit 15+17 Prozent der DTAG-Anteile größter Aktionär und damit auch größter Profiteur der aktuellen Monopolstellung ist. ",
+        "date": "2018-03-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich selbst hab das nicht studiert, sondern nehme am MINT-Meisterrennen teil. Daher ist es für meine Frau auch egal, was für einen Job sie damit bekommt oder auch nicht, weil ich eh die Kohle ranschaffe.\n\nSie hat danach einen Master in Kunstgeschichte im Schwerpunkt Museumswissenschaften gemacht und sich auf das Thema Digitale Geisteswissenschaften spezialisiert.\n\nDie anderen Leute die Thewi/Mewi studiert haben bzw. studieren gehen eher in die Richtung Theater und machen dort z.B. Dramaturgie. Ein Bekannter war auch eine Zeit lang Dozent (allerdings noch mit Magister) \"für Splatterfilme\".\n\nDavon leben ist natülich schwierig. Der Bachelor an sich ist relativ wenig wert. Dafür ist er nicht wirklich auf Film spezialisiert, sondern recht allgemein gehalten.\n\nhttp://www.theater-medien.de\n\nEin Master bietet sich danach an, in Potsdam gibt es da wohl was mit Film. In Erlangen kann man auch einen Master machen im \"allgemeineren\" Thewi/Mewi aber der soll eher so meh sein. Dann gibt es noch Theaterpädagogik als Master, der ist wohl ganz ok.\n\nDas Thema \"was macht man mal damit\" ist ja für alle Geisteswissenschaftler interessant, hier gibt es glaube ich jedes Jahr eine Veranstaltung zu dem Thema, in welcher Alumni darüber berichten, was so aus ihnen geworden ist.\n\nKleiner self-plug: Falls es dich nach Erlangen verschlägt und du Bock auf Theater hast, schau mal bei der [Studiobühne](www.studiobuehne-erlangen.de) vorbei Ü",
+        "date": "2018-03-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;die weiträumig Landstriche verseuchen und unbewohnbar machen\n\ngenau wie der Abbau von Kohle oder Seltenen Erden, nur dass das Risiko bei Nuklearenergie besser zu kontrollieren ist.\n\nDiese blinde Angst gegenüber der Kernenergie verstumpft einen nur gegen ein viel größeres Übel das uns deutlich kurzfristiger zum Verhängnis werden kann.\n\ninteressanter Artikel zu dem Thema\n\nhttps://www.forbes.com/sites/jamesconca/2012/06/10/energys-deathprint-a-price-always-paid/",
+        "date": "2018-03-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Risiko bei Nuklearenergie besser zu kontrollieren ist\n\nOffensichtlich nicht.\n\nDie Nuklear-Shills tun immer so als ob alle Atomkraftgegner wieder vermehrt Kohle fördern wollen. Das ist natürlch unzutreffend und nur eine Ablenkungstaktik.",
+        "date": "2018-03-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Fake news: https://en.wikipedia.org/wiki/Nuclear_power_debate#/media/File:Global_public_support_for_energy_sources_(Ipsos_2011).png\n\nSogar Kohle hat global mehr Befürworter",
+        "date": "2018-03-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es gibt keine Alternative zu Atomkraft oder Kohle - und das für die nächsten zwanzig Jahre wahrscheinlich nicht.  \nWenn man die Wahl zwischen AKW und Kohlekraftwerk hat, sollte man eher auf die AKWs setzen, im Endeffekt ist ihr Schaden für die Umwelt deutlich geringer (wenn auch spektakulärer) und auch die gesundheutliche Belastung von Kohle wird von vielen unterschätzt.",
+        "date": "2018-03-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dieser „Atomkraft, Nein danke“- Sticker ist das schlimmste was der Umwelt seit der Einführung von Kohle als flächendeckende Energie Ressource passiert ist.",
+        "date": "2018-03-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Die Nuklear-Shills tun immer so als ob alle Atomkraftgegner wieder vermehrt Kohle fördern wollen.\n\nUnd die Oekofanatiker tun immer so, als ob der Strom von alleine in die Steckdose kommt, ohne dass man dafuer was tun muss.",
+        "date": "2018-03-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Naja nicht auf dem Planeten hier weil die Oberfläche ist zu heiß um menschliches Leben zu zulassen.\nEs gibt Lösungen für Uran die besser sind als Kohle und es gibt bessere Atomkraft als Uran. Das Atomkraft so schädlich sei ist ein unnötigerweise in Deutschland gehypter Mythos.",
+        "date": "2018-03-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Probleme der Atomenergie sind aber genauso wie dir der Kohle zu vermeiden. \n\nUnd ehrlich gesagt, ist mir lieber dass erst das eine etwas bessere abgeschafft wird und das schlimmere. \n\nHätten wir den Kohle Ausstieg zuerst gemacht, hätte die CDU den Atomausstieg schon wider gecancelt. Und wir hätten uranstäbe zu entsorgen und das ständige Risiko einer Katastrophe. ",
+        "date": "2018-03-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Das einzige, was mich etwas gruselt, wäre die mögliche Umsetzung.\n\nund die Unmengen an Kohle die wir dann den lokalen Spezialisten wie T-Systems, Materna usw in den Rachen schmeissen dafür...\n",
+        "date": "2018-03-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Du hast da Kohle übersehen!!1!\n\nIch schaue dem bärtigen Dude jetzt schon seit 2011 zu. Krass wenn man bedenkt was für ein integraler Bestandteil meiner Adoleszenz der Typ war. Jeden Nachmittag zwischen Schule und Sport hatte ich eine Stunde Zeit und hab mir darin immer die neueste Folge Minecraft gegönnt. \n\nJetzt bin ich 21, bald 22, und manchmal schaue ich mir noch etwas von ihm an, wenn ich denn Zeit habe. Gönne ihm jedes bisschen von seinem Erfolg.",
+        "date": "2018-03-10",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hey, nach der mittleren Reife den Bürokaufmann in einem Scheißunternehmen gemacht, unbezahlte Überstunden, etc. Danach befristet übernommen für ein Jahr mit satten 1000€ netto. \n\nKlar, dass ich nach dem Jahr, als es wieder um eine befristete Verlängerung des Vertrags ging, mehr haben wollte. Aber daraus wurde nichts, also bin ich zum Bund. Dort habe ich, denke ich, die nötige Reife entwickelt mein Leben ein bisschen durchzudenken.\n\nMit 22 habe ich wieder die Schulbank gedrückt, mit 25 Jahren habe ich mich an der Universität immatrikuliert, Computational Science. Auch wenn es hart war und ich den Bachelor um drei Semester gestreckt habe, ich sitze mit fast 31 glücklich im 2. Semester des Masters und bereue keine meiner Entscheidungen vor/seit 8 Jahren. Auch nicht die 25000€ Schulden beim Bafög und der Bank, die, so hoffe ich, nach dem Studium in Nu wieder eingespielt sein dürften.\n\nIch höre bei dir ein bisschen heraus, dass Geld dir erstmal nicht so wichtig ist. Das sind ideale Startbedingungen für so einen Schritt, zumal zumindest bei mir keine Kohle der Welt das erworbene Wissen aufwiegen könnte (irgendwie 'n geiles Gefühl einen Studieninhalt zu googlen und festzustellen, dass es dazu noch nicht mal eine Wiki-Seite gibt ^_^). Wenn du übrigens mit spätestens 29 beginnst, erhältst du ganz normal, elternabhängiges, Bafög.\n\nOffensichtlich kann ich dir nur dazu raten.\n\n",
+        "date": "2018-03-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Gerade mit deinem Computerspiele Vergleich sagst du stehlen ist ok wenn man nicht viel Kohle hat. Das ist eine meiner Meinung nach eine absolut schreckliche Aussage. Und das Menschen ohne viel Geld keine Möglichkeit außer Schwarzfahren haben halte ich ebenfalls für falsch. Außerdem wo ziehst du die Grenze? Das ganze hat auch nichts mit einem hohen Ross zu tun sonder nur mit einem grundsätzlichen Verständniss von Recht und Unrecht",
+        "date": "2018-03-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Und du hältst es für gerecht, dass einige wenige richtig Kohle dafür bekommen, dass Leute für sie arbeiten, einfach nur weil sie im Besitz von Kapital sind?   \nWährend Arbeitslose, die jahrelang gearbeitet und eingezahlt haben können, einfach am Existenzminimum leben und nicht mal zum Bäcker gehen können, wenn sie am nächsten Tag noch essen wollen?\n\nUnd das sind nur die Arbeitslosen. [Die Armut fängt schon bei Erwerbstätigen an](https://de.wikipedia.org/wiki/Erwerbsarmut#Deutschland), sogar im reichen Deutschland.\n \nAuf der einen Seite haben wir Leute, die Vollzeit arbeiten und trotzdem arm sind, auf der anderen Kapitalbesitzer, die mit nichts tun so viel Geld \"verdienen\", dass sie es niemals ausgeben könnten.\n\nWas meinst du mit \"Gerechtigkeit\"? Leistungsgerechtigkeit offensichtlich nicht. ",
+        "date": "2018-03-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Aus den Kommentaren:\n&gt; \n&gt; Ich wundere mich, wie man bei einem solch wichtigen Thema einen solchen Unsinn schreiben kann. Xi wurde NICHT zum Herrscher auf Lebenszeit gewählt! Beschlossen wurde, dass die Begrenzung auf zwei Amtszeiten aufgehoben wurde. Trotzdem muss er alle 5 Jahre wiedergewählt werden. Das kann man mögen oder nicht. Tatsache ist aber, dass wir in Deutschland eine solche Begrenzung nie hatten, siehe die Amtsdauer von Kohl und Merkel. Wir sind als Deutsche also in einer denkbar schlechten Position die Chinesen dafür zu kritisieren, dass sie diesbezüglich jetzt den gleichen Status haben wie wir.\n\nHuffPo-typischer Alarmismus.\n",
+        "date": "2018-03-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Stimmt, jeder sollte ein Unternehmen erben. Dann wär alles super. \n\nEs kann auch nicht jeder ein Unternehmen gründen. Nicht jeder hat Startkapital, nicht jeder kann sich Startkapital leihen. Für jemanden, der keine Kohle hat, wäre eine Unternehmensgründung riskanter als für jemanden mit Managergehalt.",
+        "date": "2018-03-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bei Kohl werd ich auch immer zum letzten Luftbändiger.",
+        "date": "2018-03-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Du willst nicht mehr dort sein, wo du bist? Dann geh. Sonst bist du dort noch in 20 Jahren...\n\nKlingt zwar abgedroschen, aber :\nDas  Leben ist zu kurz um unglücklich zu sein!\n\nIch hab viel gejobbt, Praktika gemacht, studiert, lange gebraucht, bin erst mit 31 mit dem Studium fertig geworden und arbeite jetzt in nem Job der mir Spaß macht.\n\nHast du denn schon was konkretes im Kopf? Weißt du schon wann das Studium beginnen würde? Falls ja, schreib dich ein, bzw bewirb dich, Maloch bis zum Studienbeginn und leg gut Kohle beiseite, dann musst du im Studium nicht so viel arbeiten ;)\nWas Bafög angeht google einfach mal \"elternunabhängiges Bafög\" gibt auch nen Rechner, der dir sagt wieviel Anspruch du hast.\n\n",
+        "date": "2018-03-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ernst gemeinte Frage: warum taucht die MLPD hier ständig auf? Weil die so viel Kohle machen und dadurch auch so viel Werbung? In der Realität ist ja selbst die DKP relevanter.",
+        "date": "2018-03-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Otto Kohl fühlt sich unwohl am Pol ohne Atomstrom.",
+        "date": "2018-03-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Absolut richtig. Zur Not kannste zum Bund gehen, die nehmen jeden der halbwegs gesund ist. \n\nIch versteh die Aufregung auch nicht so wirklich. Das 4,77€ täglich genug zum Essen sind haben hier schon genug Leute vorgerechnet (und ja, blabla, keine Convenienceprodukte etc., aber das kann ja nicht der Anspruch sein). \n\nUnd die Leute, die der Meinung sind, dass die Leute nicht u.a. deshalb zur Tafel gehen, weil sie ihre restliche Kohle für Alk und Kippen rausgeblasen haben, glauben mmn etwas sehr an das Gute im Menschen. Meistens hat es Gründe, das Leute über längere Zeit Hartz 4 kriegen. Und die meisten Hartz-Empfänger brauchen ja auch keine Tafel. Hm, ich frag mich warum das bei manchen dann nötig ist 🤔🤔🤔.\n\nIch weiß auch nicht was da das Beste ist. Die Tafeln ganz abschaffen? Naja, man kann die Leute ja auch nicht verhungern lassen, selbst wenn sie Probleme mit Alkohol/anderen Drogen haben. Wahrscheinlich muss das Essen einfach so dermaßen abartig werden, dass nur noch die, die es wirklich wirklich brauchen da hin gehen.",
+        "date": "2018-03-13",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Der Senat rechnet damit, dass ein Teil der Kosten dafür „im Rahmen der ohnehin erforderlichen Erneuerungs- und Neuanschaffungsmaßnahmen abgedeckt werden kann“, wie Scheeres’ Sprecher Thorsten Metter erklärt. Jürgen Morgenstern, Sprecher des Berliner Studentenwerks, teilt mit, bis 2022 würden alte Bestände aufgebraucht. Verschlissene Schilder müssten sowieso ausgetauscht werden, andere könnten „professionell überklebt werden“. \nQuelle: Tagesspiegel.de\n\nWenn es einigermaßen clever gemacht wird, kommt es am Ende gar nicht so teuer. Die jungen Studis haben viele Flausen im Kopf, da muss man nicht wegen jeder Sache ein Fass aufmachen. Wenn die Kohle dort gespart wird, verpufft sie irgendwo anders wirkungslos.\n\n€: Ich finds trotzdem Mist.\n\n",
+        "date": "2018-03-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Geld wegnehmen ist billiger als Geld drauflegen. So bleibt mehr Kohle für nutzlose \"Weiterbildungen\".",
+        "date": "2018-03-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Vorsicht, das sind jetzt Sätze die nicht in dein ideolgisch gleichgeschaltetes Hirn passen werden. Kann also etwas weh tun.\n\nAlso: Ja es gibt Menschen, die schmarotzen. Sicher nicht die Masse aber so was gibt's. Hartz 4 beziehen und dann gut Kohle schwarz verdienen zum Beispiel. Oder ~~Behinderungen~~ Krankheit vorgaukeln.\n\ne: War in dem Fall keine Behinderung sondern eine Krankheit",
+        "date": "2018-03-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Im wesentlichen hat er Recht, aber er verschweigt (wohl ganz bewusst) was ganz Elementares: Wenn du kein Grundkapital hast, kommst du mit Aktien nicht weit. Du musst eventuelle Abstürze aushalten können. Aktien sind eine unsichere Sache, und du brauchst genügend Kohle um so lange investieren zu können bis du was gefunden hast was funktioniert. Man kann natürlich auch in sehr sichere Aktien investieren. Aber davon wird man ganz sicher nicht reich.\n\nSo gesehen eignet sich diese Anlageform für die untere gesellschaftliche Schicht eher wenig.",
+        "date": "2018-03-13",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Trotzdem waren das doch alle mündige Bürger die da rechtskräftig einen Vertrag unterschrieben haben. Und es ist ja auch nicht so, dass Altersvorsorge nur funktioniert, wenn man sich hochriskante gehebelte Fonds oder Derivate von Goldman Sachs holt. Wenn Dein berüchtigter Bekannter 2008 in Rente gehen wollte und noch genug übrig hatte, dass er in seine private Vorsorge gepumpt hat, dann hatte er auch die Wahl für weniger Rendite in sicherere Produkte zu investieren. Oder einfach mehr auf seiner Immobilie zu tilgen, anstatt zu versuchen an anderer Stelle extra Kohle zu machen. Er hat sich aber entschieden der fetten Rendite hinterher zu laufen. Sorry, aber bei Erfolg die Rendite einstreichen und bei Verlust \"Hilfe Ungerechtigkeit\" bölken ist genauso scheiße wie Bankenrettung und Sozialisierung der Unternehmensrisiken.\n\nEDIT: Rechtschreibung fällt mir schwer.",
+        "date": "2018-03-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Klar, wenn du dafür die Kohle hast, ist das natürlich eine gute Alternative. ",
+        "date": "2018-03-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "2 Legislaturperioden würden m.E. reichen. Wer gut ist soll durchaus die Möglichkeit haben, längerfristig, also 8 Jahre, zu regieren. Jedoch eine Wahl die zur Farce verkommt, weil man eine Person nicht mehr will, sollte verhindert werden. Bei Kohl ging es nur um die Abwahl und bei Merkel wird es bei der nächsten Wahl nicht anders, war ja jetzt schon so. Die Politik sollte dadurch auch gezwungen werden, mehr kompetente Leute in die erste Reihe zu bringen.\n\nEs ist einfach so, dass ein Kandidat so lange wie möglich genutzt wird, egal wie ~~faul der Kompromiss~~ der Koalitionsvertrag aussieht. Das wollen weder die Wähler noch kann es im Sinn der Sache sein, durch \"ewige Kanzlerkandidaten\" Populisten zu fördern.",
+        "date": "2018-03-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nein, wir reden von der AfD, die Kohle kommt aus Russland.",
+        "date": "2018-03-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Teilweise stimme ich dir zu, aber das mit den Provisionsverträgen der Ärzte die eine eigene Praxis haben und nur Kohle abgreifen wollen kann man damit auch nicht rechtfertigen.",
+        "date": "2018-03-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das Problem ist nicht die fehlende Arbeitsmotivation solcher sog. “Schmarotzer” sondern viel eher der Mangel an Aufstiegschancen für Kids die in  sozial schwachen Verhältnissen aufwachsen oder vor 30 Jahren aufgewachsen sind. Natürlich gibt’s da dieses Argument “mit harter Arbeit kommt man da auch wieder raus”, aber es ist eben eine Ausnahme. Sozial schwach bedeutet ja nicht nur wenig Kohle, sondern hängt auch mit geringem Level an Bildung der Familie zusammen. Wenn du in einem Elternhaus aufwächst welches gerade in frühen Jahren keinen großen Wert auf gute Erziehung legt, ist es schwer aus diesem Milieu zu entkommen! Deshalb finde ich es ungerecht wie in den Zitaten davon auszugehen dass jeder dazu fähig ist einfach so schnell mal den Arsch hochzukriegen. Gerade wenn man bildungstechnisch in der Jugend nicht viel mitgekriegt hat.",
+        "date": "2018-03-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Handelspartner ist aber nicht alles worauf es ankommt. Reiche Russen bringen auch so viele Kohl nach London usw. ",
+        "date": "2018-03-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; 150€ für den Rest? Wie machst Du das?\n\nIndem er einen signifikanten Teil seiner Ausgaben überhaupt nicht als Ausgabe wahrnimmt, weil die Eltern die Rechnung übernehmen. Gerade Studenten geben gerne mal damit an, mit wie \"wenig\" Kohle sie über den Monat kommen. Wenn man dann ein wenig nachbohrt stellt man dann fest, dass Mobilfunkvertrag, Sportverein, Ersatz für die kaputte Waschmaschine, drei bis acht Fernreisen pro Jahr, ein Großteil der Garderobe und die komplette Möblierung des WG-Zimmers von Mami und Papi quersubventioniert werden.",
+        "date": "2018-03-14",
+        "sentiment": "negative"
+    }
+]

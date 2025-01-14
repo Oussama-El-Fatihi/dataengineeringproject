@@ -1,0 +1,403 @@
+{
+    "data": [
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Thank you stranger. Shows the award.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "icon_width": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 125,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "When you come across a feel-good thing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "icon_width": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Wholesome",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Shows the Silver Award... and that's it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "icon_width": 512,
+                    "id": "gid_1",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Silver",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "static_icon_width": 512,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Doener23",
+            "author_created_utc": 1407847660,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_hucby",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1614948081,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "spiegel.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {
+                "gid_1": 1
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "lyazm9",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#3c58be",
+            "link_flair_css_class": "category newsde",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Nachrichten DE"
+                }
+            ],
+            "link_flair_template_id": "1186c958-7c5c-11e4-b6d1-12313d1494bc",
+            "link_flair_text": "Nachrichten DE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_lyazm9",
+            "no_follow": false,
+            "num_comments": 62,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/lyazm9/windkraft_löst_kohle_als_wichtigsten/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "GPl2DJ7FiZwDHlXYE3L-e_XDVj_T3hYpEFa2d4Rkak0",
+                        "resolutions": [
+                            {
+                                "height": 61,
+                                "url": "https://external-preview.redd.it/HQFBZghw-mkslPcev1CkXJfvPqxeJfqJSQwT7FtnB9U.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=9c967b049f693d9142c35bbdafd75f9d26b0c108",
+                                "width": 108
+                            },
+                            {
+                                "height": 122,
+                                "url": "https://external-preview.redd.it/HQFBZghw-mkslPcev1CkXJfvPqxeJfqJSQwT7FtnB9U.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=69e9d7961038cc7e15df8fbd88899d7437cbdfba",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/HQFBZghw-mkslPcev1CkXJfvPqxeJfqJSQwT7FtnB9U.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b0b0eed5e1d9a592d4a053c3555b2e56a38c7e19",
+                                "width": 320
+                            },
+                            {
+                                "height": 361,
+                                "url": "https://external-preview.redd.it/HQFBZghw-mkslPcev1CkXJfvPqxeJfqJSQwT7FtnB9U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbdcf4a06afde92267fdf020d761d2167214c27a",
+                                "width": 640
+                            },
+                            {
+                                "height": 542,
+                                "url": "https://external-preview.redd.it/HQFBZghw-mkslPcev1CkXJfvPqxeJfqJSQwT7FtnB9U.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=a30d62b96363461f94f3bbd883d05cd443a17879",
+                                "width": 960
+                            },
+                            {
+                                "height": 610,
+                                "url": "https://external-preview.redd.it/HQFBZghw-mkslPcev1CkXJfvPqxeJfqJSQwT7FtnB9U.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a56519138e16ce70778baf66a2b6b5e2858b371e",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 723,
+                            "url": "https://external-preview.redd.it/HQFBZghw-mkslPcev1CkXJfvPqxeJfqJSQwT7FtnB9U.jpg?auto=webp&amp;s=a36ca9bcfdccb9a09732ece5b180e612fb73b496",
+                            "width": 1280
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623411688,
+            "score": 713,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449507,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/7_XYAa1Unc7uhX-bqecoI0kvD1We430ZJ3l-53szunk.jpg",
+            "thumbnail_height": 79,
+            "thumbnail_width": 140,
+            "title": "Windkraft löst Kohle als wichtigsten Energieträger in Deutschland ab",
+            "top_awarded_type": null,
+            "total_awards_received": 3,
+            "treatment_tags": [],
+            "upvote_ratio": 0.98,
+            "url": "https://www.spiegel.de/wirtschaft/windkraft-loest-kohle-als-wichtigsten-energietraeger-in-deutschland-ab-a-3a0231ba-0e1f-4b8b-91ec-21d0f35cb37e",
+            "url_overridden_by_dest": "https://www.spiegel.de/wirtschaft/windkraft-loest-kohle-als-wichtigsten-energietraeger-in-deutschland-ab-a-3a0231ba-0e1f-4b8b-91ec-21d0f35cb37e",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 181,
+        "op_b": 174,
+        "total": 360
+    },
+    "error": null
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Theoretisch könnten wir bei 100% Erneuerbaren den Primärenergiebedarf zwar halbieren, da der Wirkungsgrad von Erneuerbaren tendenziell besser ist *(Brennwert Umwandlungswirkungsgrad entfällt)*, aber zum einen bleibt fraglich, ob Deutschland überhaupt soviel sich wirtschaftlich-rechnendes Potential in Form von Wind und Sonne hergibt. Wasserkraft ist ausgereizt, Bio-Gas rückläufig. Windkraft stagniert...\n\nDie Frage ist auch, ob ohne den schönen Bonus aus der EEG-Umlage überhaupt noch jemand in Erneuerbare investiert? Wenn demnächst die ersten alten Windkraftanlagen und Photovoltaikanlagen verschrottet werden, wird es dann neuen Ersatz für diese geben? Stehen die Investoren schon bereit? Wohlgemerkt müssen sich Erneuerbare zukünftig ohne EEG-Umlage behaupten... ;=)",
+        "date": "2020-10-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wir müssen nicht \"einfach nur bauen\". Was bis jetzt \"klappt\" sind Windkraft, Solar, Wasserkraft und Biogas, der Anteil von diesen ist auch in den letzten Jahren stark gestiegen. Mit Speichern sind wir aber keinen Schritt weiter. Pumpspeicherkraftwerke kannst du nicht überall hinstellen, Batterien sind Größenordnungen weit weg. \n\nWasserstoff zu erzeugen ist aktuell absolut ineffizient. Abgesehen davon dass wir noch kaum EE übrig haben, um es in Wasserstoff zu stecken.\nSynthetische Kraftstoffe kann aktuell auch noch niemand in einem sinnvollen Maßstab und effizient herstellen.\n\"Wasserstoff für die Industrie\" klingt gut, nur muss man in der Industrie erst mal was damit Anfangen können. Einen Ofen kann man vielleicht damit befeuern, in der Chemieindustrie braucht es aber mehr als Wärme.\nFür 100% EE braucht es Energiespeicher in Maßstäben, die wir heute einfach noch nicht hinbekommen. Alleine ein Stromnetz zu bauen, das in großen Mengen flexibel Strom von Nord nach Süd leiten kann ist ein Projekt über mehr als ein Jahrzehnt.\nIch will das absolut nicht schlecht reden, und glaube auch wir kommen da hin. Aber nicht innerhalb von ein paar Jahren.",
+        "date": "2020-10-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; [...] Die Hälfte der Investitionen, so die Einschätzung des Experten, liege oberhalb des Bedarf. Doch Bauvorhaben sind schnell umzusetzen, bringen auch ungeschultes Personal in Arbeit. Bei mindestens 21.000 Projekten erließ das Umweltministerium die Überprüfung der Umweltauflagen.\n\n&gt; Investitionen in erneuerbare Energien, Wasserkraft, Elektrofahrzeuge und Batterien - alles kohlenstoffarme Branchen - bekamen nur ein Drittel der Gelder, so analysiert Myllyvirta. [...]\n\n&gt; Sogar mit neuen Kohlekraftwerken will China die Wirtschaft ankurbeln. Manch ein Bau wird ganz offiziell als Armutsbekämpfungs-Projekt deklariert. Mindestens 25 Kohlekraftwerke sind in China in Planung. Dabei sind die derzeitigen Werke nur zu etwa 50 Prozent ausgelastet. Das zeige, dass die Neubauten nichts mit der Nachfrage an Elektrizität zu tun haben, erklärt Experte Myllyvirta. \"Die Kraftwerke werden gebaut, um Wirtschaftswachstum zu generieren und kurzfristig Arbeitsplätze.\" [...]",
+        "date": "2020-10-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Investitionen in erneuerbare Energien, Wasserkraft, Elektrofahrzeuge und Batterien - alles kohlenstoffarme Branchen - bekamen nur ein Drittel der Gelde\n\nIst eigentlich eh ziemlich gut.",
+        "date": "2020-10-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Vielleicht kommt ja auch noch NorGer mit weiteren 1400 MW. Dann wären es schon 2,8 GW. Offenbar ist das Stromnetz in Norwegen aber (noch?) nicht stark genug dimensioniert für beide Projekte.\n\nDas Nette daran ist, dass die Windräder in Norddeutschland auch bei starkem Wind länger weiter produzieren können, statt sie wegen \"Netzüberlastung\" drosseln zu müssen, weil dann mehr Strom nach Norwegen geliefert werden kann. Norwegen nutzt sehr viel Wasserkraft, die können während dieser Zeit dann ihre Wasserkraftwerke drosseln und damit Wasser in den Staubecken \"ansparen\" wie Strom in einer Batterie. Wenn hier dann Flaute ist, können sie (mglw. nach Ausbauarbeiten an den Wasserkraftwerken) das vorher angesparte Wasser zusätzlich durchlaufen lassen und so mehr Strom erzeugen als die Norweger selbst brauchen und uns über die 1,4/2,8 GW-Leitungen den Strom wieder \"zurückgeben\". Dabei verdienen die Norweger Geld, und wir sparen auch Geld, weil die Windräder nicht sinnlos stillstehen aber trotzdem bezahlt werden müssen, wenn es nicht genügend Abnehmer für den Windstrom gibt.",
+        "date": "2020-10-21",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Norwegen bezieht derzeit 98% seiner Stromerzeugung aus Wasserkraft (mit vielen Staudämmen). Wenn man in guten Zeiten Solar- und Wind-Strom aus Deutschland und Holland importieren kann und dafür die Stauseen voll laufen lässt und in Zeiten der Flaute und Wolken dann Hydroenergie aus Norwegen nach Deutschland schickt ist das eine sehr große \"Batterie\"\n\nDie 200€ pro GWh sind meines Wissens auch nur die reinen Batteriekosten. Da braucht man dann auch noch Wandler und Infrastruktur und etc.",
+        "date": "2020-10-21",
+        "sentiment": "negative"
+    }
+]

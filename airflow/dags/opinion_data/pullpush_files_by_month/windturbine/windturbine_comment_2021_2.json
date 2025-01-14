@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Das widerspricht sich doch nicht. Ich bin kein Deutschlehrer, der Satz \"Vestas bringt eine neue Windturbine auf den Markt\" ist für mich eine völlig korrekte Aussage über die Zukunft (in dem Fall 2024). Und Prototyp in 2022 und Serieneinführung 2024 ist zwar sportlich, aber nicht zwingend widersprüchlich.",
+        "date": "2021-02-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Ich bin kein Deutschlehrer, der Satz \"Vestas bringt eine neue Windturbine auf den Markt\" ist für mich eine völlig korrekte Aussage über die Zukunft (in dem Fall 2024).\n\nVon wegen kein Deutschlehrer: Richtig wäre natürlich Futur I, also \"Vestas wird eine neue Windturbine auf den Markt bringen\". Das benutzt umgangssprachlich aber kaum jemand.\n\n/Klugscheißermodus aus",
+        "date": "2021-02-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Unsinn. Erstens waren damals die Computersimulationen noch lange nicht so detailliert wie heute und zweitens ist eine Windturbine um einiges weniger komplex als ein Space Shuttle.",
+        "date": "2021-02-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich würde es so formulieren: Vestas plant die Markteinführung einer neuen Windturbine.",
+        "date": "2021-02-10",
+        "sentiment": "positive"
+    }
+]

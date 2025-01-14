@@ -1,0 +1,27 @@
+[
+    {
+        "text": "Petit rappel : Niveau CO2, la combustion de bois rejette la quantité de CO2 que l'arbre a emprisonné pendant sa vie, CO2 qui se trouvait dans l'atmosphère. La combustion d'une énergie fossile (gas, pétrole, charbon) rejette dans l'atmosphère du CO2 qui se trouvait emprisonné dans le sol. La combustion d'energie fossile déséquilibre donc la quantité de CO2 dans l'atmosphère.",
+        "date": "2022-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Réduire la conso est une bonne idée ([et on le fait depuis 2010](https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC?locations=FR)). C'est à faire avant de réduire la production.\n\nLe but est de passer à long terme aux renouvelables et à court terme de sortir des fossiles. Faire une transition vers du 100% renouvelable en une génération de nucléaire (40 ans) me semble l'option la plus raisonnable. On n'a pas encore la tech pour gérer correctement l'intermittence.",
+        "date": "2022-01-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Elle a prévu d'atteindre son pic avant 2030 et vise la neutralité carbone en 2060. On peut ne pas y croire, mais *a priori* le but est bien de faire une transition hors du fossile.",
+        "date": "2022-01-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; De toute façon la vraie question est de moins consommer d'énergie, point.\n\nMoins consommer d'énergie, mais produire plus d'électricité. L'électricité ne représentant actuellement en France qu'un quart de la consommation d'énergie, deux tiers sont d'origine fossile ; et l'écrasante majorité des usages d'énergies fossiles ne concernent pas actuellement la production d'électricité. On ne peut pas supprimer ces deux-tiers d'usages, on peut réduire un petit peu leur consommation, mais il s'agit surtout d'en remplacer la majorité par de l'électricité, qu'il faudra bien produire.",
+        "date": "2022-01-31",
+        "sentiment": "negative"
+    },
+    {
+        "text": "On a pas un siècle devant nous, c'est le seul petit problème.\n\nOn ne pourra pas amortir le choc sans l'énergie nucléaire, que ça nous plaise ou pas.\n\nLes ordres de grandeur de nos besoins en énergie, même en se serrant la ceinture à mort, ne seront pas satisfait par les renouvelables, dont la fabrication demanderait énormément de ressources fossiles par ailleurs.\n\nA moins d'avoir la fusion nucléaire d'ici 10 ans ... mais c'est pas gagné.",
+        "date": "2022-01-31",
+        "sentiment": "negative"
+    }
+]

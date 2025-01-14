@@ -1,0 +1,272 @@
+[
+    {
+        "text": "Kernenergie bis zur Fusion. Unterstützt von Wind und Solar.",
+        "date": "2023-01-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ist genau so albern: LCOE von Kernenergie ist halt sehr teuer und Kernenergie hat das gleiche Problem wie Wind &amp; Solar: man kann sie nicht gut regeln. \n\nGute Netze &amp; Akkus sind der Weg. \n\nWir haben schon stand heute mehr E-Auto Speicherkapazität auf deutschen Straßen als wir Pumpspeicherwerke haben. Allein mit intelligentem Laden würden wir noch viel mehr EE gut ins Netz integrieren können - zu einem spottbilligen Preis.",
+        "date": "2023-01-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Ok, dann setzte von mir aus einen Faktor an. 50% der Primärenergie zum Beispiel. \n\nDas ist zu wenig. Hier die Primärenergiefaktoren, die das UBA annimmt:\n\n[https://www.umweltbundesamt.de/daten/energie/primaerenergieverbrauch#definition-und-einflussfaktoren](https://www.umweltbundesamt.de/daten/energie/primaerenergieverbrauch#definition-und-einflussfaktoren)\n\n\"Für Strom aus Wind, Wasserkraft oder Photovoltaik wird dabei ein Wirkungsgrad von 100 %, für die Geothermie von 10 % und für die Kernenergie von 33 % angenommen.\" -- aber ja, das ist der richtige Ansatz.\n\n&gt;Kommst du noch immer bei einem Vielfachen raus. \n\nSage ich ja (siehe mein Kommentar). Dennoch lange nicht so schlimm, wie Leute wie Du das annehmen.\n\n&gt;Und Unsinn ist es doch nicht, die Primärenergie soll doch auch erneuerbar werden?\n\nNein, genau nicht. Wir wollen die genutzte Endenergie erneuerbar machen, nicht die Stromverschwendung mit EE machen (mehr als 60% der Energie in Wandlungsverlusten zu verlieren ist der helle Wahnsinn).",
+        "date": "2023-01-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Kernenergie bis zur Fusion. Unterstützt von Wind und Solar.\n\nKernenergie passt nicht gut zu Wind und Solar. Abgesehen davon ist sie nicht zuverlässig genug. Rechne mal aus, wie viele Batterien wir dafür brauchen, uns gegen einen sechsmonatigen Ausfall eines 900MW-Reaktors abzusichern.",
+        "date": "2023-01-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; 94% verfügbarkeit ist unzuverlässig?\n\nWas nützen mir mittlere Zahlen, wenn ich in einem tail event gefangen bin? Ich beziehe mich ganz konkret auf die Vorgänge in Frankreich dieses Jahr, dem einzigen großen Land, welches die Mehrheit seines Stroms aus Kernenenergie bezieht. Dort waren weit über die Hälfte der Reaktoren für Monate vom Netz (die sechs Monate sind da eher durchschnittlich, einige sind bzw. waren für deutlich über ein Jahr offline), und das Land musste für mehr oder weniger ganz 2022 von seinen Nachbarn mit immensem Aufwand über Wasser gehalten werden. Wer vorschlägt, im großen Stil auf Kernenergie zu setzen, muss beantworten wie man mit so etwas umgeht. Aberwitzig große Energiespeicher? Fossile Backups? Massenhaft Überkapazität? Kernenergie ist ja, im Gegensatz zu einem fossilen \"weiter so\" nicht per se schlecht. Ich wundere mich aber wirklich darüber, dass die Probleme mit dem spof großer Kraftwerke von Kernenergie-Proponenten so beharrlich ignoriert werden.\n\n&gt; Aber ihr Jungs diskutiert hier immer nur im theoretischen Bereich. Redox Speicher etc\n\nWer ist denn \"ihr Jungs\"? Abgesehen davon: Wer ernsthaft ein Netz aus Kernenergie und Erneuerbaren vorschlägt, sollte vielleicht erstmal in die Theorie gehen. Dass die sich einfach nur gegenseitig kannibalisieren ist ziemliches Basiswissen.\n\n&gt;  In der Praxis funktioniert es nicht und wir sehen das gerade. \n\nIn der Praxis läuft das deutsche (und im weiteren Sinne das europäische) Stromnetz derzeit komplett ohne größere Speicher, weil es bisher wirtschaftlich nicht sinnvoll ist. Mit dem weiteren Ausstieg der Kohlekraftwerke, der dank Emissionshandel auf jeden Fall kommen wird, wird sich das ändern.\n\n&gt; Zuverlässigkeit ist eine der wichtigsten Attribute eines Energienetzes in einem Industrieland.\n\nUnd das deutsche Stromnetz ist eines der zuverlässigsten weltweit, trotz der Warnungen vor 20,30, ja 40 Jahren, dass nennenswerte Anteile erneuerbarer Energien alles destabilisieren würden. Und das *obwohl* wir mit der Fiktion der großen Kupferplatte arbeiten.",
+        "date": "2023-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Laut den Grünen auf Landes- und Bundesebene, die diese Entscheidung getroffen haben, und die sich auf angebliche unabhängige Gutachten berufen, aber eben schon.\n\nDie Grünen, die sich sogar auf die [Studie](https://vpro0190.proserver.punkt.de/s/K43yiKR4Yz3Xxeg) berufen, die besagt, dass die Kohle unter Lützerath nicht notwendig für die Versorgungssicherheit ist. Die Grünen, die sich dabei damit rausreden, dass das Dorf ja sowieso abrutschen würde. Frei nach dem Motto \"Wenns erstmal abgerutscht ist, kann man ja auch die Kohle verbrennen\". Da gibts zwar keinen sachlichen Zusammenhang, aber wen interessiert das schon, nicht wahr?\n\n&gt;Und warum hat das nichts mit Atomkraft zu tun?\n\nWeil Kernenergie zum Glück tot ist hierzulande und quasi nichts zum Thema beitragen kann.\n\n&gt;Aber in den Hinblick würde es sich doch lohnen, weiterhin Grundlast durch Atomkraft zu decken.\n\nEinen niedrigen einstelligen Prozentbereich, Glückwunsch. Und dazu noch nicht mal in der Ecke, wo gerade abgebaggert wird. AKW-Shills versuchen es doch immer wieder.\n\n&gt;Was stattdessen am 01.04. passieren wird, ist ein rasanter Anstieg von Stromerzeugung durch Kohle.\n\nOh ja, ein ganz rasanter Anstieg um das bisschen an Kernenergie auszugleichen. Da sind ja die täglichen Schwankungen der Solarenergie schon höher. Komm, lass gut sein.",
+        "date": "2023-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;\tDie Grünen, die sich sogar auf die Studie berufen, die besagt, dass die Kohle unter Lützerath nicht notwendig für die Versorgungssicherheit ist. Die Grünen, die sich dabei damit rausreden, dass das Dorf ja sowieso abrutschen würde. Frei nach dem Motto “Wenns erstmal abgerutscht ist, kann man ja auch die Kohle verbrennen”. Da gibts zwar keinen sachlichen Zusammenhang, aber wen interessiert das schon, nicht wahr?\n\nDanke für die Studie. Ich stimme dir übrigens zu, dass die Entscheidung nicht gut war. \n\n&gt;\tWeil Kernenergie zum Glück tot ist hierzulande und quasi nichts zum Thema beitragen kann.\n\nAchso. Also stimmst du mir dann zu, dass es jetzt auch nichts mehr bringt, über Lützerath zu diskutieren, weil die endgültige Entscheidung gefallen ist? Nichts anderes sagst du hier über Kernenergie. \n\n&gt;\tEinen niedrigen einstelligen Prozentbereich, Glückwunsch. Und dazu noch nicht mal in der Ecke, wo gerade abgebaggert wird. AKW-Shills versuchen es doch immer wieder. […] Oh ja, ein ganz rasanter Anstieg um das bisschen an Kernenergie auszugleichen. Da sind ja die täglichen Schwankungen der Solarenergie schon höher. Komm, lass gut sein.\n\nOkay. In Q3 2022 kamen knapp 8 Milliarden kWh aus Kernenergie. Die gleiche Menge aus Braunkohle verursacht knapp 3,2 Millionen Tonnen CO2. In einem Quartal. Aber ja, ist kaum was. Wir müssen nicht auf jede Tonne CO2 achten, wenn es um knapp 7% yes Strommixes geht.  \nIm gleichen Sinne: in Lützerath haben 2008 ca 80 Menschen gelebt. Was sollten mich also 0,0001% der Bevölkerung interessieren?",
+        "date": "2023-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wenn man aus der Kernenergie aussteigt, Gas spart und Frankreich mitversorgt, ist Kohlestrom zur Erhaltung der Netzstabilität schlicht notwendig.\n\n&gt;Das ist kein Grund, die Kohle unter dem Ort zu verbrennen und damit das Pariser Abkommen zu brechen.\n\nSelbst wenn man die Kohle im Boden lässt, muss das Dorf weg. Und die Besetzer raus.",
+        "date": "2023-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Nichts anderes sagst du hier über Kernenergie.\n\nIch sage etwas sehr anderes. Leg mir hier keine Worte in den Mund, sonst ist die Diskussion sofort beendet.",
+        "date": "2023-01-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich sage, die endgültige Entscheidung für Lützerath ist gefallen und der Protest bringt hier nichts (mehr).  \nIch habe dich so verstanden, dass eine Diskussion über Kernenergie nichts bringt, weil Kernenergie in DE tot ist. Das wäre dann die gleiche Aussage (endgültige Entscheidungen müssen nicht mehr diskutiert werden), nur zu unterschiedlichen Entscheidungen (Lützerath vs Kernenergie). Was hast du denn gemeint, wenn nicht das?",
+        "date": "2023-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;„**Der Gesetzgeber** hat vor Jahren entschieden, dass Kernkraft in Deutschland keine Zukunft hat. Kurz vor Abschalten in Deutschland eine Debatte darüber zu starten, ist befremdlich.“\n\n&gt; Der Ausstieg aus der Kernenergie ist 2011 im **politischen und gesellschaftlichen Konsens** beschlossen worden und **gesetzlich** klar geregelt. \n\n&gt;Es gibt in Deutschland einen breiten **gesellschaftlichen und politischen** Konsens zum Ausstieg aus der Kernenergie, an dem wir nicht rütteln sollten.\n\nFällt dir was auf?",
+        "date": "2023-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja, nach großen Diskussionen und Olaf's Machtwort. Die Grünen sind ganz klar gegen Kernenergie. Die FDP dahingegen versucht unser Einsparpotential zu maximieren - ironisch.",
+        "date": "2023-01-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\"Ihr\"? Du meinst uns alle, gesamtgesellschaftlich?\nKein Zweifel, dass die betroffenen Energiekonzerne kurz- und langfristig Gewinn aus einer Rückkehr der Kernenergie ziehen. \nWas die Kosten von späterem Rückbau, Risiko, Lagerung etc angeht, legen \"wir\" alle dann ein paar weitere Jahre ganz fleissig drauf.\n\nDeine Teilung in \"ich\" und \"ihr\" ergibt blos Sinn, wenn du zufällig in einem entsprechenden Aufsichtsrat sitzt.\nIst das so? Sitzt du bei Eon mit am Tisch?",
+        "date": "2023-01-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "36&gt; Jahre Anti-Kernenergie-Panikmache lassen sich nicht in wenigen Monaten aufholen, wollte ich nur einmal gesagt haben",
+        "date": "2023-01-04",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die AKW wurden weit mehr als vollständig durch erneuerbare Energien ersetzt.\n\nDie Erzeugung von Kernenergie ist von 2000 bis 2022 von 170 TWh auf 38 TWh zurück gegangen, während im gleichen Zeitraum die erneuerbaren Energien von 38 TWh auf 256 TWh gestiegen sind.\n\nGleichzeitig ist auch die Kohlestromerzeugung von 288 TWh p.a. auf 183 TWh zurückgegangen.\n\nDazu kommt, dass es aus diversen Gründen reinste Augenwischerei ist, zu glauben, die EE wären ohne Atomausstieg im gleichen Tempo ausgebaut worden (was technisch überhaupt nicht möglich gewesen wäre, da AKW und EE nur sehr schlecht kompatibel sind).",
+        "date": "2023-01-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Stimme dir zu. Ganzheitliche Elektrifizierung in der Industrie und im Verkehrssektor wären große Schritte, dafür muss natürlich aber auch der Strommix passen.\n\nVon heute auf morgen durch einige wenige Maßnahmen Klimaneutral werden ist utopisch, ja. Ich persönlich liebäugle aber sehr mit der Kernenergie. Die Betriebszeiten unserer noch verbliebenen Kernkraftwerke zu verlängern und zusätzlich die anderen drei Kernkraftwerke zu reaktivieren, könnten auf einen Schlag bis zu 9% der deutschen CO2-Emissionen einsparen. Dies würde mehr Ersparnisse bringen als wir in den vergangenen 20 Jahren der Energiewende erzielt haben [(Zahlen sind aus 2020)](https://www.tech-for-future.de/klimaschutz-politik/#easy-footnote-bottom-8-178). \n\nIch verstehe, dass die Finanzierbarkeit und Beschaffung von Brennstäben strittige Themen sind, möchte aber eine Maßnahme mit so einem großen Einsparpotential nicht so schnell verwerfen. Die Kernenergie ist kein Allheilmittel, aber einer der stärksten Hebel die wir haben.",
+        "date": "2023-01-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Du hast leider unrecht.\n\nDeutschland benutzt heutzutage wesentlich weniger Kohle als 2001/02, als der Atomausstieg beschlossen wurde.\n\nDeutschland war *zu dieser Zeit* dasjenige Land, das die Entwicklung der Erneuerbaren *entscheidend* vorangebracht hat. Damit meine ich nicht nur die technische Seite z. B. der Solarforschung, sondern auch die institutionelle, rechtliche und gesellschaftliche. Hört sich vielleicht simpel an, ist aber in Wirklichkeit die schwierigere Aufgabe. Niemand sonst auf der Welt hat das so durchgezogen wie Deutschland - zu jener Zeit.\n\nUm die Energieversorgung - nach zweihundert Jahren Industrialisierung unter Verwendung fossiler Brennstoffe - umzustellen, benötigt man einen gewissen gesellschaftlichen Konsens - und eine gewisse wirtschaftliche Notwendigkeit. Nach dem wirtschaftlichen Desaster in den 90ern in Ostdeutschland wäre es einer Kriegserklärung gleichgekommen, wenn man diese Notwendigkeit durch einen Ausstieg aus der Braunkohle erzwungen hätte. Deshalb musste man einen anderen Weg gehen, und das war die Kernenergie. *Dafür* gab es Mehrheiten, sowohl in Ost wie West. Nur auf diese Weise war es 2001/02 in Deutschland möglich, die Enegiewende einzuleiten.\n\nWie oben schon gesagt: Die gesellschaftliche Seite der Enegiewende war/ist die schwierigere.",
+        "date": "2023-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wenn die Kernenergie die Lösung ist, müssen Sie nur Antworten auf diese einfachen Fragen geben:\nWas passiert mit dem Atommüll? Wie teuer ist es, ihn zu lagern bzw. loszuwerden (funktionierende Lösungen, keine Träume und Wünsche)?\nWie viel Kernbrennstoff haben wir noch übrig und was passiert, wenn wir ihn in etwa 100 Jahren verbraucht haben?\nWie viel kostet die Kernkraft im Vergleich zu erneuerbaren Energien ?\nKönnen wir das Risiko eines nuklearen Fallouts inmitten der Zivilisation rechtfertigen?",
+        "date": "2023-01-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wenn die Kernenergie die Lösung ist, müssen Sie nur Antworten auf diese einfachen Fragen geben:\nWas passiert mit dem Atommüll? Wie teuer ist es, ihn zu lagern bzw. loszuwerden (funktionierende Lösungen, keine Träume und Wünsche)?\nWie viel Kernbrennstoff haben wir noch übrig und was passiert, wenn wir ihn in etwa 100 Jahren verbraucht haben?\nWie viel kostet die Kernkraft im Vergleich zu erneuerbaren Energien (googeln Sie einfach mal die Kosten für das jüngste Kraftwerk in Großbritannien)?\nKönnen wir das Risiko eines nuklearen Fallouts inmitten der Zivilisation rechtfertigen?",
+        "date": "2023-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Kernenergie die Lösung ist\n\nIch sage ja nicht dass es DIE Lösung ist.\n\n&gt;Was passiert mit dem Atommüll\n\nOb wir jetzt bis 2022 Müll produzieren oder 10 Jahre länger macht den Braten auch nicht fett.  Die absoluten Mengen an Müll sind nicht so riesig, und das Problem haben wir ob wir früh aus der Kernkraft aussteigen oder nicht.\n\n&gt;as passiert, wenn wir ihn in etwa 100 Jahren verbraucht haben?\n\nEs geht ja nicht um 100 Jahre sondern dass wir einfach so lange wie möglich KK nutzen um keine Kohle zu verbrennen und EE auszubauen. \n\nUnd Kernkraft ist günstig wenn alles mal läuft. Da ist vor allem der Bau und Abbau extrem teuer.",
+        "date": "2023-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Recht hat der Mann. Mit all der medialen und mentalen Energie die in diese Debatte gesteckt wird könnte man meinen es geht um den Kohleausstieg, wiedereinstieg in Kernenergie oder 5EUR/Liter Benzin. \n\nAls das Verbrennerverbot für 2035 letztes Jahr beschlossen worden ist, das ein vielfaches an Effekt bringen wird, wurde nicht mal groß darüber geredet.  Das hat noch weniger gekostet als Schilder abzuhängen. \n\nWir brauchen mehr von diesen wegweisenden Entscheidungen die in absehbarer Zeit effektiv C02 reduziert.",
+        "date": "2023-01-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Kernenergie deckt weltweit knapp 3% des Primärenergiebedarfs. Wenn du diesen Wert auf auch nur 30% schrauben willst, brauchst du Weltweit 5000 neue AKW. Übrigens wäre  worst case die Uran-Reichweite bei 20 Jahren, da andere Vorkommen entweder nicht wirtschaftlich abgebaut werden können oder aber der Bedarf so stark steigt. In jedem Fall wäre dies dann das Aus für Atomkraft.",
+        "date": "2023-01-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der  prozentuale Wert ist für Deutschland gleich und war auch in der Blütezeit der Kernenergie bei maximal 12%. Selbst Brennholz hat in Deutschland einen höheren Anteil am Endenergieverbrauch (vgl. Quaschning 2022, 122). Womit wir auch beim Thema wären. Volker Quaschning hat in seinem Buch zur Energiewende ein ganzes Kapitel zur Atomkraft. Das würde ich Dir als Lektüre mal empfehlen.",
+        "date": "2023-01-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Davon rate ich ab, da:\n\n\\- Es dauert teils 40 Jahre, bis ein AKW günstig Strom produziert, und das auch nur aufgrund der massiven Subventionierung, siehe hierzulande\n\n\\- Abhängigkeit der Brennstoffversorgung von Russland; nein, D kann leider keines produzieren\n\n\\- Massive Risiken vs. \"ist ne coole Technik nä\"\n\n\\- Neue AKW machen keinen Sinn, da Bauzeit, Materialaufwand und Kosten immens, mit Klimazielen nicht zu vereinbaren, da reicht die Zeit nicht\n\n\\- Kraft und Geld wären bei erneuerbaren Energien, Hochspannungsleitungen und Energiespeichern besser aufgehoben (danke CSU/CDU für nichts)\n\n\\- Niedrigwasser und hohe Temperaturen / wenig Schmelzwasser (Auswirkung von Klimawandel) gefährdet Kühlkreisläufe, man riskiert damit ernste Zwischenfälle und langfristige Ausfälle, siehe z.B. Deutschland letztes Jahr und Frankreich in 2020-dato, GB; der Ruf als zuverlässige Dauerenergiequelle ist Schwachsinn\n\n\\- Störanfälliger als gedacht, siehe z.B. Frankreich in den letzten Jahren\n\n\\- Trend neuer AKW geht massiv zurück, die meisten AKW-Länder senken den Anteil des AKW-Stroms im Strommix zu Gunsten erneuerbarer Energien (ja, trotz Tschechiens neuem Meiler)\n\n\\- Endlagerfrage immer noch nicht geklärt (ich bin ja fan von Uranglas, aber das ist wohl zu teuer), wieso eigentlich?\n\n\\- Brennstoff reicht nicht aus, ist endlich\n\nUnd nein, ich hab keine Angst vor Radioaktivität, ich hab damit sehr viel beruflich zu tun gehabt, auch als Schwerpunktstudium. Die meisten, in diesem Bereich ausgebildeten Menschen sehen im Gegensatz zu den Opfern von social-media Rattenfängern die Risikoanalyse von Kernkraft sehr ähnlich, nahe der Einschätzung der  Bundesregierung. Wir hätten aber noch etwas warten können mit dem Ausstieg, das sehe ich ein. Zukunft hat Kernenergie nicht und der Ausstieg ist eine gute Sache. Die derzeitigen AKW-ähnlichen Trends, wie z.B. gemeindeeigene Mini-Reaktoren, haben sich auch als heiße Luft und stark geschönigt herausgestellt.",
+        "date": "2023-01-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Klar das hätte besser laufen können aber fairerweise muss man auch damit rechnen dass man nicht immer in der Regierung bleiben wird und die Grünen haben sich schon immer gegen Kernenergie positioniert. Nein ein Endlager gibt es immer noch nicht aber ich vertrete die Meinung dass es wenig bis gar keinen Unterschied macht wie viel atommüll produziert wird. Hochradioaktive Abfälle nehmen nur ein extrem kleines Volumen ein also könnten sämtliche Abfälle der Welt vermutlich an einem Ort gelagert werden. Es geht nicht darum wie viel atommüll es gibt sondern dass es ihn gibt.",
+        "date": "2023-01-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Vor 20 Jahren hätten wir die Diskussion haben müssen, ob wir weiter auf Kernenergie setzen wollen. Damals waren erneuerbare Energien noch deutlich teurer, unsere Reaktoren waren noch jünger und es wäre auch noch Zeit gewesen, zusätzliche zu bauen.\n\nAber heute ist das Thema einfach erledigt. Selbst wenn wir heute mit den Planungen für 50-100 neue Kernkraftwerke anfangen, um einen Großteil des Energiebedarfs über Kernkraft zu sichern, dann würde es Jahrzehnte dauern bis die tatsächlich Energie ins Netz einspeisen. Überhaupt erstmal das Personal zu finden, um so viele Großbaustellen gleichzeitig zu bedienen, vor allem wenn Frankreich auch noch Kraftwerke bauen will. Und die Kosten wären astronomisch.\n\nErneuerbare Energien sind günstiger, schneller und einfacher auszubauen, unabhängig von Brennstoffen und durch die Vielfalt und die Zahl der Kraftwerke auch weniger anfällig für Störungen. Wir müssten nur einfach mal richtig loslegen.",
+        "date": "2023-01-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Der Beitrag von Kernenergie zur deutschen Stromerzeugung ist ziemlich gering und für den Gesamtenergiebedarf praktisch nicht existent. Die Stromerzeugung völlig auf EE umzustellen sollte bei entsprechendem Ausbau kein Problem darstellen, ist ja schon bei über 50%. Beim Gesamtenergiebedarf fehlt es allen Enden aber dazu trägt die Kernkraft schon heute so gut wie nichts bei. Da braucht es schleunigst Investitionen in die Wasserstofferzeugung und Kernkraft würde diese Investitionen verringern und damit die Energiewende weiter verzögern. \nDa Deutschland netto Exporteur von Strom ist und der Export den Beitrag der Kernenergie übersteigt besteht unterm Strich kein Bedarf an Importen.",
+        "date": "2023-01-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Der Beitrag von Kernenergie zur deutschen Stromerzeugung ist ziemlich gering  \n\nJa, heute, nachdem man die meisten Kraftwerke abgeschaltet hat.  \n\n&gt; Da braucht es schleunigst Investitionen in die Wasserstofferzeugung und Kernkraft würde diese Investitionen verringern und damit die Energiewende weiter verzögern.  \n\nDu kannst auch mit Kernkraft Wasserstoff erzeugen. Die abzuschalten bringt uns dem Ziel nicht näher.  \n\n&gt; Da Deutschland netto Exporteur von Strom ist und der Export den Beitrag der Kernenergie übersteigt besteht unterm Strich kein Bedarf an Importen.  \n\nNur dass wir Strom mit Energieträgern exportieren, die wir zuvor importiert haben.",
+        "date": "2023-01-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ist halt auch irgendwie nicht das Anforderungsprofil dieser Regierung? Die Präsenz des Klimawandels als Problem, das Aussterben deutscher Kernenergie, und das Aufkommen der Erneuerbaren fällt ziemlich genau in die Zeitspanne Kohl - Schröder - Merkel. Man kann der SPD durchaus vorwerfen in den Groko-Jahren fleißigst mitgebremst zu haben, das ändert aber nicht viel an der Tatsache dass in den letzten 40 Jahren die CDU 32 Jahre lang das Kanzleramt innehatte.\n\nUnd es ist einfach nur straighter Geschichtsrevisionismus mit dem Finger auf die fehlende Kernkraft zu zeigen (dazu gleich mehr) und völlig auszublenden dass wir den Doppelausstieg so gut wie geschafft hätten wenn nicht Peter Fucking Altmaier mit voller Unterstützung der Raute zuerst den Solarsektor und dann den Windenergiesektor mit der Feuerwehraxt zerlegt und für zwei Renminbi nach China verscherbelt hätte. Bedank dich bei den beiden Turbowichsern, und wenn du schon dabei bist kannst du auch mal nen Volkswirt deines Vertrauens fragen ob es eigentlich wissenschaftlich vertretbar war dass Herr \"Ups wie kam denn der Schwarzgeldkoffer in meinen Schreibtisch\" aka Schwarze Null jahrzehntelang einen Bundeshaushalt so gemanaged hat wie ein stereotyper schwäbischer Bauer sein Sparbuch. Falls du dich fragst warum unsere Infrastruktur allgemein an allen vier Ecken und Kanten modert und bröckelt könntest du dann nämlich was ganz Heißem auf der Spur sein.\n\nSo, zum Thema Kernenergie.\n\nIch gehe prinzipiell mit dir d'accord. Der ideale Weg wäre gewesen alles an einen Fossilausstieg zu setzen, dabei genug KKW-Kapazität zu halten um die Grundlast sicherzustellen, und das in der Reihenfolge Braunkohle - Steinkohle - Öl - Gas. Gas hätte man eh ne Weile behalten müssen weil methangefeuerte Gasturbinen einfach hervorragend zur Spitzenlastabdeckung geeignet sind, aber sei's drum, Hauptsache raus aus der Kohle.\n\nJetzt werde ich dir darlegen weshalb das auch mit perfekt polierter Kristallkugel nicht möglich gewesen wäre, und warum es jetzt sinnlos ist sich hinzustellen und das zu fordern.\n\n1. Kernkraft ist in Deutschland ein vergiftetes Thema. Das ging alles schon sehr früh los (zB THTR, Gorleben, Asse), und dann kam Chernobyl.  \nEs ist dabei zu bedenken dass (a) der Durchschnitts-Wissensstand über Kernenergie im Allgemeinen damals noch katastrophaler ausfiel als heute, (b) Menschen grundsätzlich eine tiefe psychologische Angst vor unsichtbaren Gefahren haben, und (c) das was wir _heute_ über Chernobyl wissen eben _damals_ nicht (weitläufig) bekannt war. Nämlich dass das Reaktordesign von Grund auf kompletter Abfall war, jegliche Sicherheitseinrichtungen auf Kante genäht waren, das Wissen um bekannte technische Probleme aus politischen Gründen unterdrückt wurde, und die Kontrollraumbesatzung marginal über dem Erfahrungslevel einer Kindergartengruppe lag wenn es um außergewöhnliche Betriebsmodi eines RBMK-Reaktors ging.  \nTl,dr dreifache Dosis menschliches Versagen gepaart mit einer Anti-Sicherheitskultur wie sie nur eine kommunistische Diktatur hervorbringen kann.\n\n2. Nach Chernobyl wurde es de facto unmöglich -- egal für welche Regierung -- in Deutschland neue KKWs zu bauen. Das war nicht eine Frage der politischen Opportunität, sondern eine simple politische Unmöglichkeit. Man saß also auf dem was man hatte, und wenn wir ehrlich sind war das nicht so beeindruckend. Wir haben diverse problematische Kraftwerke (fragliche Erdbebensicherheit im Rheingraben, fraglicher Sturmflutschutz an der Nordsee, diverse DDR-Altlasten), und es war weder möglich neue moderne Reaktoren zu bauen, noch die alten signifikant nachzurüsten.  \nRegierung Birne so: *grillenzirpen*.\n\n3. Der Renewable-Turbo von Rot-Grün. Man hat sich die bestehende Situation angeschaut, die massiven Fortschritte in Solar &amp; Wind überschlagen, und gesagt \"okay, dann steigen wir jetzt aus der ungeliebten Kernkraft ASAP aus, und überbrücken halt mit Kohle bis die Erneuerbaren voll da sind\". Ja, diese Entscheidung fiel aus politischem Opportunismus und grünem Idealismus, war aber nicht völlig absurd, denn:  \n3 a) Das Thema Klimawandel/CO2 war bei weitem nicht so präsent wie heute. Klar wurde darüber diskutiert, aber so ziemlich jeder hätte dich ausgelacht wenn du gesagt hättest dass dir n Endlager unterm Garten lieber wäre als ein Kohlekraftwerk knapp außerorts. Das ist übrigens immer noch so. Ich habe erst gestern downvotes kassiert als ich hier angemerkt habe, dass wir schlicht nicht mehr den Luxus haben lokalen Umweltschutz auf Kosten des globalen Klimas zu betreiben.  \n3 b) Kernenergie hat auch damals schon einen vergleichsweise kleinen Teil unseres Strommixes ausgemacht, dementsprechend einfacher war es die zu kappen unter dem Gesichtspunkt eine \"dreckige\" Technologie ganz loszuwerden.  \n3 c) Wäre zwar kein optimaler Plan gewesen, hat aber den Grünen Idealismus (erstes Mal an der Regierung, da ist sowas wichtig) beschwichtigt und hätte auch super funktioniert...hätte. Es ist auch wichtig anzumerken dass die Grünen zwar eine tiefe ideologische und mehr als nur leicht irrationale Abneigung gegen Kernenergie hatten/haben, die SPD aber auch eng mit gewissen Kohlekonzernen verbandelt war und ist. Ich bin mir sicher dass der Genosse der Bosse sich nicht nur von einer Sorte fossilen Brennstoffen hat beeinflussen lassen...  \nAnmerkung: Dies ist der späteste Zeitpunkt um, so wie von dir gewünscht, moderne Kernkraft hochzuziehen. Mal davon abgesehen dass RG das nie durchgezogen hätte wäre dies unweigerlich auf Kosten der Erneuerbaren gegangen. Hätten wir da gar nicht erst reingepumpt wäre das ganze Thema sowieso sinnlos gewesen. \n4. Schröder hat keinen Bock mehr und ragequitted weil Gazprom halt eh besser zahlt (bei weniger Wochenstunden). Enter the Raute. Enter vor allem mal Altmaier. Auf den Rest bin ich ja oben schon eingegangen.   \nEdit: Ich hatte den Ausstieg vom Ausstieg und den kurz darauf folgenden Ausstieg vom Ausstieg-Ausstieg aufgrund Fukushima ursprünglich komplett weggelassen. Abgesehen vom üblichen CDU-bashing (Raute im Wind und so) hat das halt nicht sonderlich viel kaputtgemacht. Ja, es war Chaos und hat den Steuerzahler Unsummen gekostet, und es war mal wieder ein Musterbeispiel für die deutsche Irrationalität bei der Kernkraft, aber der Ursprung des Ganzen war eben nicht 2011 sondern 1975/86/98 und die Zerstörung des Renewable-Sektors wog sehr viel schwerer als irgendwelches Merkel-Rumschlingern. Ausstieg³ war eigentlich nur Ablenkung, \"guck mal hier ein dreiköpfiges Uranatom!!11\", während die uns um Jahrzehnte zurückgeworfen haben.\n\n5. Wenn wir jetzt, jegliche Ideologie ignorierend, 40 Mrd. ausgeben würden um uns (optimistisch!) 4 moderne KKWs rauszutebartzen dann kriegen wir davon ca. 6-10 GWe in ca. 20 Jahren. Pump dieselbe Kohle in Erneuerbare und du kannst die Zahlen wahrscheinlich umdrehen. Was bringt mehr?\n\nDu kannst halt nicht mal ne Alt-History schreiben bei der Deutschland auf Kernenergie gesetzt hätte, ohne ganze politische Strömungen umzudichten bzw. rauszunehmen. Ich finde das auch nicht gut (glaub mir, ich weiß wovon ich rede, ich hab Garzweiler mehr als ein Mal irl gesehen), aber es war halt einfach nie realistisch. Und selbst wenn wir das jetzt durchziehen könnten (können wir nicht): KK hat selbst in einem nuke-philen Land wie Frankreich mittlerweile eine so krasse Vorlaufzeit dass wir Kohle nochmal um 10-20 Jahre verlängern müssten...denn das Budget dafür kommt sicher nicht einfach so dahergeflattert.\n\nBeachte dass ich die folgenden Negativ-/Problemaspekte der Kernkraft noch mit keinem Wort erwähnt habe:\n\n- Das geringe, aber dennoch real existente Potential eines GAUs (kostet verdammt viel politisches Kapital selbst wenn nie was passiert);\n\n- Die Zwischen-, Endlager-, und Transportthematik (alles lösbar, aber teuer in € und PK);\n\n- Die enorm hohen Kosten/GWh verglichen mit jeder anderen Form der Energiegewinnung (erhöht die effektiven Baukosten nochmal weil entsprechend Subventionsbedarf besteht);\n\n- Die Bezugsfrage für Rohuran (Russland war auf dem Weltmarkt, und auch für uns, ein major player);\n\n- Die Veredelungsfrage (eigene Anlagen haben wir nicht wirklich, könnten wir aufbauen aber sind sauteuer, dann bleibt die Frage: machen wir uns für große Mengen unserer Stromproduktion von Frankreich abhängig (einzig sinnvoller Kandidat) oder machen wir's selbst und konkurrieren dann mit Frankreich (auch politisch problematisch)?);\n\n- Daraus folgend Proliferationsrisiken (de facto vernachlässigbar aber wird wieder politisches Kapital kosten um die Schreihälse zu muten).",
+        "date": "2023-01-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; aber ITER ist explizit in der zweiten Phase vorgesehen um solche Lithiumlegierungen zu verwenden.\n\naber eben nur um Lithium versuchsweise zu bestrahlen. ITER wird nie wirklich mit selbst erbrüteten Tritium laufen, dazu sind die benötigten Mengen zu hoch.\n\nDas Tritium ist sozusagen das \"missing Link\" zwischen der Kernfusion und der herkömmlichen Kernenergie, das viele Befürworter übersehen - es muss in Uranreaktoren hergestellt werden, und ob die Fusionstechnik in diesem Jahrhundert selbstversorgend Tritium produzieren kann, steht völlig in den Sternen.",
+        "date": "2023-01-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Die Deutschen machen mich wahnsinnig.  wie soll man Strom produzieren?  Pellets verursachen Abholzung, daher ist es schlecht.  Erdgasbohrungen sind umweltschädlich, also schlecht.  Kohle emittiert CO2, also ist sie schlecht.  Kernenergie könnte möglicherweise auslaufen und nukleare Katastrophe, daher schlecht.  Es fühlt sich wirklich so an, als würde Deutschland alle Arten des Energieverbrauchs mit Ausnahme von Solarenergie hassen.  Einer der wenigen Energieerzeuger, der am schwersten zu speichern ist, und übrigens, Deutschland ist nicht das sonnigste Land.  Nicht wirklich hier, um über die Verwendung von Kohle oder Erdgas zu predigen, aber wie gesagt, Sie können nicht jede Form der Energie- oder Wärmeerzeugung da draußen beschämen.  Ich entschuldige mich für mein Deutsch, nicht meine Muttersprache.\n\n-\tBearbeiten für das Vergessen der Windenergie.  machte meine Aussage in einem späteren Kommentar dazu",
+        "date": "2023-01-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Wow, das ist wirklich deprimierend. Eine Homage (ob gelungen oder nicht) von Unmengen bekannter Comiczeicher:innen und man bedankt sich mit einer Klage, die schließlich nach mehreren Instanzen in einem monetären Vergleich endet und \"  \n&gt;  \n&gt;Gambers \\[Herausgeber des Comics\\] letzte Spuren verlieren sich irgendwo zwischen einem Münchner Männerwohnheim und dem kleinen pfälzischen Ort Landstuhl.  \n&gt;  \n&gt;\"\n\nJa, es ist deprimierend, dass diese Asterix-Erben die Kernenergie besser beherrschen. Außerdem haben sich deutsche Politiker in die Kurzfristigkeit verliebt... und jetzt verbrennen wir Kohle. Muss gut für die Umwelt sein, oder Angela?",
+        "date": "2023-01-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Ist Überproduktion wirklich ein Problem? \n\nZuviel Strom im Netz wäre genau so schlecht wie zu wenig, das Netz würde zusammen brechen. Man muss die Stromerzeuger also regeln können. Das Problem bei der Kernenergie ist, dass die heute in Deutschland betriebenen Atromkraftwerke 1. kaum schnell regelbar sind und 2. es auch gar nicht wirtschaftlich wäre, die im Lastfolgebetrieb zu betreiben. Es ist einfacher **und** billiger, überflüsslige Windanlagen abzuschalten. Bei Solaranlagen hat man den Vorteil, dass sie sowieso mittags am meisten Strom brauchen, wenn auch am meisten verbraucht wird.\n\nGanz ohne fossile Regelenergie funktioniert das **heutige** Netz nicht - das gilt sowohl für ein vorwiegend mit Kernenergie, als auch für ein mit Erneuerbaren Energien betriebenes Netz. Aber man kann den Anteil der fossilen Energie sehr weit minimieren.\n\n&gt; Könnte man ja einfach in Stauseen pumpen oder exportieren? \n\nJa, das tut man schon. Hier die aktuellen Daten:\n\nhttps://transparency.entsoe.eu/generation/r2/dayAheadGenerationForecastWindAndSolar/show?name=&amp;defaultValue=false&amp;viewType=GRAPH&amp;areaType=CTA&amp;atch=false&amp;dateTime.dateTime=10.01.2023+00:00|CET|DAYTIMERANGE&amp;dateTime.endDateTime=10.01.2023+00:00|CET|DAYTIMERANGE&amp;area.values=CTY|10Y1001A1001A83F!CTA|10YDE-RWENET---I&amp;productionType.values=B16&amp;productionType.values=B18&amp;productionType.values=B19&amp;processType.values=A18&amp;processType.values=A01&amp;processType.values=A40&amp;dateTime.timezone=CET_CEST&amp;dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2)#\n\n\n&gt; Abnehmer werden sich dafür wohl finden. \n\nOh, die Industrie nimmt Strom von der Strombörse auch gern kostenlos ab. Dazu gibt es die Strombörse. Oder er wird exportiert. Das landet halt nicht bei Privatpersonen.\n\n&gt; Muss der Strom irgendwohin? \n\nStrom der im Netz ist, muss verbraucht werden. Zur Not macht man die Strassenlampen an.\n\n&gt; Könnte man die Erzeugungskapazität nicht einfach drosseln?\n\nKlar, kann man. Jede grössere Windanlage muss auch Netzdienstleistungen erbringen und bei Überschuss abschaltbar sein.\n\n\n&gt; \n&gt; Inwiefern kann Solarenergie Lastspitzen besser abdecken, bspw. am Feierabend wenn Jedermann zuhause Abendessen kocht?\n\nDie grossen Lastspitzen sind Morgens, Mittags und Abends, so um 7:00, 12:00 und 1900 Uhr, also zu den gängigen Essenszeiten. Die grösste ist dabei Mittags, wenn auch am meisten Solarenergie produziert wird. \n\nMan kann auch als Haushalt Strom dann verbrauchen, wenn es viel EE-Strom gibt, indem man Waschmaschine oder Spülmaschine zu Überschusszeiten anmacht. Das ist bei Sonnenschein ab 14:00 und sonst idealerweise Nachts um 2:00 morgens. Viele Grosswärmegeräte haben einen Startzeit-Timer, der genau dafür gedacht ist.\n\nhttps://peakpick.de/webapp/index.php",
+        "date": "2023-01-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das Problem ist, dass sich die sehr teure Kernenergie nicht wirklich mit der viel billigeren Wind- und Solarenergie verträgt, weil sie 1. nicht gut regelbar ist, und es 2. nicht ökonomisch ist, Atomkraftwerke im Lastfolgebetrieb laufen zu lassen.\n\nDazu kommt eben, dass man das Geld nur einmal hat. Man kann Geld für neue AKWs ausgeben. Oder aber eben für Förderung von Wärmedämmung und Wärmepumpen, Radwege, billigeren Nahverkehr, neue U-Bahn-Linien und Fernzugtrassen, und und und. Der Klimawandel und das zum Überleben absolut nötige Erreichen einer Klimaneutralität sind **massive**, sehr kostspielige Herausforderungen, die unsere Ökonomie sowieso an den Rand der Belastbarkeit bringen werden - gerade weil man Jahrzehnte jede Anpassung verschleppt hat. Da können wir es uns nicht leisten, Milliarden für den Betrieb oder gar Bau von AKWs raus zu hauen.",
+        "date": "2023-01-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Aber es sind ja eben noch mehr als diese zwei Reaktoren. Belgien hatte 2021 knapp 50% aus Kernenergie. Der einzige fossile Brennstoff war Gas mit knapp 20%. So groß war bei uns letztes Jahr der Anteil an Braunkohle. Da kommen Steinkohle und Gas dann nochmal mit je knapp 10% drauf.\n\nBelgien ist jetzt schon bei knapp 80% CO2 armem Strom.",
+        "date": "2023-01-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Ohne die Diskussion darum, und die Bemühung um Alternativen, hätten wir die Erneuerbaren heute nicht.\n\nErstmal ist dies nur geschätzt, weil was wäre wenn kann dir keiner seriös beantworten.\n\nZweitens war es trotzdem eine schlechte Entscheidung, man hat eine CO2 arme Energiequelle abgeschafft, und hat verzweifelt versucht andere CO2 arme Quellen zu finden. Viel sinnvoller wäre es gewesen erstmal aus Kohle auszusteigen, dafür alternativen zu finden, und erst danach aus der Kernenergie, wenn es Gründe dafür gibt.\n\nMan kann die Sache schönreden wie man will, wäre Fukushima nicht gewesen, hätte man die Angst des Volkes nicht für politische Zwecke ausnutzen können. Jetzt sind wir in der Situation wo wir immer noch nicht nur Ersatz für Kernenergie schaffen müssen, sondern auch für alle anderen übrig gebliebenen Quellen wie Kohle und Gas. Deswegen stehen wir auch so schlecht da.",
+        "date": "2023-01-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; …und wir in Deutschland derzeit wieder verstärkt auf Gas und Kohle, was natürlich mit den Klimazielen kollidiert. Klar könnte man wie Frankreich, die Niederlande, Großbritannien oder auch China die Kernspaltung forcieren, entweder durch längere Laufzeiten oder neue Atomreaktoren der dritten Generation. Aber das ist in Deutschland, aber auch in Österreich, der Schweiz und Italien aus politischen Gründen kaum denkbar. Und dennoch brauchen wir unbedingt zugleich Klimaneutralität und Energieunabhängigkeit. Das spricht aus meiner Sicht sehr dafür, für die Grundlast auf Fusionsenergie zu setzen.\n\nDas es in der praktischen Umsetzung und öffentlichen Meinung einen großen Unterschied zwischen Fusionskraftwerken und AKWs gibt halte ich für eine gewagte These. Kernfusion löst kein Problem, was wir nicht bereits ähnlich mit Kernenergie lösen könnten.\n\n&gt; Die Position der Grünen ist in meiner Beobachtung nicht mehr so pauschal negativ wie früher, sondern inzwischen differenzierter. Bei der Kernkraft ist die Ablehnung grundsätzlich, bei der Fusionenergie habe ich immer das Argument gehört, sie sei noch weit weg\n\nAußer das man natürlich politisch Gesicht waren kann und in eine vergleichbare Technik wieder einsteigen ohne jemals zugeben zu müssen, das der Atomausstieg ein Fehler war.",
+        "date": "2023-01-10",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Reaktoren benötigen auch gigantische Mengen Rohstoffe. Auch ist Uran nicht so weit verfügbar wie du behauptest. Aktuelle Schätzungen gehen meist von 200-300 Jahren ökonomisch sinnvollen Reserven aus, bei aktueller Leistung von etwa 400GW. Bei deutlich größerem Anteil an der Energieversorgung entsprechend weniger.\n\nAktuell wird nur ein kleiner Teil des Stroms aus Kernenergie gewonnen, da wir aber alles elektrifizieren benötigen wir gigantische Mengen Strom im TW Bereich. Bei solchen Größenordnungen müssen wir weltweit alle paar Tage einen Reaktor fertigstellen, da alte Reaktoren nunmal abgeschaltet werden müssen.\n\nDazu kommt der Verbrauch an seltenen Rohstoffen wie Beryllium, Hafnium, Zirkonium etc.",
+        "date": "2023-01-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wir reden aber auch über einen um den Faktor 25 oder mehr höheren Verbrauch wenn man die Welt mit Kernenergie versorgen will…",
+        "date": "2023-01-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich glaube kein Land der Welt will seinen Strombedarf vollständig aus Kernenergie decken. Das ist meist für den Grundbedarf gedacht.\n\nZu den 300 Jahren:\n\nIch halte es für sehr wahrscheinlich dass in 300 Jahren die Kernfusion nutzbar gemacht wurde (sogar 50 Jahre und damit eine Reaktorgeneration halte ich für realistisch). Kernspaltung ist immer nur eine Brückentechnologie. Die Uranvorräte sollten daher kein unlösbares Problem sein.",
+        "date": "2023-01-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Auch als Weltmarktführer in Solar und Wind gab es keinen Grund erst aus Kernenergie auszusteigen, und nicht Kohle. Wenn wir so gut waren, warum sind wir dann nicht aus der Kohleenergie ausgestiegen? Weil es kein Fukushima mit einen Kohlekraftwerk gab, obwohl bekannt ist das ein Kohlekraftwerk mehr Radioaktiven Müll produziert als ein AKW, und mehr Menschen wegen diesen Radioaktiven Müll sterben, als von einem AKW. \n\nWir sind aus AKWs ausgestiegen, weil die Politiker die Angst und Ignoranz der Bevölkerung ausgenutzt haben um Stimmen zu bekommen. Das hatte mit Klima nix zu tun, mit Vernunft auch nicht. Die, die Fukushima am eigenen Leib erlebt haben, bauen wieder AKWs. Aber in Deutschland weis man es halt immer besser.",
+        "date": "2023-01-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Auch als Weltmarktführer in Solar und Wind gab es keinen Grund erst aus Kernenergie auszusteigen, und nicht Kohle\n\nDoch, und zwar den, das Kohle in NRW ein riesiger Wirtschaftszweig war/ist und die entsprechenden Landesverbände starke Einfluss haben. \n\n&gt; Wir sind aus AKWs ausgestiegen, weil die Politiker die Angst und Ignoranz der Bevölkerung ausgenutzt haben um Stimmen zu bekommen.\n\nDu unterschlägst hier die Wirkung der Anti Atomkraft Bewegung in Deutschland. \n\n&gt; Aber in Deutschland weis man es halt immer besser.\n\nUnd in Italien, Litauen Österreich um nur ein paar ander Länder zu nennen...",
+        "date": "2023-01-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; \"Leer\": Deine Meinung.\n\nDann werde ich mal ausführlicher:\n\nEin Land dass auch in Zukunft auf Atomstrom setzen möchte, muss jetzt anfangen neue Kraftwerke zu bauen. Einerseits um die 70er-Jahre Meiler zu ersetzen, andererseits um Dinge wie Kohlestrom zu ersetzen.\n\nMitten in der Energiekrise vage Versprechen über eine Technologie zu machen, die historisch mit günstigem Strom assoziiert wurde hat keinen Wert.\n\nBelgien hat absolut keine Pläne überhaupt neue zu bauen. \n\nPolen will vielleicht einmal 2026 mit dem Bau von einem einzigen Kraftwerk anfangen, dass 2040 dann vielleicht mal fertig ist mit 6GW Leistung. In 13 Jahren schafft man also vielleicht, dass, was der Ausbau der Erneuerbaren in Polen in den letzten 1.5 Jahren geschafft hat. Das ist mittlerweile der dritte Versuch ein Atomkraftwerk dort zu bauen.\n\nJapan hat derzeit 0 Bauprojekte für neue Reaktoren. Ein vor der Nuklearkatastrophe 2011 fertig gestellter Reaktor ist immer noch nicht in Betrieb. Die Mehrheit der Atomkraftwerke steht 11 Jahre nach der Katastrophe immer noch still und das obwohl japanische Politiker seit Jahren davon reden, dass man weiterhin auf die Atomkraft setzt und die Dinger schnellstmöglich wieder anschalten möchte. In Absoluten Zahlen ist Japan härter aus dem Atomstrom ausgestiegen als Deutschland derzeit (9,8% vs 5%). \n\nUnd darüber hinaus:\n\nJedes Kernkraftwerksprojekt nach Hinkley Point C wurde in Großbritannien bisher in der Planungsphase eingestellt, weil es zu teuer wurde\n\nDie Anzahl an Post-Flamanville Bauprojekten in Frankreich ist 0, obwohl dieses Land sich so unfassbar einseitig vom Atomstrom abhängig gemacht hat. Macron hat auf der Höhe der Energiekrise 6 neue Reaktoren versprochen, für die nicht einmal ein Datum für den geplanten Baustart bekannt ist. Die 6 Meiler reichen auch nicht im geringsten aus um die alternden 70er Jahre Meiler zu ersetzen.\n\nIn all diesen Ländern sinkt der Anteil der Kernenergie am Strommix. In all diesen Ländern steigt der Anteil Erneuerbarer Energien derzeit exponential.",
+        "date": "2023-01-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der größte Teil des Nuklearsektors hier wird seit langem vom französischen Steuerzahler bezahlt. Gäbe es keine europäische Verpflichtung zum freien und unverzerrten Wettbewerb, Privatisierung des Sektors, wäre Energie in Frankreich billig. Frankreich ist der größte Exporteur in Europa. Außer in diesem Jahr wegen Abschaltungen zur Reaktorwartung. Es dauert sehr lange, bis die Kernenergie erstattet wird, aber am Ende wird sie immer erstattet. Frankreich ist auch einer der niedrigsten Emittenten von Treibhausgasen / kwh. Für 68 Millionen Menschen, nicht 10 oder 5 wie Schweden oder Norwegen und Dänemark, die erneuerbare Energien nutzen können, wenn sie wollen (indem sie Strom von anderen importieren, wenn es keinen Wind oder keine Sonne mehr gibt). Es ist eine Frage des Maßstabs. Kernkraft ist eine hervorragende Antwort auf die groß angelegte Reduktion von Treibhausgasen.",
+        "date": "2023-01-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das Kapital will Rendite. Mit Kernenergie, PV und Wind geht das nahezu CO2-frei ohne Kohleverstromung, so wie in anderen Ländern.",
+        "date": "2023-01-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Das ist das ganze Paradoxon der aktuellen Situation. Kernenergie kann nicht privat sein, weil sie zu teuer ist, sich in den ersten 20 Jahren nicht auszahlt und potenziell gefährlich ist. Also nur ein Staat kann diese Energie betreiben. Abgesehen davon, dass Europa und Frankreich heute alles tun, um das Gegenteil zu versuchen, und das führt uns in absolut schädliche und widersprüchliche Situationen, die für alle schlecht sind.",
+        "date": "2023-01-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "wir wissen nicht wie wir unsere schulden bezahlen, aber bis wir ne lösung gefunden haben ist es nicht schlimm wenn wir mehr schulden anhäufen?  \n\n\nich weiß auch nicht wie das video da helfen soll, auch dort wird gesagt es gibt noch keine lösung für endlagerung. auch das gezeigte lager in finnland ist nicht in betrieb. in deutschland gibt es noch nicht einmal einen geplanten lagerort für die hochradioaktiven stoffe.   \n\n\nich bin mir sicher mit dem thema kernenergie kennen sich die meisten hier besser aus als ich, aber zu behaupten mehr atommüll ist nicht schlimm, obwohl wir keine lösung für den bisherigen atommüll haben ist doch schwachsinn .\\_.",
+        "date": "2023-01-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Wir haben einen Haufen neuer Kohlekraftwerke in Betrieb genommen.\n\nWir haben in den letzten 20 Jahren sowohl die Kohle- als auch die Kernkraftkapazität verringert und durch EE-Kapazität ersetzt. Das einzige Kohle-Großkraftwerk, was noch ans Netz ging war Datteln 4, welches allerdings nur durch Verzögerungen so spät fertig wurde und insgesamt 4 veraltete Kohleblöcke in Datteln und Umland ersetzt hat, was wenn man zugebaute Kapazität mit abgeschalteter Kapazität verrechnet einer Kapazitätssteigerung von insgesamt gerade mal 160MW entspricht die durch Stilllegungen anderer Kraftwerke mehr als kompensiert wurde. So haben wir im Jahr 2002 insgesamt 293 TWh Strom aus Kohle und 165 TWh aus Kernenergie produziert, wovon 2022 noch 198 TWh Kohle und 35 TWh Atom übriggeblieben sind. Die Produktion aus EE ist im gleichen Zeitraum von 46 auf 256 TWh gestiegen. Quelle [Statista](https://de.statista.com/statistik/daten/studie/156695/umfrage/brutto-stromerzeugung-in-deutschland-nach-energietraegern-seit-2007/).",
+        "date": "2023-01-13",
+        "sentiment": "positive"
+    },
+    {
+        "text": "\n&gt;So haben wir im Jahr 2002 insgesamt 293 TWh Strom aus Kohle und 165 TWh aus Kernenergie produziert, wovon 2022 noch 198 TWh Kohle und 35 TWh Atom übriggeblieben sind. Die Produktion aus EE ist im gleichen Zeitraum von 46 auf 256 TWh gestiegen.\n\n\nWir haben also zu fast zwei Dritteln EE gebaut um vorhandene Atomkraftwerke zu ersetzen anstatt zuerst unsere Kohleverstromung um zwei Drittel zu reduzieren.\n\n\n&gt;Das einzige Kohle-Großkraftwerk, was noch ans Netz ging war Datteln 4\n\nNeurath Blöcke F und G in 2012, Weisweiler G und H 2006, Boxberg Block R 2012, Niederaußem K 2003 - alles Braunkohleblöcke mit 500MW bis über einem GW an Kapazität. Wir haben nach dem beschlossenen Atomausstieg (dem 2001) noch einige große Braunkohlekraftwerke gebaut. Unser Braunkohleverbrauch ist erst 2017 gesunken und seit 2000 bis heute grade Mal ~~30%~~ 23%",
+        "date": "2023-01-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja eben nicht. Wir haben ja alles in der Hand. Wie wärs zum Beispiel mit mehr Gen 4 Kernenergie, SMR Modelle, Dual Fluid Technik. Zusammen mit Wind und Solar im Energiemix. \n\nSo schafft man dann auch seine Verkehrswende, kann die Wärmepumpen versorgen etc. , kann auf Kohle und Gas verzichten.\n\nEs gibt so viele Möglichkeiten, gleichzeitig muss man auf die bereits geschehenen Klimaänderungen reagieren und nachhaltigere Landwirtschaft, andere Pflanzen etc. verwenden.\n\nAlso, lasst uns doch nicht rumheulen, sondern was tun.\n\nAber lieber spaltet man alles in gute und böse Technologie, fährt in die Emirate, die gegen so ziemlich alle westlichen Werte stehen und bettelt um Gas.\n\nFördert H2 Projekte in Kanada... Mensch fördert sie dich hier!\n\nEinfach zum Haare raufen.\n\n Hab jetzt keine Zeit mehr, muss zur Arbeit",
+        "date": "2023-01-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja so wirklich hochmotiviert ist irgendwie niemand bis auf Länder mit Nuklear Streitkräften:\n\nEin Land dass auch in Zukunft auf Atomstrom setzen möchte, muss jetzt anfangen neue Kraftwerke zu bauen. Einerseits um die 70er-Jahre Meiler zu ersetzen, andererseits um Dinge wie Kohlestrom zu ersetzen.\n\nMitten in der Energiekrise vage Versprechen über eine Technologie zu machen, die historisch mit günstigem Strom assoziiert wurde hat keinen Wert.\n\nBelgien hat absolut keine Pläne überhaupt neue zu bauen.\n\nPolen will vielleicht einmal 2026 mit dem Bau von einem einzigen Kraftwerk anfangen, dass 2040 dann vielleicht mal fertig ist mit 6GW Leistung. In 13 Jahren schafft man also vielleicht, dass, was der Ausbau der Erneuerbaren in Polen in den letzten 1.5 Jahren geschafft hat. Das ist mittlerweile der dritte Versuch ein Atomkraftwerk dort zu bauen.\n\nJapan hat derzeit 0 Bauprojekte für neue Reaktoren. Ein vor der Nuklearkatastrophe 2011 fertig gestellter Reaktor ist immer noch nicht in Betrieb. Die Mehrheit der Atomkraftwerke steht 11 Jahre nach der Katastrophe immer noch still und das obwohl japanische Politiker seit Jahren davon reden, dass man weiterhin auf die Atomkraft setzt und die Dinger schnellstmöglich wieder anschalten möchte. In Absoluten Zahlen ist Japan härter aus dem Atomstrom ausgestiegen als Deutschland derzeit (9,8% vs 5%).\n\nUnd darüber hinaus:\n\nJedes Kernkraftwerksprojekt nach Hinkley Point C wurde in Großbritannien bisher in der Planungsphase eingestellt, weil es zu teuer wurde\n\nDie Anzahl an Post-Flamanville Bauprojekten in Frankreich ist 0, obwohl dieses Land sich so unfassbar einseitig vom Atomstrom abhängig gemacht hat. Macron hat auf der Höhe der Energiekrise 6 neue Reaktoren versprochen, für die nicht einmal ein Datum für den geplanten Baustart bekannt ist. Die 6 Meiler reichen auch nicht im geringsten aus um die alternden 70er Jahre Meiler zu ersetzen.\n\nIn all diesen Ländern sinkt der Anteil der Kernenergie am Strommix. In all diesen Ländern steigt der Anteil Erneuerbarer Energien derzeit exponential.",
+        "date": "2023-01-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Von deiner Zeterei wird Kernenergie auch nicht wirtschaftlich sinnvoll.",
+        "date": "2023-01-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "läuft dann wie bei uniper, wird der kohlebereich ausgegliedert und steuerzahler darf blechen.\n\nDie Uniper SE \\[ˈjuːnipɚ\\] ist eine börsennotierte Gesellschaft, die 2016 durch Abspaltung der konventionellen Stromerzeugung aus Kohle, Gas, Wasserkraft (ohne Kernenergie) und des globalen Energiehandels von E.ON entstanden ist.\\[3\\] Seit Dezember 2022 gehört Uniper zu 99,12 % dem deutschen Staat.\\[4\\]\n\nhttps://de.wikipedia.org/wiki/Uniper",
+        "date": "2023-01-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ist es so einfach mit der Kernenergie? Spaltung: Schlecht; Fusion: Prima. ???",
+        "date": "2023-01-22",
+        "sentiment": "negative"
+    }
+]

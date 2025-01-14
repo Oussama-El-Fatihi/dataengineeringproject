@@ -1,0 +1,157 @@
+[
+    {
+        "text": "Quelque-chose me dit qu'on passe pas les tonnes d'amiante qu'on met à la poubelle à la torche à plasma.    \n\nFinement, la leçon de l'histoire c'est un peu qu'il y a déjà naturellement sous terre des trucs bien plus dangereux en bien plus grande quantité (et moins bien confiné), que ce qu'on panique à l'idée d'y rajouter ponctuellement.    \n\nLes [résidus miniers](https://fr.m.wikipedia.org/wiki/R%C3%A9sidu_minier) c'est une vraie calamité; pas que pour l'amiante.     \n(j'adore comment la page Wikipedia ne donne que les cas de l'uranium et du charbon ; pacque sur le lithium, le cuivre, et les [autres](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions/executive-summary), on préfère pas en parler)",
+        "date": "2024-06-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; (j'adore comment la page Wikipedia ne donne que les cas de l'uranium et du charbon ; pacque sur le lithium, le cuivre, et les [autres](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions/executive-summary), on préfère pas en parler)\n\nC’est l’occasion de les ajouter à la page avec cette source, du coup.",
+        "date": "2024-06-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "donc ils mettent leur charbon à barbecue dans le frigo eux ?",
+        "date": "2024-06-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Il y a du charbon pour la fabrication, du pétrole pour l'importation et l'installation/le démontage ainsi du gaz pour compenser l'intermittence la plupart du temps, niveau renouvelable on fait mieux \n\nCeux qui pensent que l'on va utiliser une partie de l'énergie produite pour électrifié les étapes bah ils rêves vu la production très faible \n\nCes technologies existent grâce aux énergies fossiles et disparaitront avec",
+        "date": "2024-06-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;quant aux grilles, créer un réseau physique coute une blinde. on a déjà un réseau . il faut essayer d etre parcimonieux. et c'est compliqué de mettre un volant en pleine mer. pour l'instant je reste peu fan (:) ) de l'éolien.\n\nCréer un réseau c'est juste une façon de dire. En vérité cela signifie permettre au convertisseur de puissance qui fait le couplage réseau avec un parc EnR de devenir la source génératrice de fréquence si jamais le réseau primaire n'est pas disponible.\n\nCela est pour éviter le cas de figure où une panne d'une centrale classique (charbon etc..) entraîne l'arrêt de production des renouvelables, parce qu'il n'a plus de générateur de fréquence dans le réseau.\n\nJe ne suis pas un expert dans ce sujet, mais il me semble qu'une des problématiques principales c'est faire sorte que les renouvelables puissent virtualiser une centrale classique (ce qui entraîne des spécificités de fréquence liés à l'inertie de ces générateurs) car notre réseau électrique dépend intrinsèquement du comportement de ces centrales (pour une raison historique) pour la détection automatique de failles dans le réseau...",
+        "date": "2024-06-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ton graphique qui dit \"under certain circumstances\" déjà...\n\nSinon encore une fois, le nucléaire et l'éolien ne sont pas comparables. Ils ne répondent pas au même besoin. Pour des pays qui utilisent du gaz, ou du charbon et qui veulent mitiger ça ok\n\nMais en France si tu construis de l'éolien ou du solaire tu dois construire des centrales à charbon ou pétrole... Quelle aberration \n\nOn ne compare pas du pilotable et de l'intermittent",
+        "date": "2024-06-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est pas parce que énergie renouvelable ?\n\nEn général,  l'énergie vient de 3 sources : renouvelable, charbon, nucléaire.\n\nAutant le charbon et le nucléaire tu peux mesurer ta consommation de ressources pour produire exactement la quantité d'énergie que tu veux, autant le renouvelable tu l'as dans l'os.\n\nDonc j'imagine que notre nucléaire il fait des hauts et des bas pour s'adapter au renouvelable.\n\nEt comme on dit certains : maintenance probable.",
+        "date": "2024-06-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "EELV fera un score faible aujourd’hui à cause de la météo de cette année.\n\nIls ont poussé la sortie du nucléaire ce qui a fait consommer énormément de charbon, ont bloqués des retenues d’eau par pure superstition, sont incapables de gérer une ville, accumulent les scandales, mais tout le monde s’en foutait\n\nMais quand la météo est pourrie on oublie le réchauffement et EELV baisse dans les sondages.\n\nOn est vraiment des cons, c’est désespérant.",
+        "date": "2024-06-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "https://ourworldindata.org/grapher/total-greenhouse-gas-emissions-per-capita?tab=chart&amp;country=FRA~DEU\n\nen 1990, la France avait déjà atteint un niveau d'émissions faibles, donc le changement annuel sera plus faible car il n'y a plus de projets faciles. le remplacement d'un GW de charbon aura un impact plus important que le remplacement du gaz naturel par des énergies renouvelables par exemple.",
+        "date": "2024-06-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Parce que vous avez besoin de charbon pour fabriquer des voitures ?\n\nClassique des anti-scientifique.",
+        "date": "2024-06-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Il a juste un truc important que tu ne prends pas en compte dans ton calcul. En effet le transport maritime est plutôt en train d'envisager une solution où l'hydrogène est à la fois un carburant et un moyen de stockage. C'est-à-dire, les bateaux cargo ne seront pas approvisionnés avec l'intégralité du carburant nécessaire pour tout voyage, une partie de l'hydrogène sera produit à bord par des tourelles éoliennes et/ou panneaux photovoltaïques. \n\nDes chiffres pour étayer ce truc important ? Quel est le rendement ? Quelle est la faisabilité ? Tu balances ça comme ça sans source ni chiffre, ça ressemble fort à du technosolutionnisme.\n\n&gt;  Oui, et ce hydrogène vert produit à partir du surplus de production a l'avantage de pouvoir être consommé par l'industrie\n\nOui, notamment pour les usages où l'hydrogène gris est actuellement utilisé, ou par exemple pour remplacer le charbon pour produire de l'acier. \n\n&gt; cela par un réseau de distribution parallèle au réseau électrique - que selon RTE aide à alléger la tension qu'on mettra sur le réseau électrique en raison de l'électrification de tout le reste. \n\nJe veux bien voir ta source, parce que de ce que j'ai vu, [RTE](https://www.rte-france.com/wiki-energie/hydrogene-vert-mythe-realite) ne fait pas mention de cet avantage.\n\nCe qu'ils disent, c'est que ça **pourrait** résoudre le problème de stockage à long terme des renouvelables, avec de gros bémols sur la faisabilité même du concept.\n\nJe rajoute qu'avec le réchauffement climatique, on risque de se retrouver à installer des pompes à chaleur réversibles un peu partout, et que le surplus de solaire qu'on a maintenant en été risque bien d'être bouffé par la consommation électrique de nos climatisations pour éviter de crever les jours de chaleur, plutôt que dans la fabrication d'hydrogène comme on le prévoit.",
+        "date": "2024-06-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "C'est le pire vecteur énergétique qui existe le Bouzin coûte plus cher à stocker qu'a produire. Il existe des tonnes d'études à ce sujet. \n\nC'est pas pour rien que les voitures à pile à combustible sont pas plus développé malgré leur performances sur le papier et une technologie clairement mature c'est parcequ'il persiste de nombreux problèmes dans la chaîne logistique de la production à l'acheminement au consommateur final. À l'heure actuelle les stations de rechargement en Hydrogène produisent sur place l'hydrogène et pas forcément de la manière la plus verte. \n\nÇa râle déjà sur le risque d'incendie des batteries des voitures électriques mais le risque lié au réservoirs d'hydrogène pressurisé ou cryogénique est démentiel. \n\nEt produire de l'hydrogène vert ça suppose avoir un surplus de production électrique dé-carbonée. Pour l'heure on a encore des centrales électriques au charbon en Europe qui est loin d'être la région la moins bien dotée. La majorité de la production d'hydrogène est encore réalisée à partir du méthane. c'est donc plus \" écologique\" d'utiliser directement le méthane que de lui fare subir une transformation supplémentaire. \n\nComme le dit le com au dessus les seuls réelles pistes d'utilisation vraiment intéressantes de l'hydrogène sont dans certains processus de production industriels comme celui de l'acier, ou de l'aluminium ou des engrais.",
+        "date": "2024-06-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "la chine on sait tous qu ils font plus d energie verte mais aussi ils construisent des centrale a charbon.\n\nLe carbonne est un marche comme un autre pour soutenir la sainte croissance",
+        "date": "2024-06-13",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Il y a effectivement l'inertie mais il y a aussi les particules et suies émises par les engins consommateurs de carburants fossiles. Ça avait tendance à bloquer les rayons du soleil en altitude (et pleins d'autres problèmes sanitaires) et refroidir légèrement le climat. L'URSS anticipait d'ailleurs un refroidissement planétaire et investissaient d'ailleurs à mort dans la construction et recherche des brises glace.\n\nPuis les techniques de raffinage du pétrole se sont améliorées (réduction des impuretés, du soufre...) et le charbon plus polluants a également été petit a petit remplacer. Le réchauffement est reparti de plus belle.",
+        "date": "2024-06-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La question n’est pas de savoir si t’es pas d’accord ou d’accord la question c’est que c’est en fait. C’est des sciences y a pas de ressenti et que des arguments. L’Allemagne est le pays d’Europe qui investi le plus dans les intermittentes, ou tout ce que t’appelles renouvelables, et pour autant, elle ne fermera pas les usines à charbon. Il faut être pragmatique et non idéaliste. Je ne te demande pas si tu connais jean-marc jancovici, mais il a déjà publié des vidéos en 2011 qui traite du sujet. Par compte ça ne sert à rien d’opposer les énergies renouvelables ou intermittentes aux énergies pilotable comme le nucléaire. Elles peuvent être totalement complémentaire et correspondre à un lissage des piques de consommation avec des piques de production mais actuellement bazarder des quantités énorme d’énergie non pilotable sur le réseau est un vrai problème d’anticipation, une centrale nucléaire met une semaine  à atteindre le niveau de production qui a été programmé, ce qui n’est pas du tout le cas des énergie intermittentes.",
+        "date": "2024-06-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La production d'électricité à base de charbon (dont lignite) en Allemagne a été, à son plus bas, de 3,6 GW en juin, 3,7 en mai. \nPas la peine de regarder le gaz ou les énergies renouvelables pour en conclure que le 100% renouvelable n'a jamais été atteint ces six dernières semaines, même très brièvement.",
+        "date": "2024-06-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ce n'est pas tiré par les cheveux et c'est peut-être vrai. \n\nMais il n'y a pas de quoi s'en vanter. Garder de la polluante production au charbon / lignite pour pouvoir exporter, ça devrait être motif de honte, dans une logique écolo, pas un moment de fierté.\n\nC'est différent pour le gaz : exporter de l'électricité au gaz, si elle évite le recours au charbon dans le pays importateur, c'est plutôt une bonne chose. Mais c'est bien avec ce point en tête que j'ai orienté ma réponse sur le charbon 😉.",
+        "date": "2024-06-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "En soi c'est pas forcément garder pour exporter, c'est possible qu'il y ait du vent au nord, et que l'Allemagne exporte en Pologne (ou aux pays bas), mais qu'en même temps la prod soit en berne au sud, d'où un besoin de charbon car les infra de transport sont limités",
+        "date": "2024-06-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Les \"écolos\" à partir du moment ou ils refusent de décarboner et veulent remplacer du nucléaire par du charbon plus personne se laisse arnaquer.",
+        "date": "2024-06-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Je n'ai pas vu de charbon dans leur programme. Et au déjà d'EELV, la liste en première place ne semble pas la plus sensible aux enjeux environnementaux.",
+        "date": "2024-06-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui et non, il y a le vert que l'UE finance :\n- éolien / solaire \n- gaz\n- charbon avec outil de capture carbone \n- biomasse (brûler du bois que t'as fait pousser)\nEt le vert que l'UE ne finance pas :\n- barrage\n- nucléaire \n\nDonc la sa fait des années qu'on te parle de plan de relance, celui ci étant dépenser par l'UE, ni le nucléaire, ni les barrages ne seront financé par ce plan.",
+        "date": "2024-06-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est une énergie très propre, très sûre et peu chère (pour le moment). Mais au mieux on a 6 EPR (+ Flamanville) dans 15 ans, ça ne compensera jamais la fermeture des futurs réacteurs d'ici 20 ans. Donc le plus pertinent c'est de faire du nucléaire ET des énergies renouvelables (ENR). Il y a des limites industrielles à construire des EPR au début parce qu'on n'a plus trop les compétences, donc dans tous les cas il faudra plein d'ENR aussi, genre vraiment beaucoup.\n\nMaintenant, l'électricité c'est seulement moins de 30% de l'énergie finale utilisée en France! La priorité devrait donc être d'augmenter les capacités électriques par tous les moyens afin d'électrifier tous les usages (industriels, transports et ménages). On rappelle que 60% de l'énergie utilisée en France est fossile (pétrole +++, gaz et un peu charbon). Donc le nucléaire il a bon dos mais c'est rien comparé au chantier qu'est la diminution DRASTIQUE des énergies fossiles que l'on doit accomplir.\n\nEt ça, c'est seulement le volet énergétique. Mais niveau biodiversité, c'est encore plus la catastrophe.",
+        "date": "2024-06-24",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;  \nOn sait très bien que la gauche est majoritairement contre le nucléaire, qui est un point MAJEUR sur le sujet de l'écologie.\n\nLe sujet a été neutralisé en interne et reporté à 2027 donc en attendant on ne touche à rien. Pourquoi ? LFI et Les Ecologistes sont contre, PS et PCF pour.  Donc non, pas de complot anti-nucléaire.\n\nDu reste, il n'y a que sur le reddit francophone que l'on fait du nucléaire un \"point MAJEUR\" de l'écologie. Même JMJ n'est pas aussi catégorique. \n\n&gt;Pourquoi le RN ou REN n'ont quasiment aucune pastille verte ? Ils sont bêtes ? Ou juste méchants ?\n\nOui ?\n\nPlus sérieusement, ils sont conservateurs à ce sujet donc ils ne vont rien proposer de bouleversant. Allez, pte une loi pour améliorer le tri et proposer une taxe sur le charbon de bois pour BBQ. Donc au final, non, ils n'ont et n'auront aucune pastille verte.\n\n&gt;Je suis sûr qu'on peut trouver le même genre de document orienté venant du RN avec toutes les pastilles rouges sur le NFP sur d'autres sujets.\n\nCurieux de voir ça. A quel sujet ? Le danger islamo-gauchiste-woke ? L'immigration ?",
+        "date": "2024-06-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;C'est particulièrement étrange cette obsession pour le nucléaire.\n\nObsession !? \n\nLe nucléaire représente environ 40% de notre mix énergétique actuel. Cela fait avec des centrales vieillissantes qui auront besoin de remplacement d'ici une vingtaine d'années. Ne pas toucher au nucléaire aujourd'hui signifie peu avoir de nucléaire demain parce que ce n'est pas avec les 6 EPR annoncés aujourd'hui qu'on assurera la continuité du parc existant.\n\nDonc tu m'expliqueras comment est-ce que d'ici une vingtaine d'années tu remplaceras un manque de production d'électricité décarbonée et pilotable aujourd'hui proportionné par le nucléaire ? Avec ces centrales à charbon comme l'Allemagne à fini par faire ?\nOu avec des EnRs intermittentes, qui selon RTE instruisent énormément de risques concernant l'équilibrage du réseau électrique ?\n\nComment sommes-nous censés en arriver à la neutralité de carbone en 2050 si une partie majeure de notre production énergétique pilotable et décarbonnée sera hors-service avant cela ? Comment on fera alors pour combler ce trou laissé par le manque de production nucléaire dans l'avenir; cela en même temps qu'on sera déjà plein cul dedans la décarbonisation (ou transition énergétique) de l'industrie et transports qui demande encore de la production d'énergie pour combler le vide laissé par les hydrocarbures ?",
+        "date": "2024-06-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Charbon + frigo = love",
+        "date": "2024-06-24",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Fontaine a eau avec charbon. Berkeley la meilleure marque. La plus chère.",
+        "date": "2024-06-24",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Au début des années 2010, une première enquête publique est ouverte.\nEnsuite François Fillion valide le projet puis Hollande ainsi que tous les maires.\nEnsuite Macron le fait déclarer d'utilité publique.\nOn note donc la puissance de Macron capable d'influencer la construction d'une route 7 ans avant son arrivée au pouvoir...\nOn précise que les personnes concernées (celle qui sont proches de la route) ont été sondés : 35 % de très favorables et 40 % de plutôt favorables soit 75 % des gens  concernés qui veulent la route.\nOn rappelle également que pendant ce temps la chine l’équivalent de deux grandes centrales au charbon par semaine... mais on va stopper une autoroute de 54 km et on va sauver le monde ! \nJe crois qu'on mérite notre déclassement...",
+        "date": "2024-06-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "À priori oui c'est de la filtration mécanique avec de la céramique, du charbon, etc.\nC'est éprouvé et utilisé dans des zones sans accès à l'eau potable (pas forcément d'exemple sur les marques citées mais sur la filtration par gravité). ",
+        "date": "2024-06-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "On se rappelle que le projet de nos \"\"'écologistes\"\"' c'est de sortir du nucléaire, donc de nous mettre au charbon comme l'Allemagne.",
+        "date": "2024-06-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les métaux de la transition (ils ne sont pas rares pour la très grande majorité) c'est vraiment pas grand chose en terme d'extraction comparée au pétrole, au charbon, au fer ou au cuivre. Donc oui ça sera beaucoup mieux en enlevant le pétrole et le charbon, d'autant que l'on peut mettre en place des filières de recyclage pour les métaux.\n\nL'uranium, c'est très peu en quantité à importer parce que c'est énergiquement très dense et il n'y a pas 36 pays producteurs. Concernant la souveraineté, on est toujours dépendant de plein de pays pour les ressources naturelles et c'est très utopique de croire qu'on produira tout ce dont on a besoin. Mais en l'occurence on a déjà l'équivalent de plusieurs années de production électrique en réserve en France et des pays plutôt démocratiques sont producteurs comme le Canada ou l'Australie.",
+        "date": "2024-06-28",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Parce qu'ils savent bien que les écolos inventent des peurs sinon ils n'existent plus. Les chinois et les indiens ouvrent plusieurs centrales à charbon chaque semaine vous pensez qu'ils font ça pour se suicider ?\n\nhttps://preview.redd.it/ox4tftnw9c9d1.jpeg?width=2048&amp;format=pjpg&amp;auto=webp&amp;s=f7d074e70cf4bbbeefcd38deaa914cf8fade6fbc",
+        "date": "2024-06-28",
+        "sentiment": "negative"
+    }
+]

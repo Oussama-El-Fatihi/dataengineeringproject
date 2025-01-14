@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "linknewtab",
+            "author_created_utc": 1414744049,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_j4tom",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1624203186,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "derstandard.at",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "o48798",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#ae9e00",
+            "link_flair_css_class": "category economy",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wirtschaft"
+                }
+            ],
+            "link_flair_template_id": "9a45e4b8-cfe9-11e5-903a-0e6186a3132f",
+            "link_flair_text": "Wirtschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_o48798",
+            "no_follow": false,
+            "num_comments": 66,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/o48798/das_ökonomische_argument_für_erneuerbare/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "fJAlKd5yIrkybHEy6-5Posj-UX_9EJ9FPF8UihRncJg",
+                        "resolutions": [
+                            {
+                                "height": 54,
+                                "url": "https://external-preview.redd.it/ffkhSHhYLaWjSzAvHLaOKSAFxb5hqErVq_S5cwskYTw.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2e81749d5821fa649f3d50588bff8daf0d30a6d2",
+                                "width": 108
+                            },
+                            {
+                                "height": 108,
+                                "url": "https://external-preview.redd.it/ffkhSHhYLaWjSzAvHLaOKSAFxb5hqErVq_S5cwskYTw.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=9684a711c8289b3b8b2976c36ae78c925e691559",
+                                "width": 216
+                            },
+                            {
+                                "height": 160,
+                                "url": "https://external-preview.redd.it/ffkhSHhYLaWjSzAvHLaOKSAFxb5hqErVq_S5cwskYTw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b7fd4c46e6e8d82a4dd059361884bf0562d41809",
+                                "width": 320
+                            },
+                            {
+                                "height": 320,
+                                "url": "https://external-preview.redd.it/ffkhSHhYLaWjSzAvHLaOKSAFxb5hqErVq_S5cwskYTw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bc9aa19a9e1d957224b957adf157ccc2550158b",
+                                "width": 640
+                            },
+                            {
+                                "height": 480,
+                                "url": "https://external-preview.redd.it/ffkhSHhYLaWjSzAvHLaOKSAFxb5hqErVq_S5cwskYTw.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=ed1bf46b003f65c2aea20c3965b10384ce7da0db",
+                                "width": 960
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/ffkhSHhYLaWjSzAvHLaOKSAFxb5hqErVq_S5cwskYTw.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=9aa13b439f33412b08880647a525c0336e9ba1de",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 600,
+                            "url": "https://external-preview.redd.it/ffkhSHhYLaWjSzAvHLaOKSAFxb5hqErVq_S5cwskYTw.jpg?auto=webp&amp;s=89a2a5a7670ac8c71ea062f13f39242e91007681",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1626766135,
+            "score": 204,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 463728,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/LeJzqKn2foRh0clHciRd1ml3pn_PW4nr-mFVK4lloHw.jpg",
+            "thumbnail_height": 70,
+            "thumbnail_width": 140,
+            "title": "Das ökonomische Argument für Erneuerbare: Investitionen in Sonnen-, Wind- und Wasserkraft galten lange als grüne Weltverbesserei. Mittlerweile sind erneuerbare Energien aber die wirtschaftlich einzig vernünftig Alternative",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.94,
+            "url": "https://www.derstandard.at/story/2000127508468/das-oekonomische-argument-fuer-erneuerbare-frei-von-gruener-ideologie",
+            "url_overridden_by_dest": "https://www.derstandard.at/story/2000127508468/das-oekonomische-argument-fuer-erneuerbare-frei-von-gruener-ideologie",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 177,
+        "op_b": 171,
+        "total": 358
+    },
+    "error": null
+}

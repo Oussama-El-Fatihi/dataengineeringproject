@@ -1,0 +1,212 @@
+[
+    {
+        "text": "Couper l'électricité.  Je réfléchis à comment faire tomber le capitalisme depuis longtemps.  Et la seul chose qui aurait vraiment un impact sur ce système.  C'est l'électricité.  Si tu coupe toutes l'électricité du globe pendant 6mois , 1an. Ça fait tomber le capitalisme.  \n\nBon du coup faut attendre une énorme éruption solaire qui grille tout.... \n\nOu voir si l'échelle d'un pays c'est fessable. \n\nGenre stopper un certain nombre de centrales elec qui ferait tomber le réseau électrique.  \n\nSi il n'y a plus d'électricité,  les plus riches seront en PLS total, alors que les plus pauvres verrons à penne la différence...",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Attention quand même, les pertes dû au rendement ne sont pas que considérables, elle sont énormes. H2toPowertoGas c'est quelque chose comme 25% de rendement.\n\nLe rendement dépend largement de la chaîne de conversion énergétique.\n\nSi tu prends par exemple l'électrolyse de l'eau avec l'électricité des photovoltaïques alors ton rendement (irradiation solaire -&gt; PV -&gt; électricité -&gt; électrolyseur -&gt; hydrogene) sera d'environ 10% x 70% = 7% (10% c'est le rendement d'un panneau photovoltaïque, et 70% c'est le rendement d'un électrolyseur).\n\nPar contre, si tu considères le thermocraquage solaire (irradiation solaire -&gt; thermocraquage de l'eau -&gt; hydrogène) alors t'as un rendement proche des 30%.\n\n&gt;les surplus sporadiques des enr pour les envoyer sur de très longues distances (par ex. contribuer à balancer le surplus électrique espagnole en été à midi vers l'Allemagne), permettant aux producteurs de vendre leur production pour une bouchée de pain plutôt que de ne pas la vendre tout cours\n\nLa majorité des solutions qu'on commence à trouver un peu partout en EU (et surtout en France) ce sont effectivement des électrolyseurs au pied des photovoltaïques et éoliennes utilisées pour stocker le surplus de production renouvelable (dans des réservoirs H2 pressurisés) et puis livrer ce gaz directement aux enterprises locales (en circuit court). L'intérêt majoritaire de l'hydrogène dans l'industrie est de:\n\n* remplacer l'hydrogène gris (issu des hydrocarbures) par l'hydrogène vert\n\n* alimenter les turbines (et pompes) industrielles à hydrogène (qui aujourd'hui fonctionnent au gaz naturel )\n\n* alimenter les fournaises industrielles (qui aujourd'hui fonctionnent au fioul)\n\n* alimenter les transports lourds (camions , engins de chantier etc..) qui aujourd'hui fonctionnent au diesel.\n\nIl a déjà en France des sociétés spécialisées dans la production de hydrogène vert qui arrivent à vendre leur hydrogène à prix compétitif avec les hydrocarbures.\n\nC'est dans ce contexte que j'ai écrit que l'hydrogène sera essentiel pour la transition énergétique et qui devra être implémenté en parallèle de l'amélioration de notre réseau électrique !\n\n&gt; Le transport d'hydrogène est intéressant pour alimenter les industries qui en consomment directement mais l'utiliser comme vecteur d'électricité sur de longues distances j'y crois moyen. Je pense qu'il serait plus pertinent de développer localement du stockage par hydrogène près des producteurs pour récupérer l'elec lorsque les prix sont bas et la réinjecter en heure de pointe sur le réseau électrique conventionnel.\n\nJe pense avoir répondu à cela dans ma réponse précédente.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Certes mais on parle de vecteur d'électricité. Thermocraquage solaire c'est venir rajouter de la capacité de production alors qu'on est déjà à l'étape où on cherche à évacuer les surplus du photovoltaïque :) (Et d'ailleurs un panneau PV ce n'est pas 10% de rendement.. Ou alors il est sacrément sale. Ou alors tu confonds avec le facteur de charge d'un panneau en Ecosse).\n\nJe suis preneur de sources concernant le stockage \"au pied des panneaux et des éoliennes\" ça me paraît complètement contre-productif à la fois sur la consommation d'espace naturels, l'absence de mutualisation et la totale non-utilisation du réseau électrique. Surtout qu'un cametar avec une cuve de transport ça ne transporte pas beaucoup d'hydrogène donc la logistique associée est infernale.\n\nMais effectivement sur le reste on est d'accord. L'hydrogène est intéressant pour ceux qui le consomment comme tel ; comme vecteur d'électricité c'est inadapté.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Certes mais on parle de vecteur d'électricité. Thermocraquage solaire c'est venir rajouter de la capacité de production alors qu'on est déjà à l'étape où on cherche à évacuer les surplus du photovoltaïque :) \n\nPas nécessairement, l'hydrogène est très versatile comme vecteur énergétique. Tu peux effectivement l'utiliser comme moyen de stocker le surplus des photovoltaïques mais tu peux aussi ignorer complètement les photovoltaïques et faire du thermocraquage solaire (c'est à dire, produire de l'hydrogène directement à partir de l'eau et soleil). L'intérêt de cela c'est qu'il aura un rendement de production supérieur à 30%, ce qu'est comparable au rendement des meilleurs PVs aujourd'hui. L'avantage dans ce cas c'est que l'hydrogène peut être plus facilement stocké que de l'électricité.\n\n[Solar water splitting by photovoltaic-electrolysis with a solar-to-hydrogen efficiency over 30%](https://www.nature.com/articles/ncomms13237). Il commence à avoir quelques entreprises en Europe qui font des installations de thermocraquage solaire, c'est une technologie assez récente (par rapport à l'électrolyse) et on ne trouve pas encore trop d'information à cause du secret industriel.\n\n&gt; (Et d'ailleurs un panneau PV ce n'est pas 10% de rendement.. Ou alors il est sacrément sale. Ou alors tu confonds avec le facteur de charge d'un panneau en Ecosse).\n\nNon, c'est un erreur dans mon commentaire. Je le corrigerai.\n\n&gt;Je suis preneur de sources concernant le stockage \"au pied des panneaux et des éoliennes\" ça me paraît complètement contre-productif à la fois sur la consommation d'espace naturels, l'absence de mutualisation et la totale non-utilisation du réseau électrique. Surtout qu'un cametar avec une cuve de transport ça ne transporte pas beaucoup d'hydrogène donc la logistique associée est infernale.\n\nRegarde [www.lhyfe.com](www.lhyfe.com). Ils ont déjà plusieurs installations production-consommation en circuit court en France et ils sont en train de démarrer à l'étranger.\n\n&gt; Mais effectivement sur le reste on est d'accord. L'hydrogène est intéressant pour ceux qui le consomment comme tel ; comme vecteur d'électricité c'est inadapté.\n\nMais non attends. Pas tout à fait. Imagine un camion long courrier qui aujourd'hui fonctionnent essentiellement à diesel. Aujourd'hui il n'a pas mille façons de décarbonner ce transport, soit tu le files plusieurs tonnes de batteries et tu le recharges par le réseau électrique (ce qui peut prendre longtemps, dépendant de la puissance de distribution du réseau et des contraintes sur les même). Soit tu le files une pile à combustible, un réservoir à hydrogène et il pourra être rechargé en question de minutes avec du hydrogène vert distribué de façon complètement parallèle au réseau électrique. Dans ce cas l'hydrogène est un vecteur énergétique parce que dans les deux cas la propulsion du camion est électrique (moteur électrique). Est-ce cela est clair ?",
+        "date": "2023-12-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "80 % de la biodiversité est défendue par 5 % de la population : les peuples autochtones, ceux qui ont vécus et souffre encore de la colonisation. Pas besoin d'aller 60 dans le passé,Il suffit de voir ce qui se passe au Brésil, aux US [sur les terres d'amérindiennes](https://www.theguardian.com/us-news/2021/feb/19/line-3-pipeline-ojibwe-tribal-lands), à [Hawai](https://atmos.earth/hawaii-water-crisis-tourism-navy/) ou [Porto Rico](https://www.theguardian.com/us-news/2022/jul/23/puerto-rico-beach-anti-gentrification-protests). \n\nOn peut être écologiste dans la vie de tous les jours, choisir de ne pas prendre l'avion, avoir des panneaux solaires (Not in my backyard , right guys ? ) une banque verte ou voter EELV, ça parait être une approche universelle mais en réalité elle est eurocentrée. Comment percevez vous les scandales liés à la chlordécone par rapport à ceux liés au glyphosate ? Le fait qu'il y est déjà des coupures d'eau à Mayotte ou en Guadeloupe. Again, not in my backyard.   \n\n\"Oh mais c'est pas nuancé, tout le monde est d'accord avec tout le monde\". Oui, car face à l'urgence,  quel est l’intérêt d’être dans la mesure ? Être dans le retenue quand il s'agit d'écologie c'est prendre le risque de ne pas faire assez et à temps, ou d'avoir une COP au pays du pétrole avec une armée de lobyiste...\n\nDommage que vous ne voulez pas écouter. On reproche beaucoup aux minorités de ne pas s'investir, mais quand elles le font, elles font toujours face à un rejet. Ce n'est plus décevant, non. Plutôt lassant. Revisiter l'histoire colonial est douloureux mais avoir un passé sombre ne nous condamne pas et ne nous empêche pas d’être meilleur, sauf si on le perpétue.",
+        "date": "2023-12-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ben alors, Basta, quitte à faire une enquête autant aller au bout.  \nCdTe dans les panneaux solaires, NiCd dans les batteries. \nEt puis d'ailleurs c'est toxique pendant combien de temps ?",
+        "date": "2023-12-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;On peut être écologiste dans la vie de tous les jours, choisir de ne pas prendre l'avion, avoir des panneaux solaires (Not in my backyard , right guys ? ) une banque verte ou voter EELV, ça parait être une approche universelle mais en réalité elle est eurocentrée. Comment percevez vous les scandales liés à la chlordécone par rapport à ceux liés au glyphosate ? Le fait qu'il y est déjà des coupures d'eau à Mayotte ou en Guadeloupe. Again, not in my backyard.\n\nTu projettes beaucoup de choses sur des gens que tu ne connais pas. Bien sur que dans la vie de tous les jours les actions qu'on va faire vont être eurocentrées, elles vont même être franco centrées vu qu'on vit en France (métropolitaine de surcroit).\n\nPour les scandales sur la chlordécone et les coupures d'eau, on les perçoit par le prisme des médias de métropole, qui n'en parlent pas spécialement souvent. \n\nCa n'empêche pas de trouver que c'est un problème important qui ne devrait pas arriver en France (métropolitaine ou outre mer), et que les outre mer sont trop souvent oubliées par les politiques. Et il n'y a pas besoin de revisiter le passé pour dire qu'il faut se bouger dans le présent.",
+        "date": "2023-12-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; L’alimentation constitue la principale source d’exposition au cadmium via les céréales, légumes, racines et tubercules\n\nJe suis à peu près sûr que personne ne mange les panneaux solaires ou les batteries.\n\nÇa n'empêche pas d'être vigilant sur les conditions de sécurité des travailleurs qui vont les produire, mais en terme d'exposition et de problématique de santé publique ça n'a absolument rien à voir.",
+        "date": "2023-12-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Personne ne mange les déchets nucléaires non plus, et leur devenir au long terme fait plus de bruit que celui des panneaux solaires et des batteries.",
+        "date": "2023-12-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Y'a plein de trucs qui ne me vont pas dans ces tests.\n\nPas moyen de dire que je ne fais qu'un seul repas par jours (en plus du petit dej) ça me force à en prendre deux, pas moyen de prendre en compte les panneaux solaires, l'achat de vrac est jamais comptabilisé.. et surtout, je suis pas d'accord avec la partie où on me balance 1.6Tonnes de services publics à mon compte (je suis à la campagne, on n'en a quasiment pas) , c'est littéralement un quart de ma consommation calculée.",
+        "date": "2023-12-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "* Les panneaux solaires ça compte pour que dalle pour ton empreinte carbone, ton électricité est par défaut déja décarbonée\n* L'achat en vrac n'impacte quasiment pas du tout ton empreinte carbone\n* Les services publics, tu en bénéficies même si tu vis à la campagne hein\n\nJ'ai pas compris ta remarque sur les repas. Tu manges qu'une fois par jour ?",
+        "date": "2023-12-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Donc la déforestation et la production de carton ou de plastique, ça ne pollue pas?\n\n&amp;#x200B;\n\nLa destruction de carton ou de plastique dans les centres d'incinération, ça ne pollue pas ?\n\n&amp;#x200B;\n\nLes mines e, les usines de production, et les centres de stockage pour les panneaux solaires, ça ne pollue pas ?\n\n&amp;#x200B;\n\nOn en apprend tous les jours sur l'écologie.",
+        "date": "2023-12-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ma compréhension est que Green hydrogen est produit à partir de l’hydrolyse de l’eau avec de l’électricité Green (solaire, vent). Donc l’émission carbone est zéro.",
+        "date": "2023-12-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "visiblement tu sais pas lire, comme je l'ai dit juste en haut, les moyens de production d'électricité appelés \"verts\", comme les panneaux solaires ou les éoliennes, fonctionnent par intermittence, à cause de la non constance de la présence du soleil ou du vent.\n\nIl faut donc des moyens constants de production d'électricité, comme des centrales nucléaires ou à charbon, pour combler la demande.  \nLes allemands n'aiment pas le nucléaire, parce que \"c'est pas écolo, et les radiations sont méchantes\", donc ils ont choisi le charbon sur le côté.  \n\n\nDe plus, la quantité d'énergie \"verte\" produite, par rapport à des centrales \"non vertes\", est tellement ridicule, qu'il serait plus écolo de ne pas fabriquer et de ne pas installer de panneaux solaires ou d'éoliennes, puisqu'il faut une énergie non renouvelable sur le côté de toute manière.",
+        "date": "2023-12-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Et bien je pense que je peux te retourner le compliment.\n\nLes allemands aurait pu choisir un mix uniquement renouvelable, l'intermittence aurait provoqué des coupures fréquentes d'électricité mais c'est possible.\nIls auraient aussi pu choisir un mix décarboné avec eolien+solaire+nuc mais ils n'ont pas choisi cela. Donc si on veut comparer avec un pays qui aurait choisi du 100% enr ou au moins 100% décarboné, on ne peut pas comparer avec les allemands.\n\nTon dernier paragraphe manque de chiffre, parler réseaux électrique national sans se baser sur des chiffres c'est probablement une erreur, surtout si cela t'amène au constat que l'éolien qui est une des sources d'énergie les moins émettrices émet beaucoup trop.\nD'où ton appreciation erronée.\n\nL'éolien et le nucléaire sont dans le même ordre de grandeur d'environ 10 kgCO2eq/kWh pour la production donc les deux sont rentables à construire et à opérer pour produire de l'électricité.",
+        "date": "2023-12-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Il y en a plusieurs qui émergent si le poids n’est pas un problème: sodium, sable(chaleur), CO2(compression)…\n\nIl faut un mix d’énergie. Le nucléaire pour la base-load (et ceci devra probablement inclure la génération d’hydrogène pour le transport lourd). Hydro, Solaire et Éolien pour un mix à déploiement rapide près de la distribution (par de pertes de transport ou stockage).",
+        "date": "2023-12-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Non leur capacité renouvelable reste (largement) inférieure à ce dont ils ont besoin. Pour tout un tas de raisons ça n'a pas de sens de comparer sa capacité d'EnR en base (solaire, éolien, offshore) avec la puissance appelée à un moment T. \n\nExemple concret de cela, si aujourd'hui j'installe un parc solaire de 100 MW en Allemagne, en face je ne mets pas les capacités réseau pour faire passer 100 MW, je mets de quoi faire passer 80 MW. Pourquoi ? Parce que mon parc ne va que rarement produire entre 80-100 MW, et quand il va produire autant la production n'aura que peu de valeur (typiquement en août, les autres parcs partout en europe vont cracher comme jamais).\n\nDonc aujourd'hui la puissance installée (au sens puissance crête des installations) c'est un maximum théorique qui n'a que peu à voir avec le réel et avec les besoins. Le plus simple c'est de regarder quel est le dernier moyen de production appelé, et si la nouvelle installation s'y substituerait. Dans le cas de l'éolien c'est assez clair.",
+        "date": "2023-12-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "En prenant ton exemple..\n\n1) Quel est le plus écologique, que tout le monde a une maison de 100m2 ou 1000m2 ? Quel serait l'impact environnemental pour chaque cas ? Et si une grande partie habitait en yourtes ?\n\n2) Quem est le plus écologique, une maison qui consomme 4MWh / an ou 40MWh? A-t-il une différence si la majorité de gens ont une maison qui consomme 40MWh au lieu de 4? Et si une grande partie des gens ont des maisons qui ne consomment rien (récupèrent l'énergie solaire) ?\n\nÀ bon entendeur...",
+        "date": "2023-12-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "C'est bien une réflexion de citadin ça.\n\nRetire la voiture à tous ceux qui n'habitent pas dans une grande ville ou de taille moyenne, tu en condamnes la majorité à l'isolation.\n\nSans faire d'arbitrage pour ou contre la voiture électrique, celle-ci permettrait au moins de limiter la pollution aérienne de manière non négligeable. De plus les trajets du quotidien en campagne sont souvent assez courts pour se permettre de tenir un aller-retour sur une charge, on peut éventuellement recharger sa voiture sur le lieu où l'on se rend, avec un peu de chance. \n\nToutefois cette solution ne saurait être la \"solution miracle\" pour faire sortir les mobilités du fossile, puisque la question de la production des batteries, véhicules et électricité serait centrale.\n\nUne batterie, sauf si de faible capacité, est faite de plusieurs terres rares, souvent extraites en Afrique dans des conditions inhumaines. De plus, la production de l'électricité pollue, peu importe le mode de production. Quelques exemples : \nLe nucléaire engendre des déchets radioactifs, pour l'éolien et le solaire, il est bon de rappeler que les pales d'éolienne sont enterrées car non démontables/recyclables, les panneaux solaires sont également non recyclables une fois usés. Le charbon et autres énergies fossiles, a-t-on vraiment besoin d'en parler...\n\nDonc non, la voiture électrique n'est pas une solution miracle comme le montre ce post, mais celui-ci nie en bloc ses quelques bons aspects. Les petites voitures semblent être le format idéal de voiture électrique, puisque légères, avec de petites batteries car prévues pour des trajets courts.",
+        "date": "2023-12-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bonjour,\n\n&gt; à partir de l’hydrolyse de l’eau avec de l’électricité Green (solaire, vent)\n\nLes industriels ne disent-ils pas qu'il faut une électricité \"stable et continue\" pour que les installations quu font l'hydrolyse de l'eau aient un rendement intéressant et n'aient pas de problèmes techniques ?",
+        "date": "2023-12-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "C a cause de l’éruption solaire, le changement climatique n’existe pas.",
+        "date": "2023-12-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ben, ça sert à réduire la part des fossiles, non ?\n\nEt c'est quand même ce qu'il se passe en Allemagne et en Chine...\n\n(Enfin, ça sert à ça, et permettre de passer ces technologies à l'échelle nécessaire... Et là dessus les deux pays cités ont fait un énorme boulot. En 2023 on aura installé 270 GW de solaire et autour de 160 GW l'éolien dans le monde, plus que n'importe quelle autre mode de production)",
+        "date": "2023-12-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "C'est l'histoire du type qui achète un second panneau solaire et reçoit une médaille pour avoir doublé sa production ! Même s'il continue de chauffer au charbon. On l'applaudi ? Non.",
+        "date": "2023-12-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je comprends pas bien pourquoi il dit que le solaire et l'éolien c'est pas adapté pour profiter de l'hydrogène. On pourrait justement piloter la production d'hydrogène en fonction de la production intermittente, non?\n\nOu alors c'est juste qu'il défend les intérêts des industriels qui ne veulent pas construire des électrolyseurs pour les utiliser que partiellement?",
+        "date": "2023-12-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Je comprends pas bien pourquoi il dit que le solaire et l'éolien c'est pas adapté pour profiter de l'hydrogène. On pourrait justement piloter la production d'hydrogène en fonction de la production intermittente, non?\n\nMalheureusement la question de l'hydrogène est devenue une question d'idéologie, éloigné des faits et poussé par des croyances, comme la question du nucléaire. C'est bien dommage car l'hydrogène aura un rôle important dans la transition énergétique, tel comme le nucléaire.",
+        "date": "2023-12-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je t'invite à regarder le poids écologique des métropoles (notamment dans un livre d'urbaniste, comme ''Indécence urbaine\" de Guillaume Faburel). Tu verras que l'urbain d'aujourd'hui est le plus gros pollueur, même face à un ''campagnard\" qui prend sa voiture tous les jours. \n\nEt je ne critique pas les panneaux solaires en eux-mêmes (quoique), je critique l'agrivoltaïsme en tant que pratique qui vise à faire des agriculteurs et des terres agricoles les outils d'une transition énergétique mensongère.\n\nEt enfin, je te ferais dire que les panneaux solaires ne sont justement pas installés partout, comme tu le dis. De trrrrès nombreuses toitures ne sont pas aptes à recevoir le poids d'une installation photovoltaïque. D'où l'agrivoltaïsme, parce que sur les terres agricoles ça coûte moins cher et c'est plus rapide à installer. Et d'où ma critique de cette ''panacée\" énergétique qui va détruire encore un peu plus nos campagnes et le peu de beauté qu'elles accueillaient.",
+        "date": "2023-12-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Il faudrat expliquer ou le nucléaire produit du carbonnes à part pour la construction du parc de production et le transport du combustible. Chose présente dans tout les moyens de productions d'énergie excepté l'éolien et le solaire pour l'acheminement du combustible. Même avec ça le nucléaire reste de loin l'un des modes de production les plus économiques en CO2, nombre d'études le démontre.",
+        "date": "2023-12-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Mouai, surtout la planification économique à la chinoise qui a permis au pays de réduire drastiquement les coûts des batteries lithium et des panneaux solaires.",
+        "date": "2023-12-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ceux qui continuent de construire des centrales à charbon chaque semaine pour nous vendre des panneaux solaires et des éoliennes.",
+        "date": "2023-12-28",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Il faut quand même préciser qu'en terme d'empreinte carbone, d'une part la différence avec les énergies fossiles est évidemment gigantesque, mais même comparé aux énergies renouvelables le nucléaire est meilleur (significativement meilleur que le solaire et du même ordre par rapport à l'éolien). Il faut aussi prendre en compte le caractère intermittent de l'éolien qui fait qu'on ne peut pas en faire notre source principale d'énergie. Le nucléaire est pas juste \"une de nos meilleures options\" comme si on avait plusieurs options, c'est la seule option viable actuellement.",
+        "date": "2023-12-28",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Hello, je bosse dans le milieu donc je vais essayer de t'expliquer.\nTu as actuellement 4 grandes typologies de contrats de vente d'électricité renouvelable :\n\nL'obligation d'achat (tarif fixe indexé annuellement et totalement subventionné). Des contrats de ce type continuent d'exister car leur durée est de 15 ans pour l'éolien et 20 ans pour le solaire. Par contre les nouvelles installations ne peuvent pas en bénéficier. Les prix négatifs n'ont aucun impact sur ces contrats.\n\nLes contrats de gré à gré dits corporate PPA, il s'agit de contrats moyen ou long terme avec un prix fixe (parfois indexé) et pour lesquels on commence seulement à réfléchir avec les acheteurs à la gestion des prix négatifs.\n\nLes contrats de complément de rémunération dont bénéficient les nouvelles installations soit en guichet ouvert soit via appel d'offres organisé par la CRE. Ici l'état va te promettre un prix fixe sur 15 ans mais tu vendras l'électricité à un acheteur qu'on appelle un agrégateur et qui lui la revendra sur le marché SPOT day-ahead. Tu es ici incité à t'arrêter en cas de prix négatifs via deux levier : \n1. Ton agrégateur te demande de le faire s'il a bien fait le job de te prévenir que tu aurais des prix négatifs le lendemain. Si tu ne respectes pas la consigne, tu seras globalement payé au Prix de règlement des écarts positifs qui est un prix de déséquilibre injection/soutirage calculé par RTE a posteriori.\n2. Le contrat de complément de rémunération (la jambe financière avec EDF qui représente l'état et donc la partie subvention) comporte dans la plupart des cas un bonus annuel de respect des consignes d'arrêt en cas de prix négatifs\n\nNb : sur les compléments de rémunération j'essaye de schématiser simplement mais ton agrégateur te paye finalement tous les mois au prix dit M0 qui est une moyenne mensuelle du prix spot pondérée par la production nationale de la filiale (éolien, solaire, etc.)\n\nEnfin les contrats dits sortis d'obligation d'achat. Ce sont les contrats qui prennent le relais de la première catégorie et donc pour les vieux parcs. Ici il n'est plus question de subventions. Tu vends tout à un agrégateur (en plus de garanties d'origine permettant à ton agrégateur de les revendre à un fournisseur d'électricité verte) et tu peux être incité à t'arrêter en cas de prix négatifs si jamais tu as choisi de vendre ton électricité au prix spot. Par contre tu peux avoir sécurisé une année calendaire de livraison à prix fixe et tu n'as rien à gagner à t'arrêter si le spot est négatif.\n\nGlobalement ce que tu vois que le graph de RTE ça te montre les parcs qui sont concernés par les cas cités plus haut et qui ont pu techniquement être arrêtés. Je dis ça car sur nos vieux parcs le hardware est parfois défaillant donc impossible d'arrêter la prod facilement (sauf à éventuellement faire venir quelqu'un sur site mais pas évident ni viable économiquement, encore moins en période de fêtes).",
+        "date": "2023-12-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui, c'est une jolie démonstration mathématique\n\n Ma réaction était plutôt par rapport à l'Allemagne (et la Chine, un peu) qui étaient visées par ce commentaire. \n\nPour l'Allemagne, cette critique est fausse, la progression des renouvelables s'est accompagnée d'une baisse régulière des émissions de CO2, à la fois dans la production d'électricité et toutes émissions confondues, malgré leur sortie du nucléaire. Pas assez vite, bien sûr, (comme en France d'ailleurs), mais ça baisse. Dans le même temps en investissant massivement (et à grands frais) dans les énergies renouvelables avant qu'elles ne soient compétitives, ils ont permis de les perfectionner et d'en faire baisser le coût massivement. \n\nCette baisse du coût des renouvelables à l'échelle mondiale est ce qui permet aux renouvelables d'être compétitives avec le charbon (y compris pour les centrales amorties) presque partout. Et aujourd'hui les rapports du GIEC montrent bien que le solaire et l'éolien seront centraux dans la transition énergétique à mener.\n\nPour la Chine la critique peut paraître plus pertinente, dans la mesure où leurs émissions continuent à croître. Cependant ils ont installé plus renouvelables que tous les autres pays ces deux dernières années et sont vraiment pied au plancher dans leur développement. On regrette bien sûr qu'ils ne réduisent pas encore le charbon, mais peut-être qu'une partie de la responsabilité revient aussi aux importateurs...\n\nQuoi qu'il en soit les énergie renouvelable permettent d'économiser des combustibles fossiles...",
+        "date": "2023-12-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\"comme si on avait plusieurs options, c'est la seule option viable actuellement.\" \n\nJe ne suis pas vraiment d'accord avec ta dernière phrase. Pour atteindre net zero emission, on a besoin de faire des scénarios qui intègrent plusieurs technologies bas carbone. Le nucléaire en est une, mais c'est bien heureusement pas la seule. En France ça sera maximum 50% du mix électrique en 2050  (d'après RTE et la filière nucléaire) et une dizaine de % dans le monde (d'après l'AIEA et l'AIE). Pour le reste du mix elec, ont devra compter sur beaucoup de solaire et éolien. Pour le reste du mix énergétique de la biomasse, gaz de synthèse et éventuellement CCS.  Bref, oui le nucléaire c'est bien, mais ça ne fera pas le gros du travail a l'échelle mondiale. Se passer des autres technologies c'est du suicide. A l'inverse, il y a pas mal d'études sur des scénarios 100% EnR, mais ça coûte en général plus cher et nécessite plus de moyens de flexibilité.",
+        "date": "2023-12-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\nPetit détail, mais la production d'énergie se compte en MWh, pas MW. \nSinon à la très grosse louche une centrale charbon c'est plutôt 1000g/kWh, solaire 30g/kWh, éolien 20g/kWh et nucléaire 10g/kWh. \nL'urgence c'est de dégager très rapidement le charbon dans quelques décennies. Ça sert a rien de pinailler pour 10g/kWh en plus ou en moins.  Le but c'est de déployer très rapidement des moyens de production bas carbone et de limiter la demande en énergie. Pour ça l'éolien et le solaire sont beaucoup plus rapides que le nucléaire. Le nucléaire a aussi une place intéressante dans le mix car il diminue les besoins en stockage. Dans tout les cas, il faut déployer toutes les options qu'on a. Mais le facteur le + important c'est la vitesse de déploiement, pas les émissions résiduelles.",
+        "date": "2023-12-28",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "C'était effectivement débile de sortir du nucléaire. Il n'empêche, ils ont malgré ça significativement baissé les émissions de leur mix énergétique et surtout, ils ont permis de drastiquement réduire les coûts du solaire photovoltaïque et de l'éolien. Petit cadeau qui rend accessible la transition énergétique dans beaucoup de pays du monde. Et rien que pour ça je veux bien leur pardonner.",
+        "date": "2023-12-28",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Alors oui partiellement, surtout si c'est mal fait, car la plus grosse pression réglementaire sur les entreprises en Europe peut faire fuire les industries clés, y compris celles qui détiennent la clé d'une sortie par le haut de la crise écologique (solaire, batteries, chimie avancée, semi-conducteurs...). Ce n'est certes pas le seul facteur (il y a aussi notre modèle social...), mais moi, ça me fait chier que les panneaux solaires, batteries... soient fabriqués en Chine et au Texas, tout ça pour qu'un fonctionnaire ou une association minable puisse fièrement dire 'Regardez, ici, c'est propre'\n\nMais ici mon point, c'est qu'une réglementation est plus simple à mettre en place quand tout ce qu'on taxe est local, donc en particulier les taxes sur la consommation.\n\nSi tu taxes la production, tu vas devoir te poser la question de taxer ou pas ce qui est produit à l'étranger. Si tu ne taxes pas, tu défavorises ce qui est produit localement, et si tu veux taxer, c'est très très compliqué car tu n'as pas accès à toutes les données et les autres grands états ne vont pas coopérer puisque leur intérêt est de minimiser l'impact environnemental.",
+        "date": "2023-12-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les SOx sont en partie responsable des pluies acides donc d'un autre dérèglement climatique. Elle n'a cependant aucun effet sur l'effet de serre.\n\nPetite note quand même, les SO2 particulaires pourraient, par réflexion des rayons solaires, réduire sensiblement la température. Mais j'ai pas de donnée chiffrés de ce phénomène",
+        "date": "2023-12-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "A t on un lien avec l'activité solaire sans précédent qui s'annonce ?",
+        "date": "2023-12-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Bah vu que l'activité solaire a baissé ces dernières décennies je vois pas trop",
+        "date": "2023-12-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Cool mais essayez de trouver des infos car c'est tout le Système Solaire qui chauffe. Et c'est la NASA qui le dit dans un post qui a disparu depuis. Et c'est trop peu de temps pour analyser correctement la tendance. Il faut voir sur 500/ 800 ans .c'est une Planète donc vous parlez, pas d'un duplex . Bonne fete",
+        "date": "2023-12-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "[Courbe sur 2000 ans (gauche) avec impact des facteurs naturels type solaire sur les 2 derniers siècles (droite)](https://www.ipcc.ch/report/ar6/wg1/figures/summary-for-policymakers/figure-spm-1/)",
+        "date": "2023-12-31",
+        "sentiment": "positive"
+    },
+    {
+        "text": "\nUne étude japonaise récente suggère également que les températures au cours de l’Holocène moyen (il y a 2 600 à 8 800 ans) étaient jusqu’à 6 degrés Celsius plus élevées qu’aujourd’hui. Cela suggère une réduction de l’activité solaire, d’autant plus que notre étoile centrale joue un rôle clé dans le climat mondial.",
+        "date": "2023-12-31",
+        "sentiment": "positive"
+    }
+]

@@ -1,0 +1,143 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Xaron",
+            "author_created_utc": 1348141813,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_92gpu",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1621465479,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "scinexx.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "ngjzl3",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#00301b",
+            "link_flair_css_class": "category science",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wissenschaft&amp;Technik"
+                }
+            ],
+            "link_flair_template_id": "b861e6c8-607f-11e6-9f02-0ea60a88c57b",
+            "link_flair_text": "Wissenschaft&amp;Technik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_ngjzl3",
+            "no_follow": false,
+            "num_comments": 43,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/ngjzl3/windkraft_künftig_vertikal_statt_horizontal/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "0I8xiTvAKjHDCM4P9HUgqnVSxvMP-31EemuPzteIwsM",
+                        "resolutions": [
+                            {
+                                "height": 54,
+                                "url": "https://external-preview.redd.it/6UO69vQalkY10TdoEoffGTcm2XcJtgh1t1Q4SWP6goM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f6a49dab0c3898448ee618997daf5274c2af57a7",
+                                "width": 108
+                            },
+                            {
+                                "height": 109,
+                                "url": "https://external-preview.redd.it/6UO69vQalkY10TdoEoffGTcm2XcJtgh1t1Q4SWP6goM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=763ce2f389d3cfbfc7774d8c969b4a186f56a26c",
+                                "width": 216
+                            },
+                            {
+                                "height": 161,
+                                "url": "https://external-preview.redd.it/6UO69vQalkY10TdoEoffGTcm2XcJtgh1t1Q4SWP6goM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8467c90e88376221708dbc36c51827b2d17b802a",
+                                "width": 320
+                            },
+                            {
+                                "height": 323,
+                                "url": "https://external-preview.redd.it/6UO69vQalkY10TdoEoffGTcm2XcJtgh1t1Q4SWP6goM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6dcfdbb2fb10c1705ee5e9c786e2e5e7cef449a0",
+                                "width": 640
+                            },
+                            {
+                                "height": 485,
+                                "url": "https://external-preview.redd.it/6UO69vQalkY10TdoEoffGTcm2XcJtgh1t1Q4SWP6goM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=47830f67bba51246ea61a3170f8aa02bf5ab6f4e",
+                                "width": 960
+                            }
+                        ],
+                        "source": {
+                            "height": 506,
+                            "url": "https://external-preview.redd.it/6UO69vQalkY10TdoEoffGTcm2XcJtgh1t1Q4SWP6goM.jpg?auto=webp&amp;s=52aacc70294dc2945d49d1020526f8170dd3b2ae",
+                            "width": 1000
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623514283,
+            "score": 50,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449797,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/AZY1UNxpHzVf_mC7_w2G_sIX4pcFUqR_anUYajAfz0E.jpg",
+            "thumbnail_height": 70,
+            "thumbnail_width": 140,
+            "title": "Windkraft: Künftig vertikal statt horizontal? - Rotoren mit senkrechter Drehachse könnten die Effizienz von Windparks erhöhen",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.86,
+            "url": "https://www.scinexx.de/news/energie/windkraft-kuenftig-vertikal-statt-horizontal/?fbclid=IwAR2MCDxCFINU5_qr0RYvyqfzzN5CvkaxC4xgvTfseuozYPUue1oq5iKETQs",
+            "url_overridden_by_dest": "https://www.scinexx.de/news/energie/windkraft-kuenftig-vertikal-statt-horizontal/?fbclid=IwAR2MCDxCFINU5_qr0RYvyqfzzN5CvkaxC4xgvTfseuozYPUue1oq5iKETQs",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 182,
+        "op_b": 172,
+        "total": 358
+    },
+    "error": null
+}

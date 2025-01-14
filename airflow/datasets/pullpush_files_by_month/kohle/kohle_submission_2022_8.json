@@ -1,0 +1,1984 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": false,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1659360217,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": null,
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wdhf0z",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#3c58be",
+            "link_flair_css_class": "category newsde",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Nachrichten DE"
+                }
+            ],
+            "link_flair_template_id": "1186c958-7c5c-11e4-b6d1-12313d1494bc",
+            "link_flair_text": "Nachrichten DE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wdhf0z",
+            "no_follow": false,
+            "num_comments": 17,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wdhf0z/neustart_für_kraftwerk_mehrum_mit_kohle_aus/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": "deleted",
+            "retrieved_on": 1662834395,
+            "score": 37,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "[deleted]",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683873,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Neustart für Kraftwerk Mehrum mit Kohle aus Südafrika",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.91,
+            "url": null,
+            "url_overridden_by_dest": null,
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "I_saw_Will_smacking",
+            "author_created_utc": 1648500912,
+            "author_flair_background_color": "transparent",
+            "author_flair_css_class": "ARTEULTRAS",
+            "author_flair_richtext": [
+                {
+                    "a": ":A1:",
+                    "e": "emoji",
+                    "u": "https://emoji.redditmedia.com/30t7cdm05nu71_t5_22i0/A1"
+                },
+                {
+                    "a": ":A2:",
+                    "e": "emoji",
+                    "u": "https://emoji.redditmedia.com/klo3xqz05nu71_t5_22i0/A2"
+                },
+                {
+                    "a": ":A3:",
+                    "e": "emoji",
+                    "u": "https://emoji.redditmedia.com/baqqwpx05nu71_t5_22i0/A3"
+                },
+                {
+                    "a": ":A4:",
+                    "e": "emoji",
+                    "u": "https://emoji.redditmedia.com/0r2a3kv05nu71_t5_22i0/A4"
+                },
+                {
+                    "a": ":A5:",
+                    "e": "emoji",
+                    "u": "https://emoji.redditmedia.com/4f3iznt05nu71_t5_22i0/A5"
+                },
+                {
+                    "a": ":A6:",
+                    "e": "emoji",
+                    "u": "https://emoji.redditmedia.com/68fhhkr05nu71_t5_22i0/A6"
+                },
+                {
+                    "a": ":A7:",
+                    "e": "emoji",
+                    "u": "https://emoji.redditmedia.com/czhy10q05nu71_t5_22i0/A7"
+                },
+                {
+                    "a": ":A8:",
+                    "e": "emoji",
+                    "u": "https://emoji.redditmedia.com/icog6qn05nu71_t5_22i0/A8"
+                },
+                {
+                    "a": ":A9:",
+                    "e": "emoji",
+                    "u": "https://emoji.redditmedia.com/bd1qzf115nu71_t5_22i0/A9"
+                }
+            ],
+            "author_flair_template_id": "e86d06f4-31cb-11ec-a0e5-4aed7ae8d10d",
+            "author_flair_text": ":A1::A2::A3::A4::A5::A6::A7::A8::A9:",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_l91bqf72",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1659524420,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "open.spotify.com",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wf3lj1",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#b18546",
+            "link_flair_css_class": "category history",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Geschichte"
+                }
+            ],
+            "link_flair_template_id": "f5c34108-c1fe-11e5-b1a1-0e658da60651",
+            "link_flair_text": "Geschichte",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": {
+                "oembed": {
+                    "height": 152,
+                    "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fopen.spotify.com%2Fembed%2Fepisode%2F4SddQYlLJpwVopLkh7f5jV%3Futm_source%3Doembed&amp;display_name=Spotify&amp;url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F4SddQYlLJpwVopLkh7f5jV&amp;image=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67656300005f1fbf9a774f3f81444aa21a7f9a&amp;key=ed8fa8699ce04833838e66ce79ba05f1&amp;type=text%2Fhtml&amp;schema=spotify\" width=\"456\" height=\"152\" scrolling=\"no\" title=\"Spotify embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                    "provider_name": "Spotify",
+                    "provider_url": "https://spotify.com",
+                    "thumbnail_height": 300,
+                    "thumbnail_url": "https://i.scdn.co/image/ab67656300005f1fbf9a774f3f81444aa21a7f9a",
+                    "thumbnail_width": 300,
+                    "title": "Gas- und Kohlemangel im Kältewinter - Energieknappheit in Berlin | 30.1.1947",
+                    "type": "rich",
+                    "version": "1.0",
+                    "width": 456
+                },
+                "type": "open.spotify.com"
+            },
+            "media_embed": {
+                "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fopen.spotify.com%2Fembed%2Fepisode%2F4SddQYlLJpwVopLkh7f5jV%3Futm_source%3Doembed&amp;display_name=Spotify&amp;url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F4SddQYlLJpwVopLkh7f5jV&amp;image=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67656300005f1fbf9a774f3f81444aa21a7f9a&amp;key=ed8fa8699ce04833838e66ce79ba05f1&amp;type=text%2Fhtml&amp;schema=spotify\" width=\"456\" height=\"152\" scrolling=\"no\" title=\"Spotify embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                "height": 152,
+                "scrolling": false,
+                "width": 456
+            },
+            "media_only": false,
+            "name": "t3_wf3lj1",
+            "no_follow": false,
+            "num_comments": 3,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wf3lj1/kohle_gasmangel_berlin_winter_1947_swr_archivradio/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "Lc5zUVSLcCmfK9SGMDO656Hb2UvnsJcwXtRQrlWJkKI",
+                        "resolutions": [
+                            {
+                                "height": 108,
+                                "url": "https://external-preview.redd.it/4nQiKjgY2SgUMbNnmAxPa_n0460YURib_CSSz_LWkZA.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=4f7ce28b227eef3c9cd57dc1f262e1c3679020b3",
+                                "width": 108
+                            },
+                            {
+                                "height": 216,
+                                "url": "https://external-preview.redd.it/4nQiKjgY2SgUMbNnmAxPa_n0460YURib_CSSz_LWkZA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=7ad6212091bcda8a8d8db14c5c9f68006f1419cc",
+                                "width": 216
+                            }
+                        ],
+                        "source": {
+                            "height": 300,
+                            "url": "https://external-preview.redd.it/4nQiKjgY2SgUMbNnmAxPa_n0460YURib_CSSz_LWkZA.jpg?auto=webp&amp;s=16883122fd4bb6610dc349aa1f1d5ddffae339a0",
+                            "width": 300
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662831346,
+            "score": 10,
+            "secure_media": {
+                "oembed": {
+                    "height": 152,
+                    "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fopen.spotify.com%2Fembed%2Fepisode%2F4SddQYlLJpwVopLkh7f5jV%3Futm_source%3Doembed&amp;display_name=Spotify&amp;url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F4SddQYlLJpwVopLkh7f5jV&amp;image=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67656300005f1fbf9a774f3f81444aa21a7f9a&amp;key=ed8fa8699ce04833838e66ce79ba05f1&amp;type=text%2Fhtml&amp;schema=spotify\" width=\"456\" height=\"152\" scrolling=\"no\" title=\"Spotify embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                    "provider_name": "Spotify",
+                    "provider_url": "https://spotify.com",
+                    "thumbnail_height": 300,
+                    "thumbnail_url": "https://i.scdn.co/image/ab67656300005f1fbf9a774f3f81444aa21a7f9a",
+                    "thumbnail_width": 300,
+                    "title": "Gas- und Kohlemangel im Kältewinter - Energieknappheit in Berlin | 30.1.1947",
+                    "type": "rich",
+                    "version": "1.0",
+                    "width": 456
+                },
+                "type": "open.spotify.com"
+            },
+            "secure_media_embed": {
+                "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fopen.spotify.com%2Fembed%2Fepisode%2F4SddQYlLJpwVopLkh7f5jV%3Futm_source%3Doembed&amp;display_name=Spotify&amp;url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F4SddQYlLJpwVopLkh7f5jV&amp;image=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67656300005f1fbf9a774f3f81444aa21a7f9a&amp;key=ed8fa8699ce04833838e66ce79ba05f1&amp;type=text%2Fhtml&amp;schema=spotify\" width=\"456\" height=\"152\" scrolling=\"no\" title=\"Spotify embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"&gt;&lt;/iframe&gt;",
+                "height": 152,
+                "media_domain_url": "https://www.redditmedia.com/mediaembed/wf3lj1",
+                "scrolling": false,
+                "width": 456
+            },
+            "selftext": "",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683857,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/qJ3oMmQAxlLkCDtlDaRHKxQPbhMM-P1rRLC1fu_GEIU.jpg",
+            "thumbnail_height": 140,
+            "thumbnail_width": 140,
+            "title": "Kohle &amp; Gasmangel - Berlin, Winter 1947 SWR Archivradio",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.78,
+            "url": "https://open.spotify.com/episode/4SddQYlLJpwVopLkh7f5jV?si=nXb0UYmdTiiODWbVdZ6AYA&amp;utm_source=copy-link",
+            "url_overridden_by_dest": "https://open.spotify.com/episode/4SddQYlLJpwVopLkh7f5jV?si=nXb0UYmdTiiODWbVdZ6AYA&amp;utm_source=copy-link",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Lila_Pause",
+            "author_created_utc": 1629809984,
+            "author_flair_background_color": null,
+            "author_flair_css_class": "TEXT",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Die schönsten Pausen sind lila"
+                }
+            ],
+            "author_flair_template_id": "e9e71cc8-7d3b-11e4-9eb1-22000bc148da",
+            "author_flair_text": "Die schönsten Pausen sind lila",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_d4eusoov",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1659602591,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "sueddeutsche.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wfw050",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#3c58be",
+            "link_flair_css_class": "category newsde",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Nachrichten DE"
+                }
+            ],
+            "link_flair_template_id": "1186c958-7c5c-11e4-b6d1-12313d1494bc",
+            "link_flair_text": "Nachrichten DE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wfw050",
+            "no_follow": false,
+            "num_comments": 33,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wfw050/kraftwerke_in_deutschland_kohle_ist_da_aber_kein/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "1AAHsViX_vbYN_gM7MODKWpjzUzL6I_CG9WVByM4nbo",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/-_-BDb-BX4HlBqTPCPb92FlmHg45r9jE9OcxCHBkgOY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=658022b63d03c44c389a832474866381c5282585",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/-_-BDb-BX4HlBqTPCPb92FlmHg45r9jE9OcxCHBkgOY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0cb02eeaba46217c3b85978c22b1218491422d9c",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/-_-BDb-BX4HlBqTPCPb92FlmHg45r9jE9OcxCHBkgOY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5fc49249e865e8e00ad2f8fef853f06515e5f200",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/-_-BDb-BX4HlBqTPCPb92FlmHg45r9jE9OcxCHBkgOY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd56bc6861a2b87e5e30fa4b9f011cde937b5586",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/-_-BDb-BX4HlBqTPCPb92FlmHg45r9jE9OcxCHBkgOY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=c2766d15816bf5f0f899bffc2835744b98b266dd",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/-_-BDb-BX4HlBqTPCPb92FlmHg45r9jE9OcxCHBkgOY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a32da03e41e99f73b876bf0ed366a1163ea19d8f",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 675,
+                            "url": "https://external-preview.redd.it/-_-BDb-BX4HlBqTPCPb92FlmHg45r9jE9OcxCHBkgOY.jpg?auto=webp&amp;s=acea52032ca323ce47aaa7ef9edad7ec524be5f2",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662829864,
+            "score": 116,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683846,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://a.thumbs.redditmedia.com/6tZv2syVTZxZs7RB_kJaUPa6yUDjnhXH1SFeS_2hOH4.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Kraftwerke in Deutschland: Kohle ist da, aber kein Transportmittel — Weil weniger Gas aus Russland fließt, soll in deutschen Kraftwerken wieder mehr Kohle verfeuert werden. Doch die Schiffe transportieren gerade Weizen, bei den Zügen fehlen Waggons und überall das Personal.",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.96,
+            "url": "https://www.sueddeutsche.de/politik/kohle-transport-bahn-schiffe-kraftwerke-1.5633204",
+            "url_overridden_by_dest": "https://www.sueddeutsche.de/politik/kohle-transport-bahn-schiffe-kraftwerke-1.5633204",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "schmatzler",
+            "author_created_utc": 1410819595,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_if1tf",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1659718354,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wh0ds7",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ff8206",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Diskussion/Frage"
+                }
+            ],
+            "link_flair_template_id": "829665e0-25c9-11e7-9fe9-0eb196278378",
+            "link_flair_text": "Diskussion/Frage",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wh0ds7",
+            "no_follow": false,
+            "num_comments": 20,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wh0ds7/lötenschweißenklebenbeten_wie_rette_ich_meine/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "XL8FLY8WgEXGEzSNL_LcCg8AjXd7O_udyxeqtOOVtso",
+                        "resolutions": [
+                            {
+                                "height": 56,
+                                "url": "https://external-preview.redd.it/q_6I1NJ1iYkSuA7u3D2kRPoyihluxstdn7j_EeFEqRc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=0742fbaa6b00f6877d0cd1e38b32edaa89eecf1e",
+                                "width": 108
+                            },
+                            {
+                                "height": 113,
+                                "url": "https://external-preview.redd.it/q_6I1NJ1iYkSuA7u3D2kRPoyihluxstdn7j_EeFEqRc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5c800761564b0bf22aa523ebad130a449ba90a1a",
+                                "width": 216
+                            },
+                            {
+                                "height": 168,
+                                "url": "https://external-preview.redd.it/q_6I1NJ1iYkSuA7u3D2kRPoyihluxstdn7j_EeFEqRc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a8ef2d9226f566e454c571cb41020571d9c5c362",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 315,
+                            "url": "https://external-preview.redd.it/q_6I1NJ1iYkSuA7u3D2kRPoyihluxstdn7j_EeFEqRc.jpg?auto=webp&amp;s=f7ac887a5e89ad78699f2356769c3fe6abf5bb51",
+                            "width": 600
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662827764,
+            "score": 16,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Guten Abend liebe Musikbrudis und -schwestern (und auch sonst alle anderen die irgendwie handwerklich versiert sind),\n\nvor einigen Monaten habe ich die glorreiche Schnapsidee gehabt, mit der Musikproduktion anzufangen und mir dafür eine (für meine Verhältnisse) sündhaft teure Drum Machine der Marke Roland gekauft - eine MC808:\n\nhttps://imgur.com/zc0841c\n\n\nEin tolles Gerät. Die Bedienung ist super kompliziert, es reflektiert an allen Ecken und Enden unangenehm in mein Gesicht, braucht 15min zum Hochfahren und die Fader (also diese Schiebeknöpfe) sind motorisiert und können sich von selbst bewegen. Für einen Einsteiger, der noch nie Musik gemacht hat, ist das definitiv NICHT das richtige Gerät, aber jetzt will ich mich da trotzdem reinfuchsen und es auch benutzen.\n\n\nLeider hat sich herausgestellt, dass genau diese tollen Motorfader schon total heruntergekommen waren und ständig hängengeblieben sind. Wie schwer kann das Reparieren schon sein, dachte ich mir - kaufste einfach neue und lötest die rein, fertig ist der Lack!\n\n\nDas Dumme an der Sache ist nur: Roland hat scheinbar einen speziellen Deal mit ALPS gemacht und sich Fader bauen lassen, die längere Metallschienen haben als die, die man im normalen Handel kaufen kann.\n\n\nUnd jetzt habe ich den Salat - ich habe zwar die neuen Fader da, aber sie sind zu kurz und kommen daher nicht mehr aus dem Gehäuse raus:\nhttps://imgur.com/XRRvCw1\n\n\n[Von den alten](https://imgur.com/6878lB3) habe ich noch die Metallschienen in der korrekten Länge übrig. Die müssten jetzt irgendwie auf die neuen Fader drauf und das so fest, dass sie nicht gleich beim Anfassen wieder wegbrechen.\n\n\nIch habe schon einiges versucht, bzw Ideen dazu gehabt und keine war so richtig gut.\n\n\n**Erste Idee: Löten.**\n\nFunktioniert absolut nicht, selbst nicht mit dem guten 62/36/2-Lötzinn mit niedrigem Schmelzpunkt. Da haftet einfach nix. Meine Vermutung ist, dass die Dinger aus einer Aluminiumlegierung sind, aber ein Profi bin ich nicht was das angeht.\n\n\n**Zweite Idee: Schrumpfschlauch drum und heiß machen.**\n\nDas geht so lala und ist leider sehr wacklig. Wäre eine absolute Notlösung, die aber vermutlich nicht lange halten wird.\n\n\n**Dritte Idee: Epoxidharz.**\n\nDas habe ich verworfen, da die Fader eine Berührungserkennung haben, also leitfähig sein müssen.\n\n\n**Vierte Idee: Schweißen.**\n\nAuch verworfen, da die Metallschiene gerade mal 1,5cm lang ist und direkt in weiches Plastik übergeht. Kann man so kleine Teile überhaupt schweißen? Mangels Erfahrung habe ich da erstmal lieber die Finger davon gelassen.\n\n\nUnd jetzt ~~stehe~~ sitze ich nun hier, hab' diese Drum Machine herumliegen für die ich definitiv zuviel Kohle ausgegeben habe und will sie nicht in den Müll werfen müssen. Vielleicht hat jemand von euch noch eine Idee was ich machen kann?",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683830,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Löten/Schweißen/Kleben/Beten - wie rette ich meine Roland Drum Machine?",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.77,
+            "url": "https://www.reddit.com/r/de/comments/wh0ds7/lötenschweißenklebenbeten_wie_rette_ich_meine/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Alexander_Selkirk",
+            "author_created_utc": 1447105509,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_rvxk0",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1660077458,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "zeit.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wke09s",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#ff8206",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Diskussion/Frage"
+                }
+            ],
+            "link_flair_template_id": "829665e0-25c9-11e7-9fe9-0eb196278378",
+            "link_flair_text": "Diskussion/Frage",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wke09s",
+            "no_follow": false,
+            "num_comments": 3,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wke09s/energiewende_warum_wir_jetzt_radikalere_lösungen/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662821332,
+            "score": 5,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683756,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Energiewende: Warum wir jetzt radikalere Lösungen brauchen - Klima, Sicherheit und Freiheit können wir nur bewahren, wenn wir rasch Öl, Gas und Kohle ersetzen.",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.56,
+            "url": "https://www.zeit.de/wirtschaft/2022-07/energiewende-fossile-brennstoffe-erneuerbare-energien-energiepolitik",
+            "url_overridden_by_dest": "https://www.zeit.de/wirtschaft/2022-07/energiewende-fossile-brennstoffe-erneuerbare-energien-energiepolitik",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "J5sf23",
+            "author_created_utc": 1424045107,
+            "author_flair_background_color": "",
+            "author_flair_css_class": "HAMB",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Hamburg"
+                }
+            ],
+            "author_flair_template_id": null,
+            "author_flair_text": "Hamburg",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_ldo5b",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1660301872,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wmidkw",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#cd0000",
+            "link_flair_css_class": "category rant",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "TIRADE"
+                }
+            ],
+            "link_flair_template_id": "0902ecac-6f4d-11e8-80ce-0e814e0b1ec0",
+            "link_flair_text": "TIRADE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wmidkw",
+            "no_follow": false,
+            "num_comments": 8,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wmidkw/wir_können_und_werden_ihnen_helfen_update/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662817325,
+            "score": 0,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Update zu https://old.reddit.com/r/de/comments/w21ebu/wir_k%C3%B6nnen_und_werden_ihnen_helfen_aha/  \n  \nAlter, ich glaub' es hackt!  \n  \n**TL/DR**: Als ukrainischer Flüchtling in Deutschland Hilfe zu bekommen ist keineswegs einfach und unkompliziert sondern irgendetwas zwischen entwürdigend und (ohne Hilfe von deutschen, NGOs oder sonstwem) unmöglich, aber vor allem realitätsfern.  \n  \n---\n\nNach wochenlangen Versuchen hatten wir es geschafft einen Termin für die Erstregistrierung meines Freundes aus dem ukrainischen Kriegsgebiet zu erlangen.  \nLeider ist die ukrainische ID meines Freundes seit kurzer Zeit abgelaufen, aber nach etwas hin und her und ca. 4 Stunden wurden trotzdem eine Fiktionsbescheinigung und eine Aufenthaltsgenehmigung für ein Jahr ausgestellt - ein Arzt schaute meinen Kumpel einmal an und meinte, er sei gesund.  \n  \nSo weit so gut, also nächste Schritte:  \n1.   Verlängerung der ID beim ukrainischen Generalkonsulat  \n2.   Antrag zu Leistungen nach dem AsylBlg stellen - das läuft über das Jobcenter.  \n  \nErsteres ist scheinbar der Endboss der Terminvereinbarung. Nach einer Woche konnte hier kein Kontakt aufgebaut werden - die Telefonnr. wechselt zwischen  \n- keiner nimmt ab  \n- man wird weggedrückt  \n- \"Diese Nummer ist nicht vergeben\"  \n  \nImmerhin konnte schnell ein Termin beim Jobcenter gefunden werden - vielleicht kann man da ja mal Faeser's Zitat in Aktion erleben?!  \nHA - weit gefehlt. Den Wisch den der gemeine ukrainische Flüchtling dem Jobcenter ausgefüllt bringen muss ist der ganz gewöhnliche ALG-II-Antrag.  \nNe, natürlich nur auf deutsch, wo denkt ihr hin?!  \nNaja, der gewöhnliche ALG-II-Antrag hat so lustige Punkte für junge Menschen wie die Frage nach Elternteilen, die mit dem Antragsteller wohnen.  \n\"Naja, das wird ja wohl für Flüchtlinge etwas anders laufen\", denke ich mir...Pustekuchen!  \nBei Abgabe des Erstantrages bekommen wir genau zu spüren wofür der Scheißverein da ist - Gängelung und Lebensdurchleuchtung.  \nUm irgendwie eine Chance auf Leistungen zu bekommen müssen wir erstmal festhalten, dass mein Freund dem Arbeitsmarkt zur Verfügung steht auch wenn er gerne nebenbei sein begonnenes Studium zuende führen würde (wie auch immer das gehen wird, die ukrainische Uni hat keine Erfahrung mit remote study, möchte diese aber ermöglichen).  \nDafür bekommen wir dann einen schönen Stapel weiterer Formulare, Anlage EK, Anlage UH1 in zweifacher Ausführung, Anlage zur Ansage dass es keine ehe-ähnliche Beziehungen in der Wohngemeinschaft gebe...  \nAlter, seid ihr völlig bekloppt?!? Alle diese Unterlagen sind nur auf deutsch und mein ukrainischer Freund soll jetzt das Einkommensverhältnis seines Vaters darlegen und warum dieser im keinen Unterhalt zahlt?!?  \nDigga, der hat sich gerade nach 4 Tagen Funkstille endlich wieder gemeldet und wir sind froh das er noch lebt nachdem er aus russisch besetztem Gebiet in ukrainisches Territorium geflohen ist. Der wäre fast verhungert auf der Tour, verreckt bei 40° ohne Schatten in einer Auto-Schlange von mehreren Hunderten, bei einer Abfertigungsgeschwindigkeit von 10 Autos pro Stunde.  \nAber sein Sohn bekommt leider keine Unterstützung hier wenn wir nicht seinen Wohnort und Einkommen angeben?!? Ihr wisst aber schon noch was Krieg ist, ja?!  \n  \nKlar, wir wollen keine sozialschmarotzenden jungen Ukrainer mit reichen Eltern die dann hier Geld abgreifen das sie nicht verdienen.  \nDas Loch, dass von ALG-II-Zahlungen in unseren Bundeshaushalt gefressen wird hat sonst bestimmt innerhalb von zwei Jahrzehnten den Umfang einer Legislaturperiode mit Scheuer als Minister...  \nGanz ehrlich, so wie ich die Sache inzwischen sehe ist Frau Faesers Ansage eine klare Lüge, wäre die Frau ehrlich hätte sie gesagt: \"Wir könnten Ihnen unkompliziert helfen, wollen wir aber nicht. Aber wenn Sie Sich in die deutsche Bürokratie integrieren können oder einen Dummen finden der Ihnen dabei hilft, dann werden wir ihnen möglicherweise kurzzeitig etwas unter die Arme greifen bevor sie genauso behandelt werden wie die Menschen die wir Langzeitarbeitslose nennen.\"  \n  \nMein Text ist jetzt schon viel zu lang, dabei habe ich noch nicht einmal erwähnt was wir neben den drölf weiteren Formularen noch einreichen müssen:  \n- Mietvertrag (Klar, der Typ hat leider keine Kohle, aber klar, ich setz ihm mal n Mietvertrag auf, damit er mir imaginäre Kohle zahlen kann bevor er auch nur 'n Cent sieht)  \n- Krankenkasse (fairer Punkt, wird hoffentlich unkompliziert)  \n- Kontoeröffnung (Die braucht wiederum eine gültige ID, siehe Punkt 1 von oben - Generalkonsulat der Ukraine)  \n- Rentenversicherungsnummer (ganz einfach und unkompliziert, hier, darfs noch ein Online-Formular mehr sein?)  \n- Steuer ID (Ha, witzig - die gibt es für ukrainische Flüchtlinge in Hamburg bei Wohnsitzmeldung. Ich suche jetzt mal nicht die letzte Tirade zur Langsamkeit der Terminvergabe bei Einwohnermeldeämtern in D im Jahre 2022 heraus. Es gibt natürlich ein Online-Formular. Hier kommt dasselbe heraus wie in meinem vorherigen Post:  \n- ​Leider wurde für Ihre Auswahl kein freier Termin gefunden. -  \n  \n  \nIch war ja noch nie ein großer Freund von Behörden oder dem deutschen Staat an und für sich - auch wenn einige Errungenschaften durchaus 'ne tolle Sache sind (Grundgesetz, Gewaltenteilung, \"Alle Gewalt geht vom Volke aus\" sind schon tolle Konzepte).  \nAber ficken, die Aufnahme von ukrainischen Schutzsuchenden und die mediale Berichterstattung darüber sind Welten voneinander entfernt und ich schäme mich vor meinem Freund für die Scheiße die er hier durchlaufen muss um so etwas wie Hilfe bei der Ankunft hier zu erlangen die nicht direkt von mir kommt.  \n  \nIch bin sehr froh für mich selbst nicht auf Behörden angewiesen zu sein. Ich glaube meine mentale Gesundheit wäre eine ganz andere. Und ich möchte hiermit einmal ganz deutlich sagen:   \n**Sehr geehrte Frau Faeser, sie labern Scheiße.**",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683715,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "\"WiR kÖnNeN uNd WeRdEn IhNeN hElFeN!\" - Update",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.48,
+            "url": "https://www.reddit.com/r/de/comments/wmidkw/wir_können_und_werden_ihnen_helfen_update/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": false,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1660723943,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": null,
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wqj97q",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#f7d358",
+            "link_flair_css_class": "category society",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Gesellschaft"
+                }
+            ],
+            "link_flair_template_id": "1e099388-25bd-11e7-8be1-0e1591e2c470",
+            "link_flair_text": "Gesellschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wqj97q",
+            "no_follow": false,
+            "num_comments": 39,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wqj97q/gaskrise_viele_berliner_wollen_wieder_mit_kohle/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": "deleted",
+            "retrieved_on": 1662809865,
+            "score": 32,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "[deleted]",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683655,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": 73,
+            "thumbnail_width": 140,
+            "title": "Gaskrise: Viele Berliner wollen wieder mit Kohle heizen",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.8,
+            "url": null,
+            "url_overridden_by_dest": null,
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": false,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1660973810,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wszclz",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#cd0000",
+            "link_flair_css_class": "category psa",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Dienstmeldung"
+                }
+            ],
+            "link_flair_template_id": "7794ac4c-6f4c-11e8-babb-0e920894d2ee",
+            "link_flair_text": "Dienstmeldung",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wszclz",
+            "no_follow": false,
+            "num_comments": 17,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wszclz/tip_wenn_ihr_bei_kleinanzeigen_kauft_verlangt/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662805430,
+            "score": 9,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Ein Zettel mit \"von: [name] für: [name]\" verhindert den \"Man in the middle\" Betrugsfall, wo jemand dem Verkäufer gegenüber einen Käufer imitiert und zeitgleich einen Interessenten gegenüber einen Verkäufer darstellt, um den Verkäufer dazu zu bringen, ihm die Ware zu schicken und den Käufer dazu, dem Verkäufer das Geld zukommen zu lassen.\n\nDer Verkäufer schickt die Ware, nachdem er Geld sieht. Aber der Käufer wird die Kohle zurückbuchen lassen, nachdem er nie die Ware erhalten wird. Der Betrüger freut sich über die Ware.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683620,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Tip: Wenn ihr bei Kleinanzeigen kauft, verlangt Verifikation wie bei r/roastme.",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.63,
+            "url": "https://www.reddit.com/r/de/comments/wszclz/tip_wenn_ihr_bei_kleinanzeigen_kauft_verlangt/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Europeaball",
+            "author_created_utc": 1626198229,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_da7vmytv",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1661365670,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "tagesspiegel.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wwqx0i",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#036c85",
+            "link_flair_css_class": "category politics",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Politik"
+                }
+            ],
+            "link_flair_template_id": "27453a40-7ecd-11e4-a392-22000b3a0037",
+            "link_flair_text": "Politik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wwqx0i",
+            "no_follow": false,
+            "num_comments": 15,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wwqx0i/bund_erwartet_im_winter_probleme_bei_kohle_und/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "3MUCedtvAl-3wKBVzOFL7uhZyyx6pyuV8T9xzj0Ns2g",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/D0gmVBbKrsnE_7YebDFVYpdzjR2rHmY10vfmrlU1uLI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=96a8347b5ce71d449a3a709f5af4db4d5ef8de30",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/D0gmVBbKrsnE_7YebDFVYpdzjR2rHmY10vfmrlU1uLI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b80bccb2a8abb77e636b0e119b256bec97796909",
+                                "width": 216
+                            },
+                            {
+                                "height": 179,
+                                "url": "https://external-preview.redd.it/D0gmVBbKrsnE_7YebDFVYpdzjR2rHmY10vfmrlU1uLI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7c9467932b1da525a4c1bead30a2ecffa5a51606",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 357,
+                            "url": "https://external-preview.redd.it/D0gmVBbKrsnE_7YebDFVYpdzjR2rHmY10vfmrlU1uLI.jpg?auto=webp&amp;s=4771daafc0ccd1ab17a45b97986b201219cf782f",
+                            "width": 635
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662798839,
+            "score": 37,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683569,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/O_JQEAtE4e8nmI5Y0opcIXCUHFPOU-pgrItwclzDoZs.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Bund erwartet im Winter Probleme bei Kohle- und Öl-Versorgung in Ostdeutschland",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.9,
+            "url": "https://www.tagesspiegel.de/politik/hohe-nachfrage-knappe-transportkapazitaeten-bund-erwartet-im-winter-probleme-bei-kohle-und-oel-versorgung-in-ostdeutschland/28624316.html",
+            "url_overridden_by_dest": "https://www.tagesspiegel.de/politik/hohe-nachfrage-knappe-transportkapazitaeten-bund-erwartet-im-winter-probleme-bei-kohle-und-oel-versorgung-in-ostdeutschland/28624316.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 70,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "*Lowers face into palm*",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png",
+                    "icon_width": 2048,
+                    "id": "award_b1b44fa1-8179-4d84-a9ed-f25bb81f1c5f",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Facepalm",
+                    "penny_donate": null,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=16&amp;height=16&amp;auto=webp&amp;s=d06b7de23ce8b8ea0f3e7cfd15033ac4893b72f0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=32&amp;height=32&amp;auto=webp&amp;s=9c08ea897b5caa9a70e315e13df5b4a3ba33246e",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=48&amp;height=48&amp;auto=webp&amp;s=3971718e2c95e4869756cbdbe9e996719ed2dcc2",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=64&amp;height=64&amp;auto=webp&amp;s=37daf6131baa13b786daeb564ef67963874bdce0",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=128&amp;height=128&amp;auto=webp&amp;s=696adda035a7fd96e7688edeea93ad1b16d4ab1a",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=16&amp;height=16&amp;auto=webp&amp;s=d06b7de23ce8b8ea0f3e7cfd15033ac4893b72f0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=32&amp;height=32&amp;auto=webp&amp;s=9c08ea897b5caa9a70e315e13df5b4a3ba33246e",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=48&amp;height=48&amp;auto=webp&amp;s=3971718e2c95e4869756cbdbe9e996719ed2dcc2",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=64&amp;height=64&amp;auto=webp&amp;s=37daf6131baa13b786daeb564ef67963874bdce0",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png?width=128&amp;height=128&amp;auto=webp&amp;s=696adda035a7fd96e7688edeea93ad1b16d4ab1a",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/ey2iodron2s41_Facepalm.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 2,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Thank you stranger. Shows the award.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "icon_width": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "I don't need it, I don't even necessarily want it, but I've got some cash to burn so I'm gonna get it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png",
+                    "icon_width": 2048,
+                    "id": "award_abcdefe4-c92f-4c66-880f-425962d17098",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Burning Cash",
+                    "penny_donate": null,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=16&amp;height=16&amp;auto=webp&amp;s=26e20b03316dade0c334e0dc94bffefc9b5aa631",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=32&amp;height=32&amp;auto=webp&amp;s=a837f262573009bb5e05d09136fff6e562b8b5ff",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=48&amp;height=48&amp;auto=webp&amp;s=786cf9e11fd170c638b5c643b7ded488da4385b1",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=64&amp;height=64&amp;auto=webp&amp;s=8d95e824d8b33ef5a3b3ba65e5cf80c45728a1a1",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=128&amp;height=128&amp;auto=webp&amp;s=8575d3ac8befa3b39a4d25eb93cac40867b415cb",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=16&amp;height=16&amp;auto=webp&amp;s=26e20b03316dade0c334e0dc94bffefc9b5aa631",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=32&amp;height=32&amp;auto=webp&amp;s=a837f262573009bb5e05d09136fff6e562b8b5ff",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=48&amp;height=48&amp;auto=webp&amp;s=786cf9e11fd170c638b5c643b7ded488da4385b1",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=64&amp;height=64&amp;auto=webp&amp;s=8d95e824d8b33ef5a3b3ba65e5cf80c45728a1a1",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png?width=128&amp;height=128&amp;auto=webp&amp;s=8575d3ac8befa3b39a4d25eb93cac40867b415cb",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/kqr00h8b7q161_BurningCash.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "To pay respects.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png",
+                    "icon_width": 2048,
+                    "id": "award_88fdcafc-57a0-48db-99cc-76276bfaf28b",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Press F",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=16&amp;height=16&amp;auto=webp&amp;s=3481c2a89c2ebe653aae1b8d627c20c10abfc79e",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=32&amp;height=32&amp;auto=webp&amp;s=2bd2b8a9417e7cc18752927c11f98b242c133f2f",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=48&amp;height=48&amp;auto=webp&amp;s=a34e3d83c5dd9f6c731b1375500e4de8d4fee652",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=64&amp;height=64&amp;auto=webp&amp;s=6525899b9a01d5b0c4deea6c34cd8436ee1ff0c7",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=128&amp;height=128&amp;auto=webp&amp;s=c9e094023649693de991fff551a0c9561d11163a",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=16&amp;height=16&amp;auto=webp&amp;s=3481c2a89c2ebe653aae1b8d627c20c10abfc79e",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=32&amp;height=32&amp;auto=webp&amp;s=2bd2b8a9417e7cc18752927c11f98b242c133f2f",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=48&amp;height=48&amp;auto=webp&amp;s=a34e3d83c5dd9f6c731b1375500e4de8d4fee652",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=64&amp;height=64&amp;auto=webp&amp;s=6525899b9a01d5b0c4deea6c34cd8436ee1ff0c7",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=128&amp;height=128&amp;auto=webp&amp;s=c9e094023649693de991fff551a0c9561d11163a",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 4,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Shows the Silver Award... and that's it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "icon_width": 512,
+                    "id": "gid_1",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Silver",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 125,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "When you come across a feel-good thing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "icon_width": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Wholesome",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": true,
+            "archived": false,
+            "author": "D-Fence",
+            "author_created_utc": 1314529200,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_5qrb5",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1661516093,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1661593826.0,
+            "gilded": 0,
+            "gildings": {
+                "gid_1": 4
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "wy7mm6",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": true,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#cd0000",
+            "link_flair_css_class": "category rant",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "TIRADE"
+                }
+            ],
+            "link_flair_template_id": "0902ecac-6f4d-11e8-80ce-0e814e0b1ec0",
+            "link_flair_text": "TIRADE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_metadata": {
+                "5sxv1ulfp1k91": {
+                    "e": "Image",
+                    "id": "5sxv1ulfp1k91",
+                    "m": "image/png",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/5sxv1ulfp1k91.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=fd02a0575694f3ed1d203c8e4de90787907e2167",
+                            "x": 108,
+                            "y": 115
+                        },
+                        {
+                            "u": "https://preview.redd.it/5sxv1ulfp1k91.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a1081e5f1032eccb80fc7472fc7da3cfbc517070",
+                            "x": 216,
+                            "y": 230
+                        },
+                        {
+                            "u": "https://preview.redd.it/5sxv1ulfp1k91.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b7faa555ef507d3e2607ec00f18be0d3745dd85a",
+                            "x": 320,
+                            "y": 341
+                        },
+                        {
+                            "u": "https://preview.redd.it/5sxv1ulfp1k91.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a4c95faf224261a20332633e697180585dcff1f",
+                            "x": 640,
+                            "y": 682
+                        },
+                        {
+                            "u": "https://preview.redd.it/5sxv1ulfp1k91.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=2cbf0373915905193b1b244fda4662d6c1f367c2",
+                            "x": 960,
+                            "y": 1023
+                        },
+                        {
+                            "u": "https://preview.redd.it/5sxv1ulfp1k91.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b94f87e157254830b85fb36a470ae4ec5efcda36",
+                            "x": 1080,
+                            "y": 1151
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/5sxv1ulfp1k91.png?width=1170&amp;format=png&amp;auto=webp&amp;s=060222efab47fa637d8a731584c4c67db77131df",
+                        "x": 1170,
+                        "y": 1247
+                    },
+                    "status": "valid"
+                },
+                "hytvvkvyo1k91": {
+                    "e": "Image",
+                    "id": "hytvvkvyo1k91",
+                    "m": "image/png",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/hytvvkvyo1k91.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b8ad73e805cf6b9e4eab1634635cbef455f2afe1",
+                            "x": 108,
+                            "y": 184
+                        },
+                        {
+                            "u": "https://preview.redd.it/hytvvkvyo1k91.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=503fee05b7af8187baa394c1952b1d474ec87ef4",
+                            "x": 216,
+                            "y": 368
+                        },
+                        {
+                            "u": "https://preview.redd.it/hytvvkvyo1k91.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e0a976075cde370efc5ce0c0539dad19a10808a0",
+                            "x": 320,
+                            "y": 546
+                        },
+                        {
+                            "u": "https://preview.redd.it/hytvvkvyo1k91.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=065b21f9f9ed7d20c037a184f6072b003d795bc6",
+                            "x": 640,
+                            "y": 1092
+                        },
+                        {
+                            "u": "https://preview.redd.it/hytvvkvyo1k91.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=4780b54111c765320208fa44299b58d77bbe2c9b",
+                            "x": 960,
+                            "y": 1638
+                        },
+                        {
+                            "u": "https://preview.redd.it/hytvvkvyo1k91.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=43bfa2bb4b20dac5cd694652f8aeadbea728c9b4",
+                            "x": 1080,
+                            "y": 1843
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/hytvvkvyo1k91.png?width=1170&amp;format=png&amp;auto=webp&amp;s=48322b9ca4fbb194a20e8ee91b939182b30700ce",
+                        "x": 1170,
+                        "y": 1997
+                    },
+                    "status": "valid"
+                },
+                "zv884ucvp1k91": {
+                    "e": "Image",
+                    "id": "zv884ucvp1k91",
+                    "m": "image/png",
+                    "p": [
+                        {
+                            "u": "https://preview.redd.it/zv884ucvp1k91.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=134ac2b0eb46e5e9bb1553ac6a703ce35f342eb7",
+                            "x": 108,
+                            "y": 123
+                        },
+                        {
+                            "u": "https://preview.redd.it/zv884ucvp1k91.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=3d15a9415b02f1ddb61aa1ffc6bda3bad821ca7f",
+                            "x": 216,
+                            "y": 247
+                        },
+                        {
+                            "u": "https://preview.redd.it/zv884ucvp1k91.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=700580c8b54045de277934dbebe100a249e64627",
+                            "x": 320,
+                            "y": 366
+                        },
+                        {
+                            "u": "https://preview.redd.it/zv884ucvp1k91.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1af42843bc6bcfbcff4e8917a2bceddc429433c1",
+                            "x": 640,
+                            "y": 732
+                        },
+                        {
+                            "u": "https://preview.redd.it/zv884ucvp1k91.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=c50d51ad52f8bee577e11fe8c13546b3219c6ae2",
+                            "x": 960,
+                            "y": 1099
+                        },
+                        {
+                            "u": "https://preview.redd.it/zv884ucvp1k91.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5bee21cd0e6145f40c61cad39529c8ebd66901d1",
+                            "x": 1080,
+                            "y": 1236
+                        }
+                    ],
+                    "s": {
+                        "u": "https://preview.redd.it/zv884ucvp1k91.png?width=1170&amp;format=png&amp;auto=webp&amp;s=40f3aaba45101a48c2b1ac84959daf9f01ac9968",
+                        "x": 1170,
+                        "y": 1340
+                    },
+                    "status": "valid"
+                }
+            },
+            "media_only": false,
+            "name": "t3_wy7mm6",
+            "no_follow": false,
+            "num_comments": 1160,
+            "num_crossposts": 2,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wy7mm6/diessconnected_warum_mein_erster_vw_mein_letzter/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "daa87Elv53HFHQqqUP-4YCU1WOz_JJtQvKCoSW0OiHc",
+                        "resolutions": [
+                            {
+                                "height": 184,
+                                "url": "https://external-preview.redd.it/eheO_yd8JjfMk3y-ylTrjiQ_20Oj_KTN8pijJoHzFDs.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a89b8aeb11a0e6e82a29773c8a128cd3d51e48e7",
+                                "width": 108
+                            },
+                            {
+                                "height": 368,
+                                "url": "https://external-preview.redd.it/eheO_yd8JjfMk3y-ylTrjiQ_20Oj_KTN8pijJoHzFDs.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e3d08d1c3eadbddd7ed3f8d3e91b47a805d3ef6a",
+                                "width": 216
+                            },
+                            {
+                                "height": 546,
+                                "url": "https://external-preview.redd.it/eheO_yd8JjfMk3y-ylTrjiQ_20Oj_KTN8pijJoHzFDs.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9975d3502ca93cfe275431ac23bcb22801a9552f",
+                                "width": 320
+                            },
+                            {
+                                "height": 1092,
+                                "url": "https://external-preview.redd.it/eheO_yd8JjfMk3y-ylTrjiQ_20Oj_KTN8pijJoHzFDs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=08bdce184e9b44144b513740579d87c9b0b51ab8",
+                                "width": 640
+                            },
+                            {
+                                "height": 1638,
+                                "url": "https://external-preview.redd.it/eheO_yd8JjfMk3y-ylTrjiQ_20Oj_KTN8pijJoHzFDs.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=e2ee508401b519dbde85f08ab0d1466b63b520db",
+                                "width": 960
+                            },
+                            {
+                                "height": 1843,
+                                "url": "https://external-preview.redd.it/eheO_yd8JjfMk3y-ylTrjiQ_20Oj_KTN8pijJoHzFDs.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6aca660490fde5b2627b37eb6079b69f2d4d6b80",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 1997,
+                            "url": "https://external-preview.redd.it/eheO_yd8JjfMk3y-ylTrjiQ_20Oj_KTN8pijJoHzFDs.png?auto=webp&amp;s=41363371268849507347bb3614cfdf9b28e1f76b",
+                            "width": 1170
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662796249,
+            "score": 2789,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Im letzten Jahr bekamen wir Nachwuchs, und da man das Kind ja nicht im uralten Kleinwagen ohne Isofix transportieren will/kann, drohte mir das Familienkutschen Shoppen. Unbekanntes Terrain. Nach einiger Recherche und Langzeitnutzen sollte es etwas großes werden, aber nicht zu groß für die Stadt.\n\nNun finden wir beide SUVs äußerst sinnbefreit (insbesondere hohe Ladekante und weniger Kofferraum als Kombi/Van), also machen wir es direkt richtig - ein Minivan muss her! Quadratisch, praktisch, gut. Da die Auswahl auf dem Markt äußerst bescheiden war, und VW damals seine Autos verramscht hat (jetzt würde ich sagen: der Qualität entsprechend eingepreist hat), sollte es ein Touran werden. Genau der richtige Mix aus Platz und nicht zu groß. Man hört ja viel über die furchtbare Software bei VW aber der Touran ist ja kein Golf 8 sondern eine Generation davor... also schön das Navi für 1500€ gekauft. Fehler #1.\n\nBestellt, 8 Monate Lieferverzug zum ursprünglichen Lieferdatum, zwischendurch ein Übergangsauto gekauft, man möchte die armen Menschen in Wolfsburg ja unterstützen und tritt nicht vom Vertrag zurück. Fehler #2.\n\nSo war es dann im Juli soweit, wir konnten endlich unseren Touran in Wolfsburg abholen (Fehler #3). Wir hatten extra die Abholung in Wolfsburg gewählt, da wir uns nach langer Zeit mal wieder eine Übernachtung zu zweit ohne Kind gönnen wollten. In der Abholung für über 600€ war eine Werksführung enthalten. Also vorher mal nachgefragt wegen Corona, \"Ja gibt's nicht aber es gibt einen Film im Kino und da sind Leute aus der Produktion die Ihre Fragen beantworten\". Na gut, besser als nichts. Also extra einen Tag vorher angereist, eingecheckt..... \"Hier ist ihr Gutschein für die Werksführung - schreiben sie eine Mail an [siewurdenverarscht@volkswagen.de](mailto:siewurdenverarscht@volkswagen.de), dann erhalten Sie einen MS Teams Meeting wo Sie bequem von zu Hause aus eine Werksführung machen können.\" HALT STOP Ich hab 600€ gezahlt und bin nach Wolfsburg gefahren, um dort einen ZETTEL mit einer E-MAIL ADRESSE zu bekommen, um ZU HAUSE eine Werksführung machen zu können??? Was ist mit dem Film??? \"Ach der Film, ja der kostet 5€ pro Person\". \\*tiefes Durchatmen\\* OKAY. MACH. \"Ach so aber heute läuft der ned mehr, ist ja schon 14:30 Uhr! Und morgen wollen Sie ja direkt nach der Abholung um 10 losfahren..\". Mein Auge zuckte schon etwas, da meinte die Dame \"Sie können aber auf die Türme! Nur 15€ pro Person! Ach nee, heute auch nicht mehr\". Puls nähert sich kritischer Grenze, aber ich reiß mich zusammen - man will den Trip ja ned versauen. Gut, 600€ dafür, dass VW den Wagen vom Werk Wolfsburg in die Halle in Wolfsburg schiebt und man ins Museum kann. Naja. Müssen ja auch leben die armen Leute. Deswegen gab's auch bei der ganzen Abholung nicht mal einen Kaffee umsonst oder eine Flasche Wasser für die Heimfahrt (die konnte man aber kaufen bei VW in der Abholer Lounge! Nicht, dass man für 600€ vielleicht eine 0,5l Flasche Wasser in die Autos stellen könnte...). Erstkontakt mit VW: Ernüchternd. Aber wenigstens ist das Auto gut.\n\nAuto abgeholt, soweit zufrieden, groß, eckig. Ab nach Hause nach München. Hat vier Räder und fährt. Navi funktioniert. Am nächsten Tag das Auto aus der Tiefgarage geholt - Offline, keine Verbindung zu VW, keine Verkehrsdaten. OK vielleicht braucht es etwas. Offline. Halbe Stunde später, im Stau (aus der Scheibe gesehen, nicht auf dem Navi da - Offline). Verhöhnend starrte mich das graue Globussymbol an, kein Netz. Gut, schreiben wir mal dem Support. Nach circa 20 Mails, 5 Anrufen, unglaublich bemühten Hotline Menschen (Shoutout an die echt guten Leute der WeConnect Hotline die es jedes Mal kopfschüttelnd aufnehmen und weiterleiten), unglaublich unfähigem Second Level Support dann die erste Lösung:\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n[Anleitung - Regentanz Methode](https://preview.redd.it/hytvvkvyo1k91.png?width=1170&amp;format=png&amp;auto=webp&amp;s=48322b9ca4fbb194a20e8ee91b939182b30700ce)\n\nGenau, nach jedem Verlassen der Tiefgarage einfach einmal einen VERFICKTEN REGENTANZ AUFFÜHREN UND DIE GÖTTER DES INTERNETS BESCHWÖREN, DIESES VERSTOSSENE FAHRZEUG WIEDER IN IHRE REIHEN ZU LASSEN. Das kann es nicht sein dachte ich, mein 2009er Übergangs BMW 5er Kombi hat ja nach 10m außerhalb der Tiefgarage auch Netz gehabt, und jedes Handy kann es. \n\nDann kam der sinnvolle Hinweis von VW, doch einfach nicht in einer Tiefgarage zu parken, wer macht das auch schon IN EINER GROSSSTADT VOR ALLEM.\n\n&amp;#x200B;\n\n[Park draußen du Opfer](https://preview.redd.it/5sxv1ulfp1k91.png?width=1170&amp;format=png&amp;auto=webp&amp;s=060222efab47fa637d8a731584c4c67db77131df)\n\nDie Lösung, dass es automatisch online kommt, wenn es in einer Tiefgarage war, ist also, nicht in einer Tiefgarage zu parken. Genial. Die Lösung, sein gebrochenes Bein zu heilen, IST SICH DAS SCHEISS BEIN NICHT ZU BRECHEN.\n\nZwischendurch war das Auto sogar beim Händler (top, 3 Wochen nach Abholung schon in der Werkstatt), hat nix gebracht.\n\nWeitere Tickets später, Antwort von VW: \"Jo wir wissen dass das kaputt ist und haben keine Lösung. Danke für die 1500€. Stell dein Auto halt an die Straße.\"\n\n&amp;#x200B;\n\n[Versagen wird schriftlich bestätigt](https://preview.redd.it/zv884ucvp1k91.png?width=1170&amp;format=png&amp;auto=webp&amp;s=40f3aaba45101a48c2b1ac84959daf9f01ac9968)\n\n&amp;#x200B;\n\nHABT IHR NOCH ALLE CURRYWÜRSTE AUF DEM GRILL IN WOLFSBURG???? EIN AUTO JENSEITS DER 50.000€, EIN NAVI FÜR 1500€ UND IHR HABT DEN FALL, DASS JEMAND IN EINER TIEFGARAGE PARKT NICHT VORGESEHEN? CARIAD - CAR I AM DIGITAL (kein Witz, dafür steht das wirklich), WAS EIN HAUFEN ORIGINALER NICHTSKÖNNER. CARITAS WOHL EHER - CAR IS TOTALLY ABSOLUTELY SHIT.\n\nAn dieser Stelle kurzer Einwurf zu CARIAD: Ist die Softwareschmiede von VW, sollte für alle VW Derivate entwickeln, entwickelt jetzt für Milliarden parallel für Audi und VW weil sie es nicht hinkriegen, Diess wurde wegen dem CARIAD Desaster gefeuert.\n\nWenn man bei mir auf der Arbeit einem Kunden oder Vorgesetzten auf ein Problem sagt \"gibt keine Lösung\" wird man dermaßen gewatscht, VW sagt einfach nur \"danke für die Kohle, verarscht, lol\". Unglaublich - das war unser erster und letzter VW. Andererseits....wenn man überlegt, wer den Laden damals gegründet hat, macht es alles wieder Sinn......und wenn sie es noch etwas weiter treiben, und alle Kunden verlieren, werden wir sie schon aus dem Dreck ziehen mit unseren Steuergeldern.\n\nZum Glück (!) kann das Navi noch Carplay, somit kommt man wenigstens ans Ziel.\n\n&amp;#x200B;\n\nZL;NG:\n\nVW zockt bei Werksabholung ab, Auto kommt nie wieder online wenn es einmal in einer Tiefgarage war, VW sagt Pech, haben wir vergessen, keine Lösung, danke fürs Geld.\n\n\n//Edit:\n\n1.\tDas Auto ist selbstverständlich nicht für 50.000€ gekauft sondern geleast für eine sehr niedrige Rate. Macht finanziell mehr Sinn aktuell. \n2.\tGrund für das Leasing mit Service inklusive statt gebraucht kaufen war, dass so die Kosten über die Laufzeit komplett berechenbar sind und für den Fall von Problemen man keine Zusatzkosten hat. Und das man das Ding nach 3 Jahren abgeben kann, dann gibt es hoffentlich endlich familientaugliche E Autos gibt. \n3.\tIch habe nicht 600€ für eine Werksabholung extra gezahlt sondern man muss es bezahlen. Es ist die billigste Option um an einen neuen VW zu kommen, Auslieferung beim Händler kostet extra.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683545,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://a.thumbs.redditmedia.com/3iz7XjmRqgDq9U6Ggq0lvqn56i9ui9wb1AM1OeVYtJ4.jpg",
+            "thumbnail_height": 140,
+            "thumbnail_width": 140,
+            "title": "DIESS-Connected - Warum mein erster VW mein letzter VW war.",
+            "top_awarded_type": null,
+            "total_awards_received": 10,
+            "treatment_tags": [],
+            "upvote_ratio": 0.91,
+            "url": "https://www.reddit.com/r/de/comments/wy7mm6/diessconnected_warum_mein_erster_vw_mein_letzter/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Hot-Zookeepergame584",
+            "author_created_utc": 1608048423,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_8ziv376z",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1661684714,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "digistore24.com",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "wzstuy",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#249363",
+            "link_flair_css_class": "category other",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Sonstiges"
+                }
+            ],
+            "link_flair_template_id": "92dd118c-25bb-11e7-ae3b-0ea724cb5148",
+            "link_flair_text": "Sonstiges",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wzstuy",
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wzstuy/willst_du_auch_online_geld_verdienen_dann_clicke/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": "moderator",
+            "retrieved_on": 1662793436,
+            "score": 1,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683524,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": 73,
+            "thumbnail_width": 140,
+            "title": "willst du auch online geld verdienen, dann clicke jetzt auf den Link und verdiene innerhalb einer Woche mehr Kohle als deine Eltern in einem Monat",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.digistore24.com/redir/340398/DreamLogistics/CAMPAIGNKEY",
+            "url_overridden_by_dest": "https://www.digistore24.com/redir/340398/DreamLogistics/CAMPAIGNKEY",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 194,
+        "op_b": 189,
+        "total": 388
+    },
+    "error": null
+}

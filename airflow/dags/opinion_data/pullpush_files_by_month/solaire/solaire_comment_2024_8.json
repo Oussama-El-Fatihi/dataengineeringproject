@@ -1,0 +1,287 @@
+[
+    {
+        "text": "C’est bien ça. Tu as vu le facteur d’augmentation qu’EDF prévois pour le solaire et l’éolien ? Compare le à celui du nucléaire. On met pas le fric au bon endroit",
+        "date": "2024-08-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "RTE n’est pas décisionnaire dans cette affaire. Je te fais le calcul pour que tu puisses comprendre le problème industriel (je rappelle que ce sont le chiffres d’EDF) :\n68% de 4860 TWh : 3 305 TWh pour l’éolien et le solaire en 2050. En 2021 c’était 22% de 2600 TWh : 572 TWh. Il faut multiplier la production solaire et éolienne par 6 à comparer à 1,8 pour le nucléaire… selon EDF. il est où le plan qui permet ça ?",
+        "date": "2024-08-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "RTE n’est pas décisionnaire dans cette affaire. Je te fais le calcul pour que tu puisses comprendre le problème industriel (je rappelle que ce sont le chiffres d’EDF) : 68% de 4860 TWh : 3 305 TWh pour l’éolien et le solaire en 2050. En 2021 c’était 22% de 2600 TWh : 572 TWh. Il faut multiplier la production solaire et éolienne par 6 à comparer à 1,8 pour le nucléaire… selon EDF. il est où le plan qui permet ça ?",
+        "date": "2024-08-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "En soit je suis d'accord, il faut investir, mais dans quoi ?\n\nPour votre lien, il s'agit d'un scénario proposé par EDF, rien ne montre qu'il sera retenu à l'échelle européenne. Ce scénario montrant la nécessité d'investir dans toute les filières, ENR et nucléaire comprises, mais pas que.\nEn France on a aussi les scénarios de RTE qui se penchent sur la question. [Les scénarios RTE](https://www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsionnel-2050-futurs-energetiques#Lesdocuments)\nVous pouvez aussi regarder les scénarios de l'ADEME pour deviner celui privilégié par nos dirigeants.\n\nPour l'électricité :\nEn l'état on est tous mauvais sur le solaire, [97% de la puissance installée est constituée de panneaux chinois ](https://www.euronews.com/green/2024/04/16/23-member-states-sign-solar-charter-vow-to-tackle-unfair-competition).\nEn France le fabricant systovi a fermé en avril et voltec a pas mal transpiré cette année. À l'échelle européenne il nous manque le savoir faire (et les machines) dans la fabrication des cellules.\n\nEn Europe on a le Danemark, l'Allemagne et l'Espagne qui sont déjà fort en éolien. On peut se demander s'il est pertinent d'investir et de développer cette filière quitte à concurrencer nos voisins. (Je n'ai pas la réponse)\n\nSur l'hydroélectricité nous avons récemment (2015) vendu notre outil industriel à general electric... Là je vous rejoins on a fait l'impasse sur une opportunité industrielle. Surtout que la modernisation des centrales hydroélectriques avec le pompage-trubinage est un enjeu important.\n\nSur le nucléaire on a l'opportunité de rattraper les conneries faites en 2015 avec le rachat en 2024 de la fabrication des turbines par EDF. Il faut aussi que l'EPR 2 rattrape l'écueil de l'EPR. En attendant on perd des marchés [comme en Tchéquie ](https://www.lemonde.fr/economie/article/2024/07/17/les-tcheques-preferent-les-coreens-a-edf-pour-construire-deux-nouveaux-reacteurs-nucleaires_6251645_3234.html)\n\nUn chantier colossal c'est la modernisation du réseau électrique. Nos réseaux ne sont pas adaptés à la multiplication des sites de production ni à l'augmentation de puissance. Ce qui implique [584 milliards d'euro nécessaires d'ici 2030](https://ecfr.eu/article/gridlock-why-europes-electricity-infrastructure-is-holding-back-the-green-transition/)\nEn France enedis va devoir augmenter de 0.6 milliards par an ses investissements pour répondre à ces enjeux [source](https://www.enedis.fr/presse/transition-ecologique-enedis-devoile-les-travaux-preparatoires-son-futur-plan-de).\nOn a actuellement des endroits où les transformateurs ne peuvent plus accepter de puissance supplémentaire. Vous avez ce site de RTE si vous voulez regarder [capareseau](https://www.capareseau.fr/). Investir dans la production de transformateur serait une bonne idée du coup.\n\nJe ne parlerai même pas du réseau gaz, des projets sur l'hydrogène, de notre manque d'investissement sur le chauffage urbain, de la mobilité, etc.",
+        "date": "2024-08-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je sais pas c’est une question de stratégie, il y a déjà plein d’acteurs leaders en Europe sur le renouvelable, EDF est le seul leader sur le nucléaire.\n\nDans un monde idéal EDF devrait devenir leader européen sur l’ensemble des énergies mais si c’est pour perdre tout les contrats étrangers au profit des danois de Vestas pour l’éolien ou des chinois pour le solaire, tout en perdant les compétences sur le nucléaire, ce serait catastrophique pour l’entreprise.\n\nOn parle bien d’une stratégie d’investissement de l’entreprise EDF, pas d’une stratégie d’investissement globale énergie de l’état français.",
+        "date": "2024-08-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je pense que tu sous-estimes la complexité d'un calcul thermique un peu sérieux. \n\nPour faire un calcul thermique, et donner des conseils pertinents, puisque c'est quand même la finalité, il faut :\n\nDécrire les surfaces déperditives :\n\nConnaître la composition des murs, plafonds, planchers bas, menuiseries, volets ainsi que leurs orientations et bien sûr leurs surfaces.\n\nLe type de locaux mitoyens (chauffés, non chauffés fermés, non chauffés ventilés, cave, grenier...), les contacts avec le sol...\n\nSi on veut être un peu fins il faut décrire les ponts thermiques (une liaison dalle béton, mur béton c'est 1W/ml.K donc autant de déperdition que 4 m2 de mur isolé par exemple).\n\nIl faudra aussi renseigner la présence de masques solaires (arbres, autre bâtiment...), l'exposition au vent...\n\nDécrire la ventilation, et. le niveau d'étanchéité à l'air.\n\nDécrire les systèmes :\n\nChauffage, eau chaude, rafraîchissement... Les émetteurs...\n\nDécrire les apports internes (four, éclairage, ordinateur, aquarium...) si on veut être précis ou si il y a des apports importants.\n\nEt une fois qu'on a tout ça, il faut choisir la méthode de calcul (statique ou dynamique, la dynamique étant beaucoup plus intéressante, mais les modèles sont complexes puisqu'il faut intégrer l'inertie, les réglages du thermostat avec abaissement de température la nuit ou en journée, la météo heure par heure...), récupérer les fichiers météo, la course du soleil...\n\nEt même avec tout ça il y a des point aveugles, en particulier tout ce qui concerne l'humidité.\n\nJe doute que tu puisses vraiment simplifier la saisie, et au final l'utilisateur risque de se noyer. \n\nEt quoi qu'il arrive il n'aura pas la vision d'un professionnel de la thermique.",
+        "date": "2024-08-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Merci pour toutes ces précisions, hyper intéressant!   \nC'est sur que ca va être dur de récolter les infos précises, en particulier sur le statut d'isolation et déperditions locales. Je me dis que certaines infos sont plus réalisables:  \nLe masque solaire, exposition solaire (arbres, ombres, etc), vent et humidité peuvent se calculer sans entrées (image satellite, données de reanalyse type ECMWF, satellite, [https://sunroof.withgoogle.com/](https://sunroof.withgoogle.com/) ).   \nMitoyen peux se trouver avec les infos de cadastre.gouv.   \nAvec une photo de l'étiquette du système de chauffage existant -permettant de voir la puissance entre autres- et une facture d'electricité, combinée au plan de la maison et de la température souhaité dans la maison, je me dis qu'on peut faire pas mal de règles de 3 pour déduire des infos sur la déperdition énergétique.  \nUne photo des radiateur pourrait également amener la pertinence ou non d'une PAC (si on arrive a sortir le type de radiateur, la surface de chauffe,etc)  \nQu'en penses tu? [https://rt-re-batiment.developpement-durable.gouv.fr/IMG/pdf/consolide\\_annexe\\_1\\_arrete\\_du\\_31\\_03\\_2021\\_relatif\\_aux\\_methodes\\_et\\_procedures\\_applicables.pdf](https://rt-re-batiment.developpement-durable.gouv.fr/IMG/pdf/consolide_annexe_1_arrete_du_31_03_2021_relatif_aux_methodes_et_procedures_applicables.pdf)",
+        "date": "2024-08-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ta question est assez vague car cette démarche est à étudier du toit au sous sol en passant par le jardin…\nÇa dépend aussi des matériaux que tu as en place déjà.\n\nContinues tes recherches et ça se mettra en place comme un puzzle.\nPar exemple pour une isolation externe il est préférable de faire les fenêtres avant les murs… \n\nTrès important aussi, ta façon de vivre est à remettre en cause… \nJe prends l’exemple de quelqu’un qui installe des panneaux solaires voltaïques et qui continue de lancer des machines à laver la nuit … \n\nLes réponses ne sont pas faciles évidement et les solutions clés en mains en général elles viennent avec de nouvelles maisons (et encore)…",
+        "date": "2024-08-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je ne suis pas du domaine...\n mais de ce que je comprends: \nLorsque tu concentres la lumière du soleil avec des miroirs vers un panneau solaire, tu concentres aussi la chaleur .\nLes panneaux solaires voient leur rendement baisser avec la température. Donc il faudrait les refroidir \nDonc j'imagine qu'il est plus simple/moins coûteux de simplement mettre des panneaux solaires plutôt qu'un système plus ou moins complexe de miroirs, systèmes de refroidissement, etc?",
+        "date": "2024-08-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Comment ça on ne l'utilise pas ? Cela s'appelle des centrales de concentration solaire ou centrales hélio thermodynamiques. Il y en a au moins une en France , plusieurs en Espagne etc..\n\nCe type de centrale a un rendement plus important que le photovoltaïque mais demande un investissement de construction extrêmement plus important. Compte-tenu la chute du prix du photovoltaïque (merci à la Chine pour avoir rempli le marché avec trop d'offre) , celui-ci est aujourd'hui plus intéressant d'un point de vue économique.\n\nLes centrales à concentration solaire ont par contre d'autres avantages, notamment de pouvoir être utilisés pour effectuer le thermocraquage solaire de l'eau pour produire de l'hydrogène (ce qui a un meilleur rendement que le photovoltaïque + électrolyse). Ou encore, comme moyen pour permettre l'électrolyse à haute température (rendements de production d'hydrogène à partir d'électricité environ 90% au lieu de 80%).",
+        "date": "2024-08-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Là c'est du solaire thermique du coup, pas du photovoltaïque. Mais quels sont les limites du système, je me demande. C'est peut-être moins low-tech que ça en a l'air.\n\nSinon il y avait aussi un essai assez cool il y a une quinzaines d'années, en Espagne, de tour \"éolienne\" solaire. En gros une grande serre circulaire avec une tour à vent au centre, équipée d'une turbine. Ça combinait une utilité de serre de production horticole et de centrale éolienne. Je me demande ce que c'est devenu.",
+        "date": "2024-08-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je ne suis absolument pas un connaisseur du sujet, donc je ne vais pas chercher à en discuter, mais il y a des \"centrales solaires thermodynamiques\" en fonctionnement.\n\nAlors je laisse le lien wiki au cas où ça pourrait servir : [https://fr.wikipedia.org/wiki/Centrale\\_solaire\\_thermodynamique](https://fr.wikipedia.org/wiki/Centrale_solaire_thermodynamique)",
+        "date": "2024-08-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le plus important c'est le coût. Si tu veux une technologie pour sauver la planète avec de l'énergie non polluante, il va falloir le faire à très grande échelle, et pour ça il faut que ça coûte le moins cher possible. Chaque centime compte. Si c'est trop cher, ça restera une curiosité.\n\nLe solaire à concentration avec les miroirs c'est bien sur le papier. Il y a eu des centrales prototypes, mais en pratique les projets ne se développent pas vraiment. Entre le solaire à concentration et le photovoltaïque, c'est ce dernier qui a gagné,  parce que le photovoltaïque est moins cher.\n\nEn France aujourd'hui tu peux acheter un panneau de 400W pour 90€ prix au détail. Tu le montes sur une structure en ferraille. Il n'y a aucune pièce mobile, pas d'entretien. Bien sûr sans tracker pour l'orienter vers le soleil, son rendement sera plus faible. Mais rajouter plus de panneaux pour compenser la perte de rendement coûte moins cher que de mettre des trackers!\n\nLe solaire à concentration demande beaucoup de mécanique. Il faut contrôler précisément l'orientation des miroirs. C'est un système subtil, qui demande des mécanismes compliqués, chers, qui tombent en panne. Chaque miroir doit être monté sur un dispositif d'orientation individuel. Ensuite, tu obtiens de la chaleur à haute température, ce qui est vraiment utile. Mais tu as encore besoin de machines très chères pour en faire quelque chose d'utile.\n\nEt il y a un autre détail : le solaire à concentration ne fonctionne que par ciel dégagé. Si il y a des nuages, les rayons du soleil sont diffusés dans toutes les directions, il est impossible de les réfléchir dans une direction contrôlée pour viser le concentrateur. Donc ton investissement dans une centrale à concentration n'est rentable que l'été.",
+        "date": "2024-08-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Bonjour, de toute façon un panneau solaire est OK pour une utilisation faible (charger un téléphone ou une gazinière) mais ce n'est pas une solution viable surtout en France...\n\nMettre en place et concevoir des miroirs serait coûteux et inutile",
+        "date": "2024-08-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La meilleure énergie renouvelable c'est celle qu'on ne consomme pas ! Commençons par isoler les maisons avant de construire des éoliennes et des champs de panneaux solaires, la Terre nous remerciera.",
+        "date": "2024-08-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Four solaire d'odeillo\n\nhttps://fr.m.wikipedia.org/wiki/Four_solaire_d%27Odeillo",
+        "date": "2024-08-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je pense qu'il y a un marché énorme pour des robots effectuant des tâches du type de celles que les humains peuvent effectuer, comme par exemple ramasser des mégots de cigarette. J'adorerais par exemple avoir un robot chez moi qui tue à la tapette à mouche les mouches et moustiques qui me pourrissent la vie sans utiliser d'insecticides. On peut penser aussi à nettoyer les espaces publics des villes qui sont souvent sales, débroussailler à la main, ce qui est toujours le plus écologique.\n\nA terme, le coût d'actions effectuées par ce type de robots sera beaucoup moins élevé que celui du travail fait par des humains. Le coût d'une heure de travail humain est de l'ordre de 30€, alors que le coût de l'énergie pour faire fonctionner une machine équivalent (autour de 1KWH par exemple) est de 25ct, voire beaucoup moins avec le solaire. Si on optimise la construction et la maintenance, on peut vraiment être moins cher.",
+        "date": "2024-08-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Aujourd'hui, ce qu'on appelle \"base\" tend de plus en plus à désigner une capacité de production pilotable + imports minimale à maintenir opérationnelle.\n\nLa logique est de considérer que tout ce qui n'est pas fiable (le solaire, l'éolien, une partie de l'hydraulique et une partie des imports) n'existe pas et qu'il faut pouvoir satisfaire la demande (corrigée d'une incertitude sur la précision de l'estimation). \n\nTant que ces ressources intermittentes produisent, on ne recourt pas à la totalité de cette capacité de base, on creuse dans la base. Et quand elles ne produisent plus, la base c'est ce qu'on est content de retrouver pour s'éviter la pénurie.\n\nEt donc oui, ce besoin demeure un argument en faveur du nucléaire.\n\nCe concept tendrait même à être en défaveur des énergies intermittentes puisqu'il souligne qu'on a besoin de capacités pilotables de manière quasiment indépendante de la quantité d'éolien ou de solaire qu'on raccordera au réseau. Le solaire et l'éolien viennent alors rogner sur la production des moyens de base (c'est positif quand ceux-ci sont fossiles, négatif pour le nucléaire qui voit son coût accru) tout en augmentant la complexité de la gestion, donc les coûts de gestion.",
+        "date": "2024-08-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "En même temps, quand tu vois les maisons qui sont faites aujourd’hui qu’on force même pas les gens à avoir une isolation très importante alors qu’on sait que l’isolation est le seul système efficace sans entretien sans goût annexe qui permet de faire des économies d’énergie. c’est n’importe quoi. Le RT 2020 C’est comme le RT 2012 avec une VMC et un panneau solaire cela n’a aucun sens. Les gens font n’importe quoi ils en ont rien à foutre c’est as-tu vu j’ai la plus grosse.",
+        "date": "2024-08-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Je sais que OP est tout à fait persuadé que la transition énergétique passe par l'hydrogène, cependant je pose ça ici, surtout si on commence à parler d'investissement :\n\n&gt;https://www.revolution-energetique.com/utiliser-de-lhydrogene-dans-les-centrales-a-gaz-pourrait-etre-une-tres-mauvaise-idee/\n\nMerci pour ton lien qui n'a strictement rien à voir avec ce que j'ai partagé.. Au moins que le lien soit avoir le mot \"hydrogène\" en commun. 🤔\n\nDans l'article que j'ai partagé et t'as pas lu:\n\n« Dotée de neuf lignes d’assemblage, cette gigafactory de 5000 m² va produire des piles à combustible de plus de 1 MW **destinée au transport maritime via un partenariat avec ABB, à la mobilité lourde ferroviaire et à la production d’électricité pour les réseaux électriques publics**, principalement à l’export. »\n\n« **HDF Energy développe en outre-mer des parcs solaires avec un stockage d’hydrogène permettant de fournir de l’électricité la nuit.** »\n\nCela ne t'empêche pas de partager un article qui parle de l'injection de l'hydrogène dans le réseau de gaz naturel, procès qui n'utilise même pas de pile à combustible...",
+        "date": "2024-08-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "35 degrés humides, c'est ce que vit le Japon depuis un siècle, ils n'en sont pas morts, et ils installent des clims qui renchérissement les coûts des logements d'un insupportable 0.8% en moyenne et utilisent beaucoup moins d'énergie que nous chauffages, et de plus à un moment où l'électricité est gratuite grâce au solaire.\n\nEt ils sont devenus un grand pays développés avant d'installer la clim.",
+        "date": "2024-08-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Le problème avec un chauffe eau solaire ce n'est jamais de chauffer l'eau (tu pourrais avoir un tas de tuyaux noirs en vrac dehors ou sur le toit et ça ferait le job) c'est de la faire circuler sur le toit sans fuites (et sans abimer le toit en installant ton dispositif)\n\nEt d'avoir un plan pour quand ça va surchauffer une semaine entière à fond alors que tu ne t'en sers pas.",
+        "date": "2024-08-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Entre ça et leur implantation massive de panneaux solaires; ce sont de très bonnes nouvelles.",
+        "date": "2024-08-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Les centrales à charbon poussent comme des pissenlits (https://globalenergymonitor.org/fr/press-release/chinas-coal-power-spree-could-see-over-300-coal-plants-added-before-emissions-peak/). La Chine n'est pas très sensible au changement climatique. Elle s'impose néanmoins comme leader maintenant dans la construction du nucléaire, l'éolien et le solaire... mais ça ne compense en rien la pollution générée sur des décennies.",
+        "date": "2024-08-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "J'ai décidément un problème avec la superficie des fermes solaires - impossible d'écrire Km2 toujours m2 - ces projets doivent beaucoup trop m'impressionner 😅 C'est modifié !",
+        "date": "2024-08-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui c'est vrai, comme l'énergie ne se stocke pas bien, il faut quelque chose pour faire l'appoint. Du charbon ou peut-être à préférer le nucléaire. Je ne sais pas si ils ont du nucléaire civil, si non, alors le solaire réduit leur charbon ce qui est déjà pas mal.\n\nSi ils n'ont pas un coup de grêle ou je ne sais quoi qui oblige à rechanger tous les panneaux bien avant leur usure normale...",
+        "date": "2024-08-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "En Inde c'est surement encore léger : ils ont des besoins énormes de climatisation qui ne vont faire que augmenter et par nature cette consommation là est proche de la courbe de production solaire.\n\nMais bon nous on a besoin de produire en hiver quand il fait gris avant tout donc on ne peut pas s'inspirer de leurs réussites sur ce sujet là... En France 14.9GWc, c'est pas loin de l'équivalent d'un panneau de 350-400Wc par habitation et ça couvrirait probablement l'intégralité de la consommation résidentielle de journée 6-8 mois par an.",
+        "date": "2024-08-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "C’est pas tout à fait ça. Le solaire se substitue au charbon qui était la première source d’électricité. Ils ne construisent pas des centrales charbon pour gérer l’intermittence.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je n’ai pas affirmé que le solaire allait remplacé le charbon. Et le ministre a raison il faut du stockage pour gérer l’intermittence. La bonne nouvelle est que le stockage voit ses prix s’effondrer depuis dix ans.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ce qui est une excellente nouvelle puisque ça réduit leur consommation de charbon.\n\nPar contre, comparez ça à un réacteur nucléaire est totalement stupide, le solaire ne marche pas en permanence quand tu en as besoin. De plus, ton \"pour la moitié du coup\" mériterait d'être sourcé parce qu'aux dernières nouvelles, c'est faux puisque si on veut comparer, il faut prendre en compte les prix du stockage (ou les coûts d'un moyen de production alternatif) et d'adaptation du réseau (je ne sais pas pour l'inde, mais en France cela demanderait des adaptations).",
+        "date": "2024-08-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Je n’ai pas affirmé que le solaire allait remplacé le charbon. \n\nVous faites le troll ou quoi ?\n\n&gt; Et le ministre a raison il faut du stockage pour gérer l’intermittence. La bonne nouvelle est que le stockage voit ses prix s’effondrer depuis dix ans.\n\nQuel type de stockage a vu son prix s'effondrer depuis dix ans ? Qu'est-ce que l'Inde pourrait utiliser comme stockage à l'échelle d'un pays pour s'en passer des centrales à charbon ? Amusez-nous svp..",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La question du stockage\n\nLe dérèglement climatique a divers types de répercussions sur la distribution d’électricité. Les épisodes de chaleur extrême entraînent un recours accru à la climatisation tout en réduisant l’efficacité des panneaux solaires, ce qui limite d’autant l’approvisionnement. Les fortes températures peuvent provoquer un affaissement des câbles et une surchauffe des transformateurs, empêchant ces équipements de fonctionner et accentuant les risques d’incendie.\n\nDans un contexte de hausse des températures, il convient dès lors de renforcer la capacité des réseaux à encaisser ces chocs, notamment grâce au stockage, afin de pouvoir répondre aux pics de la demande et gérer les tensions sur l’approvisionnement. Directeur général du distributeur National Grid au Royaume-Uni, John Pettigrew appelle de ses vœux la création d’un “super-super-réseau” – un réseau à plus haute tension [que les lignes existantes] qui raccorderait les pays entre eux.\n\nAu Mexique, les pannes d’électricité deviennent monnaie courante à mesure que les étés se font plus chauds et plus secs, et que l’économie en plein essor sursollicite le réseau. Des difficultés qui poussent les entreprises à envisager des solutions de secours coûteuses pour assurer la poursuite de leurs activités, en faisant notamment tourner des groupes électrogènes au gazole.\n\nEn juin dernier, les coupures de courant survenues dans la ville de Chihuahua, dans le nord du pays, ont empêché les pompes de fonctionner, privant d’eau plus de 70 000 personnes pendant quinze jours. Ces défaillances à répétition ont obligé les producteurs laitiers et les fromageries de la région à dépenser jusqu’à 50 000 pesos [2 400 euros] par jour en carburant pour alimenter les groupes électrogènes afin de pouvoir faire tourner les salles de traite et les équipements de réfrigération.",
+        "date": "2024-08-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "En réalité c'est un peu plus compliqué que ça, le solaire est relativement bien corrélé aux usages (quand il fait soleil il y a généralement de l'activité économique, des gens qui utilisent la clim, etc etc), et sauf l'occasionnelle éclipse tu as du soleil 365 jours par an.\n\nLe PV a aussi l'avantage que tu peux le greffer facilement à du réseau déjà existant, notamment le petit PV (tu peux même l'avoir directement sur site et sans rajouter de raccordement, exemple les panneaux qui se branchent sur secteur à la maison), sans avoir besoin d'adapter grand chose. Typiquement, brancher du PV sur le raccordement d'un parc éolien conduit à peu de pertes parce que les profils de production sont assez différents et que la perte de production se situe en été. Si tu rajoutes un peu de stockage c'est encore mieux et tu peux encore diminuer ton raccordement. \n\nBref, c'est effectivement assez dur à comparer, parce que sur les renouvelables tu as énormément de configurations possibles",
+        "date": "2024-08-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "En réalité c'est un peu plus compliqué que ça, le solaire est relativement bien corrélé aux usages (quand il fait soleil il y a généralement de l'activité économique, des gens qui utilisent la clim, etc etc), et sauf l'occasionnelle éclipse tu as du soleil 365 jours par an.\n\nLe PV a aussi l'avantage que tu peux le greffer facilement à du réseau déjà existant, notamment le petit PV (tu peux même l'avoir directement sur site et sans rajouter de raccordement, exemple les panneaux qui se branchent sur secteur à la maison), sans avoir besoin d'adapter grand chose. Typiquement, brancher du PV sur le raccordement d'un parc éolien conduit à peu de pertes parce que les profils de production sont assez différents et que la perte de production se situe en été. Si tu rajoutes un peu de stockage c'est encore mieux et tu peux encore diminuer ton raccordement. \n\nBref, c'est effectivement assez dur à comparer, parce que sur les renouvelables tu as énormément de configurations possibles",
+        "date": "2024-08-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Historiquement c'est beaucoup lié aux peurs associées au nucléaire (déchets éternels, Tchernobyl) qui viennent des approches technophobes et réactionnaires de certains pans de l'écologie qui portent un retour à la nature, à la simplicité, etc. Et malheureusement ça parle beaucoup. \n\nLes critiques contemporaines parlent aussi des difficultés du temps long de l'investissement dans un monde de plus en plus rapide, que ça renforce le complexe militaro-industriel (à opposer au solaire individuel ou à l'éolien/hydraulique communal ou régional perçus comme plus démocratiques), que la meilleure énergie est celle qu'on ne consomme pas (réduire la conso plutôt que faire une centrale), que l'énergie nucléaire va permettre de faire des transitions nulles (passer à la voiture électrique plutôt qu'au vélo/transports en commun, pas isoler les bâtiments, etc.), des risques militaires (c'est plus facile de péter une centrale que 100000 panneaux solaires), des risques en cas d'effondrement de la société, etc.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le danger peut quand même être relativisé vu que par rapport à l'énergie produite, le nucléaire tue autant que l'éolien ou que le solaire",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Tout comme l'infrastructure nécessaire pour exploitation des energies renouvelable. De mémoire l'ordre de grandeur en terme de durée de vie c'est 20 ans pour les  panneaux solaire et éoliennes.",
+        "date": "2024-08-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Franchement c’est navrant. En quoi l’éolien ou le solaire tuent? Ce sont des énergies qui on certes des défauts, mais là vous êtes ridicules.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Par exemple : [2 techniciens s'enlacent avant de mourir lors de l'incendie d'une éolienne](https://www.koreus.com/image/85-insolite-05.html)\n\n\nPour le solaire : électrocutions, chute du haut d'un toit lors de l'installation ou la maintenance etc.\n\n\nLe risque zéro n'existe pas. \n\n\n[Nombre de morts par térawatt-heure d'électricité produite dans le monde en 2020, à cause de la pollution de l'air et d'accidents, selon la source de production d'énergie](https://fr.statista.com/statistiques/1382848/nombre-morts-par-source-de-production-d-electricite/)\n\n\n\n\nÉolien : 0,04\n\n\nNucléaire : 0,03\n\n\nSolaire : 0,02",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Tout ce qui est panneau solaire et éolienne dépendent de matériaux qui le sont encore moins.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;le nucléaire tue autant que l'éolien ou que le solaire\n\nAlors pour le coup, non, on est à 4 fois moins de mort dans la filière nucléaire comparé à l'éolien et le solaire posé sur toit.\n\nhttps://www.clubic.com/energie-renouvelable/actualite-875165-nucleaire-provoque-morts-solaire-eolien.html\n\nLien sortit du chapeau, mais qui cite différentes études.\n\n&gt; nucléaire ne causerait pas plus de 0,04 morts par milliard de kilowattheures produits. C'est-à-dire 3,75 fois moins que l'éolien, 11 fois moins que le solaire posé sur toit, 35 fois moins que l'hydraulique, 100 fois moins que le gaz naturel, 600 fois moins que la biomasse, 900 fois moins que le pétrole, et 2 500 fois moins que le charbon...",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Commence par te renseigner sur les dégagements extrêmement toxiques liés au processus d'extraction des métaux rares et terres rares, plusieurs dizaines de fois plus polluants que celui de l'uranium (du fait de la concentration de celui-ci dans les zones de minage), en particulier effectué par des entreprises d'état chinoises (plus de 80% du marché on le rappelle) sans aucun respect pour les réglementations environnementales. \n\nLe nombre de décès liés à la pollution de l'air dans les régions de Mongolie extérieure et du Xinjiang à proximité de sites d'extraction de terres rares utilisées pour des panneaux solaires ou des éoliennes est juste absurde, sérieusement. C'est une arnaque à l'échelle planétaire.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "la qualité éconologique du renouvelable est discutable:\n\n-la biomasse se renouvelle trop lentement et balance énormément de co2 dans l'atmosphere\n\n* l'éolienne et le solaire sont pour l'instant surtout du domaine du lobbying, mais sont extremement polluants à la construction, lors de l'entretien, et surtout lors de la mise au rebut.\n* l'utilisation de centrales \"de recyclage\" nous donnerait une autonomie de 1000 ans, rien qu'avec les déchets des centrales francaises en france. ca me parait suffisant pour commencer: l'horizon du pétrole est à 50 100 ans.\n\nseule une sobriété extreme est cohérente dans le domaine de l'écologie. en attendant, seul le nucléaire tient la route. seule la reculade dans le domaine du nucléaire justifie l'existence d'un mix énergetique: parce que voynet nous a fait perdre 20 ans . 20 ans dont nous aurions eu besoin pour nous passer du gaz.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sauf que 1GW de solaire ca ne produit pas autant que 1 GW de nucléaire",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Vu votre véhémence j’ai pris le temps de vérifier : 95% des panneaux solaires ne contiennent pas de terres rares. Ce n’est pas indispensable à cette technologie, donc inutile de s’exciter autant pour disqualifier les ENR vs nucléaire. Au final on comprends ce qui vous motive, une idéologie tenace. https://www.ecologie.gouv.fr/actualites/y-voir-clair-solaire",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; en oubliant que la voiture électrique elle a été rechargée avec un groupe électrogène et qu’elle pèse 3t\n\nPerso j’ai une voiture électrique, elle pèse 1.5T et elle est rechargé avec des panneaux solaires 🤷🏼\n\nJe crois que tu es resté bloqué en 2010.",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La garantie d'un panneau solaire pour particulier est souvent de 25 ans. La durée réelle est sans doute un peu plus longue.\nMais effectivement, rien n'est éternel.",
+        "date": "2024-08-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Merci de ne pas prétendre être dans ma tête et de ne pas t'imaginer \"ce qui me motive\", ça n'est rien de plus qu'un exercice en mépris de ta part.\n\nLa seule idéologie qui me pousse, c'est de maîtriser notre énergie et notre production de carbone. Tant qu'on dépendra de la Chine, un État hostile à la France, opposé aux droits de l'Homme et negationniste du réchauffement climatique, pour le germanium des panneaux solaires (67% de la production mondiale), le vanadium (55%) ou les terres rares en général (95%), ça ne sera pas le cas.\n\nOr, les panneaux photovoltaïques c'est pas les 95% ok qui posent problème, c'est les 5% restants. Et on a peut-être des sites d'assemblages en France, mais les matières premières sont bien extraites et raffinées quasi-intégralement en Chine. C'est la plus grande opération de greenwashing de l'histoire.\n\nAlors oui, le renouvelable ça tue, c'était ça le sujet de base de la conversation, pas un concours de bite avec le nucléaire.\n\nprospective-innovation.org/notes-lecture/la-guerre-des-metaux-rares/",
+        "date": "2024-08-27",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Et les terres rares utilisées pour les panneaux? Dans 10 ans ils vont à la benne en plus. \nEn terme d'empreinte c'est pas un scoop que le solaire est pas si fou.",
+        "date": "2024-08-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "[\"Les technologies solaires photovoltaïques actuellement \r\ncommercialisées n’utilisent pas de terres rares.\"](https://librairie.ademe.fr/ged/8006/photovolta__que-012221-6.pdf)\n\n[\"la longévité d’un panneau solaire peut s’étaler jusqu’à 30 ans, voire 50 ans si les modules en question sont robustes.\"](https://www.quelleenergie.fr/questions/duree-vie-panneaux-solaires)",
+        "date": "2024-08-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dans tous les cas, la durée de vie d'un manteau solaire est bien supérieure à 10 ans.\nEn effet, on ne les fabrique pas en bois, mais principalement en silicium, le deuxième élément le plus abondant dans la croûte terrestre.",
+        "date": "2024-08-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Indium et gallium pour certains panneaux (on ne sait pas pour ceux là), et la croute terrestre c'est large, certes on manque pas de sable apres le traitement du sable en question est polluant aussi. \nJe dis pas qu'il faut zero solaire nonobstant mais ptet ponderer l'enthousiasme dessus.",
+        "date": "2024-08-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le nucléaire et les ENR ne sont pas incompatibles. On peut faire beaucoup de choses avec les ENR mais dans certaines régions c'est quand même limité - on n'alimentera pas Paris avec des panneaux solaires.",
+        "date": "2024-08-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Oui, je répondais juste à la personne qui parle de 365 jours de production solaire, ce qui est factuellement pas faux même un jour de pluie (tu dois bien pouvoir produire quelques kWh dans la journée avec ton site vendu pour plusieurs dizaines de MW crête), mais de là à pouvoir faire tourner un pays industrialisés avec du solaire en grande partie c'est une utopie. Il faut énormément de stockage pour que cela soit faisable, mais là ça devient économiquement pas la même...",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Toute activité humaine est polluante. Mais s'il y a un rapport de 1 à 20 entre les émissions de CO2 du solaire et du charbon, c'est pas pour rien.",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Il peut le devenir si leq ecolo arrête de lutter contre et si le gouvernement mise sur la 4eme génération. Au passage le solaire et l'éolien dépende d'aluminium et de métaux rare qui ne sont pas plus renouvelables au final.",
+        "date": "2024-08-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "En Inde, le solaire diminue la part du charbon, pas du nucléaire.",
+        "date": "2024-08-28",
+        "sentiment": "negative"
+    }
+]

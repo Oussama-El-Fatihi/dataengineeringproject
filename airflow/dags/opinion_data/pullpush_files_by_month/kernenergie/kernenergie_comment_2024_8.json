@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Mit der Entscheidung des ersten Bundes-Kabinetts Merz für den Wiedereinstieg in die Kernenergie wird das alles in Ordnung kommen /s",
+        "date": "2024-08-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Nukleare Energie ist absolut nicht die Lösung, sorry. Die Franzosen haben gefühlt jedes Jahr im Sommer eine veritable Energiekrise, weil das Wasser zur Kühlung fehlt. Und wenn dann ein AKW saniert werden muss, fehlt es wieder an Geld. Ich rede gar nicht von der Endlagerung, Kernenergie hat zu viele politische Schwachstellen.",
+        "date": "2024-08-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mit der Entscheidung des ersten Bundes-Kabinetts Merz für den Wiedereinstieg in die Kernenergie wird das alles in Ordnung kommen /s",
+        "date": "2024-08-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Danke, das ist wirklich lustig: weil EE Priorität haben, wird keine vernünftige Auslastung der Kernkraftwerke angenommen, also sind sie teuer. Die hohen angenommenen Kosten der Kernenergie sind also Kosten der Energiepolitik und nicht der Kernenergie. ",
+        "date": "2024-08-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "TL;DR bzw. Übersetzung Abstract:\n\nDeutschland hat eine der ehrgeizigsten Energiewende-Politiken, um Kern- und fossile Energien durch erneuerbare Energien wie Wind-, Solar- und Bioenergie zu ersetzen. Zwischen 2002 und 2022 wurden die Treibhausgasemissionen um 25 % reduziert. Die geschätzten Gesamtausgaben für die Energiewende belaufen sich auf 696 Milliarden Euro. Eine Alternative wäre gewesen, die Kernenergie beizubehalten und auszubauen, wodurch die Emissionen um 73 % hätten gesenkt und die Kosten halbiert werden könnten. Daher hätte Deutschland eine auf Kernenergie basierende Energiepolitik verfolgen sollen.",
+        "date": "2024-08-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Anders herum: dieser Anti-Kernenergie-Fanatismus ist ein ziemlich deutsches Phänomen. Der Rest der Welt wundert oder ärgert sich über den Deutschen Sonderweg. ",
+        "date": "2024-08-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Jedes Land fährt einen Sonderweg\n\nDeutschland ist eines der sehr wenigen Länder, die zum Zeitpunkt der kritischen Phase im Kampf gegen den Klimawandel und steigender Energiekosten einen ideologisch bedingten vollständigen Ausstieg aus der Kernenergie inklusive der Abschaltung bestehender, sicher laufender und CO2-neutralen billigen Strom produzierender AKWs abgeschaltet haben. \n\nDas Editorial Board der Washington Post, Le Monde oder die NYT sind jetzt nicht irgendwelche Privatpersonen, sondern schon repräsentativ. Aber ok …\n\nhttps://www.politico.eu/article/greta-thunberg-germany-using-coal-over-nuclear-bad-idea/\n\nhttps://x.com/marcusgilmer/status/1044604107997237249\n\nhttps://www.reuters.com/article/world/obama-tells-eu-to-do-more-to-cut-reliance-on-russian-gas-idUSBREA2P0W2/\n\nhttps://unece.org/climate-change/press/international-climate-objectives-will-not-be-met-if-nuclear-power-excluded",
+        "date": "2024-08-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "China ist immer noch “arm”. Und Deutschland war vor 40 Jahren auch größten Teils Kohle + Kernenergie.",
+        "date": "2024-08-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Also so wie es aktuell aussieht, ist Fusionsenergie wahrscheinlich nicht die Lösung, da hast du recht. Die technischen Herausforderungen sind riesig und selbst im besten Fall würde es extrem teuer und auch sehr Zeit- und -Ressourcenintensiv werden. Wir können aber noch nicht mit abschliessender Sicherheit sagen, dass sich das nicht durch neue Ekenntnisse ändern könnte.\n\nDie Vorteile von Fusionsenergie, wenn man es tatsächlich im grossen Maßstab nutzen könnte sind aber enorm - viel weniger Ressourcen notwendig, die in grösserer Menge verfügbar sind - so viel, dass man unseren jetzigen Bedarf für Jahrhunderte decken könnte  und sehr viel weniger gefährliche radioaktive Endprodukte. Bei Fusionsenergie würde man auf die Fusion von Wasserstoffatomen zu Heliumatomen setzen, meines Wissens gibt es keine realistische andere Option. Dabei werden unglaubliche Mengen an Energie freigesetzt, viel mehr als bei Kernspaltung.\n\nDen globalen Energiebedarf mit konventioneller Kernenergie (auf Basis von Uran) abzudecken ist hingegen unmöglich, selbst abgesehen von den Herausforderungen und Kosten Kernkraftwerke sicher zu bauen, existiert schlicht nicht genug spaltbares Material auf der Erde um auf längere Sicht den Bedarf zu decken. Eventuell könnten Thoriumreaktoren deutlich mehr Gesamtenergie liefern, da es viel mehr Thorium als Uran auf der Erde gibt. Die Sicherheit und Umsetzbarkeit der Technologie ist auch umstritten, aber es könnte potentiell funktionieren. Da es viele Jahre dauert ein Kraftwerk zu planen und zu bauen und die dafür verfügbaren, ausgebildeten Fachkräfte sehr limitiert sind, hat das aber auch im besten Fall Grenzen.",
+        "date": "2024-08-23",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Noch im November 2021 lehnt Söder einen Wiedereinstieg in die Kernenergie ab: \"Der Beschluss zum Atomausstieg basiert auf einer breiten gesellschaftlichen Akzeptanz.\" \n\nhttps://www.zdf.de/nachrichten/politik/soeder-atomkraft-merz-akw-laufzeit-100.html",
+        "date": "2024-08-24",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Mit der Novelle des Atomgesetzes vollendet die rot-grüne Koalition (1998 bis 2005) am 22. April 2002 eines ihrer wichtigsten Vorhaben: Das „Gesetz zur geordneten Beendigung der Kernenergienutzung zur gewerblichen Erzeugung von Elektrizität“ änderte die seit 1959 in der Bundesrepublik geltende Rechtslage grundlegend. An die Stelle des bisherigen Atomförderungsgesetzes trat ein neues Atomausstiegsgesetz.\n\n&gt; Bereits im Koalitionsvertrag hatten SPD und Bündnis 90/Die Grünen angekündigt: „Der Ausstieg aus der Nutzung der Kernenergie wird innerhalb dieser Legislaturperiode umfassend und unumkehrbar geregelt.“ Ein erfreulicher Tag war es dann auch für den damaligen Bundesumweltminister Jürgen Trittin (Bündnis 90/Die Grünen), als das Atomausstiegsgesetz am 14. Dezember 2001 in dritter Lesung mit den Stimmen der rot-grünen Koalitionsmehrheit den Bundestag passierte.\n\n\nhttps://www.bundestag.de/webarchiv/textarchiv/2012/38640342_kw16_kalender_atomaustieg-208324\n\n\nMerkel hat den Ausstieg erst verzögert und wegen Fukushima dann beschleunigt. Beschlossen wurde er aber ursprünglich von Rot/Grün.",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Auf die kWh gerechnet is Atomenergie die sicherste sogar... Auf die letzten bald 80 Jahre gerechnet sind wahrscheinlich allein dieses Jahr mehr Leute bei stromschlägen bei der Installation von Solaranlagen gestorben als es kumilativ bei der Kernenergie der Fall ist.\n\nBeim Rest bin ich bei dir. Der nuklear Zug ist abgefahren",
+        "date": "2024-08-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "In einem [anderen Artikel dazu](https://www.nzz.ch/schweiz/roesti-setzt-sich-bei-seinem-kernthema-durch-der-bundesrat-will-das-akw-bauverbot-aufheben-ld.1845881) wird Rösti indirekt u.a. folgendermaßen zitiert:\n\n&gt;Indem die Kernenergie nicht mehr kategorisch ausgeschlossen wird, soll die Schweiz neue Spielräume für eine sichere, klimafreundliche und unabhängige Stromversorgung gewinnen. Sonst müsse man sich vielleicht einmal arge Vorwürfe späterer Generationen gefallen lassen, warnte der Energieminister.\n\nVorwürfe späterer Generationen, weil man *nicht* Atomkraft nutzen wollte - so ein Satz wäre aus deutschem Politikermund nahezu undenkbar. Verdeutlicht ganz gut, dass das Thema in Deutschland nach wie vor *ganz* anders behandelt und \"diskutiert\" wird.",
+        "date": "2024-08-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wenn man nicht an den reinen Stromgestehungskosten (LCoE) klebt, sondern Systemkosten mit einbezieht, stellt man fest, dass einen der Verzicht auf Kernkraft mehr kostet:\n\nZum Beispiel diese [Studie des französischen Netzbetreibers RTE](https://assets.rte-france.com/prod/public/2021-10/Futurs-Energetiques-2050-principaux-resultats_0.pdf), auf welchem Wege Klimaneutralität am kostengünstigsten erreicht werden kann. Annahmen: Ausbau von erneuerbaren Energien, und dazu unterschiedlich große Anteile von Kernenergie (siehe grafische Übersicht auf S. 31). Ergebnis: **Je geringer der Atomkraftanteil, umso teurer wird das Erreichen der Klimaneutralität.** Am teuersten ist Szenario M1 (100% EE mit dezentralem Ansatz); am günstigsten N03. Money quote: \"Dieser \\[Kosten-\\]Vorteil würde sich erheblich verringern, bleibt aber bestehen, \\[selbst\\] wenn die Kosten für neue Kernreaktoren nicht sinken und in der Nähe der Kosten für den EPR Flamanville bleiben.\"\n\nHeißt: *Obwohl* eine kWh aus nukular produziert zunächst mehr kostet als eine aus PV/Wind, wirkt sich Kernkraft aufs Gesamtsystem *kostensenkend* aus. Trotz aller Downvotes poste ich sowas ab und an mal in der Hoffnung, dass ein paar Leute mal wenigstens den Gedanken zulassen, dass und warum das sein kann.\n\nNun würde ich liebend gerne eine Systemstudie sehen, die dasselbe seriös für Deutschland durchrechnet. Gibt aber keine. #tja",
+        "date": "2024-08-28",
+        "sentiment": "negative"
+    }
+]

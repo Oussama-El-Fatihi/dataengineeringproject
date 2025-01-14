@@ -1,0 +1,322 @@
+[
+    {
+        "text": "Und [72 GW](https://www.tagesschau.de/wirtschaft/china-setzt-verstaerkt-auf-windkraft-101.html) Windkraft.",
+        "date": "2021-02-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Oder auch: ungefähr genauso viel Solar neu wie Deutschland insgesamt besitzt (Zahl von 2019). Und anderthalb mal so viel Windkraft.",
+        "date": "2021-02-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Natürlich muss insbesondere die Windkraft mehr gefördert werden (und dabei nicht nur Offshore sondern auch an Land, was tun wenn am Meer mal der Wind nicht weht).\n\nAber nur auf Speicher zu hoffen, und das diese kurzfristig auch größere Flauten auffangen ist ähnlich wie auf kurzfristigen Einsatz von Biogas und Wasserstoff zu setzen auf kurze Sicht utopisch. Außerdem lässt das vollkommen außer acht, das auch Energiespeicher große Mengen an Co2 produzieren bei der Herstellung.\n\nWir müssen aus der Kohle raus. Das muss Hauptziel Nummer eins sein. Deshalb müssen wir die Wind und Solarkraft massiv ausbauen... (was durch politische Versäumnisse und Stolpersteine bei Windkraft gerade schwer ist). Aber wenn wir mehr Energie von unbeständigen Quellen verwenden, dann brauchen wir eine Absicherung und die einfachste Kurzfristig realisierbare Option ist nun mal Gas.\n\nGerade dieses Frühjahr hatten wir das Problem das es Dunkel war und auf dem Meer kein Wind blies. Kohle und Gas haben hier die nötige Energie geliefert. Und mit Speichertechnologie wird man solche Flauten auch bei massivem Ausbau der Speicherkapazitäten nicht in den Griff bekommen. Die aktuellen Speicher reichen bei weitem nicht dafür aus (auch wenn hier ebenfalls noch massiv nachgerüstet werden muss).\n\nUnd das Thema Biogas wird nie hohe Prozentanteile unseres Strommixes ausmachen, aber sie nicht zu Nutzen ist ebenfalls Verschwendung. Es gibt sogar Pilotanlagen, welche von mehreren Backstuben in der Umgebung deren Abfälle zu Biogas umwandelt. Hier geht es nicht darum, Flächen extra dafür bereitzustellen, sondern darum Abfälle weiterzuverarbeiten.\n\nIch glaube fest daran, Wasserstoff wird kommen. Besonders wenn wir größere % Zahlen bei den Erneuerbaren erreichen. Erneuerbare Energien produzieren sehr unbeständig, aber wenn sie viel produzieren, braucht man skalierbare Energieabnehmer ansonsten geht diese Energie einfach verloren. Anlagen, welche hauptsächlich Strom in diesen Zeiten beziehen, um Wasserstoff zu erzeugen sollten sich bei weiterem Ausbau (und politischen Wille, aka keine EEG Abgabe auf diesen Überkapazitätsstrom) relativ schnell lohnen. Natürlich wäre es immer noch sehr teuer Wasserstoff zu verbrennen im Falle einer Flaute, aber ein Netzausfall kostet bei weitem mehr.\n\nUnd hier sind wir beim Thema Flaute und warum wir selbst bei großem Ausbau der Erneuerbaren auf kurze Sicht Gas brauchen. Ein Netzausfall muss auf alle Fälle verhindert werden. Man muss mit mindestens 2 Woche Flaute Rechnen ansonsten könnte es zu Stromausfällen kommen. Deshalb sind dezentrale Gaskraftwerke wichtig (diese sind beim Bau und auch während der Idle-Time wesentlich günstiger als große Blockkraftwerke). Mit Gas ist dies einfach zu realisieren.",
+        "date": "2021-02-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Es gibt einen großen Widerstand gegen die Windkraft an Land, aber bei PV-Anlagen auf der Freifläche ist der (noch) nicht im Ansatz so stark. \n\nWenn man sich einmal anschaut, wie viele Landwirte ihre Hallen mit PV gepflastert haben und damit gut verdienen, entbehrt diese Anschuldigung eigentlich auch jeder Grundlage. Wir brauchen die Freifläche wirklich dringend, da kann man nicht einfach akzeptieren dass aus irgendwelchen irrationalen Gründen einige Menschen dagegen protestieren und alles verhindern. Zumal bei PV anders als bei WKA \"Infraschall\", Schattenschlag und Vogeltod nun wirklich nicht als Argumente zählen.",
+        "date": "2021-02-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "\"Wo sind wir denn? Am Abfuck sind wir!\" \n\n10/10 Tirade. Regeln sind wichtig, aber wenn man sich auch diese satirischen Berichte von Extra3 oder das jetzt anguckt, dann kann man echt nur mit dem Kopf schütteln. Gute Sachen (Bahn, Windkraft, der Poet mit seiner Wolle) werden ausgebremst. Ist aber auch eine schwierige Frage, ob Regeln gelockert werden oder  z.b für ihn eine Ausnahmeregelung geschaffen wird. Dann wird es schnell willkürlich. Ändern muss sich auf jeden Fall was.",
+        "date": "2021-02-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich kapiere nicht ganz was da jetzt gebaut werden soll. Erst ist da die Rede von einem Energiespeicher, später aber nur von Leistung und Windkraft.  \n\nAber die Dimensionen sind beeindruckend. Auf Deutschland hochgerechnet wären das ca. 300Mrd., das entspricht ungefähr der gesamten gezahlten EEG Umlage über die letzten 20 Jahre. Und das für ein einziges Projekt...  \n\nIch würde aber wetten das der Spaß später mal &gt;70Mrd kosten wird, ist immerhin ein staatliches Großprojekt Ü",
+        "date": "2021-02-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wasserstoff ist nur ein billiger Vorwand um den Status Quo beizubehalten und eine Energiewende weiter rauszuzögern.\n\nElektrifizierung im Automobilbereich? Das ist doch nur eine Zwischenlösung, man sollte einfach mehr bei Wasserstoff forschen und dann die Verbrenner direkt auf Wasserstoff umstellen. Elektroautos will doch nur die linkgrün versiffte Grethalobby. \n\nKlar, grüner Wasserstoff aus erneuerbaren Energien wäre schön. Wenn man diesen 1) gut speichern, 2) gut transportieren und 3) günstig herstellen könnte. Nur subventioniert man weiterhin Kohleenergie und schafft z.B. bei Windkraft künstliche Hürden, damit man seine Wählerbasis nicht verärgert.",
+        "date": "2021-02-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Kurz gesagt: Ja. Wenn man moderne AKWs stehen hätte, die gerade in der Anfangszeit stehen, wären die eine sinnvolle Alternative, aber alleine schon durch Bauzeit und Baukosten eines AKWs ist es sinnvoller, diese Ressourcen in PV und Windkraft zu investieren anstatt jetzt nochmal anzufangen, welche zu bauen. Die Kohlemeiler sind auch nicht gut, aber auch kein massives Sicherheitsrisiko mit höherem Alter, während AKWs da deutlich limitierter sind - die, die wir haben, können wir nicht guten Gewissens weiterlaufen lassen.",
+        "date": "2021-02-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Die wesentlichen Probleme der Atomkraft sind ja Endlagerung und die Gefahr durch Kernschmelze. Beide lassen sich durch neue Reaktortypen erheblich reduzieren.\n\nDie Problematik der Wassererwärmung durch die Kühlsystem haben Windkraftanlagen und PV ebenfalls in anderer Form durch Bremsung des in der Regel kühlenden Windes und Reflektion.\n\nDie Nachhaltigkeit bei der Windkraft ist aufgrund der verwendeten Materialien und deren Entsorgung auch zumindest etwas in Frage zu stellen.\n\nIch plädiere daher für eine technologieoffene Forschung, was leider zur Zeit nicht mehr stattfindet.",
+        "date": "2021-02-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Deswegen setzt man ja auch nicht nur auf ein Pferd.Leider sind wir aber noch nicht in der lage genug Solarenergie und Windkraft zu speichern um das als alternative zu nutzen.",
+        "date": "2021-02-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Aber keine Ahnung ob man genug Biomasse erzeugt bekommt um alle klassischen Kraftwerke zu ersetzen.\n\nBraucht man doch gar nicht. \nKurz bis mittelfristig werden Speichertechnologien günstig genug und solange die ökonomischen Anreize diese zu betreiben existieren, wird es auch kommen. \n\nLangfristig wird auch die Kooperation zwischen Regionen immer relevanter.\n Die Verluste bei Langstreckentransporten werden immer geringer und gesamteuropäisch könnte man bei entsprechend geringen Velusten alleine schon mit Windkraft den gesamten Kontinent mit Strom versorgen, da Windsysteme nicht kontinentweit ausfallen und wir Windkapazitäten für 10x des aktuellen Energiebedarfs hätten.",
+        "date": "2021-02-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Windkraft und Solarenergie waren auch erstmal unrentabel. Trotzdem sollte man solche Kosten für den Klimaschutz in Kauf nehmen.",
+        "date": "2021-02-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Keine Ahnung, tendenziell brauchen wir mehr Energie mit all den Projekten, die wir vorhaben und noch kommen werden (Verstromung der Energiekreisläufe, Power to X [insbesondere für Schifffahrt], Digitalisierung, Carbon Capture, Serverfarmen, europäische Cryptowährung, vertikale Farmen, Algenfarmen, Gewächshäuser, Entsalzungsanlagen, Kreislaufwirtschaft, Raumfahrt, Weltrauminfrastruktur usw.) (Quelle)[https://futurefuels.blog/im-gespraech/wie-entwickelt-sich-der-strombedarf/ ] nicht die beste, aber es gibt übereinstimmende.\n\nDer wirksamste Klimaschutz wäre Energie sparen, was aber Punkt eins unterminiert, da wir nicht die Späße machen können. (Quelle)[https://www.physi.uni-heidelberg.de/~dubbers/energiewende/text.pdf ]\n\nSektorenkopplung scheint mir ein guter Ansatz zu sein. Ich verstehe es nur nicht so ganz und es scheint auch mit einigen Investitionen verbunden zu sein, wo der Staat natürlich subventionieren muss, um es attraktiver zu machen und den Einstieg zu erleichtern. Vielleicht müsste man auch den Stand der Technik, auf dem Anlagen sein müssen, in kürzeren Intervallen anpassen.\n\nEgal welchen Energieträger man forciert, es hat seine Nachteile.\n1. Von Platzproblemen (Solar, Wasser, Windkraft),\n2. Eingriffen in die Natur (Wasser, Atom),\n3. mangel an Wind, Leute, die gegen den Ausbau bei sich um die Ecke sind (so ziemlich alle außer Solar, was ich so gehört habe), Endlagerung (Atom),\n3. Herstellung, Rück- und Abbau (Windkraft, Atomkraft),\n4. Stabilität, Grundlast- und Spitzenlastdeckung,\n5. Finanzierung (Gezeitenkraftwerken, Osmosekraftwerke),\n6. politische Instabilität (DesertTec in der Sahara, selbst bei Investitionen in die Länder und Ausgleichsvereinbarungen kann man die Stimmung in den Ländern nicht prognostizieren),\n7. Mangelnden Kooperationswillen (Verlagerung der Grundlagenchemie und große Solarfarmen nach Südeuropa, wo mehr Sonne ist),\n8. ökonomische Ineffizienz (Atomkraft),\n9. Mangel an Forschungsmitteln (Atomkraft),\n10. bis hin zu Tote pro MWh (Kohle)\n11. usw.\n\nEs sieht so aus als müssten wir nicht nur einen Tod sterben, sondern mehrere. Es lässt sich also nie ein jeden zufriedenstellender Kompromiss finden. Es wird auf jeden Fall klar, dass ohne supranationale Kooperation und massive staatliche Investitionen in die Zukunft es nicht möglich erscheint, das Problem zu lösen.\n\nP.S. Ich finde manche Reaktorkonzepte zu spannend, als dass ich eine Forschung daran nicht befürworten würde. Bspw. (Rubbiator) [https://de.m.wikipedia.org/wiki/Accelerator_Driven_System ], da ich mir erklären ließ, dass der mit einer externen Elektronenquelle alles auf Blei herunter spalten könne.\n\nFür Korrekturen und Anmerkungen bin ich gerne offen. Und falls mir jemand Sektorenkopplung erklären könnte, dann wäre ich echt dankbar.",
+        "date": "2021-02-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dann dürfen sich Bayern und Baden-Württemberg mal an die Nase fassen. Niedersachen und Schleswig-Holstein haben genug erneubare Energien gebaut. Bayern und Baden-Württemberg hingegen die restriktivsten abstände für Windkraft. Selbst dort gibst es viele gute Orte für Windkraft, selbst schlechtere Standorte wie Sachsen-Anhalt und Brandenburg sind besser.\n\n&amp;#x200B;\n\nDas große Problem ist, aber die Kohlekraftwerke in der Nähe sind alles Heizkraftwerke. Also gehen die eh nicht vom Netzt. Und die Stromkraftwerke besonders in Mitteldeutschland zu ersetzen fehlen die Leitungen, welche eh sinnlos bei einer Brückentechnologie wären.",
+        "date": "2021-02-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich muss auf deine Anmerkung genau so reagieren wie im ursprünglichen Kommentar. Alle Kosten (auch das Aufstellen und der Betrieb von Windkraft o.ä.) ist immer in Bezug zu den Gegebenheiten vor Ort zu setzen. \nEin Windrad zu betreiben kostet in Deutschland definitiv proportional mehr als in ärmeren Ländern. Die alleinigen Materialkosten sind über Lebensdauer nicht der größte Posten an so einem Windrad oder an einer Photovoltaikanlage.",
+        "date": "2021-02-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wärmepumpe. Ganz nett, aber warum nicht einfach die Anbindung an die Fernwärme vom Geothermiekraftwerk?\n\nDem Bestand kannst du nicht so einfach neue Dinge vorschreiben. Und Windkraft ist in Bayern halt oft nicht so effektiv.\n\nAber ja, die 10H-Regel ist Quatsch.",
+        "date": "2021-02-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Ganz nett, aber warum nicht einfach die Anbindung an die Fernwärme vom Geothermiekraftwerk? \n\nDas ist nicht überall möglich. Aber falls es geht, klar, warum nicht?\n\nEs geht nicht nur ums vorschreiben sondern auch um unpassende Anreize. Es ist zum Beispiel richtig beschissen bei einer Eigentümergemeinschaft gemeinsam eine Solaranlage aufs Dach zu packen. Nen richtiger Krampf, weil man um kein EEG auf sein eigenen Strom zahlen zu müssen (was in etwaa so ist, wie Steuern auf seine eigenen Äpfel zu bezahlen), die Personenidentität die gleiche sein muss. Sprich Besitzer der Anlage und Stromabnehmer muss die gleiche Person sein. Mach das erstmal in nem Mehrpersonenhaushalt mit extra Zähler für jeden und co. Ist so richtig beschissen geregelt...\n\nJein, dennoch könnte man auch in Bayern viel mehr Windkraft bauen. Gerade größere Windräder brauchen auch gar keine so krassen Winde. Das führt dann eh nur zu Überschall an den Spitzen und damit zu diversen negativen Auswirkungen.",
+        "date": "2021-02-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "hm also erstmal hast du mich natürlich falsch verstanden, ich gehe davona us das wenn man das umsetzten würde was ich da aufgeschrieben habe das wir dann 40 GW pro Jahr aufstellen würden. \n\nPhysikalische Grenzen im Sinne von Platz?  Es gibt genug Platz auf Häuser dächern für Solarzellen. Es gibt genug Platz für Windkrafträder. Der limitierende Faktor ist der wille. Gerade was Solarzellen angeht der Platz auf deutschen Dächern alleine würde ausreichen um dei gnaze Bundesrepublik ( wenn denn jedes eine Solaranlage hat) in der Theorie mit Strom zu versorgen. Windkraft ist auch ncith das Problem, in der Theorie es gibt viel Standorte die scheitern halt grade am Umweltschutz oder Flugzonen oder was weiß ich für bnescheuerte Gründe. \n\nzum Thema Geld. in der Theorie gebe ich dir recht das ist ein Problem wenn man immer mehr schulden auf nimmt, als Privat Person. Nicht als Staat und schon gar nicht als der mächtigste Staat in der EU. Deutschland bekommt momentan negativ Zinsen bei den Banken. Die wollen das wir das Geldnehmen, weil die EZB sie damit zu scheißt. Auserdem um in dei Praxis zurück zu kommen. Geld ist ein ausgedachtes Konstrukt desen regeln man ändern kann. Naturkonstanten und den Klimawandel da kannst du oder irgendwer Menschliches die Regeln nciht ändern, das spiel musst du spielen ob du willst oder nicht. Deshalb ist Geld für mich in dem Thema eine untergeordnet Frage. Keine ahnung wieso das den Klimazielen schaden sollte wenn wir die Infrastruktur haben um den Klimawandel zu stoppen aber mehr Schulden.\n\nNein man muss nieamand zwingen und die Terminologie mit Nazis lehne ich ab, man muss nur aufhören leuten GEld zu geben die Strom aus Braunkohle produzieren. Photovoltaikanlagen sind schon seit mehreren Jahren auch ohne Subventionen die Effizienteste Art und weiße Strom zu produzieren ( rein Wirtschaftlich gesehen versteht sich ), auf kurze als auch auf lange Sicht. Wenn die RWE und CO nicht so viel Geld für den Quatsch bekommen würden würden die selbst einfahc mehr umstellen. Der Staat verhidner tdas aber durch die Subventionen.",
+        "date": "2021-02-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Niederlande hinken beim Thema Windkraft ziemlich weit hinterher, Anteil am Strommix ist nur 12% (Erdgas ist 60%). Die brauchen dringend radikalere Schritte.",
+        "date": "2021-02-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "In Bawü:\n\n*Keine Zulassung von Verbrennungsmotoren ab 2035:*\n\nCDU:\n&gt;Nicht der Verbrennungsmotor an sich schadet der Umwelt, sondern seine Tankfüllung. \n\nFDP:\n&gt;Die FDP hat bei der Mobilitätspolitik der Zukunft drei wesentliche **Ziel**e: den Erhalt individueller Mobilität für die Menschen, die das wollen, **den Erhalt** zukunftsfähiger, **gutbezahlter Arbeitsplätze** und echte Klimafreundlichkeit. Hier ist der Verbrennungsmotor, den wir mit synthetischen Kraftstoffen und der Wasserstofftechnologie in eine klimaneutrale Zukunft führen wollen, der batterieelektrischen Mobilität **in allen Bereichen** überlegen.\n\nafd:\n&gt;Im ökologischen Vergleich gibt es keine Nachteile moderner Verbrennungsmotoren zu Elektroantrieben\n\nEtwaige Hervorhebungen durch mich. Von Korinthenkackern über kohlenstofffreie synthetische Kraftstoffe bis hin zu keine Ahnung. Ja, es gibt Wasserstoffverbrennungsmotoren, die haben allerdings ihre eigenen nicht unerheblichen Probleme. Sonst ist das doch alles Stuss.\n\n*Mehr Krankenhäuser in öffentlicher Hand:*\n\nFDP:\n&gt;Die Corona-Pandemie hat uns vor Augen geführt, wie wichtig ein gut funktionierendes und für alle Menschen zugängliches Gesundheitswesen ist.\n\nDeswegen wollen sie dir Krankenhäuser privatisieren, damit die nicht profitablen Stationen geschlossen werden, hä?\n\n*H4-Kürzung bei Ablehnung von Jobangeboten:*\n\nCDU: (dafür)\n&gt;„Wir stehen als CDU zum Grundsatz ,,Fördern und Fordern\". Die Schaffung gut bezahlter Arbeit hat für uns höchste Priorität, denn Arbeit muss sich lohnen.”\n\nWie war die Frage nochmal? Und die sPD ist auch dafür, denn das ist zwar Existenzminimum, aber 30% lassen sich trotzdem kürzen. Mannomann, wenn selbst die Faschos nicht dafür sind...\n\n*Abstand von Windkraftanlagen:*\n\nafd:\n&gt;Windkraft ist insgesamt kein Zukunftsmodell.\n\n*Schiene vor Straße:*\n\nCDU:\n&gt;Die Diesellokomotive soll durch emissionsfreie Züge mit innovativen Antrieben ersetzt werden. Durch Stuttgart 21 schaffen wir zusätzliche Kapazitäten.\n\nInnovative Antriebe, kommt bald der Zug mit der kalten Fusion? Und zum Glück fahren Züge nur in Stuttgart, lol.\n\n*Klimaverträglichkeit von neuen Gesetzen:*\n\nCDU:\n&gt;Verantwortung für Klima, Umwelt und Natur sind für uns Teil des christlichen Menschenbildes.\n\nDas christliche Menschenbild hat aber nur den Auftritt, wenn es gerade passt. Aber immerhin, so kannte ich die CDU noch gar nicht.",
+        "date": "2021-02-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mal schauen. Erneubare Energien sind am Anfang einfacher zu integrieren, aber die Intermittenz der EE wird immer problematischer je höher der Anteil wird. Dänemark kommt z.B. mit den 50% Windkraft nur klar, da sie Zugang zur Energielagerungen in den norwegischen Dämmen haben.\n\nNoch schlimmer ist wenn ganz Europa hohe Anteile an EE haben, dann wird auch sowas schwierig.",
+        "date": "2021-02-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Irgendein Typ bastelt an seiner privaten Seite und schreibt private Briefe von seinem Ministeriumscomputer aus.\n\nSpiegel macht daraus: \"Netzwerk von anti Windkraft Lobby im BMWi\"\n\nDie haben wohl nichts aus Relotius gelernt",
+        "date": "2021-02-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Zur Landtagswahl in RLP hängt die AfD Wahlplakate mit :\"Stoppt die Windkraft\" auf. Vor allem hier im ländlichen Bereich gibt es schon größere Windparks die einigen Leuten ein Dorn im Auge sind.",
+        "date": "2021-02-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Funfact: die FDP will diese Probleme so stark verschärfen, dass es praktisch einem fast vollständigen Verbot von onshore-Windkraft entspricht.",
+        "date": "2021-02-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich verstehe immer noch nicht wer ernsthaft gegen Windkraft ist? Na klar, niemand will so ein Ding im Garten haben, ein paar Spinner gibt's immer usw. Aber ich dachte bisher dass das halt weitestgehend Individuen sind. Es gibt wirklich den klischeehaften Industrrieboesewicht der die Welt lieber brennen sieht? krass",
+        "date": "2021-02-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Guten Tag werter Benutzer! Ich bin ein Roboter und glaube, dein Beitrag könnte eine Wiedereinreichung eines der folgenden Beiträge sein. Natürlich kann ich mich auch irren, in dem Fall ignorier mich einfach.\n\n* [[spiegel] Windenergie: So verhindert die Anti-Windkraft-Bewegung neue Anlagen](https://www.reddit.com/r/de/comments/lhgejl)\n\n*Eine Dienstleistung der Automatische Erkennung und Meldung redundanter Wiedereinreichungen in r/de GmbH*\n\n*Möp möp, bin ein Roboter!*",
+        "date": "2021-02-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wird halt als Projekt von Links wahrgenommen, da ist dann alles egal und man will es nicht mehr. Windkraft ist da wohl nur was aktuell den Platzhalter ersetzt. Daher vermutlich auch diese inkonsistenten und wirren Argumente dagegen.\n\nMal schauen ob denen noch rechtzeitig auffällt dass sie mit solchen und anderen Aktionen gegen ihr eigenes Überleben wetten.",
+        "date": "2021-02-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich wohne in ner Region die mit den Dingen zugepflanzt wurde. Ich kann von meinem Balkon jeden Abend gute 90 Windräder rumblinken sehen. \n\nIst wirklich ätzend und wenn es eine bessere Option gäbe wäre ich der erste der die Dinger abreißen würde. Gibt aber grade keine also arrangiere ich mich damit. \n\nViele meiner Nachbarn halten das leider anders und sind in so einer Anti-Windkraft-Bewegung.",
+        "date": "2021-02-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Reicht die Anzahl der Anlagen nicht so langsam und es sollte viel mehr an der EnergieVerteilung und Speicherung gearbeitet werden?\nBin ein Freund von Windkraft aber ich meine mal sowas gelesen zu haben und kann es mir auch gut vorstellen. Hat da jemand was zu?",
+        "date": "2021-02-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dir ist klar das selbst in diesem Liebesbrief an die Kernenergie die Windkraft besser da steht als Kernkraft.",
+        "date": "2021-02-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bei uns im Süden von Deutschland gibt es kaum Windkraft man könnte die Menge als homöopathisch bezeichnen...",
+        "date": "2021-02-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Und jetzt kommen wir zum Dilemma: um hier wirklich Einfluss haben zu wollen müssten wir eine nicht wirklich geringe Anzahl Kraftwerke neu bauen. Bis die gebaut, getestet sind und ans Netz gehen, könnten wir genausogut eine fette offshore-windkraftfarm stellen. Ohne NIMBYs wären wir wahrscheinlich nichtmal vor irgendeinem Problem... da muss anti-solar, anti-windkraft, anti-atomkraft-karen halt mal wegstecken.",
+        "date": "2021-02-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Quelle: [https://energiewende.eu/netzwerk-gegen-die-energiewende/](https://energiewende.eu/netzwerk-gegen-die-energiewende/)\n\n&gt;Dass die Energiewende in Deutschland nur schleppend vorankommt hat Gründe, vor allem politische. Eine Menge Akteure arbeiten zusammen, um die erneuerbaren Energien zu diskreditieren, schlecht zu reden, den Klimawandel zu leugnen. Oft ausgestattet mit Geld der großen Verschmutzer finden sich angebliche Umweltschutzorganisationen wie\n\n&gt; * VLAB (Verein für Landschaftspflege und Artenschutz in Bayern)\n* Bundesinitiative Landschaftsschutz\n* Naturschutzinitiative\n* Deutsche Wildtierstiftung\n* NABU Saarlouis-Dillingen\n\n&gt;um Windkraftprojekte durch Klagen zu verhindern und Material für Bürgerinitiativen zu erstellen, damit diese gegen Windkraft und die Energiewende protestieren. Unterstützt werden sie von\n\n&gt; * der industrienahen Lobby-Organisation INSM und\n* dem RWE-nahen Forschungsinstitut RWI,\n* den Klimawandelleugnern des Vereins EIKE, welcher wiederum mit\n* dem Amerikanischen Klimawandelleugner-Verein Heartland zusammenarbeitet und\n* Vernunftkraft, dem zentralen Dachverband der Energiewende-Gegner.\n\n&gt;Deren Protagonisten haben beste Verbindungen in die deutsche Politik oder gehören ihr selbst an – meist Politiker der CDU/CSU, aber der Unterstützung von FDP und AfD können sie sich auch sicher sein. Mit Nicolai Ziegler rückt Vernunftkraft ganz nah an die Wirtschaftspolitiker der CDU heran, und diese nehmen die falschen Argumente gerne auf und treffen sich in diversen Gremien und Vereinen, wie\n\n&gt; * dem Berliner Kreis der CDU\n* der Werte-Union\n* dem Wirtschaftsrat der CDU\n* dem Innovationsforum Energiewende\n\n&gt;um das EEG so gut es geht zu torpedieren und die alten fossilen Industrien zu schützen.\n\n&gt;Wir haben in aufwendiger Recherche alle öffentlich bekannten Verbindungen in einer riesigen Grafik zusammengetragen. Das Bild unten ist mit einem Link hinterlegt, der die Grafik im Vollbild öffnet. In diesem Vollbild sind die einzelnen Knoten und Kanten des Netzwerks ihrerseits mit Links auf die jeweilige Quelle hinterlegt.",
+        "date": "2021-02-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Deutschland liegt nicht am Mittelmeer.\n\nDeutschland liegt in der Mitte Europas und ist als größter EU-Staat natürlich für das verantwortlich, was an den EU-Außengrenzen passiert. \nDafür zu sorgen, dass das europäische Projekt nicht am klein-klein scheitert und zur Not auch gegen den Willen des Deutschen Michels das richtige zu tun, ist seit Adenauer Aufgabe jedes Bundeskanzlers. \nDass man die Mittelmeeranrainerstaaten nicht mit der Flüchtlingskrise allein lassen kann, sollte gerade weil Deutsche EU-Politik an der Hilflosigkeit in Ländern wie Griechenland und Italien nicht ganz unschuldig ist, eigentlich klar sein.\n\nPassiert ist da herzlich wenig, Angebote große Politik zu machen gab es vor allem von Seiten Frankreichs über die Jahre hinweg viele, ausgeschlagen wurden sie idR von Deutscher Seite. Da öfter mal auf CDU-nahe Think Tanks wie den ECFR zu hören, hätte Merkel nicht geschadet.\n\nUnd dass sich zB die Bundesmarine an EU-Recht und den Geist des Grundgesetzes hält, ist ja wohl das mindeste. Geld in die Hand nehmen, um die Lager in Griechenland halbwegs menschenwürdig zu gestalten kann man übrigens auch unilateral. Hat zwar die Bundesregierung auch ab und an, nur eben nicht genug, um menschenwürdige Zustände herzustellen.\n\n&gt;Und ich meinte die Abkehr von der Atomenergie nach Fukushima.\n\nNach Fukushima war ganz Deutschland im Atompanikmodus. Der Wiederausstieg damals war zumindest an der Basis parteienübergreifend unglaublich populär. Die Konsequenz aus dem Wiederausstieg hätte aber eben beschleunigter EE und Netzausbau sein müssen, stattdessen wurde der Ausbau von Windkraft massiv behindert. Die andere Alternative wäre gewesen, die AKWs länger laufen zu lassen und die Wasserwerfer eben spritzen zu lassen.\n\n&gt;Wer wäre dann besser für den Job geeignet gewesen, in Betrachtung der Kandidaten und der Wahlergebnisse?\n\n????\n\n&gt;Was hätte man im Detail besser machen können, im Hinblick auf die jeweilige damalige Stimmung?\n\nZumindest zu versuchen, die großen Probleme der EU zu lösen und vernünftige Außenpolitik zu betreiben, statt sich 16 Jahre lang an die Kanzlerschaft zu klammern und historische Chancen aus innenpolitischen Erwägungen verstreichen zu lassen. Was ist jetzt Merkels grosses Vermächtnis? Corona-bonds? Der Aachener Vertrag? 2015 nicht die Grenzen dicht gemacht zu haben? \n\n&gt;So schlimm war sie nicht, sie war sozialer als die meisten CDU Politiker je sein könnten.\n\nDas hat IMO viel mit der GroKo und der Schwäche der FDP zu tun und weniger mit Merkel.",
+        "date": "2021-02-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wozu brauchen wir denn unbedingt Atomkraft wenn Solar, Wasser- und Windkraft gibt. Habe ich noch nie so ganz verstanden.",
+        "date": "2021-02-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Das übliche Vorgehen der Union, man sagt eine Position die populär ist und stimmt dann für das genaue Gegenteil. Wie hier bei den upload filtern.\n\nOder wenn Uschi im Europaparlament sagt wir glauben das jeder Mensch eine unantastbare würde hat egal wo er herkommt. Dann stimmt die Union halt für Abschiebungen in kriegsgebiete, macht deals mit Diktatoren, baut eine unregulierte grenzpolizei auf und schickt die Leute zurück in die Folter lybiens. Menschenwürde hält.\n\nOder wenn die Union sagt man müsse in Deutschland eine Vorreiterrolle beim klimaschutz einnehmen, da ist auch klar was kommt. Subventionierung von verbrennen, subventionierung von Kohle, subventionierung von extrem energieintensiven betrieben und Milliarden für Betreiber von atommeilern die eh abgeschaltet wurden wären. Und um sicher zu gehen machen sie es dann noch extrem unattraktiv für private Haushalte Solarzellen zu betreiben und reduzieren via abstandsregel die Fläche auf der Windkraft erlaubt ist in Bayern auf unter 1%der landesfläche.",
+        "date": "2021-02-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Und zumindest bei der Klimakrise sollten wir nicht über Rentabilität sprechen, wenn die anderen Möglichkeiten so schlecht sind und wir noch immer den \"Kampf\" gegen den Klimawandel verlieren.\n\nDoch sollten wir, weil das genau ein großer Faktor bei der Umsetzung von Projekten ist.\n\nDie Rentabilität von Atomenergie ist ein großer Faktor, warum die Technik sich weltweit nicht gegenüber fossilen Brennstoffen durchgesetzt hat als Solar und Windkraft noch in den Kinderschuhen steckten und jetzt von EE abgehängt wird.",
+        "date": "2021-02-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Natürlich kann man Sicherheit eng begrenzen und cherry picking betreiben.\n\nWie wäre es mit einem Picknick in Chernobyl? Das ist ja \"sicher\" nach ihrer Definition.\n\nSo Platz bedarf. Jap da haben sie recht. Wind Solar etc. Verbrauchen viel mehr Platz als ein Zwischenlager.\n\nDie regenerativen funktionieren im Block besser.\n\nUnd wer von effizienz bei Windkraft redet, der verbreitet einfach Propaganda. Ja die theoretisch maximal erreichbare effizienz bei sind liegt bei 66,6666%.\n\nDieser Wert ist jedoch nicht relevant bei dem Rohstoff Wind. Kleiner Tipp bei Solaranlagen ist er noch 3 mal schlechter ;)\n\nDie effizienz ist nur wichtig beim Vergleich innerhalb des selben Kraftwerktyps. Wer versucht Solar,  Wind, Atom oder Kohle zu vergleichen damit ist einfach nur in einer entsprechenden Filterblase.",
+        "date": "2021-02-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Die Schlüsselerkenntnisse der Studie:\n&gt;Das Potential erneuerbarer Energien und der Technologien dahinter, inklusive Stromspeicherungssysteme [...]\n\n&gt;inklusive Stromspeicherungssysteme\n\nSiehste, allein mit Solar, Wasser- und Windkraft geht es eben nicht. Und es ist eben ein riesiger Unterschied ein paar hundert GW an Erneuerbaren hinzustellen oder eben auch Speicher mit angemessener Kapazität/Leistung.",
+        "date": "2021-02-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Der letzte Unfall war Fukushima, ein \"sicherer\" japanischer Reaktor. \n\nDer Reaktor war sicher. Der hat exakt das getan, was er tun sollte. Die Idiotie des Betreiberunternehmens und die Verfehlungen der Aufsichtsbehörden zu ignorieren und die Schuld auf das Reaktordesign zu schieben ist genauso dümmlich wie die Leute, die mit sChLaGsChAtTeN gegen Windkraft argumentieren.\n\nBei Chernobyl kannst du vielleicht noch damit argumentieren, wobei selbst Chernobyl nur passiert ist, weil die Bedienpersonen in der Nacht wirklich jede Sicherheitsvorschrift ignoriert haben. Und wenn du ne Schrotflinte saubermachst ohne die vorher zu entladen und dir dabei in den Kopf schießt, ist eben nicht die Schrotflinte dran schuld.",
+        "date": "2021-02-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Atomkraft zu verteufeln obwohl wir noch extrem tief in Fossilen Brennstoffen stecken ist das gleiche als Haie ausrotten zu wollen wegen \"Der weiße Hai\". Obwohl ich gegen Neubauten bin. AKWs sind extrem wichtig und sind, abgesehen von Atommüll, klimaneutral und extrem langlebig. Und solange wir keine kommerzielle Fusionsenergie haben bleibt uns nix übrig. Vorallem da unsere Regierungen nicht ernsthaft an die Energiewende rangehen. Windkraft is blöd. Geothermal und Sonnenenergie sind besser.",
+        "date": "2021-02-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Kann mir jemand mal eine Sache erläutern. Ich bin komplett für langfristig einen Mix aus (quasi) nur erneuerbaren Energien.\n\nWas ich mich aber hierbei immer frage ist, in wieweit wir durch die Energieentnahme aus der Umwelt Konsequenzen im Gesamtsystem verursachen. Wenn ich z.B. dem Wind Energie durch mehrere Windkraftwerke entnehme, dann hat dieser ja weniger kinetische Energie (Energieerhaltung). \n\nEs ist hier natürlich schwierig zu messen wie gigantisch die kinetische Energie des Windes insgesamt ist , zumal sich auch Schwierigkeiten bei der Abgrenzung geben. Nimmst du jetzt Energie aus einem \"Boen\" körper? Wie grenzt man Wind bzw. Luftströme voneinander ab? Wie dem auch sei, wird Energie abgeführt. Könnten theoretisch regional, oder auch global (Schmetterlingseffekt) gravierende Auswirkungen durch sehr großflächige Windparks in einer Region ergeben? Was passiert wenn auf einmal die gesamte Erde den Großteil aus Windkraft zieht? Wie sehen hier die Konsequenzen aus?\n\nBei Solar ist das etwas einfacher abzuschätzen, da nimmt man ja die Sonne der Vegetation weg, die unter den Panels liegen. Aber auch hier hat man Einfluss (z.B. reduziert man Updrafts durch Enzug von Wärme). \n\nBei Wasserkraft existiert ein großer Einfluss auf Fauna, aber das ja bereits bekannt.\n\nNochmal, ich bin für erneuerbare Energien komplett. Mich würde einfach interessieren ob es hierzu schon Untersuchen oder Kalkulationen gab, die sich dieser Thematik widmen. Oder sind die Energieentnahmen z.B. aus der Windkraft so komplett mikroskopisch im Gesamtsystem, dass selbst bei 100% Windkraft weltweit dies keine Auswirkungen haben kann?",
+        "date": "2021-02-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Windenergie kommt von der Sonne. Das ist kein statisches System sondern entsteht durch ~~die wechselhafte Erwärmung der Luft durch den Tag-Nacht-Rhythmus.~~ Unsinn! korrekt war: die relative Erwärmung des Äquators im Vergleich zu den Polen. Also immer noch die Sonne.\n\nDer Punkt ist, die Energie geht der Erde nicht verloren durch Windkraft, sondern wird ständig nachgefüllt.\n\nedit: Ganz davon zu schweigen, dass die Menge die wir durch Windkraft entziehen, völlig vernachlässigbar ist.\n\nedit: Update! [Estimating maximum global land surface wind power extractability](https://www.researchgate.net/publication/253150287_Estimating_maximum_global_land_surface_wind_power_extractability_and_associated_climatic_consequences) schätzt das globale Extraktionspotential überraschend gering auf 38TW ab. Na dann.\n\nedit: Solar sollte ohnehin in der Wüste gebaut werden, da ist es am effektivsten.",
+        "date": "2021-02-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Solar sollte ohnehin in der Wüste gebaut werden, da ist es am effektivsten.\n\nJa aber da muss man es immer noch in die bewohnten Regionen der Erde bringen was Verlustleistung und gigantische Infrastrukturprojekte mit sich zieht. Zumindest macht es wenig Sinn die Energie der Sahara nach Europa zu transportieren. Alles was ich dazu in Erinnerung habe ist dass das nicht sinnvoll erscheint.\n\n&gt;Ganz davon zu schweigen, dass die Menge die wir durch Windkraft entziehen, völlig vernachlässigbar ist.\n\nDies war ja meine Frage, kann man das wirklich abschätzen? Oder ist das \"einfach so\" weil die man davon ausgeht dass die Gesamtenergie so mächtig ist.\n\n&gt;Der Punkt ist, die Energie geht der Erde nicht verloren durch Windkraft, sondern wird ständig nachgefüllt.\n\nJa aber die Windströme sind ja ein kontinuierliches System das sich über Jahrmilliarden entwickelt hat. Würde man heute quasi den Luftmassenaustausch auf 0 setzen würde es sicherlich dauern bis die Systeme wieder sich den heute bekannten strömen anähren. Es wird ja nicht täglich bei 0 gestartet.",
+        "date": "2021-02-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Aber ALLEIN können die Erneuerbaren das nicht stemmen! Sie brauchen ZUSÄTZLICH Speicher. Klar, das ist alles machbar und hoffentlich am Ende auch noch deutlich wirtschaftlicher. Aber es wird eben viel zu oft so dargestellt, dass man noch etwas Solar und Windkraft dazubaut und dann hintendran noch schnell ein paar Speicher. Und so einfach ist es eben nicht.",
+        "date": "2021-02-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; \n&gt; Das ist mir zu abstrakt oder es macht einfach keinen Sinn.\n\nAusgangssituation: Wir haben Kohlekraftwerke (KKW) und Atomkraftwerke (AKW) laufen und bauen parallel Solar und Windkraft aus.\n\nFrage: Was schalten wir zuerst ab, wenn die Kapaziät and Solar+Wind ausreicht, um einzelne Kraftwerke abzuschalten? Machen wir zuerst AKW aus oder KKW?\n\nEntscheidung: Wir machen erst die AKW aus, dann die KKW.\n\nErgebnis: Wir lassen die CO2 ausstoßenden Kraftwerke länger laufen. Wäre die Entscheidung anders ausgefallen, wäre sofort die CO2 Produktion zurückgegangen, das ist durchaus \"in kürzester Zeit\".",
+        "date": "2021-02-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pikant: Texas hat im wesentlichen ein eigenes, unabhängiges Stromnetz. Dieses ist schon während des letzten harten Winters vor 16 (iirc) Jahren teilweise ausgefallen. Die jetzigen Ausfällen sind aber nochmal stärker.\n\nIn ersten Analysen wurde das Ausbleiben der Windkraft als Treiber der Pannen genannt, dies kann so aber nicht ganz stimmen, da der Windkraft-Ausfall anscheinend doch nicht so groß war. Vermutlich ist das gesamte Netz veraltet und ohnehin instabil.\n\n*Edit: Mittlerweile ist das wahrscheinlichste Szenario, dass das Erdgas in den Leitungen aufgrund der Kälte zu dünn ist und so nicht genügend Druck hat. In Texas sind die Gasleitungen nicht isoliert. Mit der Nennung von Windkraft als Verursacher versuchen die Reps die Energiewende in Verruf zu bringen.*\n\nIn Texas gibt es einige Unabhängigkeitsbestrebungen. So werden immer mal wieder Gesetze erlassen, welche in Teilbereichen eine Abspaltung von der Zentralregierung in Washington vorsehen. Die Reps in Texas sind außerdem an vorderster Front wenn es um die Ablehnung sog. \"sozialistischer\" Gesetze und Verordnungen geht.\n\nAuch deswegen werden die Texaner zur Zeit mit Hohn und Spott überzogen, da der Governor von Texas um Bundeshilfsmittel ersucht hat.\n\nEin imho besonders witziger Tweet:\n\n*\"Ein Texaner sitzt in seinem Haus mit seinen 17 Maschinengewehren und ist auf alles vorbereitet.. außer auf Schnee. Leider hat er nämlich keine Schneeschaufel.*\n\n*Die Freiheit genommen von Schneeflocken - ironisch.\"*\n\n\"Snowflakes\" ist eigentlich eine abwertende Bezeichnung mit der die Reps all diejenigen verunglimpfen, die für eine solidarische Gemeinschaft einstehen.",
+        "date": "2021-02-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; In ersten Analysen wurde das Ausbleiben der Windkraft als Treiber der Pannen genannt, dies kann so aber nicht ganz stimmen, da der Windkraft-Ausfall anscheinend doch nicht so groß war. Vermutlich ist das gesamte Netz veraltet und ohnehin instabil.\n\nAlso wenn das Ausbleiben von ein paar Windkraftanlagen dafür reicht, dass das Stromnetz teilweise ausfällt, dann wurde da aber knapp geplant.\n\nKlingt für mich nach einer gefärbten Falschinformation. Haben die in Texas nicht ein Sternnetz für die Stromversorgung? Das heißt ein Knoten fällt aus und alles dahinter liegende ist ebenfalls Weg? Sollten eventuell eher mal da schauen.",
+        "date": "2021-02-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Und wenn man mit Solar oder Windkraft Strom erzeugt ist das ja besser.",
+        "date": "2021-02-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Mit der Nennung von Windkraft als Verursacher versuchen die Reps die Energiewende in Verruf zu bringen.\n\nhttps://i.redd.it/kau2jpjur0i61.jpg",
+        "date": "2021-02-17",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Eine vorgebliche Pazifisten Partei die sich bei Kampfeinsätzen nicht einmal enthält? Nichtmal wenn ihre Stimmen keinen Unterschied machen? Geschweige denn wirklich dagegen stimmt?\n\nEine Umweltschutzpartei die eine Initiative in ihren Reihen duldet die Windkraft abwürgt?\n\nSich gegen Wildkontrolle=Jagd ausspricht?\n\n\"Die\" Verbotspartei, siehe WaffG und co, denen man sofort glaubt dass sie Einzelhäuser verbieten wollen https://www.oli.net/alle-verbote-der-gruenen/\n\nUnd noch nichtmal irgendeine Liberalisierung der Drogenpolitik?",
+        "date": "2021-02-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Laut Wikipedia hatte in Texas im Jahr 2017 die Windkraft einen Anteil von 15,7 % im Strommix. Ich habe dafür keine Quelle, aber angeblich sollen durch das kalte Wetter 5 % der Windkraftanlagen ausgefallen sein. Das wären dann weniger als 0,8 % der gesamten Energieproduktion. Das sollte ein solides Stromnetz schon abfangen können.",
+        "date": "2021-02-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ist mir vollkommen bewusst. Übrigens berichten Texaner, dass wohl die aus Windkraft gewonnene Energie aktuell gegenüber dem normalen Wert gestiegen sei, auch wenn ein paar Windräder eingefroren sind.",
+        "date": "2021-02-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Finde ich attraktiver als die Windkraft 2021.",
+        "date": "2021-02-20",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Oder in Wasserkraftwerken. Oder via Windkraft. Oder Photovoltaik. Oder via CO2-neutral produziertem Wasserstoff.",
+        "date": "2021-02-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Eigentlich habe ich von vielen Texanern hier auf Reddit gelesen, dass die Windkraftwerke zusammengezählt sogar mehr produzierten als sonst, obwohl einzelne eingefroren waren (das kann wirklich passieren, wenn das Rad stillsteht und nicht anlaufen kann). Bei Kälte steigt die Effizienz von Windkraft und Solarenergie stark.",
+        "date": "2021-02-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es gibt doch viele Unternehmen in Deutschland die Lösungen anbieten die für die Welt \"besser\" sind als der Status Quo. \n\nWenn man die individuelle Mobilität als notwendigen Luxus für die Menschen ansieht, kann man aktuell bei jedem deutschen Autobauer Jobs finden, die sich ausschließlich mit E-Mobilität beschäftigten. Oder man kann direkt zum Branchen-Primus nach Grünheide gehen. Auch dort werden jeden Tag mehrere Stellen ausgeschrieben. \n\nMit Enercon, Nordex und Siemens Gamesa gibt es Deutschland mehrere international agierende Windkraft-Hersteller. Ich denke es steht außer Frage das Windkraft in fast allen Ländern der Welt eine Verbesserung des Status Quo bedeutet.\n\nUnd ganz aktuell kann man auch sehr gut die Innovationskraft der deutschen Pharmaindustrie sehen. Diese ist traditionell einer der stärksten Wirtschaftszweige in Deutschland, wenn auch vielleicht weniger \"sichtbar\" als Maschinen- und Autobau.\n\nDann sitzen in Deutschland einige der größten Anbieter von Verfahrenstechniklösungen und Chemiehersteller. Deren Prozesse sind häufig der Grundpfeiler für weitere Wertschöpfung und damit für Wohlstand nicht nur in Deutschland sondern auch in vielen anderen Ländern der Welt.\n\nOder ich habe das Thema komplett falsch verstanden und du siehst jedes gewinnerwirtschaftende Unternehmen als schlecht an. Dann bleiben allerdings nur eine Handvoll \"attraktiver\" Länder auf der Welt.",
+        "date": "2021-02-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Da fehlt eins von den Grünen, zu sehen ist Winfried Kretschmann und auf dem Plakat steht: \"Sie kennen mich\"\n\nEdit: Bei der AFD fehlt auch eins: \"Ausbau der Windkraft stoppen\"\n\nWahrscheinlich fehlen noch mehr aber diese beiden Stachen mir heute besonders ins Auge",
+        "date": "2021-02-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Seit 2010 sind 70 TWh/a an Kernenergie weggefallen, aber dafür auch allein bei der Windkraft 92 TWh/a dazu gekommen. \n\nDas Thema Atomkraft hat sich erledigt - zu teuer um ökonomisch zu sein, zu langsam zu bauen um noch ökologisch Sinn zu machen.",
+        "date": "2021-02-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "An Windkraft - bei Biomasse und PV sind in Summe noch einmal rund 100 TWh/a dazu gekommen.",
+        "date": "2021-02-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Laut einer Studie die vor ein paar Tagen/Wochen auf Heise war bewegen sich Kernkraftwerke in puncto CO2 Bilanz auf dem Niveau mit Windkraft und Photovoltaik, selbst wenn man Bau, Erzabbau, Anreicherung und Rückbau einpreist.\n\nFalls du dich auf die chemischen Abfälle beziehst: Stimmt, aber da die Menge relativ klein ist, sind sie immer noch deutlich sauberer als Kohle, die blasen den Teer nämlich direkt in die Luft, wenn auch prozentual deutlich weniger.",
+        "date": "2021-02-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;weil Bürger- und Umweltschutzverbände nicht das gleiche Kapital haben wie internationale Firmen\n\nUmweltschutzverbande gehören eindeutig mit in den Topf mit den Großfirmen. Was für ein Schaden in Sachen Windkraft und GMO angerichtet worden ist haben wir leider der Lobbyarbeit von Umweltverbänden zu verdanken. Obwohl diese PR- und Politikarbeit zumindest gut dokumentiert und kommuniziert ist.",
+        "date": "2021-02-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Immer wenn ich von Katzen als Haustiere höre, muss ich an diesen Artikel denken: [Vogelkiller Windkraft? Erschießt alle Katzen!](https://www.volker-quaschning.de/artikel/2017-11_Katze/index.php#)\nGanz im Ernst! Wer ein Tierfreund ist, sollte sich sehr gut überlegen ob er ein Haustier möchte. Ob Katzenhaltung in Haus artgerecht ist, wage ich zu bezweifeln. Und Freigänger-Katzen sind eine Gefahr für den Artenschutz. Daher empfehle ich eher Pflanzenfresser, die sind nicht gefährlich, wenn sie davonlaufen und die Klimabilanz ist sicher auch besser.",
+        "date": "2021-02-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Wir Deutschen sind einfach zu bequem, vor allem im Bezug auf Regierungskritik.\n\njoa das merke ich auch bei mir.\nIch fand \"pulse of europe\" cool, weil es produktiv FÜR etwas protestiert hat und dadurch eine ganz andere stimmung hatte als die \"gegen\" demos.\n\nDas schwierige ist glaube ich \"für\" themen zu vereinen. \"für umwelt\" ist schön und gut, aber wie für umwelt? für hambi? oder für nordsee fischfangverbot? für \"hambi\" oder für mehr windkraft ?\n\nund dann streitet man lieber intern statt sich mit den eigentlichen Gegnern zu streiten.",
+        "date": "2021-02-28",
+        "sentiment": "positive"
+    }
+]

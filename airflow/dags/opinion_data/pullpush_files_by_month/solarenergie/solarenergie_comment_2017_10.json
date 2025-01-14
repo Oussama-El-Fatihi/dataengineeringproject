@@ -1,0 +1,22 @@
+[
+    {
+        "text": "&gt;Jetzt zu meinem Problem: da ich eigentlich pro Förderung für regenerative Energien bin, fällt es mir schwer auf der kontra Seite zu argumentieren\n\nDann hat der Lehrer ja sein Ziel erreicht, es geht nämlich darum zu üben sich in andere Argumentationen hineinversetzen zu können. \n\nEin beispielsweises starkes Argument gegen regenerative Energien ist, dass diese sehr unzuverlässig sind im Bezug auf Verfügbarkeit, weil sie von Wind und Sonne abhängig sind. Ein Atomkraftwerk oder Kohlekraftwerk liefert konstant und planbar Energie. \n\nAußerdem sind regenerative Energien alle sehr abhängig von einem guten Standort, Windräder und Solarenergie eignen sich nicht überall.\n",
+        "date": "2017-10-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wieso setzt man eigentlich nicht auf Biokraftstoffe? An der Motortechnik müsste man nichts verändern nur das Material (Dichtungen, Schläuche, usw.) anpassen. Es gibt zwar die \"Teller oder Tank\"-Debatte, aber angesichts der Unmengen an Lebensmitteln die weggeworfen werden, erscheint mir das unlogisch. Hunger ist ja ein Verteilungs- kein Produktionsproblem.\n\nAußerdem gibt es genügen Abfallprodukte, die man z.B. durch Fermentation in Ethanol umwandeln könnte. Mit Verkohlung und Wasserstoff aus Solarenergie könnte man Alkohole oder Alkane synthetisieren. Vieles der heutigen Infrastruktur ist doch bereits da (Raffinerien, Pipelines, Tankstellen, usw.).\n\nGibt es da technische/landwirtschaftliche Gründe oder ist es wie so oft ein politisches Problem?",
+        "date": "2017-10-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Kann man denn nicht Wasserstoff aus z.B. Wind- oder Solarenergie herstellen?",
+        "date": "2017-10-21",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Habe mal einen Vortrag zur Wasserstoffspeicherung gesehen. H2 wird in Cyclohexan gespeichert und durch Umwandlung zu Benzol freigesetzt in dem man das Gas über ein bestimmtes Katalysatorbett strömen lässt. Da Benzol flüssig und Wasserstoff gasförmig ist, kann man beide Stoffe relativ leicht trennen.\n\nFand das eine elegante Lösung. Das könnte eine Möglichkeit sein Wasserstoff mit bereits vorhandener Infrastruktur (Pipelines, Tanker) zu transportieren. Der Wasserstoff müsste dann nur aus Solarenergie erzeugt werden, da ist dann wieder das Problem mit der Energie. Je nachdem, wie kompakt man so ein Katalyatorsystem bauen kann, könnte man Cyclohexan tanken, in situ Wasserstoff produzieren und das Benzol an der nächsten Tankstelle abgeben.\n\nNatürlich steckt diese Technologie in den Kinderschuhen, aber es ist einfach beeindruckend zu sehen, welche und v.a. wie viele Ideen es gibt, die leider aufgrund politischer Gegebenheiten (fehlende Investoren) nie über den Labormaßstab hinausgehen.",
+        "date": "2017-10-21",
+        "sentiment": "positive"
+    }
+]

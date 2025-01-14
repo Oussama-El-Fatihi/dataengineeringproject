@@ -1,0 +1,338 @@
+{
+    "data": [
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 125,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "When you come across a feel-good thing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "icon_width": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Wholesome",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "lol_alex",
+            "author_created_utc": 1383832015,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_dt9pq",
+            "author_patreon_flair": false,
+            "author_premium": true,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1636580214,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "qr4uxu",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#f7d358",
+            "link_flair_css_class": "category society",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Gesellschaft"
+                }
+            ],
+            "link_flair_template_id": "1e099388-25bd-11e7-8be1-0e1591e2c470",
+            "link_flair_text": "Gesellschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_qr4uxu",
+            "no_follow": false,
+            "num_comments": 54,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/qr4uxu/plusminus_über_die_energiewende/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1656103100,
+            "retrieved_utc": 1656103100,
+            "score": 254,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Meine Fresse. Da geht mir echt der Draht aus der Mütze. Zur besten Sendezeit lässt man esoterisch angehauchte Mitbürger darüber klagen, dass sie „wegen dem Infraschall, wissense“ keinen Schlaf mehr bekommen, und daran sind die Windräder Schuld. Ein anderer beklagt mit betroffener Miene, dass es jetzt viel weniger Vögel gäbe. **Ach nee! Aber das liegt an der Umweltzerstörung und dem Insektensterben durch Pestizide und Erderwärmung und nicht an den Geräten, die den Trend umkehren sollen!**\n\n(Sachliches Intermezzo) Die Hypothese, dass Infraschall Kopfschmerzen oder andere neurologische Symptome hervorrufen kann, ist durch Doppel-Blind Versuche widerlegt. Man hat Leute in Versuchen starkem Infraschall ausgesetzt. Einigen hat man das vorher gesagt, anderen nicht. Symptome traten nur bei denen auf, denen man es vorher gesagt hat. Auf deutsch: **Das ist Einbildung**. Man nennt das Nocebo Effekt. Den Leuten geht es u.U. wirklich schlecht. Aber eben, weil sie diese Wirkung erwarten.\n\nhttps://www.umweltbundesamt.de/sites/default/files/medien/4031/publikationen/umid-02-19-nocebo-effekt-v2.pdf\n\n(Sachliches Intermezzo vorbei) \n\nJa Leute, was denn nu? Gegen Atomkraft, gegen Kohle, gegen Tagebau sowieso, aber Windkraft oder Hochspannungsleitungen wollter nicht bei euch haben, was? Wasch mich, aber mach mich nicht nass?\n\nMeint ihr ehrlich, es liegt an den Windrädern am Horizont, dass euer am Wochenende in Eigenleistung hingepfuschtes Eigenheim in den verfickten Pilzen keiner kaufen will? Wacht mal auf! Das Problem ist, dass bei euch einmal am Tag der Bus fährt und dass man mit dem Auto täglich 100 km zur Arbeit fahren muss, weil es bei euch im Ort nix zu arbeiten gibt.\n\nIch geh schlafen, mir reicht‘s.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 641649,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Plusminus über die Energiewende",
+            "top_awarded_type": null,
+            "total_awards_received": 1,
+            "treatment_tags": [],
+            "upvote_ratio": 0.93,
+            "url": "https://www.reddit.com/r/de/comments/qr4uxu/plusminus_über_die_energiewende/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "GirasoleDE",
+            "author_created_utc": 1417641623,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_js5a5",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1637575223,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "sueddeutsche.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "qzi3p1",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#036c85",
+            "link_flair_css_class": "category politics",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Politik"
+                }
+            ],
+            "link_flair_template_id": "27453a40-7ecd-11e4-a392-22000b3a0037",
+            "link_flair_text": "Politik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_qzi3p1",
+            "no_follow": false,
+            "num_comments": 43,
+            "num_crossposts": 1,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/qzi3p1/energie_südbundesländer_kämpfen_um_ihr/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "NT_okb38rBgRlMZCCOtXSgOm2e_m5NK89aEmlQMnya8",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/rWLd-liBInC6sWiWunL6vWrbTtMZb84J2N-LHE-nChY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ee9f563715a14c4533c9b0879e6c74a896b2749a",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/rWLd-liBInC6sWiWunL6vWrbTtMZb84J2N-LHE-nChY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=87c5d03a571669900bc87d920059cfea3f9176a5",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/rWLd-liBInC6sWiWunL6vWrbTtMZb84J2N-LHE-nChY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf935df4d6fd1d51ee24d2f5a394ca6c20c1ce13",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/rWLd-liBInC6sWiWunL6vWrbTtMZb84J2N-LHE-nChY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=94d1e17d48df2904c432dfd7e57c2af03958d597",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/rWLd-liBInC6sWiWunL6vWrbTtMZb84J2N-LHE-nChY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=114b5f3ef17645968b4c52dfe5384170bb8aeb52",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/rWLd-liBInC6sWiWunL6vWrbTtMZb84J2N-LHE-nChY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=94493c83c555e198c59c287d224328a261ff925d",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 675,
+                            "url": "https://external-preview.redd.it/rWLd-liBInC6sWiWunL6vWrbTtMZb84J2N-LHE-nChY.jpg?auto=webp&amp;s=9bba8a3898dcfd62e7f1b5fefb3781c09e5c14aa",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1656092605,
+            "retrieved_utc": 1656092605,
+            "score": 24,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 641593,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/zvsbsKaF-1n6ebvWHguB1k9yjCiaM51B5QPVZk-OHKc.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Energie: Süd-Bundesländer kämpfen um ihr Windkraft-Privileg und schreiben Ursula von der Leyen",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.82,
+            "url": "https://www.sueddeutsche.de/politik/windkraft-suedquote-eu-1.5469276",
+            "url_overridden_by_dest": "https://www.sueddeutsche.de/politik/windkraft-suedquote-eu-1.5469276",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 186,
+        "op_b": 176,
+        "total": 367
+    },
+    "error": null
+}

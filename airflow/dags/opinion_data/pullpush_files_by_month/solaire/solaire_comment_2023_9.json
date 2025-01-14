@@ -1,0 +1,467 @@
+[
+    {
+        "text": "Les panneaux solaires sont un des éléments clés de la transition énergétique :\n\n- le coût des batteries domestiques va devenir rentable d’ici 5-10 ans, on pourra donc bientôt stocker le surplus d’énergie créé en journée et l’utiliser la nuit.\n- l’énergie solaire permet de recharger les véhicules électriques et donc d’accélérer la fin de notre dépendance au pétrole sans mettre notre système électrique sous pression.\n- l’autoconsommation reste le moyen le plus écologique puisque tu réutilises la surface inutilisée de ton toit *(en comparaison, inonder une forêt pour créér un barrage hydraulique ou déboiser une forêt pour y planter des éoliennes me parait beaucoup plus néfaste)*\n\nUn conseil :\n- n’espère pas être autonome en cas de black-out si tu n’as pas de batterie. S’il y a un black-out, la production solaire s’arrête (pour éviter de blesser un technicien sur le réseau).\n- ton voisin ne sait pas ce qu’il dit, nos Linkys sont parfaitement capables de gérer l’énergie ascendante. D’ailleurs les autres pays y arrivent très bien eux aussi.",
+        "date": "2023-09-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "AMA C'est écolo si tu réduis ta conso aux heures non solaires ou si tu la décales aux heures solaires. Comme d'hab tout découle du fait de s'adapter au contrainte du système plutôt que d'adapter le système à nos contraintes.\n\nCa rend le côté \"petit producteur\" avantageux : tu évites toutes les pertes de distribution.\n\nLe fait que le réseau de distribution ne soit pas concu pour ça est un faux problème comme tu parles d'autoconsommation : Enedis peut déclarer qu'il ne veut pas d'injection significative parce que ça l'emmerde pour gérer son réseau et un système de production solaire peut tout à fait se réguler pour limiter la surproduction. EDF peut aussi décider que le kWh acheté vaut 0.01 cents et ainsi inciter à l'autoconso plutôt que la vente. Et si l'utilisateur s'arrange pour consommer sa production la question ne se pose même pas !\n\nPour la rentabilité CO2 d'un panneau sur ses premiers 25 ans de production ça doit se trouver (je crois que c'est en faveur du nucléaire) mais dans tous les cas ça rentre dans la catégorie \"faiblement carboné\" même pour un panneau chinois il me semble.\n\nEt pour les contraintes : retour au point #1 en gros considérer que l'énergie est cheap les après midi ensoleillés, chère le matin, hors de prix le soir et acceptable en heures creuses de ton fournisseur d'énergie et agir en conséquence. Ca veut aussi dire que la clim est ptet acceptable l'été mais que chauffer à 23°C en hiver c'est une hérésie (et si ta conclusion est de mieux isoler le logement alors t'auras fait un gain de conso en été ET hiver). Enfin surtout éviter de tomber dans les travers \"comme mon énergie est devenue très peu chère je double ma conso\".",
+        "date": "2023-09-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dans un mix d'énergie comme la France, fortement décarboné grâce au nucléaire et à l'hydraulique, le bien fondé d'une installation de panneau solaire est à démontrer du point de vue bilan carbone total. \n\nEn effet, leur production étant effectuée dans des pays où l'électricité est très carbonée et à l'aide de matière extraite de la terre donc nécessitant de l'énergie pour être utilisable, le bilan est plus que discutable. \n\nLa France, c'est en moyenne entre 40 et 60 g de CO2 par kWh, ton panneau zero+ le cout susmentionnée, le delta en France étant faible par rapport à un pays comme la Pologne, la durée nécessaire afin d'arriver à l'équilibre est très grande. Il y a une chance non négligeable dans notre pays que ton panneau et ton installation meurent avant d'arriver à ce point. Je déconseille donc fortement leur installation ici. En Pologne par contre, une évidence. Cordialement",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Plutôt que de généraliser et dire que l'ensemble des panneaux solaires sont produits dans des pays où l'énergie est très carbonnée, on peut aussi chercher des panneaux faits en France, à différents degrés.\n\nJ'ai trouvé ça : [https://www.revolution-energetique.com/guides/voici-les-6-marques-de-panneaux-solaires-fabriques-en-france/](https://www.revolution-energetique.com/guides/voici-les-6-marques-de-panneaux-solaires-fabriques-en-france/) qui liste Photowatt pour du presque 100% français et Voltec Solar pour l'option la plus bas carbone.\n\nCa permet de nuancer la réponse : pour augmenter le bénéfice écologique, il faut aussi faire attention aux choix de panneaux qu'on achète mais il y a des options bas carbone.",
+        "date": "2023-09-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Effectivement, avec un surcout financier, il est possible de diminuer l'empreinte carbone du panneau et donc son temps d'amortissement du point de vue CO2. Cependant, tu augmentes en contrepartie son temps d'amortissement du point de vue financier.\n\nDonc oui si l'on a les moyens de ne se soucier que du bilan écologique et que l'ensoleillement local est bon, effectivement le solaire à du sens en France sur X année avec X un nombre à calculer.",
+        "date": "2023-09-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Disons que la phrase pourrait être perçue comme incomplète. Sans le dire tu pars aussi sur l'hypothèse que le mix français n'évolue pas négativement par exemple. Qu'on ne se retrouve pas en froid avec nos fournisseurs d'uranium ou qu'on a pas besoin d'arrêter une grande partie du parc nucléaire en plein hiver, par exemple... Peut être plus réalistement l'augmentation de la conso avec l'augmentation du parc de voitures électrique sans d'augmentation de production. Sinon on importera de l'électricité carbonée et un panneau solaire chinois deviendra une option bénéfique...",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Le fait que le réseau de distribution ne soit pas concu pour ça est un faux problème comme tu parles d'autoconsommation : Enedis peut déclarer qu'il ne veut pas d'injection significative parce que ça l'emmerde pour gérer son réseau et un système de production solaire peut tout à fait se réguler pour limiter la surproduction\n\nSelon ce que j'ai compris c'est un problème technique : le Linky est pas prévu pour réguler le courant remontant (sortant de ton installation). Donc si toutes les installations d'un point injectent du courant en même temps ça peut foutre le bordel sur l'infra.\n\nJe ne suis absolument pas sur de moi sur ce point si quelqu'un peut confirmer/informer je suis preneur.",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "1) Les centrales nucléaires en bord de mer n'ont pas se soucie\n\n2) En été, le mix électrique est extrêmement décarboné donc moins d'intérêt de s'autoalimenter\n\n3) Bilan carbone des panneaux solaire si non produit à 100% en France pas top\n\n4) Juste pour le plaisir de copier ton argument : \" Autre point positif, lescentrales nucléaire fonctionnent encore quand le soleil se couche… Les Français aiment bien ignorer ça, mais les panneaux solaires  n’est pas résistant au cycle jour/nuit\" hehe celle-là etait gratuite la bise sans rancune",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le truc dommage avec le solaire, c'est que cela marche le moins bien (hiver, journée froide et couverte) lorsque le réseau consomme le plus. Cela serait super l'inverse exact du solaire :)",
+        "date": "2023-09-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Tu peux déjà utiliser du solaire thermique pour l'eau chaude et chauffage",
+        "date": "2023-09-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;le coût des batteries domestiques va devenir rentable d’ici 5-10 ans, on pourra donc bientôt stocker le surplus d’énergie créé en journée et l’utiliser la nuit.\n\ntu avances ça comme une certitude, je suis plus circonspect sur ce point : il y'a beaucoup d'incertitude sur ce sujet, notamment sur les couts de prod qui risque de beaucoup changer avec la raréfaction/renchérissement des énergies fossiles\n\n&gt;l’énergie solaire permet de recharger les véhicules électriques et donc d’accélérer la fin de notre dépendance au pétrole sans mettre notre système électrique sous pression.\n\nje crois pas trop en l'avenir de la voiture elec (précision : pas rapport à la voiture thermique mais parce que je ne crois pas en l'avenir de la voiture tout court) donc je pense (j'espère)  que cette contrainte deviendra marginale à l'avenir\n\n&gt; l’autoconsommation reste le moyen le plus écologique puisque tu réutilises la surface inutilisée de ton toit *(en comparaison, inonder une forêt pour créér un barrage hydraulique ou déboiser une forêt pour y planter des éoliennes me parait beaucoup plus néfaste)*\n\nBien vu, je n'y avais pas pensé\n\n&gt; n’espère pas être autonome en cas de black-out si tu n’as pas de batterie. S’il y a un black-out, la production solaire s’arrête (pour éviter de blesser un technicien sur le réseau).\n\nmon intention n'était pas d'être autonome mais d'avoir de quoi de amortir le choc (ex : ouvrir mes volets roulants elec si ça dure plusieurs jours, maintenir un peu de frais au réfrigérateur, etc...)\n\n&gt; ton voisin ne sait pas ce qu’il dit, nos Linkys sont parfaitement capables de gérer l’énergie ascendante. D’ailleurs les autres pays y arrivent très bien eux aussi.\n\nsi c'est faux c'est probablement plutôt une incompréhension de ma part, je lui accorde du crédit. Je vais en reparler avec lui si j'en ai l'occaz",
+        "date": "2023-09-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;le coût des batteries domestiques va devenir rentable d’ici 5-10 ans, on pourra donc bientôt stocker le surplus d’énergie créé en journée et l’utiliser la nuit.\n\ntu avances ça comme une certitude, je suis plus circonspect sur ce point : il y'a beaucoup d'incertitude sur ce sujet, notamment sur les couts de prod qui risque de beaucoup changer avec la raréfaction/renchérissement des énergies fossiles\n\n&gt;l’énergie solaire permet de recharger les véhicules électriques et donc d’accélérer la fin de notre dépendance au pétrole sans mettre notre système électrique sous pression.\n\nje crois pas trop en l'avenir de la voiture elec (précision : pas rapport à la voiture thermique mais parce que je ne crois pas en l'avenir de la voiture tout court) donc je pense (j'espère)  que cette contrainte deviendra marginale à l'avenir\n\n&gt; l’autoconsommation reste le moyen le plus écologique puisque tu réutilises la surface inutilisée de ton toit *(en comparaison, inonder une forêt pour créér un barrage hydraulique ou déboiser une forêt pour y planter des éoliennes me parait beaucoup plus néfaste)*\n\nBien vu, je n'y avais pas pensé\n\n&gt; n’espère pas être autonome en cas de black-out si tu n’as pas de batterie. S’il y a un black-out, la production solaire s’arrête (pour éviter de blesser un technicien sur le réseau).\n\nmon intention n'était pas d'être autonome mais d'avoir de quoi de amortir le choc (ex : ouvrir mes volets roulants elec si ça dure plusieurs jours, maintenir un peu de frais au réfrigérateur, etc...)\n\n&gt; ton voisin ne sait pas ce qu’il dit, nos Linkys sont parfaitement capables de gérer l’énergie ascendante. D’ailleurs les autres pays y arrivent très bien eux aussi.\n\nsi c'est faux c'est probablement plutôt une incompréhension de ma part, je lui accorde du crédit. Je vais en reparler avec lui si j'en ai l'occaz",
+        "date": "2023-09-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "L'énergie qui n'est pas consommée en France peut être exportée vers des pays qui tournent au charbon, donc je ne trouve pas ça pertinent de prendre uniquement le mix énergétique français.\n\nConcernant les panneaux, l'important c'est l'EROI (Energy Return on Investment) qui est en général très positif... à condition de produire  toute l'énergie que le panneau peut produire !\n\nSi tu as des panneaux mais que la production est bridée car tu ne consommes pas et que l'onduleur limite l'injection car tu es en autoconsommation, alors ils ne produisent pas tout ce qu'ils pourraient produire, mais l'énergie et les ressources pour les fabriquer ont quand même été mises en oeuvre : c'est donc moins écolo.\n\nConcernant l'autoconso il y a donc deux philosophies (je ne parle pas de la revente, et autres) :\n\n\\- Tu souhaites avant tout diminuer ta facture et te couvrir contre l'augmentation future du prix du kWh ainsi que contre les éventuels blackouts. Dans ce cas il faut une installation surdimensionnée pour avoir plus de production garantie, mais pas trop quand même, sinon ce n'est plus rentable.\n\n\\- Tu souhaites diminuer ta facture tout en étant le plus écolo possible : dans ce cas il ne faut pas surdimensionner et avoir juste assez de panneaux pour pouvoir utiliser toute l'énergie disponible.\n\nCe n'est rentable QUE si tu fais l'installation toi-même. Sinon c'est beaucoup trop cher.\n\nDans les deux cas il faut adapter la consommation à la production en pilotant les charges : routeur solaire pour le chauffe-eau ; pilotage de la clim et de la charge de la voiture électrique ; manuellement pour les autres trucs type lave-linge, lave-vaisselle, sèche linge.\n\nIl n'existe pour l'instant pas de gestionnaire d'énergie intégré qui puisse faire ça tout seul, mais plein d'équipements hétéroclites qui ne communiquent pas selon des protocoles ouverts et faciles d'emploi. C'est un bordel monstre, donc tout le monde se retrouve avec une solution \"ad-hoc\" souvent bricolée avec du raspberry pi ou autre.\n\nBon, là mes panneaux solaires chargent ma voiture électrique, donc je suis content : l'énergie est utilisée et je vais rouler gratos. Mais il faut que j'installe une wallbox pilotable pour gérer ça, c'est tout un bordel.",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Si tu n'as pas de batterie, et en cas de blackout, la production solaire ne s'arrête pas forcément. Beaucoup d'onduleurs réseau ont besoin d'un réseau électrique stable pour se calquer sur ses caractéristiques (principalement la fréquence du courant alternatif), donc ceux là ne produisent plus de courant alternatif quand EDF tombe. Mais certains onduleurs, et même de plus en plus, peuvent générer le courant alternatif même en situation d'isolement.\n\nCe n'est pas lié à une question de blesser un technicien enedis, mais lié à une question de simplicité technologique des onduleurs et donc de coût.",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La voiture sera toujours indispensable dans le pays au 35 000 villages, notamment tant que les transports en commun seront trop chers, trop sales, trop inefficaces, trop absents, trop lents, trop inadaptés, trop mal famés *(ce qui est exactement le cas en ce moment et ça empire)*.\n\nEn plus, les prix délirants de l’immobilier en ville ne cessent de pousser les familles vers les campagnes, et je ne vois pas comment on peut trimbaler 3 gosses et un chien dans un car ou dans un train sans devenir fou.\n\nBref, la voiture individuelle est là pour rester. Ce qui est cool, c’est que la voiture électrique peut servir de batterie de secours grâce au V2G, et c’est là que tes panneaux solaires deviennent intéressants. 🙂",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le solaire, quand y'a du soleil, ne rapporte pas grand chose, tout le monde en a à ce moment-là.\n\nSans prix fixe, aucune entreprise/conglomérat sérieux n'investirait dans les panneaux (ni dans les éoliennes d'ailleurs).\n\nLes crises de prix négatifs quand y'a beaucoup de vent, de soleil et peu de consommation en même temps sont déjà une réalité.",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "# Rapport AR6 - sommaire pour les décisionnaires\n\n&gt; **Dans le secteur des transports, les biocarburants durables, l’hydrogène à faibles émissions et leurs dérivés (y compris l’ammoniac et les carburants synthétiques) peuvent contribuer à l’atténuation des émissions de CO2 provenant du transport maritime, de l’aviation et des transports terrestres lourds, mais nécessitent des améliorations des processus de production et des réductions de coûts (degré de confiance moyen).**\n\nL'amélioration des processus de production et réductions de coûts est référence au développement des électrolyseurs qui ont un meilleur rendement ou autres processus de production de hydrogène vert plus efficaces, tel que le thermocraquage solaire.\n\n# Rapport GIEC AR6, section 4.5.2 Industrie\n\n&gt; **L’industrie légère et l’industrie manufacturière peuvent être largement décarbonées grâce à technologies de réduction disponibles (par exemple, efficacité matérielle, circularité), électrification (par exemple, chauffage électrothermique, pompes à chaleur) et commutation\naux carburants émettant peu ou pas de GES (par exemple, l’hydrogène, l’ammoniac** et carburants biosourcés et autres carburants synthétiques) (degré de confiance élevé)\n\n# Rapport GIEC AR6, section 4.5.3 Villes, Communautés et infrastructure\n\n&gt; **Les biocarburants durables, l'hydrogène à faibles émissions et leurs dérivés (y compris les carburants synthétiques) peuvent soutenir l'atténuation des émissions de CO2 provenant du transport maritime, de l'aviation et du transport terrestre lourd, mais nécessite des améliorations des processus de production et des réductions des coûts (degré de confiance moyen).**\n\nPar améliorations des processus de production et réductions de coûts le GIEC fait entendre qu'il faut des améliorations de rendement des électrolyseurs et nouveaux procédés de production d'hydrogène vert plus efficaces, tel comme le thermocraquage solaire.\n\nVous allez remarquer que les projets liés au hydrogène vert en France visant la décarbonisation de l'industrie, implémentent un circuit court entre production, distribution et consommation d'hydrogène. Cela n'est pas au hasard, les usines de production d'hydrogène vert se situent à proximité des parcs d'énergie renouvelables de façon à bénéficier du surplus de production renouvelable (cad, l'électricité pas chère qui serait perdue si pas stockée) pour produire de l'hydrogène vert à un prix compétitif avec le diesel (carburant que l'hydrogène vise à remplacer).",
+        "date": "2023-09-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le plus agacant c'est de devoir constamment rappeler les stats pour les ENR par MWH pour les énergies versus le nucléaire:\n\n* la surface \n* les métaux/béton \n* un bilan carbone plus faible en cycle de vie (surtout pour le PV)\n* l'intermittence et les besoins en charbon/gaz pour faire face à un manque de vent/soleil parce qu'il faut expliquer que l'électricité ca se stocke mal\n\nLe truc du prix du nucléaire, on répond facilement qu'avoir de l'électricité abondante et peu carbonée, ca n'a pas de prix, surtout que les ENR solaire/éolien, c'est fabriqué avec du charbon chinois.\n\nL'analogie du cerveau est très bonne: \"le cerveau représente une faible partie du poids de votre corps, mais ca veut pas dire qu'il faut le payer à un faible prix, donc son prix n'a pas d'importance\".\n\nPlein de choses devraient couter cher: l'eau, la santé, la nourriture, l'électricité, le logement, et pourtant on achète ces choses avec le meme argent qu'on utilise pour netflix, un téléphone à 800 euros, une mercedes, du parfum, un voyage dans les iles. Donc quand le gouvernement fait des choix pour sécuriser l'approvisionnement à tout le monde de services VITAUX, c'est pas la peine de tout le temps parler de prix.",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Il est généralement contre les enr intermittents dans le mix électrique global mais en faveur de ceux ci de manière locale ou pour la chaleur. \n\nIl est particulièrement en faveur des pompes à chaleur alimentées par du solaire par exemple.",
+        "date": "2023-09-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "C’est écologique et… ça soulage le réseau !\n\nIl faut bien comprendre que je parle d’une installation complète (panneaux + onduleur + batterie). Le bloc qui te sert d’onduleur a d’ailleurs une double fonction : te permettre de consommer en alternatif mais aussi maximiser la production d’énergie. Et la batterie permet de stocker et restituer quand tu veux dans les limites (énergie ET puissance qui y sont indiquer, si t’as assez d’énergie dedans pour faire tourner tes appareils pendant des heures le débit peut ne pas être suffisant).\n\nIl faut bien comprendre que sur cycle de vie d’un panneau (qui a une durée de vie de 20 ans) l’installation produit environ 8 fois plus qu’elle ne consomme (en terme d’énergie grise pour sa fabrication, phase de vie et fin de vie).\n\nPour la fin de vie un panneau solaire est recyclable à 95-98%, généralement il n’y a qu’un film plastique protecteur à l’intérieur qui n’est pas recyclable. Et les filières se sont fortement développées, le panneau est donc recyclable ET recyclé (c’était pas le cas ya 20 ans). L’onduleur si bien dimensionné est capable de vivre bien plus longtemps, sa fin de vie est plus variable. La batterie est la partie la plus discutable, ses impacts sont bien pris en compte dans une ACV. Cependant il y a des options qui se créent pour baisser l’impact comme l’usage de batterie en seconde vie : des batteries de véhicules électriques qui ne sont plus capables de suivre les débits de puissance nécessaires pour un véhicule (plusieurs dizaine de kW) mais peuvent encore tenir un usage stationnaire pendant des années.\n\nPour le côté réseau ce qu’il faut voir c’est que le réseau français est régulièrement sous pression avec les maintenances des centrales en été et durant les gros piques de consommation l’hiver (période où on active nos centrales à charbon / pétrole pour compenser des piques qui n’ont lieu que durant 3-4 mois). Tu permets donc, si tu te chauffes en électrique, de bien soulager le réseau ET de verdir le réseau électrique.\n\nAjoutons à ça une résilience si tu as effectivement une batterie, car en cas de coupure tu peux t’iloter (c’est à dire couper du réseau électrique).\n\nBref tout les voyants sont au vert.",
+        "date": "2023-09-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Tu te bases sur quoi pour dire ça?\n\nSur le fait que la consommation moyenne par habitant ne cesse d'augmenter chez eux et est presque égale à la nôtre (enfin d'après ce que quelqu'un ici m'a dit, graph à l'appui). \n\nD'autre part, passer au gaz pour ensuite passer au solaire (ou autre) ne reflète pas tellement l'imminence du danger climatique telle qu'on nous la vend chez nous. Le gaz est éminement carbonifère. Pour moi ça ressemble plus à un \"mais oui, on se tient au courant\" et puis ciao, plus rien (je veux dire, une promesse en l'air, un simulacre quoi). \n\nPourquoi par exemple ils investissent pas dans le nucléaire? (Ni nous d'ailleurs). Parce que les centrales de 4è génération ne peuvent pas avoir de melt-down, et \"mangent\" même les déchets nucléaires des centrales plus vieilles.",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pour l’homme de paille tu parles de l’angoisse populaire ? Là malheureusement une peut n’a rien de rationnel c’est compréhensible qu’ils soient nombreux à tomber dedans. Le problème c’est surtout ceux qui en jouent.\n\nPour les arguments qui m’ont été avancés ils n’ont rien de secret. Tout d’abord on m’a recontectualiser le nucléaire dans le mix énergétique mondial, car si on a l’habitude d’entendre 60-75% en France (selon qu’on est en énergie électrique finale ou primaire) à l’échelle mondiale le nucléaire c’est 4%. Le charbon en comparaison c’est plus de 30% et presque autant pour le gaz et le pétrole.\n\nEt ensuite c’est un raisonnement simple sur les réserves exploitables. Car oui sous la croûte terrestre on a de la marge… mais tout n’est pas accessible à court terme. Actuellement la limite d’extraction est autour de 270$/kg et on a déjà des installations éoliennes et les dernières générations de solaires qui sont économiquement viables face au nucléaire. Et à 270$/kg on a une estimation (très floue, ça pourrait être plus en réalité mais ça pourrait tout aussi bien être moins) d’environ 100 ans. Donc si le nucléaire remplaçait uniquement le charbon dans 12 ans ces réserves sont épuisées. Le prix du nucléaire augmenterai alors (pour forer plus loin et mieux traiter le minerai) ce qui n’a progressivement plus de sens. D’autant plus qu’il y a aussi des défis technologiques à passer pour aller vraiment plus loin.\n\nPour les autres ressources qui existent comme ce qui est contenu dans les océans (estimé à 100 ans de plus à consommation actuelle) et ce qui est dans le charbon (300 ans à la consommation actuelle), en supposant qu’on arrive à extraire tout ça et que ce soit économiquement viable on passerait de 12 à 60 ans de ressources en ayant remplacé uniquement le charbon.\n\nEt n’oublions pas aussi le contexte géopolitique, est-ce qu’on veut que tout les pays soient équipés au nucléaire ?\n\nDonc ça pose une question importante sur la place du nucléaire à long terme. Soit notre consommation reste élevée et il doit être marginal, soit on diminue drastiquement et il peut être présent à un taux élevé, soit on va dans le mur.\n\nIl y a un tout, un équilibre à trouver. Mais pour ma part je suis hautement pessimiste à une époque où tout les moyens de production sont considérés uniquement comme étant en concurrence",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "J'comprends pas ton commentaire. Dans l'article linké par OP, j'ai cliqué sur le lien vers la pétition \"*Dear Greenpeace*\" et le message général c'est : « *Greenpeace, arrêtez de lutter contre le nucléaire svp* » pas « *arrêtez de soutenir les renouvelables* ».\n\nY'a même cette phrase explicite qui est surlignée : « In my experience young people tend to be open minded to **all solutions**, including nuclear. It’s an emergency after all! » (mise en gras de mon fait).\n\nSuivi d'un graphique sur les \"*climate heroes*\" qui met en avant le nucléaire, l'hydroélectricité, l'énergie solaire et l'énergie éolienne.\n\nEt malgré tout, tu appelles ça « matrixé » et « écarter totalement les renouvelables de l'équation » ?",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "En UE : essentiellement parce qu'à court et moyen terme, le nucléaire peut pas se déployer assez vite.\n\nAu-delà de l'UE : aussi parce qu'il ne peut pas se déployer partout.\n\nEt parce qu'il y a des usages et des cas qui se prêtent bien à l'éolien ou au solaire (photovoltaïque ou thermique) qui sont donc bien plus simples d'usage que le nucléaire dans ces cas.",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Une explication peut être d'ordre économique. Le kilowattheure éolien ou solaire s'annonce beaucoup moins coûteux que le kilowattheure de nouvelles installations nucléaires.\nNéanmoins, il faut y ajouter le coût de l'intermittence et de sa gestion.\nMais moins il y a d'intermittence dans le mix électrique, moins cette intermittence est coûteuse et plus les renouvelables deviennent intéressantes par rapport au nucléaire.\n\nOn peut donc imaginer qu'il existe un optimum, un taux de renouvelables intermittentes auquel l'intermittence est suffisamment peu coûteuse pour que le coût de revient soit à l'équilibre avec celui du nucléaire.\n\nSi on s'éloigne de cet optimum, le coût de l'électricité augmente. Soit a cause du coût de l'intermittence si on a trop de renouvelables, soit à cause du coût du nucléaire si on en a trop.",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Solaire thermique c'est cher??? Non et ça devrait être obligatoire sur tous les nouveaux bâtiments. Ça permet a minima de chauffer l'eau froide en entrée du ballon d'eau chaude ou de la chaudière à gaz et tu réduis\nDe minimum 50% tes coûts d'eau chaude",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Panneaux solaires avec durée de vie de 5 ans?",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "La comparaison avec le raciste marche très bien en fait !\n\" les ENR c'est bien, mais chez les autres\"\n\"Une éolienne ça va, c'est quand elles sont plusieurs qu'ya des problèmes\"\n\nS'il faut être plus spécifique, Janco est contre le développement des ENR en France, ce qui est suffisant sur un Reddit francophone pour dire qu'il n'est pas pro ENR (j'ignore s'il s'est prononcé sur la Belgique, le Québec ou l'Afrique francophone).\n\nUne pompe à chaleur ce n'est pas une ENR. Ca consomme de l'électricité. Je suis sur que tu n'as jamais regardé ton frigo comme une ENR meme s'il chauffe ta cuisine toute l'année.\n\nCe qu'il préfère c'est la PAC solaire ? Jancovici a une solution pour l'ECS, formidable.",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La comparaison avec le raciste marche très bien en fait !\n\" les ENR c'est bien, mais chez les autres\"\n\"Une éolienne ça va, c'est quand elles sont plusieurs qu'ya des problèmes\"\n\nS'il faut être plus spécifique, Janco est contre le développement des ENR en France, ce qui est suffisant sur un Reddit francophone pour dire qu'il n'est pas pro ENR (j'ignore s'il s'est prononcé sur la Belgique, le Québec ou l'Afrique francophone).\n\nUne pompe à chaleur ce n'est pas une ENR. Ca consomme de l'électricité. Je suis sur que tu n'as jamais regardé ton frigo comme une ENR meme s'il chauffe ta cuisine toute l'année.\n\nCe qu'il préfère c'est la PAC solaire ? Jancovici a une solution pour l'ECS, formidable.",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "800 W c'est pas beaucoups, et c'est de la prodution crète j'imagine. Tout juste pour un quotidien en plein été. Pour le chauffage c'est impossible. Commences plutôt par installer les radiateurs et mesurer en fin d'hivers leurs consommations réelles. Je te dis ça, j'ai moi aussi démonter la chaudière à gaz, par contre si j'ai mis de bons gros radiateurs elec, j'ai aussi rentré 50 stères de bois (j'en brûle 15) pour alimenter mon insert et mon poele (maison ancienne). Pour résumer, il ne faut pas passer au solaire ou autre énéergie renouvelable sans d'abord mesurer et raisoner sa consomation. Mon conseil serait donc de commencer par analyser tes consos (elec, gaz, chauffage, eau, gazoil, ...)",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pour du chauffage, mieux vaut faire directement du solaire thermique.\nLe retrofit peut être assez simple sur une maison avec un chauffage au sol.",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je suis pas sûr que ce soit ultra rentable (écologiquement) ce genre de panneaux. Ils vont souvent être mal orienté et sous utilisé donc a mon avis il faut beaucoup de temps avant d'amortir leur coût énergétique.\nPourquoi ne pas utiliser des panneaux solaires chauffe eau pour chauffer tes radiateurs ?",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Non, l'utilisation du solaire thermique est assez peu adaptée à un usage par un logement seul. L'eau glycolée a tendance à surchauffer et à devenir acide quand le système n'est pas utilisé. Dans le fond c'est une bonne idée mais la maintenance derrière et les fuites sur ce genre d'installation à moyen terme (surtout sur du chauffage au sol) sont difficiles à gérer.",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui, pour faire du solaire, il faut une maison avec un toit.\n\nJ'ai mis 12kW (33 panneaux). Avec ça je charge la voiture électrique (je roule gratos), je fais tourner la pompe à chaleur, la clim, et ça couvre la consommation du reste de la maison...\n\n...quand il y a du soleil.\n\nIl ne faut pas oublier le sens des mots \"EnR non pilotable\" : quand il fait gris, ça produit que dalle. Quand il fait froid ET gris, ça produit toujours que dalle.\n\nEn appartement, le meilleur retour sur investissement, c'est l'isolation.",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Janco \"la bonne solution pour le bon problème.\"  \nToi \"C'est raciste.\"\n\nIl y'a beaucoup plus de vent au Portugal qu'en Allemagne, ce qui est raciste apparemment. \n\nLa géothermie est une enr que tu le veuilles ou non. Sinon les panneaux solaires qui s'orientent face au soleil avec un moteur ne sont pas des enr.",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Tu sors des chiffres d'où ?\nParce que moi je vois\n\n\n&gt; Aujourd'hui, la majorité des panneaux solaires mis en place dans l'Hexagone proviennent de Chine. C'est pourquoi, on utilise comme valeur standard 43,9 gCO2eq/kWh en 2022. Le bilan carbone des panneaux solaires s'améliore au fil du temps. En 2013, il était de 55 gCO2eq/kWh.8 sept. 2022\n\nSur edfenr.fr.\n\nAlors le bilan est pas oufissime par rapport au nucléaire, mais c'est toujours mieux que du gaz",
+        "date": "2023-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je sais pas, mais c'est un ordre d'idée quoi.\n\nDans les années 2000 on pouvait dire que la construction de panneau solaire était pas tellement rentable en terme d'émission, mais c'est vraiment plus le cas maintenant.",
+        "date": "2023-09-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "\"espérer faire tourner des radiateurs avec du solaire c'est contradictoire\"\n\nDans le post il est question de panneaux solaires photovoltaïques, pas thermiques. En effet les thermiques ça suffirait pas sauf avec une très grande surface, mais les photo ils s'en foutent du froid",
+        "date": "2023-09-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mmm oui effectivement ce sont des panneaux solaires donc aucun rapport avec la température, ils sont sensibles au taux d'ensoleillement, qui est très réduit en hiver.",
+        "date": "2023-09-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Mmm oui effectivement ce sont des panneaux solaires donc aucun rapport avec la température, ils sont sensibles au taux d'ensoleillement, qui est très réduit en hiver.",
+        "date": "2023-09-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Thermicien Bat ici,\n\nLes panneaux solaire il faut voir ça comme du bonus : elec gratos quand il faut jour + soleil. Dans l'idée c'est plutôt cool!\n\nPar contre je vois pas comment avec 800WC et une batterie de 1kWh tu comptes alimenter le chauffage de 3 radiateurs amovibles toute une nuit. Le moindre petit truc c'est genre 1500w, tu videras ta batterie avec 1 seul radiateur en 1h.\n\nAu niveau du cout/kWh, L'élec c'est pire que le gaz. Mis à part s'il est possible de remplacer sa chaudière gaz par une PAC, là tu va être limité. Une autre solution serait de chercher par où se \"barre\" le chauffage, mais ça entraine souvent des travaux un poil lourds (réisolation des façades, changement des menuiseries, ect.).\n\nJe préconise : baisser en régime de chauffage à 20°C maxi et -2°C lors d'absences (pas moins car la relance de chauffage serait contre-productive), profiter au maximum des apports solaires (laisser stores et rideaux ouverts pendent la journée) en supposant que la forte inertie du bâtiment jouera en notre faveur, et isolation complémentaire des humains par plaid moumouté lors des soirées d'hivers dans le canapé (ceux de maison du monde, un poil cher, mais vraiment doux).",
+        "date": "2023-09-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Beaucoup de panneaux solaires, de zoé et de pistes cyclables dans les zones pavillonnaires cossue des Yvelines … Clichés clichés de classe quand tu les tiens.. Malheur à ceux qui amalgament lutte des classes et écologie",
+        "date": "2023-09-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Solaire + Chauffage t'oublie comme concept, sauf si on parle de solaire thermique avec une grande surface de captage.\n\nJ'ai 5kWc de panneaux sur mon toit, en hiver un jour où j'ai besoin de chauffer en journée (donc un jour sans soleil sinon la baie vitrée plein sud fait l'affaire) j'ai de la chance si les panneaux produisent 500-1000W, à peine de quoi alimenter une bouilloire de voyage donc chauffer une pièce on oublie.\n\nEt une batterie chimique pour du chauffage est une idée terrible. Si tu veux stocker la chaleur/électricité du jour pour la restituer le soir il faut regarder les sytèmes de chauffage par accumulation mais aucune chance que ça ait un intérêt en appart.\n\nCe qui a plus d'intérêt pour toi est peut-être de regarder les tarifs EDF Tempo (un peu hardcore avec des grille-pains) ou Zen Flex (moins intéressant mais plus facile à gérer avec genre 17h d'heures creuses par jour) et voir si ça serait compatible avec ton chauffage pour rester au chaud à moindre coût.",
+        "date": "2023-09-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ne nous trompons pas, les voitures électriques actuelles sont là pour sauver les fabricants de voitures et, au mieux, du greenwashing. \nLa fabrication et le recyclage des batteries est le plus gros problème. Vu les matières rares pour la fabrication non seulement de la batterie mais aussi de l'électronique, la pollution engendrée par cette extraction et fabrication, on peut presque dire que ça tourne aux ressources fossiles. \nLes voitures modernes telles qu'on nous les vends dépensent tellement d'énergie juste pour déplacer leurs énormes batteries que ça en est ridicule. \nl'ADEME a sorti un rapport sur la pollution en ville: le pire maintenant ce n'est plus vraiment les moteurs mais les pneus (que les gros véhicules électriques détruisent à cause du couple et de la masse à freiner) ainsi que la poussière de plaquette de frein (que les véhicules électriques, plus lourds que les thermiques) détruisent aussi. \nL'énergie électrique n'est pas verte. Au mieux, si tu prends l'un des rares distributeurs d'énergie qui assurent utiliser 95% d'énergie verte (éoliennes, panneaux solaires, tout aussi non recyclables dans la majorité, et les éoliennes coûtent tellement à fabriquer et à maintenir que l'énergie qu'elles produisent est négligeable), on pourra dire que tu fais ça bien. L'énergie en France c'est des barrages et du nucléaire, en Allemagne c'est du charbon (bonne idée hein). La transformation de l'électricité pour charger la batterie est très peu efficiente aussi. \nLes seuls véhicules \"sensés\" sont les mini-voitures qui ont très peu d'autonomie pour la ville. \n\nPour revenir aux motos, même problème que les voitures dans l'ensemble. Batteries, autonomie, origine de l'électricité, électronique à foison, bref.",
+        "date": "2023-09-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Si des panneaux solaires sont installés sur le toit de la copro ça ne devrait pas bénéficier à tout les copropriétaires ?",
+        "date": "2023-09-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je vais te donner des infos techniques, un panneau solaire a en général un rendement sur toute la chaîne (soleil - panneau - onduleur) de l'ordre de 10 a 15% donc avec les 30m2 de panneaux tu auras entre 3 et 4,5 kW de puissance au maximum, car la puissance dépend de l'angle du soleil. Avec ça tu peux faire tourner une petite pompe a chaleur à certains moments de la journée. Sinon il faut envisager ça pour faire de l'injection sur le réseau, mais avec une si petite surface, ça risque de pas rapporter gros. Sachant qu'une fois installés, en cas d'incendie, les pompiers ne peuvent plus intervenir. De mon point de vue (étudiant ingé mécanique) ça vaut pas forcément le coup pour de l'autoconsommation, et pour de la revente, je ne suis pas certain de la rentabilité, mais je suis moins au fait de cette partie là",
+        "date": "2023-09-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "PNJ  \n\n\nDe mémoire : le toit est une partie commune.  \nLes combles peuvent appartenir à la personne au dernier étage.  \n\n\nSi la copro accepte de te laisser poser/faire poser les panneaux solaire il faudra une décision en AG de copro pour faire le raccordement des panneaux à ton compteur.  \n\n\nSinon tu est dans une zone grise, d'expérience y aura toujours un relou pour te faire chier avec ça ou quelqu'un pour se rendre compte que ça pourrait faire baisser ses charges.  \n\n\nPropose directement ta solution perso vs une solution copro, si il prennent copro, tout le monde y gagne et un gain écologique fort, sinon tu as plutôt les main libre, voir t'associer directement avec les gens que ça intéresse.",
+        "date": "2023-09-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Un climatiseur consomme environ 2kW\n\nSi tu met 30 m2 de panneaux solaires qui génèrent 1000kwH par an ca fait 30 0000 kwH\n\nDonc de quoi alimenter ton climatiseur 15 heures dans l'année .",
+        "date": "2023-09-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Salut OP, \n\nLe solaire fonctionne sur Paris. J'ai une quantité assez importante de panneaux solaires à gérer sur les toits de Paris et ... Ça marche, surtout avec le bond des prix de l'électricité si tu peux autoconsommer c'est top. Après attends toi à avoir plutôt autour de 100/125kWh/M2/an.\n\nPour ce qui est de la copro comme certains commentaires ont évoqué, je n'ai que des panneaux en bâtiment mono propriétaire donc je voudrais pas te dire de bêtises",
+        "date": "2023-09-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Et pendant ce temps le soleil arrive à son pic d activité solaire.",
+        "date": "2023-09-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Eruption solaire + fin d'une mini ère glaciaire + mouvement jouant sur la culpabilité tout en laissant la main libre aux gouvernements pour taxer\n\nYes, merci les écolos, oubliez pas d'aller vivre en mode ermite svp",
+        "date": "2023-09-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Avec ce que je sais, je pense qu'on détruira la planète avant d'avoir atteint la limite de nos réserves.\n\nC'est pas impossible. Des fois je me demande si nous n'aurons pas quelques fanatiques à l'avenir qui préféreront un hiver nucléaire au réchauffement climatique.\n\n&gt;On découvre encore des gisements de pétrole\n\nDe plus en plus difficiles d'accès et de moins en moins bonne qualité. Et vu qu'on en produit quasiment pas à l'échelle européenne il faut se demander si comment on va bénéficier d'imports.\n\nMais argument en faveur des nouveaux stocks : La France bénéficie des plus gros stocks européens de gaz naturel... Si on autorise le fracking. Je me demande honnêtement ce que l'avenir nous réserve de ce point de vue là.\n\nPar contre j'ignore tout de ce qui se passe au niveau de l'Antarctique, donc si tu as des infos à ce sujet ça m'intéresse.\n\n\n&gt;je ne suis pas sûr d'avoir compris où vous vouliez en venir avec cette première partie de votre réponse.\n\nBah personnellement ce qui m'inquiète, c'est qu'on a construit des sociétés complètement dépendantes du pétrole et que la génération d'électricité ne nous aidera pas forcément, du moins pas pour tout.\n\nLes métaux sont extraits avec du pétrole, raffinés avec des produits chimiques qui souvent dépendent du pétrole, transformés dans des usines utilisant des terres rares, des métaux et du pétrole, transportés avec du pétrole et recyclés avec d'autres produits chimiques issus du pétrole.\n\nToute l'industrie pharma dépend du pétrole soit pour la chimie, soit les machines, soit pour protéger les médicaments de toute forme de contamination. (Il nous reste toujours le verre cela dit)\n\nPas de métaux ou de chimie et pas d'industrie moderne, pas d'informatique, pas de transport de marchandises à l'échelle mondiale, pas de météo à grande échelle etc.\n\nIl est également probable que ça termine en guerre au niveaux des ressources avant que les pénuries n'arrivent réellement. Ou vis a vis des pénuries alimentaires vu le nombre de pays qui dépendent d'imports tels que l'Égypte.\n\nBref, lire \"les énergies renouvelables sont notre avenir\" dans des pubs ou des slogans politiques ne me rassure pas forcément surtout quand on considère que seul le pétrole et la mondialisation rendent les éoliennes et panneaux solaires rentables.",
+        "date": "2023-09-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "bah le nucléaire, même si ça parait bien aujourd'hui, c'est pas forcément l'idéal non plus : par exemple, que se passera t il dans un monde chaotique avec le nucléaire ?\n\nAutre argument des écolos, c'est que si on avait mis les mêmes montants dans la recherche sur l'éolien ou le solaire ou les batteries, on n'en serait pas là non plus avec le renouvelable mais on aurait qqch de bcp plus efficace\n\nPour ce qui est des \"dizaines d'années\", on préfère mettre au pouvoir des gens qui ont niés les pbs écolos pendant des dizaines d'années ..",
+        "date": "2023-09-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La fusion nucléaire ne comporte pas de risques. La fission nucléaire avec les normes et les centrales d'aujourd'hui n'ont pas de risques non plus. \nIl y a urgence climatique.\nConcernant l'éolien et le solaire, ce n'est tout simplement pas possible étant donné que ce sont des énergies intermittentes, et aux rendus possibles relativement faible finalement, au vu des ressources nécessaires.\nÇa fait des dizaines d'années que les écolos s'allient aux socialistes en échange du meurtre du nucléaire français. \n(Superphénix, projet Astrid, Fessenheim).",
+        "date": "2023-09-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "je pourrai réécrire exactement le meme message.\n\nPas de risques aujourd'hui, avec des ingés bien formés et en nombre suffisant. Quid en cas de guerre par exemple (cf centrales en Ukraine) ou d'indispo climatique (réchauffements, émeutes/attaque des pays plus pauvres, épidémies ...)\n\nRendements faibles .. oui, mais avec une recherche quasi nulle pendant 50 ans sur le solaire et l'éolien. Reprise de la R depuis 15 ans et les rendements sont bien meilleurs, idem pour les batteries. Qu'est ce que ça aurait donné si on avait parié sur ces energies en 1960 ?",
+        "date": "2023-09-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "je serais pas aussi pessimiste que toi, mais clairement ça va demander de reduire la voilure. Dans ce qui est sur comme principe, mais difficilement quantifiable dans le détail (surtout dans un climat en évolution) c est que y a beaucoup de superflu qui va disparaite ou presque. logements moins grand et construits de façon plus low tech, agriculture beaucoup plus local et low tech et moins couteuse en eau aussi aussi. \n.. donc mecaniquement une alimentaion en produit animaux plus faible, avec des disparité selon les régions. Nous passerons une plus grande partie de notre revenu ou de notre temps pour nous nourrir, et avec des chaines logistiques beaucoups plus réduites. Pour la santé si on priorise ça on pourras probablement maintenir pas mal de choses. mais pas tout. On se déplacera moins. les vehicules individuels motorisé seront beaucoup moins nombreux et plus légers.\n\nMais bref, faudra faire avec de l hydrolique, de l eolien, du solaire, du nucleaire et un peu de biocarburant (ou d hydrogène) utilisé avec parcimonie pour les trucs essentiels et batir un équilibre là dessus. Les avancées scientifiques font qu on pourras probablement vivre (si c est anticipé et géré en avance et dés maintenant) mieux que nos arrières grand parents en grand parents jeunes (et dans les campagnes aussi). A  bien des égard, il s agit de retourner un peu la dessus, si on veut visualiser un truc concret chez nous, mais avec des avancées technologiques en plus et du petrole en moins.\n\n\nPar exemple pour bricoler, on utilisera probablement plus beaucoup d electro portatif et plus d outils a main, a air comprimé et en filaire classique. (un exemple parmis tant d autre). Et on partagera surement plus les perceuses.",
+        "date": "2023-09-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Autre argument des écolos, c'est que si on avait mis les mêmes montants dans la recherche sur l'éolien ou le solaire ou les batteries, on n'en serait pas là non plus avec le renouvelable mais on aurait qqch de bcp plus efficace\n\nArgument à la con (comme la plupart des arguments des parti escrolos sur l'enegie). ça fait des décennies qu'on dépense dix fois plus en recherche sur le renouvelable que sur le nucléaire.\n\n[https://www.connaissancedesenergies.org/levolution-des-investissements-mondiaux-dans-lenergie-en-3-graphiques-220218](https://www.connaissancedesenergies.org/levolution-des-investissements-mondiaux-dans-lenergie-en-3-graphiques-220218)\n\nLa part du nuke dans la R&amp;D est ridicule.",
+        "date": "2023-09-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ouais enfin le problème c'est qu'on a une URGENCE climatique. Le solaire et l'éolien c'est gentil mais ca répond pas de suite à la problématique (surtout quand elles sont en période creuse et faut compenser avec du moins propre). Ca peut servir de complément mais c'est tout. Le nucléaire c'est une bonne énergie principale de transition. Si on mise bien sur le nucléaire, on peut faire peut être quelques centaines d'années tranquille où on a le temps de trouver une meilleure solution.  \n\n\nJe dis pas que dans 500 ans on aura pas trouvé une meilleure solution que le nucléaire en recherchant (bien que vu à quel point le gouvernement sen fout de l'éducation et la recherche ca part mal), je dis qu'il faut trouver une solution temporaire et le nucléaire en est une bonne pour moi.  \n\n\nQue des écolos soient anti-nucléaires me paraît complètement délusionnel. Je préfère des risques infinitésimaux d'une petite catastrophe et quelques déchets stockés dans des complexes souterrains, à un réchauffement planétaire de X degrés pendant que tout le monde se touche.  \n\n\nMais ce qui me tue le plus c'est à quel point le manque d'éducation fait qu'une quantité énorme de personnes est persuadée que le nucléaire pollue l'air et participe au réchauffement climatique (alors que c'est legit 0 pollution).  \n\n\nDu coup.. Je suis pas contre l'écologie MAIS il faut des gens intelligents et pragmatiques qui la représentent, quitte à rendre des gens pas content, et j'hésite pas une seconde je vote pour eux.",
+        "date": "2023-09-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Oui. L'année dernière, quand j'ai entendu le petit Bruno dire qu'on allait faire la guerre à la Russie et que ce serait génial, j'ai immédiatement déposé la déclaration de travaux. Maintenant je charge la voiture électrique avec les panneaux solaires, et je roule gratos. Merci petit Bruno pour la motivation XD",
+        "date": "2023-09-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Chaque millième compte.\n\nLa meilleure mesure que l'on pourrait prendre, ce serait de tous installer des panneaux solaires thermiques pour le chauffage l'hiver &amp; l'eau chaude sanitaire en faisant la rénovation thermique de notre maison, et de tous benner notre voiture.\n\nAlors certes il n'y a pas que nous, certes les américains aussi et les chinois aussi.\n\nCependant:\n\n\\- poids carbone d'un américain : autour de 15-20TCO2 par an\n\n\\- poids carbone d'un français : 12T par an (un riche va être à 15-20 et un pauvre à 5)\n\n\\- poids carbone d'un chinois : 5.5T.\n\nPrincipale différence entre le français et l'américain? La taille des voitures, l'énergie consommée domestiquement (beaucoup de GE aux US, et des voitures énormes).\n\nPrincipale différence entre un français et un chinois : les chinois n'ont pas 2 voitures individuelles par foyer.\n\nEt j'ajouterai qu'aux US, ils ont le \"inflation reduction act\", qui sans en avoir l'air, peut diminuer la consommation interne en énergies fossiles du pays pour en exporter une plus grande part. Nous on a interdit les pailles en plastique \\*facepalm\\*.\n\nRéduire notre dépendance au pétrole n'est pas qu'une mesure écolo, c'est une nécessité économique.",
+        "date": "2023-09-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Je lance une idée folle. Mais si on transformait le Sahara en gigantesque capteur de CO2 grâce à l'énergie solaire ? On pourrait le transformer en combustible ? J'en sais rien ça me paraît fou mais si un industriel dément passe par là...",
+        "date": "2023-09-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "on a pas assez de métaux pour fabriquer autant de panneaux solaires\n\nen plus, les panneaux solaires doivent avoir un transfo/onduleur, ce qui rend la tache assez complexe",
+        "date": "2023-09-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "A la moindre tempête de sable et tes merveilleux panneaux solaires peuvent être inopérants.\n\nIl doit y avoir un travail énorme en maintenance pour ce genre de matos que juste poser des panneaux et voilà .",
+        "date": "2023-09-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Oui, avec des arbres. Les arbres sont d'excellents panneaux solaires qui captent le CO2. Il serait très bon de reboiser le Sahara, il existe de tels projets, mais tout le monde s'en fout. On devrait s'en saisir je pense",
+        "date": "2023-09-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ah déjà on change de teneur ici : on sait stocker de l'énergie mais c'est trop cher. C'est beaucoup moins troll que le message que tu défends, du type qui m'a répondu qu'une batterie stocke pas d'énergie.\n\nJe t'objecterai que comme solaire et PV d'ailleurs, le prix des batteries diminue très vite. Il a été divisé par 10 entre  2010 et 2020, et plusieurs études prévoient que la baisse va continuer, malgré une augmentation récente du coût des matériaux.\n\nIl faut des batteries pour gérer l'intermittence et écrêter les pics d'appels de puissance, pas pour être autonome pendant 24h.\n\nEt je ne parle que du stockage électrique. On pourrait aussi stocker sous forme de chaleur. Via les ballons ECS. Aujourd'hui ils sont programmés pour chauffer la nuit, ils pourraient très bien l'être pour absorber les pics de production.\n\nQui troll le plus, moi ou \"on sait pas stocker l'énergie\"?",
+        "date": "2023-09-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Je t'objecterai que comme solaire et PV d'ailleurs, le prix des batteries diminue très vite. Il a été divisé par 10 entre 2010 et 2020, et plusieurs études prévoient que la baisse va continuer, malgré une augmentation récente du coût des matériaux.\n\n&gt;Il faut des batteries pour gérer l'intermittence et écrêter les pics d'appels de puissance, pas pour être autonome pendant 24h.\n\nAttention parce que même pour aplatir les différences entre la production (ENR ..) et demande d'énergie il te faudra du stockage énergétique à des ordres de grandeur colossales.\n\nOr quand tu compares la densité énergétique proportionnée par chaque type de stockage avec sa puissance tu te rends vite compte que le plus de puissance et quantité d'énergie il te faut stocker, le moins intéressant le stockage à batterie devient par rapport aux autres moyens de stockage, notamment l'hydrogène et pompage d'eau.\n\nPour des variations entre production et consommation assez rapides (jusqu'à quelques heures) la batterie est un moyen de stockage pertinent mais très coûteux (car la quantité de ressources utilisées augmente linéairement avec sa taille).\n\nPour des variations assez lentes (des heures jusqu'à plusieurs jours) le hydrogène et le pompage d'eau deviennent extrêmement plus rentables. Le hydrogène proportionne le bénéfice important de pouvoir être transporté comme un carburant.\n\nhttps://preview.redd.it/l1gbq65k3nnb1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=9334cdd3638e454166ac67cc494e6a1909b3d924",
+        "date": "2023-09-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Oui c’est intéressant, ils annoncent une ville “sans voiture”, et un temps de transport en commun de seulement 20 mn d’un bout à l’autre de la ville. Une ville autonome grâce à l’énergie solaire et des services publics à moins de 5 mn peu importe où tu habites.\n\nSur le papier ça fait rêver.",
+        "date": "2023-09-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ce qui me fascine c'est aussi voir à quel point vous pensez être nombreux alors que pas du tout.\n\nÀ quel point vous pensez que tout les pays sont affolés et vont se battre pour ça alors que la Chine et l'Inde (50% de la population mondiale) s'en battent un rein.\n\nOn vous prends pour des cons à venir avec 50 A380 pour 5 personnes lors des réunions au sommet pout l'écologie mais on retrouve toujours des gens en mode comme toi, c'est fascinant.\n\nLe gouvernement français qui t'explique que tu dois te privé pour sauver la planète mais ne signe même l'accord de protection des oceans et des mers, Rousseau qui passe son temps à détruire la France traditionnelle, à t'expliquer que les barbecues c'est matcho et mal mais un de ses conseiller veut interdire une course de bateau à voile.\n\nDevrais-je m'attarder sur l'Allemagne qui retire ses éoliennes après avoir enlevé ses centrales nucléaires pour de nouvelles mine à charbon ? Ou encore de voitures électriques qui polluent limite plus et qu'on sait pas recycler ? Ou des panneaux solaires qu'on ne sait pas non plus recycler derrière ? \n\n\nNon mais vraiment, niveau crédibilité, vous vous sentez comment les pro ecolos ? (Que le réchauffement soit vrai ou non, au point où on en est)\n\nÇa va ? Pas trop fatiguée d'être pris pour des cons ? Je vous remercie pas pour les taxes par contre",
+        "date": "2023-09-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Si des espaces avait un accès voiture c'est que c'est pertinent ou qu'il n'y a pas d'alternative.\n\nLogique circulaire. C'est qu'on a choisi d'aménager par et pour la voiture sans envisager de faire autrement et en ignorant les externalités.\n\n&gt;Par contre faire de l'écologie juste pour faire du puritanisme anti consommation anti confort, là non personne ne va suivre. Il faut allier le pratique à l'agréable\n\nSoyons clair : on a atteindra jamais les objectifs des accords de Paris (2T de CO2/hab) en continuant à déplacer à 90km/h sur 50km par jour 80% des français de la porte de leur logement à celle de leur travail. Même en électrique. \n\nJe cite Jancovici : \n&gt;&gt;En conclusion, le véhicule électrique est une idée aussi bonne que le contexte dans lequel il prend place : électrifier le parc de véhicules si celui-ci est **divisé par 5, utilisé 4 fois moins, avec des véhicules 3 fois moins lourds,** et alimentés avec de l’électricité décarbonée, pas trop chère, et surtout pilotable (ce qui met le nucléaire et l’hydroélectricité en tête, et peut-être demain le solaire à concentration avant l’éolien) est assurément une bonne idée.\n\nSoyons clair une deuxième fois : on a atteint un niveau de confort technologique (appelons ça le \"pratique\") qui est incompatible avec une existence durable pour l'humanité. Le futur de nos enfants ne sera de toute façon pas \"agréable\" (en comparaison de ce qu'on a connu) et il le sera certainement encore moins si on continue à faire rouler autant de voitures aussi vite et aussi loin tout autour du globe.",
+        "date": "2023-09-13",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Des bactéries ne sont encore jamais sorties d'elles-mêmes d'une boîte de pétrie. Pourtant c'est ce qu'est en train de faire l'humain sur la Lune et Mars (puis d'autres planètes du système solaire certainement à l'avenir, sans forcément dépendre des ressources terrestres pour sa survie une fois sur place). \n\nNe serait-ce que la simple existence de la SSI à 400km d'altitude, avec un habitat permanent, c'est du jamais vu parmi d'autres espèces.",
+        "date": "2023-09-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Non, ta consommation.\n\nQue ton four soit allumer grâce à une éolienne, un panneau solaire, une centrale nucléaire, ou une centrale à charbon, c'est le même problème.",
+        "date": "2023-09-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;(Allemagne) et très loin ils n'en ont rien à carrer et augmenter leurs émissions comme si de rien était.\n\nJe ne pense pas qu'ils n'en ont \"rien à carrer\" comme tu l'écris.\n\nJe pense qu'ils ont choisi leurs priorités entre un danger qu'ils perçoivent comme immédiat (menace stratégique Russe) et un autre qu'ils perçoivent comme plus lointain (réchauffement climatique).\n\nOnt-ils cessé leurs investissements dans l'éolien et le solaire ?\n\nNe viennent-ils pas d'annoncer qu'ils relancent les recherches sur la fusion inertielle ?\n\nNon, on ne peut raisonnablement pas dire que les Allemands s'en fichent.\n\nAprès, que le Français moyen le comprenne, c'est une autre histoire ...",
+        "date": "2023-09-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Il n'y a pas que le poids à prendre en compte...\n\nLe mode de production de l'énergie (nucléaire, solaire, ...), l'efficience de sa consommation (4 fois meilleure), et son infrastructure de livraison (pas besoin de tankers, de camions, ...) sont à l'avantage de la voiture électrique et annulent plusieurs fois le mal causé par le poids supplémentaire.",
+        "date": "2023-09-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je comprends ton inquiétude, quand j'étais petit, l'écologie était enseignée dès l'école primaire, dans les années 80. La terreur c'était l'ozone, gaz a effet de serre, et on nous prédisait une mort certaine.\nAujourd'hui c'est le CO2, demain il y aura autre chose qui sera prétexte a tout et n'importe quoi pour rétablir un moyen âge, avec des serfs qui n'ont droit a rien et des nobles qui se permettent tout, y compris polluer sans aucun état d'âme.\n\nL'écologie est devenue ridicule, et quand je vois notre politique stupide avec les milliard dépensés en éoliennes et les panneaux solaires pour cacahuète, c'est pire encore.",
+        "date": "2023-09-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "J'ai lu qqch sur les crèmes solaires aussi. Encore une raison de ne pas s'exposer au soleil.",
+        "date": "2023-09-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Renouvelable à quel échelle? Terrestre, probablement que non. système solaire? probablement oui. galactique? oui.\n\nAprès on a le recyclage etc. Dans tous les cas cela demande une énergie abondante et pas cher. \nQuand tu fais le tour, que tu fais les calculs de dimensionnement, tu finis par la fusion nucléaire ou des centrales photovoltaiques sans l espace.",
+        "date": "2023-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Jusqu’à ce que ça soit rentable d’aller chercher et miner des astéroïdes pas cher pour nos besoins en terre rares pour faire des panneaux solaires et autres.\n\nDu coup seuls les pays qui auront gardé leur économie et industrie et capacité à produire plein d’énergie seront capables de le faire.\n\n\nC’est mega hypothétique mais c’est pas complètement délirant vu que le prix du kg en orbite est passé de 1 million $ à 1500$ en quelques années là. Du coup en exploitant un caillou dans l’espace qui contient 3 fois la quantité de telle ou telle ressource présente sur terre, ces problématiques vont changer d’échelles.\n\nMais no worries, c’est sûr qu’on fera pas ça en France (pas pour des raisons écologiques par contre, pour des raisons de capital et de compétences mais c’est un autre problème).",
+        "date": "2023-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le problème n'est pas la quantité de minerai sur terre, mais celle que l'on peut extraire en utilisant une quantité raisonnable d'énergie et de ressources.\nPar exemple, si tu veux faire un réseau électrique avec des panneaux solaires, mais que l'extraction de ton cuivre est énergétiquement plus coûteuse que ce que ton réseau te rapporte énergétiquement, ça ne va pas le faire.\nJe t'invite à te renseigner sur l'évolution de la teneur en métaux des minerais effectivement extraits au cours du XXe et du XXIe, et sur la consommation d'énergie induite pour isoler ces métaux et les raffiner. C'est devenu délirant.\n\n\nBien sûr que les métaux et les minéraux constituent une des limites de nos économies. Pas une limite en stock sur Terre, mais une limite en flux. D'ailleurs, l'AIE alerte sur le fait que la demande induite par la transition énergétique va dépasser l'offre pour plusieurs métaux, dont le cuivre, le lithium, et le cobalt.",
+        "date": "2023-09-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Jusqu’à ce que ça soit rentable d’aller chercher et miner des astéroïdes pas cher pour nos besoins en terre rares pour faire des panneaux solaires et autres\n\nvus les coûts pour ramener quelques (kilo)-grammes de sol lunaire (Jancovici ou Philippe Bihouix en parlent parfois) ça ne sera jamais rentable d'aller chercher des minerais dans l'espace.\n\nEt sur les terres rares tu le sais sûrement déjà mais... elles ne sont pas rares.",
+        "date": "2023-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Il fait mal parce qu’il est pragmatique. Aujourd’hui quand certains écologistes sont contre le nucléaire, je ne comprends pas la priorité. C’est quoi le CO2 donc le réchauffement climatique ou dérèglement climatique. Ou la problématique du recyclage des déchets. On a compris la maison brûle. Mais il faut prioriser. L’écologie en Allemagne est une catastrophe, ce qu’on appelle énergie renouvelable et clairement des énergies intermittente. il faut bien trouver une solution pour compenser et malheureusement le gaz et le charbon n’est pas une solution. Bref ce que je raconte c’est complètement banal mais encore aujourd’hui Certaines personnes ne le comprennent pas. C’est là où le discours de jancovici est difficilement critiquable. Quand tu regarde sa vidéo de 2011, où ils expliquent l’absurdité de construire des panneaux solaires en Chine, 12 ans plus tard, on est encore dedans. Impact écologique, nuance du résultat de ces énergies renouvelable, déficit de la balance commerciale et enjeux humains. Bref tout n’est pas bons à prendre. Dans ce qu’il dit, il faut pas se mentir c’est un chef d’entreprise il est là pour vendre sa société ses services et clairement ils profitent indirectement de ce changement climatique et des enjeux économiques autour de l’énergie. Mais ce qu’il dit sont des propos basé sur des chiffres, et c’est quand même plus intéressant que des interprétations basé sur un ressenti.",
+        "date": "2023-09-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Une chose est sûre ceux qui font la transition c’est les gars avec un Bac pro qui montent sur les toitures pour installer des panneaux solaires et pas les anus ambulants d’EELV ou bien les tocards en fac de philo/socio qui ne percute rien à un kilowattheure",
+        "date": "2023-09-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "De ce que j'en sais pour avoir bossé dans le domaine, tous les filtres solaires posent problème. Les filtres minéraux il y a le dioxyde de titane qui est nano et dont on connait pas vraiment les impacts long terme et l'oxyde de zinc qui est classé toxique pour les environnements aquatiques (les 2 marchent ensemble vu que un protège plus des UVB et l'autre plus des UVA)\n\nLes filtres chimiques ont d'autres effets néfastes entre autres en tant que perturbateurs endocriniens (dérèglement des hormones). Ce sont ceux dont on parle ici, les filtres minéraux (zinc et titane) gardant une réputation \"green\" alors que pas du tout. D'ailleurs l'Oréal qui clairement est la boîte de cosmétique la plus scientifique au monde n'utilise que des filtres chimiques qu'ils considèrent moins nocifs.\n\nLa vraie solution c'est le t shirt et le chapeau et surtout arrêter les piles face sur la plage",
+        "date": "2023-09-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Si tout le monde se mettait de la crème que sur le visage et les avants bras, on diminuerait de beaucoup le problème. La surface à couvrir est incomparable avec la totalité du corps. Et d'autres part il y a quand même bien moins de pratiquants de sports nautiques (j'en fais partie) que de gens à la plage qui bronzent.\n\nJe profite d'ailleurs pour parler du fait que la pollution des filtres solaires pose surtout problème de manière très localisée. Les lacs, rivières et atolls coralliens sont les premier concernés à cause de la faible quantité d'eau.",
+        "date": "2023-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Oui anyway pour l’H2 vu les quantités astronomiques d’électricité nécessaires pour l’hydrolyse ca sera jamais rentable avec de l’éolien ou photovoltaïque(vu le rendement suite à l’hydrolyse)… reste le nucléaire et la fusion si on y arrive un jour\n\nMais sinon, selon toi le H2 vert produit à partir de l'électrolyse (pas hydrolyse) utilisant les énergies renouvelables ne sera jamais rentable en comparaison avec quoi exactement ? Les combustibles fossiles ? L'électrique à batteries ? Est-ce que tu vois où est la faille dans ton raisonnement ?\n\nEn plus il faudrait prendre en compte les éventuelles avancées sur l'amélioration du rendement des moyens de production de hydrogène à partir des énergies renouvelables. Par exemple, il a eu des avancées importantes dans la production de hydrogène par thermocraquage solaire où des rendements supérieurs à 80% (ce qui est même supérieur au photovoltaïque) seraient possibles.",
+        "date": "2023-09-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Oui électrolyse pardon … vu le prix actuelle du photovoltaïque oui pas rentable vu la perte du au rendement\n\nTu n'as pas encore compris ma question. C'est une perte de rendement par rapport à quoi ? L'énergie contenue dans le rayonnement solaire ?\n\nRemarque que tu ne peux pas stocker les rayons solaires dans un réservoir d'un avion donc, si on n'utilise pas l'hydrogène comme vecteur énergétique qu'est-ce qu'on utilise ? On continue avec des carburants fossiles ? On foutre des batteries dans les avions ?",
+        "date": "2023-09-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Quoi qu'il en soit on est loin des 5 tonnes de lithium par poids lourd, puisque qu'une batterie de 900 kWh pèse moins de 5 tonnes...\n\nLa batterie dans le camion Tesla pèse environ 5 tonnes. Donc il aurait en tout cas plusieurs tonnes de lithium.\n\nEt combien de temps faut-il pour recharger une batterie ? Tu te rends compte que ces camions à batteries passeront une partie importante de leur temps en train de recharger ? Selon les infos que j'ai pu trouver, une charge complète prendrait 8h et cela à un triphasé industriel. Donc les entreprises auront besoin d'un nombre supérieur de camions électriques à batteries que s'ils auraient des camions à piles à combustible, parce qu'un camion à pile à combustible se remplit en une dizaine minutes.\n\nPuis t'as le problème de disponibilité de puissance du réseau électrique. Pour qu'un camion à batteries puisse charger en 8h il faut que le réseau électrique puisse livrer  la puissance de recharge max pendant ces 8h. Or comment s'assurer que le réseau électrique puisse livrer cette puissance à tout moment et cela pour les plusieurs centaines de milliers de camions électriques à batteries en France, et cela en plus des plusieurs millions de voitures électriques à batteries bien sûr ? D'où vient cette électricité ? Des énergies pilotables (nucléaire) ? De l'électricité renouvelable stockée en ... batteries ? Est-ce tu te rends compte où ça coince ?\n\nSi au lieu de suivre le délire de foutre des batteries lithium monstrueuses dans tout ce qui bouge et on se dit qu'il ne serait pas si mal de construire parcs d'énergie renouvelable et stocker le surplus de production intermittente localement sous forme d'hydrogène comprimé alors on laisserait le réseau électrique tranquille pour recharger les voitures électriques qui seules seront déjà un énorme casse-tête niveau réseau électrique. \n\nPuis, aujourd'hui on utilise essentiellement des électrolyseurs pour produire de l'hydrogène à partir de l'électricité verte mais cela ne veut pas dire qu'on trouvera d'autres moyens de produire de l'hydrogène directement à partir des énergies renouvelables et cela avec un rendement largement supérieur aux électrolyseurs. J'ai en tête par exemple le thermocraquage solaire de l'eau qui promet des rendements supérieurs à 80%. Même pas un panneau photovoltaïque est à ce niveau de rendement.",
+        "date": "2023-09-28",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Même cette page est foutu, suffit de voir des commentaires qui osef total de la situation sous chaque post, ça me termine\n\nLa fraude de l'écologie qui prend plus, trop de taxe, un avatar (Rousseau) éclaté au sol, groupe mené par une autiste etc etc\n\nOn sort d'une mini ère glaciaire + eruption solaire intense qui doit jouer aussi, on se calme, y'aura rien, vous allez mourrir dans le même confort dont vous êtes nés",
+        "date": "2023-09-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Même cette page est foutu, suffit de voir des commentaires qui osef total de la situation sous chaque post, ça me termine\n\nLa fraude de l'écologie qui prend plus, trop de taxe, un avatar (Rousseau) éclaté au sol, groupe mené par une autiste etc etc\n\nOn sort d'une mini ère glaciaire + eruption solaire intense qui doit jouer aussi, on se calme, y'aura rien, vous allez mourrir dans le même confort dont vous êtes nés",
+        "date": "2023-09-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les neuneus ont enfin compris que le nucléaire était une énergie très peu carbonée, mieux vaut tard que jamais ! \n\nSurtout quant on voit la catastrophe du modèle allemand, solaire et vent dans un pays froid et quand le vent est plus faible que jamais depuis des années, et qui ont donc recours au gaz liquéfié américain dégueulasse écologiquement et hors de prix, ou pire leur propres mines de charbons, bref les champions européens !\n\n Pas étonnant que leur industrie se barre aux USA!",
+        "date": "2023-09-28",
+        "sentiment": "positive"
+    },
+    {
+        "text": "\\&gt; Ça part du principe que toutes les voitures sont branchées lorsqu'elles ne sont pas en cours d'utilisation, non ?\n\nOui, enfin une majorité. C’est un calcul de coin de table, hein, qui table sur une diminution du parc automobile. Après, je pars du principe surtout (ce qui est un souhait urbanistique) que le stationnement linéaire dans les rues disparaît en bonne partie. On aurait alors surtout du stationnement résidentiel – parkings des résidences, des maisons individuelles – du stationnement de bureau, ainsi que des parkings collectifs aériens (les places qui servent de parking) ou en sous-terrain. J’avoue que je ne sais pas quelle est la part du stationnement «de rue» dans le stationnement total, ça serait intéressant à savoir.\n\n\\&gt; J'imagine qu'on va en arriver là, même si je doute que l'infrastructure  actuelle soit compatible avec cela. On a une idée du coût possible d'une  rénovation totale de la grille ?\n\nJe ne vois pas de problème majeur pour la grille, au contraire. La rénovation, elle est nécessaire quand t’as besoin de déplacer des grosses quantités d’énergie sur des grosses distances. Typiquement, quand t’as un gros parc solaire ou éolien, là où auparavant tu n’avais pas de centrale, qui va balancer ponctuellement sa pleine puissance, et que c’est dispersé partout sur le territoire. \n\nLà, t’as des batteries qui vont faire de la production diffuse, directement sur le réseau Enedis, sans passer par le réseau RTE. L’effet va plutôt être que les réseaux locaux Enedis vont moins consommer (puisqu’une part d’autoconsommation sur la boucle locale).\n\n\\&gt; Je me souviens about lu un rapport de 2022 ou 2023 qui prévoyait qu'on aurait des pénuries dès 2024/2025 de lithium\n\nOuais, alors les rapports catastrophiques sur les matières premières, j’ai tendance à ne plus trop y croire. J’ai espéré le pic pétrolier sans le voir venir pendant des années par exemple. Le capitalisme trouve toujours un moyen de trouver plus de matières premières et l’exploiter. Le lithium, on va en trouver plus, c’est évident.\n\nL’ADEME disait en 2018 que pour le Lithium, la consommation accumulée jusqu’en 2050 avec électrification forte représenterait au niveau mondial 85% des resources prouvées [https://librairie.ademe.fr/mobilite-et-transport/3803-electrification-du-parc-automobile-mondial-et-criticite-du-lithium-a-l-horizon-2050.html#:\\~:text=Electrification%20du%20parc%20automobile%20mondial%20et%20criticit%C3%A9%20du,criticit%C3%A9%20du%20march%C3%A9%20du%20Lithium%20%C3%A0%20horizon%202050](https://librairie.ademe.fr/mobilite-et-transport/3803-electrification-du-parc-automobile-mondial-et-criticite-du-lithium-a-l-horizon-2050.html#:~:text=Electrification%20du%20parc%20automobile%20mondial%20et%20criticit%C3%A9%20du,criticit%C3%A9%20du%20march%C3%A9%20du%20Lithium%20%C3%A0%20horizon%202050).\n\nLe problème c’est plutôt sur le cobalt, très (trop) dépendant de la RDC à l’heure actuelle.",
+        "date": "2023-09-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "J'ai déjà eu ce débat.\n\nLes défenseurs de mix allemand nous montrent l'évolution de la part du renouvelable intermittent et nous disent : \"regardez, si on prolonge la droite, on arrive à 100% renouvelable en 2035 (ou autre, je ne sais plus)\".\n\nSeulement, c'est simpliste et fallacieux, parce que la nature même du renouvelable intermittent fait que ça ne va pas se prolonger linéairement. En fait, ils ont déjà pratiquement atteint le maximum. Ces sources ne produisent qu'une partie du temps. Ils auront beau tripler la puissante installée, la part de production ne variera que très peu, car le reste du temps il faut de toutes façons produire avec du pilotable.\n\nLeur autre argument est de montrer des stats montrant que l'Allemagne exporte plus qu'elle n'importe.\n\nLes allemands ont une puissance installée en renouvelable intermittent colossale : autant que l'ensemble du nucléaire français en solaire, et autant en éolien. Ce qui fait que régulièrement, il y a des jours très ensoleillés ou très venteux où ils produisent énormément, mais comme ça ne correspond pas à la demande, ils l'exportent partout à bas prix autant qu'ils peuvent.\n\nEt ensuite ils importent massivement lorsqu'ils ont de la demande, en général du nucléaire français.\n\nLa différence entre les exportations et les importation dans leur ensemble est une mauvaise donnée qui a peu de signification, car l'électricité ne se stocke pas.\n\nL'expérience allemande ne fait que montrer ce que l'on savait déjà : le renouvelable intermittent est un très bon accessoire à adjoindre aux centrales fossiles, mais elles ne peuvent pas les remplacer.\n\nIl faut les utiliser, mais pendant la transition du fossile au propre (nucléaire, hydroélectrique et géothermique, mais pour ces deux dernières, il faut en avoir géographiquement).",
+        "date": "2023-09-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mmmh, alors, il y a des choses avec lesquelles je suis d’accord et d’autres pas.\n\nJe ne suis pas un «défenseur du mix allemand» : je suis contre la caricature de leur politique, et contre le fait de prendre de la donnée statique sans voir l’évolution. Dans ce cas là, tu prends leur mix en 2000, avec 25% de nucléaire et 70% de fossile, et tu dis que le nucléaire ne marche pas, hein. Et effectivement, à l’époque, ils étaient mal partis et il fallait faire quelque chose.\n\nPour rappel de mon commentaire initial : je pense que très probablement, la sortie du nucléaire (enfin, le non prolongement du parc historique) c’était une connerie.\n\nJe suis complètement d’accord avec le fait que à l’heure actuelle, on ne sait pas faire de 100% renouvelable, et que la seule solution crédible (sauf capacité hydroélectrique très forte) de compensation de l’intermittence, c’est avec du thermique fossile.\n\nPar contre je ne sais pas où tu vois que :\n\n\\&gt; En fait, ils ont déjà pratiquement atteint le maximum.\n\nPour moi il y a encore de la grosse marge, ça va plutôt frotter quand ils seront à 70% de renouvelables.\n\nLa théorie des partisans des énergies renouvelables, c’est que pour limiter le besoin au thermique, tu as plusieurs leviers :\n\n* Tu continues à déployer comme un bourrin, et si, ça augmente la part dans la production, parce que les éoliennes et panneaux solaire sont rarement à 100% de leur puissance quand elles marchent. Effectivement, quand il n’y a pas de vent, ça ne produit rien du tout, mais on a encore de la grosse marge sur \"quand il y a un peu de vent\" ou \"quand il y a un peu de soleil\". Le corrolaire de ça, c’est que t’es en surcapacité assez souvent, mais bon, de l’énergie en trop, on en trouvera des usages.\n* Tu déploies un peu partout, c’est le foisonnement, sur le principe de «si il n’y a pas de vent à tel endroit il y en aura ailleurs». Et alors oui, il y a des jours (voir des semaines) avec pas de vent ni de soleil nulle part du tout, mais du coup tu peux garder ta capacité hydroélectrique pour ces jours là (et donc vider tes barrages les quelques semaines concernées, et les recharger avec le surplus sus-cité, plutôt qu’utiliser l’hydro un peu tout le temps).\n* Pour maximiser le foisonnement, tu importes et exportes davantage.\n* Tu incites à la flexibilité de la demande, notamment de la part des industriels qui fonctionnent en batch.\n* Et tu as comme source pilotable les batteries (des voitures, en véhicle-to-grid, genre 50kWh mobilisable par foyer c’est par rien), la biomasse, le biogaz et l’hydrogène (mais énooormément de limites, j’y crois pas trop).\n\nLa vérité c’est que ça n’amènera pour moi pas à 100% sans grosse rupture technologique, mais si tout le monde fait déjà ça, on sort d’un monde principalement fossile pour aller vers un monde secondairement fossile, c’est déjà un bon pas.\n\nPar contre les simulations à 30% de nucléaire / le reste éolien, solaire, hydroélectrique, biomasse, biogaz, géothermie, plus batteries et hydrogène pour le stockage marchent très bien, en tout cas en France. C’est peu ou prou le scénario idéal indiqué par RTE, et ce vers quoi on se dirige si on fait nos 14 EPR.\n\n\\&gt; Il  faut les utiliser, mais pendant la transition du fossile au propre  (nucléaire, hydroélectrique et géothermique, mais pour ces deux  dernières, il faut en avoir géographiquement).\n\nPour moi c’est plutôt l’inverse : le nucléaire est nécessaire temporairement pour assurer la transition. Là on sait pas s’en passer complètement. D’ici la mi-siècle, on y verra plus au clair sur la fusion, la géothermie et le stockage, et à ce moment on pourra phaser sa sortie. En tout cas mettre le nucléaire dans «propre», je m’étrangle un peu, faut pas sous-estimer le risque et problème que posent les déchets. Dès qu’il y a déchets, même si on sait les gérer (Cigeo) on peut pas dire «propre».",
+        "date": "2023-09-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Alors, je suis sur le r/ecologie et il y a pleins de débats sur lesquels je vous rejoins totalement. Mais par contre, ne pas être pour le nucléaire, c'est juste être contre l'électricité. À aujourd'hui c'est la manière de produire de l'électricité la plus SAINE possible. De but en blanc, les énergies renouvelables, c'est une merde sans nom. C'est bien joli sur le papier, on produit de l'électricité \"à partir de rien\". Mais c'est pas vrai, ils ont une empreinte carbone qui est non négligeable, dans leur cycle de vie ! \nEt quand on prend le cycle de vie d'une centrale et d'un champ d'éoliennes/panneau solaires et bien on se rend compte que le taux de carbone rejeté dans l'atmosphère par kilowatts est supérieur pour les énergies renouvelables que pour le nucléaire. Je vous ressors les sources pour ceux qui le veulent, mais on est à environ 3g de carbone par kW pour une centrale, 15 g / kW pour les barrages, 28 g / kW pour les éoliennes, 35 g / kW pour les panneaux solaires , et bon vous vous en doutez mais 295 g / kW pour les centrales à charbon. \n\nPour avoir suivi une formation d'ingénieur, avec un aspect poussé sur la protection de l'environnement et une utilisation réfléchie des ressources, le nucléaire ça à pleins de defauts, c'est actuellement le plus écologique des système de production d'électricité.",
+        "date": "2023-09-30",
+        "sentiment": "neutral"
+    }
+]

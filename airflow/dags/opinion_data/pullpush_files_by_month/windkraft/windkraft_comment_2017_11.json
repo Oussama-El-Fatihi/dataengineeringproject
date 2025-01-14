@@ -1,0 +1,67 @@
+[
+    {
+        "text": "Konkret geplant ist es aber ganz anders. Da heißt es mehr Wasserkraft aus Norwegen (aktuell werden zwei große HGÜ mit 3 GW gebaut), mehr Offshore-Windkraft (bei neuen Projekten ist das zu Börsenpreisen profitabel, also keine EEG-Förderung mehr nötig) und weiterhin mehr Photovoltaik. Gas wird zwar auch eine größere Rolle spielen, aber der Zuwachs wird wohl eher mäßig ausfallen und kann teilweise durch energiesparende Bauweise kompensiert werden (den Heizsektor vergessen die meisten Leute leider in der ganzen Debatte).",
+        "date": "2017-11-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Da heißt es mehr Wasserkraft aus Norwegen (aktuell werden zwei große HGÜ mit 3 GW gebaut)\n\nUnd was sind 3 GW für das europäische Verbundnetz? Praktisch nichts. Langfristig sind zwar 40 GW geplant, aber das ist ein Projekt, das erst weit nach 2050 abgeschlossen sein wird. Und hier geht's auch nicht um Erzeugung, sondern primär um Pumpspeicherung mitteleuropäischen Windstroms.\n\n&gt; mehr Offshore-Windkraft (bei neuen Projekten ist das zu Börsenpreisen profitabel, also keine EEG-Förderung mehr nötig)\n\nNötig nicht, vorhanden ist sie dennoch.",
+        "date": "2017-11-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich finde es auch echt enttäuschend, wie wenig wir aus unserem einstigen Vorsprung gemacht haben. Zumal wenn man sich anschaut, wie man es auch machen kann, z.B. in [China](https://en.wikipedia.org/wiki/Solar_power_in_China) oder in [Schottland](https://www.irishtimes.com/news/ireland/irish-news/scotland-on-target-for-100-renewable-energy-by-2020-1.3280498). Hier wird stattdessen lieber gesagt: \"Ja, Windkraft ist toll, aber bitte nicht da hin bauen, wo ich die sehen kann. Und die Stromtrassen will ich eigentlich auch nicht sehen.\" Und aktuell machen sich die Lindnerpartei und die CSU lieber über die Grünen-Forderung nach Kohleausstieg bis 2030 lustig (\"Das ist physikalisch ja gar nicht möglich!\"), statt konstruktiv an einem Kompromiss zu arbeiten. ",
+        "date": "2017-11-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": ".. Die massive Rodung der Landstriche..Darf man nicht unterschätzen.\nDE-Haushalt zahlt über 50 Mrd Euro für die Kohle... Das sind etwas mehr als 600€/Kopf/Jahr. Jeder von uns... Ich tu was ich kann, zahle bisschen mehr um Grünstrom zu erhalten und fördern und dann gibt der Staat meine 600€ für die Förderung der Braunkohle aus. Läuft.\n\nWenn die das Geld in alternativen wie Wellen-Kraft, Wasserkraft, Windkraft, Solar und Geothermie-Ausbau stecken würden, hätten wir viel schneller ein solides Netz und dann kann man langsam aussteigen, bis alles emmisionsfrei produzierbar ist. \n\nAlternative zur Überbrückung ist auch die vermehrte Nutzung von Erdgas. \n\nEdit: Atomkraft hat m.M.n. keine gute Zukunft. Aber das sehen ja viele anders :D",
+        "date": "2017-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "So läuft das aber nicht. Man kann nicht einfach überall Windkraft und Solar installieren und davon ausgehen, dass das Stromnetz ganzjährig stabil bleibt, gerade in Deutschland. Deswegen werden Energiespeicher benötigt um die Talphasen zu überbrücken, damit in Zukunft kein Kohleabbau mehr benötigt wird. Das geht aber nicht von heute auf morgen.\n\nIch zumindest begrüße die Entscheidung den jahrzehntelang andauernden und nicht unproblematischen Atomrückbau voranzutreiben, und auf Kohle zurückzugreifen bis genügend Speichermittel installiert sind und die Entwicklung stetig und zügig in Richtung regenerative Energien geht. \n\nMan muss ja auch den Zukauf von Atomstrom möglichst niedrig halten, damit die Nacharstaaten nicht zu sehr an ihren Meilern hängen bleiben. \n\nIst es optimal? Keinesfalls. Aber was wäre die Alternative? ",
+        "date": "2017-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Aber irgendwas tun nur des tuns wegen ist doch auch keine Lösung. Was sind denn momentan unsere Alternativen zu Braunkohle? Mehr Wind und Solar? Das sind volatile Technologien, auf deren Output man sich zwar mit Hilfe des Wetterberichtes vorbereiten kann, aber die dennoch ungeeignet dafür sind, Grundlage eines stabilen Stromnetzes zu sein. Wasserkraft ist relativ stabil, aber kann halt nur an sehr spezifischen Stätten gewonnen werden und wir in Deutschland haben davon weniger als Länder wie Österreich. Außerdem kommt die Technologie dann wiederum mit ihren eigenen umwelttechnischen Problemen einher. Mehr Biomasse? Die ist als organische Materie sehr stabil in ihrem Output, aber kommt halt mit dem Vorbehalt, dass wir unseren Mutterboden wortwörtlich verbrennen. Das sind die großen, halbwegs erwachsenen regenerativen Technologien. Dann gäbe es noch Gas, was flexibler ist als Kohle- und Kernkraft und durchaus seinen Reiz hätte, aber dafür müssten Massenhaft neue Kraftwerke gebaut werden und wir würden uns endlos viel abhängiger von Russland machen, als wir es eh schon sind. Außerdem wollten wir ja eigentlich weg von fossilen Energieträgern wenn ich mich richtig erinnere.\n\nSchau dir die folgende Grafik an: https://www.energy-charts.de/power_de.htm?source=all-sources&amp;week=46&amp;year=2017\n\nDer rote, stabile Balken wird in naher Zukunft wegfallen, und der macht im Schnitt etwa 13% unserer Stromproduktion aus. Wenn der hellbraune, stabile Balken, der gute 27% unserer Stromproduktion ausmacht jetzt auch noch wegfallen würde, weil wir als Stürmer und Dränger uns dazu berufen fühlen, Hauptsache irgendwas zu machen, muss die Frage gestellt werden womit das Vakuum gefüllt wird. Mit mehr von dem Gewobbel von oben? Mit Windkraft, deren Anteil an der Stromproduktion in der letzten Woche zwischen 3% und 22% variiert hat? Oder Solarenergie, die nur Tags verfügbar ist und auch eine Variabilität von 100% hatte?\n\nWir haben uns als Bevölkerung entschieden, überstürzt aus einer der stabilen Technologien auszusteigen, und was unsere Klinaziele angeht war es nunmal die Falsche. Wenn wir jetzt halt eine Weile weiter an der Braunkohle festhalten, dann hat das weniger mit neoliberaler Borniertheit zu tun, sondern ganz einfach damit, dass wir so einfach keine anderen Optionen haben.",
+        "date": "2017-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;und der ganze Scheiß wird einfach in die Luft geblasen, nicht praktisch in Behälter gefüllt.\n\nUnd exakt das spreche ich doch sogar an.\n\n&gt;Das fragt man sich auch, die Antwort ist technische Machbarkeit.\n\nInteressant dass wird die Tonnen aus der Erde kriegen, aber nicht wieder dort hin.\n\nAber etwas überspringt du: du redest von _technischer_ Machbarkeit bei Kohlekraftwerk, ich rede von _theoretischer Unmöglichkeit_ bei Atomkraft.\n\nZumal ich ganz, ganz am Anfang noch gesagt habe: Ich mache hier keinen Punkt für Kohle, sondern gegen Atomkraft. Gefällt dir Kohle nicht? Mir auch nicht, lass was anderes machen, aber nicht Atomkraft. [Schau dir mal die Stromerzeugung an.](https://upload.wikimedia.org/wikipedia/commons/9/9d/Stromerzeugung_2016.jpg) innerhalb von 20 Jahren haben wir's geschafft dass Windkraft genauso wichtig ist wie Atomkraft, da schaffen wir es bestimmt auch Atomkraft komplett loszuwerden (auch wenn es gewissen Schwierigkeiten mit der logistischen Strombereitstellung gibt, das kriegen wir auch gelöst). Wir haben innerhalb von 30 Jahren Stein- und Braunkohle um jeweils 10% zurückgefahren. Der (fast vollständige) Kohle und Atomausstieg ist durchaus möglich.",
+        "date": "2017-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Weiß nicht wie gut die Quelle ist, aber Wikipedia hat da ein Dokument der \"Deutschen Windguard\" verlinkt, die ihre Daten auf \"Auskünfte von Branchenakteuren\" stützen.\n\nLaut denen war 2016 der durchschnittliche Rotordurchmesser bei neu errichteten Windkraftanlagen 109 m (~12250 m²). Wobei natürlich irgendwelche unbekannte Windkraft-Krauterbuden vermutlich nicht berücksichtigt wurden.",
+        "date": "2017-11-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Es handelt sich bei diesem „Kommentar“ um einen Leserbrief in den Grafschafter Nachrichten, der Bezug auf einen Artikel über Windkraft und erneuerbaren Energien nimmt.",
+        "date": "2017-11-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dagegen kann man doch auch kreativ angehen.\n\nSobald wer die Verschwörungstheorienkiste aufmacht, *holt ihr noch viel abgefahrenere Verschwörungstheorien raus und werft dem vor, dass er zu DENEN gehört, wenn er was dagegen sagt* !\n\n\nDer so: Internationales Finanzjudentum unterwandert China blabla!\n\nDu so: China ist eine Erfindung der Klimawandelslügner!!\n\nDein Nachbar so: Das Internationale Finanzjudentum ist doch nur die Tarnung, mit der die Nazis von ihrer geheimen Nazibasis unter der Antarktis weiterhin auf die arische Weltherrschaft hinwirken, ohne dass jemand ihnen auf die Schliche kommt!\n\nDer daneben so: Windkraftanlagen sind false flag und sorgen in Wirklichkeit dafür, dass die Erde sich immer langsamer dreht, damit wir schlimmeres Wetter kriegen, damit die Klimawandelslügnerlobby ihre Lügen weiter verbreiten kann!!!\n\nDer nächste so: Ist doch klar, wenn Windkraft funktionieren würde dann gäbe es doch garkeinen Wind mehr!!!!",
+        "date": "2017-11-20",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Zum einen, dass nurnoch die ineffiziente variante, die im Tagebau gefördert wird, kosteneffizient für die Gewinnung von Kohle ist, da zum anderen China momentan noch einer der kosteneffizientesten Lieferanten für Steinkohle ist und wir eben nicht, außer die maschinisierung geht weiter und es braucht am ende einen kumpel mit baggerfahrerskills wie quasi in der braunkohle, guck dir Gelsenkirchen an, Bochums Nokia Geschichte isn dreck gegen diese Abwicklung… \n\nKohle aus china vs leute zum wohle aller enteignen und ein unternehmen ganze landstriche umgraben lassen vs. Oh die pösen atomkraftwerke an den grenzen vs wir brauchen wind für windkraft haben davon aber nur herbst winter viel. ",
+        "date": "2017-11-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Er hat nicht ganz Unrecht. Das Subventionssystem das wir derzeit haben ist eine sehr ineffiziente Methode um erneuerbare Energien zu fördern. Anstatt Investoren durch Subventionen Gewinngarantien zu geben hätte man das Geld auch direkt in Forschung und Entwicklung oder Infrastruktur stecken können. Durch zu hohe Subventionen hemmt man Wettbewerb und treibt Preise in die Höhe wenn die Kapazitäten ohnehin begrenzt sind. Das führt dann zu Gewinnmitnahmen in der Produktionskette, die niemanden helfen.\n\nDeutschland zahlt eine riesige Menge an Subventionen und kriegt dürftige Ergebnisse. Dafür haben wir sehr hohe Strompreise. Die Subventionen waren am Anfang ok, weil sie Solar und Windkraft wettbewerbsfähig gemacht haben. Da jetzt diese Formen der Energiegewinnung ohnehin kompetitiv sind, gibt es für die Menge an Subventionen keine Rechtfertigung mehr.",
+        "date": "2017-11-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja, ganz so blöd ist es nicht : https://www.hna.de/lokales/witzenhausen/sontra-ort84631/mann-stirbt-arbeiten-windrad-5673953.html \n\nDas Atomkraft dabei marginal besser als Windkraft wegkommt (Sie liegen aber in der selben Größenordnung, Bei Wasser muss man schon 0en dranhängen) liegt vor allem daran, dass mehr Stahl, Beton und Bauarbeiten pro erzeugte Energie nötig sind. Und daran, dass man die Anzahl der tschernobyl Opfer zwischen 4000 (IAEA), 96000 (greenpeace) und MILLIONEN frei wählen kann.",
+        "date": "2017-11-25",
+        "sentiment": "negative"
+    }
+]

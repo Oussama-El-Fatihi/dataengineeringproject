@@ -1,0 +1,52 @@
+[
+    {
+        "text": "Die Österreicher haben auch das Glück, dass ihnen seit jeher die Elektrizität flüssig vom Berg fließt. In Deutschland liegt Wasserkraft bei 3% und ist größtenteils ausgeschöpft.",
+        "date": "2020-01-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Du, der World Nuclear Industry Status Report kommt nicht von der WNA, da musst du den Artikel noch mal genauer lesen.\nDas Statement der WNA im Artikel ist dieses:\n\n&gt;The WNA said in an emailed statement that studies have shown that nuclear energy has a proven track record in providing new generation faster than other low-carbon options, and added that in many countries nuclear generation provides on average more low-carbon power per year than solar or wind.\n\nWNISR kommt von https://en.wikipedia.org/wiki/Mycle_Schneider\n\nHat sicherlich auch Fachqualifikation, aber ist eben nicht die WNA.\n[Der WNISR wurde in Vorjahren übrigens auch schon von Greenpeace und der grünen Fraktion im Europaparlament herausgebracht](https://en.wikipedia.org/wiki/World_Nuclear_Industry_Status_Report). Kannst du gerne als Quelle zitieren, aber bitte nicht als Statement der Nuklearindustrie.\n\n&gt;Was möchtest du? CO2/pro Kopf nach Land? Da sieht Deutschland auch nicht gut aus.\n\nDeutschland ist, angesichts der Bedingungen (wenig Wasserkraft, hoher Strombedarf durch Industrie, Solarpotential eher so mäßig, Wind nur im Norden in großem Maßstab, keine günstige Gasquelle), relativ weit bei der Dekarbonisierung des Stromsektors. Sollte auch so sein, bei den Unmengen an Geld, das wir in EEG-Förderung gesteckt haben. Oder findest du jetzt doch, das war rausgeschmissenes Geld? ;)",
+        "date": "2020-01-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Du, der World Nuclear Industry Status Report kommt nicht von der WNA, da musst du den Artikel noch mal genauer lesen. \n\nWo du Recht hast. \n\n&gt; Deutschland ist, angesichts der Bedingungen (wenig Wasserkraft, hoher Strombedarf durch Industrie, Solarpotential eher so mäßig, Wind nur im Norden in großem Maßstab, keine günstige Gasquelle), relativ weit bei der Dekarbonisierung des Stromsektors. Sollte auch so sein, bei den Unmengen an Geld, das wir in EEG-Förderung gesteckt haben. Oder findest du jetzt doch, das war rausgeschmissenes Geld? ;)\n\nSubventionen für erneuerbare waren sinnvoll. Was eher weniger sinnvoll war, genau diese Technologien abzuwürgen als man damit Geld verdienen konnte und Technologieführer war (Solarenergie und jetzt Wind). Ob das EEG die effizienteste Möglichkeit war um den Ausbau der erneuerbaren zu forcieren würde ich bezweifeln. Aber angesichts dessen was für [Kernenergie schon verballert haben](https://web.archive.org/web/20160305110041/https://global.handelsblatt.com/edition/281/ressort/politics/article/the-decline-and-fall-of-nuclear-power?ref=MTI5ODU1) ist die Investition sehr erfolgreich.",
+        "date": "2020-01-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Der extrem aufwändige Bau (Beton) relativiert die CO2 neutrale Stromerzeugung auch ein Stück weit.\n\nWeil die Alternativen da ja besser sind? Windkraft und Wasserkraft sind ebenfalls sehr aufwendig was konventionelle Baustoffe angeht (beide haufenweise Stahlbeton + Verbundwerkstoffe (Recycling naja) bei Windkraft) und grade Wasserkraft stellt einen gewaltigen Eingriff in die Natur dar (kann man sich aber streiten ob das schlecht ist). Solar steht zumindest bei konventionellen Baustoffen sehr gut da, Ressourcenverbrauch insgesamt ist aber auch nicht null.\n\nBin da kein Experte, aber deine Aussage ist absolut nicht offensichtlich, dh. Quellen für deine Behauptungen wärn ganz nett.",
+        "date": "2020-01-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Oder wenn wir irgendwann beginnen ein CO2-Defizit zu fahren, das ist nämlich der eigentliche Punkt um den es bei der CO2-Neutralität bis 2050 geht, danach gehts nicht neutrl weiter sondern es muss aktiv CO2 gebunden werden, aufgeforstet werden, Wasserkraft zurückgebaut und Flüsse renaturiert werden.",
+        "date": "2020-01-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Wasserkraft zurückgebaut\n\nIm Sinne von \"wir reißen den Stausee wieder ab.\"? Wo ist da Potential zur CO2 Bindung? Intuitiv klingt Wasserkraft für mich CO2 neutral, unter Vernachlässigung der Baukosten.",
+        "date": "2020-01-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wälder binden doch erheblich mehr CO2 als Seen, ausserdem ist ökoligisch Wasserkraft eine Katastrophe für die Natur, CO2-Neutralität hin oder her.",
+        "date": "2020-01-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Norwegen hat allerdings auch einen extrem hohen Anteil an erneuerbarer Energie, vor allem Wasserkraft.",
+        "date": "2020-01-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Gesamte Stromproduktion aus Wasserkraft und Kernenergie. \n\nWir haben weder die weiten bergigen Landschaften zum Fluten noch ist die Mehrheit im Land erfreut über Kernkraftwerke ohne Laufzeitbeschränkung.",
+        "date": "2020-01-31",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nein. Die USA haben einen recht diversifizierten Energiemix. \n\nUnd die Kohle steht unter großem Druck, trotz Trump, erst angegangen von Obama, jetzt dank Fracking sind die Gaspreise so niedrig, dass nichts mit Erdgas konkurrieren kann. Erdgas stößt pro gewonnener Energieeinheit deutlich weniger CO2 aus als Kohle oder Öl.\n\nDazu waren die USA immer diversifiziert, was die Energie anging: Öl, Gas, Kohle, Kernenergie, Wasserkraft und jetzt auch Erneuerbare.",
+        "date": "2020-01-31",
+        "sentiment": "negative"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "text": "Ja, und Kernenergie toppt sie alle \\o/.",
+        "date": "2017-11-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;kein Wunder, dass politisch eher rechts von der Mitte angesiedeltes Gedankengut in der Gesellschaft so stark ausgeprägt ist.\n\nDas politische Spektrum nur auf links bis rechts einzugrenzen, ist doch ziemlich eindimensionales Denken und wird der Welt nicht ganz gerecht. Auch wenn das viele gerne machen, machts das nicht besser. \n\n&gt;mit Bild, Welt und Focus stehen da ja die konservativen und neoliberalen Seiten ganz weit vorne.\n\nNaja, das hat zB SPON sich selbst zu zu schreiben.\n\nDas Forum ist idR nur bei den Themen offen, wo es \"egal\" ist (bei Homeopathie bspw. kriegen die Trottel die dran glauben, immer eins auf die Mütze) oder wo die Reaktion auf Linie mit der des Spiegels ist. Gerade bei den Themen wo SPON bewusst Infos unterschlägt (*nicht* zwangsweise Flüchtlingsthemen, bevor mir das jemand vorwirft), ist immer komischerweise zu ;)\n\nÜber andere Themen berichten sie dort zB gar nicht erst, wie die diversen Übergriffe durch Gruppen von Männern^TM oder die massiven Probleme bei der Bewältigung zur Flüchtlingskrise*. Dafür gibts dann allendhalben mal nen Artikel über irgendwelche belanglosen Einzelfälle aus den Untiefen der Sozialromantik. Auch bei anderen Themen wie zB Kernenergie setzt SPON nur auf Hysterie.\n\nIst zwar noch kein Bildniveau, aber SPON ist halt schon irgendwie scheiße.\n\n*= Egal wie man da zu steht, hält man ja bspw. nur einen kurzen Fragebogen als einzige Methode um den Asylstatus zu klären für völlig unzureichend. Oder das Hunderttausende sich trotz Ablehnung weiterhin in Deutschland aufhalten, was entweder auf Grund der Nicht-Abschiebung oder des rechtlichen Limbostatus völlig unter aller Sau ist.",
+        "date": "2017-11-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Joa, und jetzt stell dir einfach mal vor, dass sie das auch bei vielen anderen Themen machen. Bei vielen Diskussionen da zum Thema Physik (insb. Kernenergie) und IT, wo ich mich sehr gut auskenne, wird oft so viel Stuß erzählt, dass mir fast jedes mal die Galle hochkommt.",
+        "date": "2017-11-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Speichertechnologien sind bis heute gar nicht nötig.\n\nSchwachsinn. Der Abbau konstant erzeugbarer Kohle- und Kernenergie zu Gunsten von insbesondere fluktuierender erneuerbarer Wind/PV Energie sorgt für immer stärker schwankende Einspeiseprofile. Folglich gibt es zunehmend nicht nur Netzengpässe durch Unter- sondern auch durch Überversorgung. Entsprechend §11 EnWG müssten Netzbetreiber ihre Energieversorgungsnetze bis zur letzten kWh ausbauen, sofern das wirtschaftlich zumutbar ist. Dass der Netzausbau aktuell eh recht schleppend voran geht, muss ich an der Stelle hoffentlich nicht explizit erwähnen. Wenn darauf aber noch Ausbaumaßnahmen kommen, die nur darauf ausgelegt sind die Leistungsspitzen von Wind/Solaranlagen zu bedienen, kommen wir mit der Energiewende gar nicht mehr voran. Das ist auch der Grund, wieso letztes Jahr der planerische Freiheitsgrad der \"Spitzenkappung\" ins EnWG eingebunden wurde. Ohne darauf jetzt spezieller eingehen zu wollen - es gibt definitiv schon jetzt SEHR gute Gründe für Speichertechnologien, die Netzplanungsphase ist nur einer davon.\n\n&gt;Die vorhandene installierte Leistung nach Abzug von Braunkohle und Nuklear kann kalte Dunkelflauten problemlos abdecken.\n\nLeistung und Energie sind zwei verschiedene Paar Schuhe. Du kannst mit installierter Leistung aus Wind- und Solarenergie keine Dunkelflauten abfangen, das ist rein von der Logik her unmöglich. Eine Dunkelflaute existiert, weil diese Anlagen ihre installierte Leistung nicht bringen. x*0=0 und dabei ist es echt egal, wie groß x ist. Natürlich ist der Fall, dass diese Anlagen nichts Einspeisen, auf das Einspeiseprofil bezogen, eher selten aber den Fall gibt es eben nunmal. Deine Aussage wäre nur dann wahr, wenn die installierte Leistung von regenerativen Quellen, welche nicht fluktuieren, dafür ausreichen würde. Davon haben wir in den allermeisten Netzgebieten aber nicht genug. Denn wenn das so wäre, müssten wir ja gar keine Windräder mehr bauen.",
+        "date": "2017-11-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Korrigiert mich, falls ich falsch liege, aber die einzige effektive Alternative zu Kohle ist doch Gas und Atomenergie? Erneuerbare Energien können weder zeitnah Kohle ersetzen, noch hat man derzeit die Technologie um die Schwankungen von Wind-, Wasser- und Solarenergie ohne Kohle, Gas und Kernenergie zu kompensieren. Atomausstieg bedeutet nunmal auch, dass man umso abhängiger von Kohle und Gas ist. Inwiefern es jetzt überhaupt möglich ist, auf Kohle komplett zu verzichten und alles mit Gas aufzufangen, weiß ich nicht, aber ich kann's mir nur schwer vorstellen. Der Atomausstieg ist nunmal aus CO-technischer Sicht keine gute Entscheidung gewesen.\n\nEdit: Habe gerade mal nachgerechnet. Zurzeit sind acht Kernkraftwerke in Deutschland in Betrieb. Um Braun- sowie Steinkohle gänzlich zu ersetzen, bräuchten wir 25 zusätzliche Kernkraftwerke. ",
+        "date": "2017-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;, noch hat man derzeit die Technologie um die Schwankungen von Wind-, Wasser- und Solarenergie ohne Kohle, Gas und Kernenergie zu kompensieren.\n\nDoch hat man, bitte mal hier lesen: [Die Mär von der Grundlast](https://www.piqd.de/klimawandel/kohlekraftwerke-die-mar-von-der-grundlast)",
+        "date": "2017-11-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich hatte ja nicht gesagt, dass *nur* Kohlekraftwerke die Schwankungen kompensieren können, sondern mindestens einer dieser drei Kraftwerktypen benötigt wird. Das wird auch im Text genannt:\n\n&gt;Gefragt sind dann nicht mehr die schwerfälligen Kohlemeiler, sondern flexible Gaskraftwerke, die schnell reagieren können, wenn Solaranlagen und Windräder nicht liefern.\n\nEine Kompensation braucht man also nach wie vor, nur müssen es nicht Kohlekraftwerke sein – Gaskraftwerke eignen sich sogar besser. Das wird auch im englischen Quelltext erwähnt:\n\n&gt;The gaps would be filled by flexible plant such as solar towers, or battery storage, or from gas – as long as it can compete with the new technologies.\n\nDas Problem ist nun, dass Kohle extrem viel CO2 produziert, Gas immer noch recht viel und Kernenergie politisch und gesellschaftlich nicht gewünscht ist. Auf *eins* von den dreien wird man jedoch nicht verzichten können. Insofern war mein Satz vielleicht nicht klar genug formuliert und ich hatte besser ein \"oder\" in der Aufzählung verwenden sollen. ",
+        "date": "2017-11-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Verdoppeln dürfte mehr als ausreichend sein. \n\nWarum verwendest du Zahlen, wenn du sie nicht kennst? Das macht eine Diskussion sehr anstrengend, denn verdoppeln reicht bei weitem nicht. Siehe [hier](https://www.strom-magazin.de/bilder/stromerzeugung-2016_0000w1000_6877.jpg). Wenn jetzt noch Kernenergie kontinuierlich sinkt, müsste man sogar mehr als die 3,5-fache Menge erzeugen. ",
+        "date": "2017-11-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Doch tut er. Aber der OP auf den ich das geantwortet habe, hat inzwischen klargestellt, dass gemeint war, dass gar nicht alle drei sondern eins davon mittelfristig gebraucht wird. Das bestreite ich auch gar nicht aber die Notwendigkeit von Kohle und Kernenergie schon. Und bitte, es ist immer ein längerer Zeitraum gemeint, nicht morgen abschalten",
+        "date": "2017-11-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Ich zumindest begrüße die Entscheidung den jahrzehntelang andauernden und nicht unproblematischen Atomrückbau voranzutreiben, und auf Kohle zurückzugreifen bis genügend Speichermittel installiert sind und die Entwicklung stetig und zügig in Richtung regenerative Energien geht.\n\nIch finds schwachsinnig. Kohlekraftwerke sind im Endergebnis weitaus schlimmer als Kernkraftwerke. Bei Kohlekraft wird nicht nur tonnenweise CO2 erzeugt, sondern auch Radioaktivitaet. Und der Abbau von Kohle ist gefaehrlich und teuer.\n\nKernenergie hat den massiven Vorteil, dass man mit vergleichweise geringen Mengen an Brennstoff extrem viel Strom produzieren kann, ohne dass auch nur ein Gramm CO2 erzeugt wird.",
+        "date": "2017-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "So gering können die Wahrscheinlichkeiten wohl nicht sein, wenn das jetzt schon 2 mal in den 60 Jahren die es Kernenergie gibt passiert ist.",
+        "date": "2017-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ist der aktuelle Strommix: https://www.stromauskunft.de/strompreise/strommix-in-deutschland/\n\nKohle und Kernenergie machen über 50% der Stromproduktion aus. Wie zur Hölle sollen wir diese Energieträger in naher Zukunft kompensieren, wenn wir weder Kohle von Kernenergie haben wollen?\n\nKernenergie in Frankreich macht übrigens über 70% der Stromherstellung aus...",
+        "date": "2017-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Kohle und Kernenergie machen über 50% der Stromproduktion aus. Wie zur Hölle sollen wir diese Energieträger in naher Zukunft kompensieren, wenn wir weder Kohle von Kernenergie haben wollen?\n\nUnd weil man auf Kohle nicht auf einen Schlag verzichten kann, sollte man mit dem Ausstieg erst gar nicht anfangen?",
+        "date": "2017-11-17",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Gibt ja noch den § 307 StGB, \"[Herbeiführen einer Explosion durch Kernenergie](https://dejure.org/gesetze/StGB/307.html)\".\n\n&gt;(1) Wer es unternimmt, durch Freisetzen von Kernenergie eine Explosion herbeizuführen und dadurch Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert zu gefährden, wird mit Freiheitsstrafe nicht unter fünf Jahren bestraft.\n\n&gt;(2) Wer durch Freisetzen von Kernenergie eine Explosion herbeiführt und dadurch Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert fahrlässig gefährdet, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.\n\n&gt;(3) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod eines anderen Menschen, so ist die Strafe\n\n&gt;1. \tin den Fällen des Absatzes 1 lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren,\n\n&gt;2. \tin den Fällen des Absatzes 2 Freiheitsstrafe nicht unter fünf Jahren.\n\n&gt;(4) Wer in den Fällen des Absatzes 2 fahrlässig handelt und die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.",
+        "date": "2017-11-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Und zünden auch:\n\n[§ 307, Abs. 2, StGB:](https://www.gesetze-im-internet.de/stgb/__307.html)\n&gt; Wer durch Freisetzen von Kernenergie eine Explosion herbeiführt und dadurch Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert fahrlässig gefährdet, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.",
+        "date": "2017-11-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Passiert Chemikern und Physikern das eigentlich auch?\n\nBin Physiker und ja, uns passiert das auch. Zum Beispiel bei der Kernenergie. Diskutieren ist da aber meist zwecklos.\n\nMein Lieblings-Fun-Fact in dem Zusammenhang: Nachdem im Jahre 2011 waehrend des Tohoku-Erdbebens das Kernkraftwerk in Fukushima havarierte, haben die Norweger aus Sorge zu hoher Strahlenbelastung ihre Botschaft in Japan temporaer von Tokyo nach Osaka - also etwas weiter weg - verlegt.\n\nNur: [Oslo ist aufgrund von natuerlichen Vorkommen von Radon deutlich hoeher radioaktiv belastet als Tokyo nach dem Reaktorunglueck.](http://geo.ngu.no/kart/radon/?lang=English)",
+        "date": "2017-11-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Es gibt auch Risiken beim Autofahren und Fliegen. Verzichten wir auf diese Verkehrsmittel?\n\nEs gibt weltweit rund 450 Kernkraftwerke, die jährlich Milliarden an kWh an Strom erzeugen und das ohne nur ein Gramm CO2 zu erzeugen. Es gab bisher zwei Zwischenfälle in Tschernobyl und Fukushima mit deutlich weniger Opfern als durch Kohlekraftwerke gefordert wurden (Klimakatastrophe und Unfälle im Tagebau). Trotzdem wird die Kernenergie so sehr verteufelt.\n\nJa, die Unfälle in Tschernobyl und Fukushima waren schlimm. Aber sie waren vermeidbar gewesen und stellen die Kernenergie an sich nicht in Frage. Es gibt auch keine Form der Stromerzeugung, die 100% risikofrei ist. Dem sollte man sich immer bewusst sein.",
+        "date": "2017-11-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Auf die allgemeine Weiterentwicklung der Technik zu warten um darauf zu hoffen, dass man dann wesentlich günstiger eine Technologie zur Lösung der Atommüllproblematik entwickeln kann, halte ich für sehr gewagt. Aktuell würde ich es für viel wahrscheinlicher halten, dass wir das nötige Wissen im Umgang mit der Kernenergie eher verlieren werden, weil es keine wirtschaftliche Anwendung mehr gibt. Dass solche Szenarien realistisch sind sieht man ja an der Mondlandung. Man muss also heute Geld investieren, damit das Wissen erhalten bleibt und die nötigen Technologien erforscht werden.\n\nUm das zu tun müsste man *heute* zum Beispiel eine Stiftung gründen, die Forschungen in diese Richtung finanziert. Natürlich dürfte diese Stiftung die Forschung auch für andere Anwendungen kommerziell nutzen und sich damit selbst finanzieren. Zunächst müsste diese Stiftung aber erst einmal von den Kraftwerkbetreibern finanziert werden. Allerdings würde das die Kernkraft noch viel unwirtschaftlicher machen als sie heute ist.",
+        "date": "2017-11-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Alle Energieformen werden in irgendeiner Weise staatlich bezuschusst. Ob duch direkte Subventionen, oder andere staatliche Förderung macht letztendlich keinen Unterschied. So haben z.B. [Windkraftanlagen über mehrere Jahre festgelegte Mindestpreise für den produzierten Strom](https://de.wikipedia.org/wiki/Windenergie#F.C3.B6rderung). Bei der Kohleförderung geht die Sache so weit das im [Braunkohlebericht des Umweltbundesamtes von 2015]\n(https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/daten_und_fakten_zu_braun-_und_steinkohlen_aktualisierung_2015_08_web.pdf) steht das die staatlichen Gelder \"schwierig zu identifizieren und quantifizieren\" sein, aber da fließen einige Milliarden an Steuergeldern rein.\n\nLaut der [FAZ](http://www.faz.net/aktuell/wirtschaft/wirtschaftspolitik/subventionen-fuer-stromerzeuger-staatsknete-fuer-alle-12667654.html) gibt es weltweit ein Kraftwerk das ganz ohne staatliche förderungen gebaut wurde. \n\nWenn Kernenergie ganz ohne Förderung auskommen sollte, dann alle anderen Formen auch, dann wird das mit der Energiewende in 100 Jahren nichts.\n\nMeiner Meinung nach sind die staatlichen Gelder im Bereich Kernenergie falsch angelegt. Vor allem Forschung seit Jahren kaum bezuschusst, oder noch nicht einmal genehmigt, auch wenn es in der Hinsicht noch viel Potenzial gibt. Brüterreaktoren wären ein solches Beispiel, die setzen das radioaktive Material sehr viel effizienter ein, und produzieren daher auch weniger Müll, die gesamte Forschung daran wurde in Deutschland in den 90ern gestoppt. \n\nAm besten wäre mMn der komplette Umstieg auf erneuerbare Energien, mit wenigen Kernanlagen zum Ausgleich für windstille Tage, etc.\n\nEin Ausstieg vom Erdöl als Brennstoff ist in meinen Augen sehr viel wichtiger und dringlicher als der Atommausstieg. ",
+        "date": "2017-11-26",
+        "sentiment": "negative"
+    }
+]

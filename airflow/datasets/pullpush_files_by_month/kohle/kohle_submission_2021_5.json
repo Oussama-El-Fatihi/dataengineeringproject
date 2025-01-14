@@ -1,0 +1,1287 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "GirasoleDE",
+            "author_created_utc": 1417641623,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_js5a5",
+            "author_patreon_flair": false,
+            "author_premium": true,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1620480391,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "sueddeutsche.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "n7p7nk",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#036c85",
+            "link_flair_css_class": "category politics",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Politik"
+                }
+            ],
+            "link_flair_template_id": "27453a40-7ecd-11e4-a392-22000b3a0037",
+            "link_flair_text": "Politik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_n7p7nk",
+            "no_follow": false,
+            "num_comments": 29,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/n7p7nk/bundestag_beschließt_gründung_der/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "EY3E9t1zx2tLVLXW1PVUUNkMPjrYKkiS4_LJ5dhibqA",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/9FuhwwBjlw77_Od3mitbGHdEYs9L5BpkhF6opAEp7yo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a51facea8d012e45f8fd6da78ca30637e9eb0582",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/9FuhwwBjlw77_Od3mitbGHdEYs9L5BpkhF6opAEp7yo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5fa7d0a8633ae0df1c5c82f7fdbf3f5bbcb02d52",
+                                "width": 216
+                            },
+                            {
+                                "height": 179,
+                                "url": "https://external-preview.redd.it/9FuhwwBjlw77_Od3mitbGHdEYs9L5BpkhF6opAEp7yo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7137a51f89e70849576a99983d42b7d279aa6dc8",
+                                "width": 320
+                            },
+                            {
+                                "height": 359,
+                                "url": "https://external-preview.redd.it/9FuhwwBjlw77_Od3mitbGHdEYs9L5BpkhF6opAEp7yo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01c3dcb0d9bed5cc5920bce33375a0df270912b7",
+                                "width": 640
+                            },
+                            {
+                                "height": 539,
+                                "url": "https://external-preview.redd.it/9FuhwwBjlw77_Od3mitbGHdEYs9L5BpkhF6opAEp7yo.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=221d9002ca6a5151934e3089808cf76fe301adbf",
+                                "width": 960
+                            }
+                        ],
+                        "source": {
+                            "height": 604,
+                            "url": "https://external-preview.redd.it/9FuhwwBjlw77_Od3mitbGHdEYs9L5BpkhF6opAEp7yo.jpg?auto=webp&amp;s=2faaf48a5811d5c9c1f180021e337a0f8663738a",
+                            "width": 1074
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623497144,
+            "score": 30,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449740,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://a.thumbs.redditmedia.com/odfHVQIEbkbr86xgnOM8HGajLk48piS86pwZjfTkMU0.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Bundestag beschließt Gründung der Helmut-Kohl-Stiftung: \"Extrem vermintes Terrain\"",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.84,
+            "url": "https://www.sueddeutsche.de/politik/helmut-kohl-stiftung-maike-kohl-richter-1.5287165",
+            "url_overridden_by_dest": "https://www.sueddeutsche.de/politik/helmut-kohl-stiftung-maike-kohl-richter-1.5287165",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "padawan3201",
+            "author_created_utc": 1392736257,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_fbzk7",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1620634478,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1620637396.0,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "n8z9w6",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#b18546",
+            "link_flair_css_class": "category history",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Geschichte"
+                }
+            ],
+            "link_flair_template_id": "f5c34108-c1fe-11e5-b1a1-0e658da60651",
+            "link_flair_text": "Geschichte",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_n8z9w6",
+            "no_follow": false,
+            "num_comments": 16,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/n8z9w6/suche_video_von_der_elefantenrunde_vor_der/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623499641,
+            "score": 59,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Geschichten formulieren die sich schön lesen kann ich nicht. Sorry schonmal\n\n\nMein Vater war 1976 Redenschreiber für Heiner Geißler. Er hat mit Kollegen vor der Elefantenrunde für Helmut Kohl Kärtchen mit Argumenten formuliert. \n\nFür eine Karte hat er aus einem Text von einem SPDler zitiert. War wohl ziemlich aus dem Kontext gerissen so wie er mir das erzählt hat. Während der Elenfantenrunde hat dann Helmut Kohl das Zitat vorgelesen und wurde von Helmut Schmidt aufgefordert doch bitte weiter zu lesen. \n\nMein Vater ist dann vor dem Fernseher komplett verrückt geworden weil er wusste das da nur das halbe Zitat auf der Karte steht. \n\nAb da kann er sich nicht mehr erinnern wie die Situation geendet ist. Kann ich Verstehen ich hätte glaube ich direkt den Fernseher ausgemacht. \n\n\nWäre wahrscheinlich auch für ihn cool das nochmal zu sehen. \n\nDanke schonmal für die Hilfe",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449743,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Suche video von der Elefantenrunde vor der Bundestagswahl 1976. (Ich weiß, ist nen long shot)",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.89,
+            "url": "https://www.reddit.com/r/de/comments/n8z9w6/suche_video_von_der_elefantenrunde_vor_der/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "GirasoleDE",
+            "author_created_utc": 1417641623,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_js5a5",
+            "author_patreon_flair": false,
+            "author_premium": true,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1620650895,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "sueddeutsche.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "n93moa",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#036c85",
+            "link_flair_css_class": "category politics",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Politik"
+                }
+            ],
+            "link_flair_template_id": "27453a40-7ecd-11e4-a392-22000b3a0037",
+            "link_flair_text": "Politik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_n93moa",
+            "no_follow": false,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/n93moa/maike_kohlrichter_witwe_alleinerbin_und/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "XrNKQ-fgD3Xs9gKTx2qsb6h_Q7iy1dupx29m4WtD4pU",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/j1cBZK0QBwHoR9AHRZFxJiV9h_asZ3ipg-008tcB1gQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=43be5f488e8f1a1ca38e7b6381bd87c0aafcb105",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/j1cBZK0QBwHoR9AHRZFxJiV9h_asZ3ipg-008tcB1gQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=a300565edfcd5feb50f51b2230c8407647d6a818",
+                                "width": 216
+                            },
+                            {
+                                "height": 179,
+                                "url": "https://external-preview.redd.it/j1cBZK0QBwHoR9AHRZFxJiV9h_asZ3ipg-008tcB1gQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fde6650eb58f41af72cb2f71671c5424b91f7d8f",
+                                "width": 320
+                            },
+                            {
+                                "height": 359,
+                                "url": "https://external-preview.redd.it/j1cBZK0QBwHoR9AHRZFxJiV9h_asZ3ipg-008tcB1gQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0730e7dae8ba8fb57655929c7f07c638b16ad29",
+                                "width": 640
+                            },
+                            {
+                                "height": 539,
+                                "url": "https://external-preview.redd.it/j1cBZK0QBwHoR9AHRZFxJiV9h_asZ3ipg-008tcB1gQ.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=7502e3d3288ee5e4c2a0f9bdb4a39674d198d6ba",
+                                "width": 960
+                            },
+                            {
+                                "height": 606,
+                                "url": "https://external-preview.redd.it/j1cBZK0QBwHoR9AHRZFxJiV9h_asZ3ipg-008tcB1gQ.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a1eeae9f78cc42bc6a76d7e313ea8f1200154379",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 668,
+                            "url": "https://external-preview.redd.it/j1cBZK0QBwHoR9AHRZFxJiV9h_asZ3ipg-008tcB1gQ.jpg?auto=webp&amp;s=68fed89af44971caa1fa1756c7e82d5e471dc434",
+                            "width": 1189
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623499870,
+            "score": 2,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449744,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/1WZunspuEJIX9h0YrqPygREZEqyEws7FmjlcQbP7yQs.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Maike Kohl-Richter: Witwe, Alleinerbin und Gralshüterin - Wie eine Löwin vor der Höhle",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.56,
+            "url": "https://www.sueddeutsche.de/meinung/maike-kohl-richter-helmut-kohl-witwe-vermaechtnis-cdu-1.5288893",
+            "url_overridden_by_dest": "https://www.sueddeutsche.de/meinung/maike-kohl-richter-helmut-kohl-witwe-vermaechtnis-cdu-1.5288893",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "TheRealJuampa",
+            "author_created_utc": 1500857136,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_3b3dbka",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1621201444,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "ndys46",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Diskussion/Frage"
+                }
+            ],
+            "link_flair_text": "Diskussion/Frage",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_ndys46",
+            "no_follow": true,
+            "num_comments": 19,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/ndys46/book_recommendations_over_german_reunification/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623509397,
+            "score": 1,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Hi guys, im sorry if this violates the rules in which case please delete. \n\nIm looking for a good read about tne German reunification ideally written by someone who was involved in the process first handedly and close to the kitchen, (Kohl, Fischer, two plus four treaty access) Im interested in this topic which I' ve learned in school and watched documentaries later but I find it an extremely interesting topic that as an European I find inspiring. \n\nDanke sehr!",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449782,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Book recommendations over German reunification",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.52,
+            "url": "https://www.reddit.com/r/de/comments/ndys46/book_recommendations_over_german_reunification/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Thank you stranger. Shows the award.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "icon_width": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "I needed this today",
+                    "end_date": null,
+                    "giver_coin_reward": 0,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png",
+                    "icon_width": 2048,
+                    "id": "award_19860e30-3331-4bac-b3d1-bd28de0c7974",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Heartwarming",
+                    "penny_donate": 0,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=16&amp;height=16&amp;auto=webp&amp;s=4e50438bd2d72ae5398e839ac2bdcccf323fca79",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=32&amp;height=32&amp;auto=webp&amp;s=e730f68de038499700c6301470812c29ef6a8555",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=48&amp;height=48&amp;auto=webp&amp;s=8d7c7fa22e6ff3b1b0a347839e42f493eb5f6cbc",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=64&amp;height=64&amp;auto=webp&amp;s=11ec2a72e2724017bb8479639edce8a7f2ba64f4",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=128&amp;height=128&amp;auto=webp&amp;s=1e936ae571e89abb5a5aaa2efd2d7cfb0ed1b537",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=16&amp;height=16&amp;auto=webp&amp;s=4e50438bd2d72ae5398e839ac2bdcccf323fca79",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=32&amp;height=32&amp;auto=webp&amp;s=e730f68de038499700c6301470812c29ef6a8555",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=48&amp;height=48&amp;auto=webp&amp;s=8d7c7fa22e6ff3b1b0a347839e42f493eb5f6cbc",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=64&amp;height=64&amp;auto=webp&amp;s=11ec2a72e2724017bb8479639edce8a7f2ba64f4",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png?width=128&amp;height=128&amp;auto=webp&amp;s=1e936ae571e89abb5a5aaa2efd2d7cfb0ed1b537",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 80,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Everything is better with a good hug",
+                    "end_date": null,
+                    "giver_coin_reward": 0,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png",
+                    "icon_width": 2048,
+                    "id": "award_8352bdff-3e03-4189-8a08-82501dd8f835",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Hugz",
+                    "penny_donate": 0,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=73a23bf7f08b633508dedf457f2704c522b94a04",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=50f2f16e71d2929e3d7275060af3ad6b851dbfb1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ca487311563425e195699a4d7e4c57a98cbfde8b",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=7b4eedcffb1c09a826e7837532c52979760f1d2b",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=e4d5ab237eb71a9f02bb3bf9ad5ee43741918d6c",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=16&amp;height=16&amp;auto=webp&amp;s=69997ace3ef4ffc099b81d774c2c8f1530602875",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=32&amp;height=32&amp;auto=webp&amp;s=e9519d1999ef9dce5c8a9f59369cb92f52d95319",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=48&amp;height=48&amp;auto=webp&amp;s=f076c6434fb2d2f9075991810fd845c40fa73fc6",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=64&amp;height=64&amp;auto=webp&amp;s=85527145e0c4b754306a30df29e584fd16187636",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=128&amp;height=128&amp;auto=webp&amp;s=b8843cdf82c3b741d7af057c14076dcd2621e811",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "peterspliffin69",
+            "author_created_utc": 1592508074,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_6yw59f3z",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1621340395,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1621346890.0,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "nf992v",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Diskussion/Frage"
+                }
+            ],
+            "link_flair_text": "Diskussion/Frage",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_nf992v",
+            "no_follow": false,
+            "num_comments": 180,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/nf992v/wokewashing_in_der_medienökonomie_ist_klassische/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623511802,
+            "score": 331,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Moin zusammen,\n\n&amp;#x200B;\n\nvor ein paar Tagen bin ich auf [zeit.de](https://zeit.de) auf folgenden Artikel gestoßen: [https://www.zeit.de/2021/20/rassismus-klassik-phil-ewell-klassische-musik-europa-usa-deutschland](https://www.zeit.de/2021/20/rassismus-klassik-phil-ewell-klassische-musik-europa-usa-deutschland)\n\nDieser Artikel lässt mich mental nicht mehr los, und zwar weil ich endlich mal meinen Senf dazugegeben kann, Hurra. Spoiler: Klingt nach quatsch. Und dabei möchte ich der Autorin gar nicht mal eine böse Absicht unterstellen, sondern einfach nur schlechte Recherche. Da ich selbst studierender Musiker bin, bin ich mit der Debatte und auch mit den Alternativvorschlägen vertraut. Wen's interessiert, Bach ist für die Vermittlung von Musiktheorie essentiell, einfach weil niemand sonst so viele Grundlagen für alles was danach kam gelegt hat (bis in den Jazz und die Popmusik hinein). Das Notensystem ist nicht nur von alten weissen Männern erfunden worden, sondern sogar von alten weissen Christen (Shit), aber mir jedenfalls ist einfach noch keine Alternative, die besser funktioniert, und die vor allem von jedem verstanden wird, untergekommen. Und das Lydian Chromatic Concept ist ein Konzept aus dem Jazz, hat also mit Klassik im engeren Sinne gar nichts am Hut, und baut darüber hinaus auf der europäischen Harmonielehretradition auf (sprich: Bach nicht gecheckt, Lydian Chromatic Concept auch nicht gecheckt).\n\n&amp;#x200B;\n\nNeulich gab es in diesem Sub einen Artikel über Wokewashing durch Konzerne, also das aufpolieren des eigenen Images mit Diversity-Themen, um von den eigenen Leichen im Keller abzulenken. Ironischerweise war der Artikel von Zeit-Online. Ich habe nämlich nicht erst seit dem aufkommen von Seiten wie Bento, [ze.tt](https://ze.tt) usw. das Gefühl, dass diese ganzen, eigentlich voll in meinem Sinne liegenden Themen, benutzt werden um Clicks zu generieren, und zwar gar nicht so sehr unter jungen Menschen, sondern eher so den Boomern, die sich dann in der Kommentarspalte das Maul zerreissen. Schema:\n\n&amp;#x200B;\n\n1.Man nehme sich ein \"wokes\" Thema.\n\n2. Man picke sich eine besonders extreme Einzelmeinung raus (Jürgen soll seine Alltagssprache bitte gendern, klassische Musik ist rassistisch, Menschen mit Ballonfetisch werben für Akzeptanz \\[Ja, bento...\\])\n\n3. Man schreibt einen möglichst reisserischen Artikel, der die Lesenden in zwei Gruppen teilt, dafür oder dagegen.\n\n4. Leute kommentieren erbost was von linksgrünversiffter Diktatur !!!!!!!1111! oder werfen sich gegenseitig Rassismus oder sonstige Kackeinstellungen vor.\n\n5. Profit (Clicks)\n\n&amp;#x200B;\n\nIch denke eigentlich ist uns das ja wahrscheinlich allen im großen und ganzen Bewusst. Also das Twitter keinen repräsentativen Diskurs darstellt, dass nicht jede Debatte aus den USA auf Deutschland übertragbar ist, und das klassische Musik nicht per se rassistisch ist, auch wenn es im Bezug auf Diversity und Repräsentation natürlich noch viel zu tun gibt. Aber wenn ich mir überlege, wie meine Mutter, die eine sehr gebildetete, musikalische und aufgeschlossene Frau war, diesen Artikel gelesen hätte, dann wüsste ich dass wir danach trotzdem wahrscheinlich eine Debatte über \"Cancel Culture\" hätten führen müssen. Sprich, das ist sogar Wasser auf die Mühlen derjenigen, die solchen Themen gegenüber aufgeschlossen sind (mich eingeschlossen, bin ne ziemlich linke Socke).\n\nIch unterstelle in dem Fall Kalkül. Nicht nur, weil [Zeit.de](https://Zeit.de) den Artikel nach kurzer Zeit nicht mehr in den Schlagzeilen verlinkt hat (vielleicht zu offensichtlich unfundiert), sondern auch weil sich das ganze in ein generelles Schema einordnen lässt. Im Endeffekt führen solche Scheindebatten nämlich dazu, dass sich die politischen Positionen immer weiter voneinander entfernen (Karl Heinz bleibt in seiner \"die spinnen doch alle\"-Bubble, und innerhalb der Linken gehen Menschen wegen Meinungsverschiedenheiten aufeinander los, die eigentlich keine sind).\n\n&amp;#x200B;\n\nDeshalb, liebe Brudis, Schwestis und Menschis, lasst euch einfach nicht verarschen. Wir haben Probleme: den Klimawandel, die soziale Ungleichheit, die immer noch existierende ökonomische Benachteiligung von Frauen, die Unterdrückung von Minderheiten, Rassismus ohne Ende,  eine korrupte Regierung, bald den Staatstrojaner, undendlich viel Leid, Ausbeutung und Unterdrückung in der Landwirtschaft, kurzum, wir sind ganz schön am Arsch.\n\n&amp;#x200B;\n\nDas alles wird erst besser, wenn wir uns darauf konzentrieren diese Probleme zu lösen, und nicht durch Stellvertreterdiskussionen im Internet. Und damit meine ich gar nicht die blöde Haupt- und Nebenwiederspruchdebatte, sondern schlicht und einfach dass wir uns wieder auf unsere Handlungen im Alltag fokussieren. Und nicht auf konstruierte Fronten, bei denen wir uns die ganze Zeit gegenseitig ärgern müssen, während die wahren Arschlöcher davon entweder gar nichts mitkriegen oder währenddessen noch richtig Kohle machen.\n\n&amp;#x200B;\n\nPeace\n\n&amp;#x200B;\n\nEdit: Hab vorhin von Bullshit geschrieben. Eigentlich wollte ich das Wort nicht mehr verwenden, das steht für mich häufig für genau die Problematik die ich da beschreiben wollte.\n\n&amp;#x200B;\n\nDes weiteren bezieht sich die Autorin primär auf die Kanonik klassischer Musik. Damit kenne ich mich zugegebenermaßen nicht so gut aus. Meine Kritik bezieht sich in erster Linie auf die musiktheoretischen Aspekte. Falls wer was im Bezug auf die Kanonik beitragen kann, bitte :) Es geht mir um Diskussion, ich wollte das nicht als Tirade flairen",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449785,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "\"Wokewashing\" in der Medienökonomie - Ist klassische Musik rassistisch?",
+            "top_awarded_type": null,
+            "total_awards_received": 3,
+            "treatment_tags": [],
+            "upvote_ratio": 0.81,
+            "url": "https://www.reddit.com/r/de/comments/nf992v/wokewashing_in_der_medienökonomie_ist_klassische/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Thank you stranger. Shows the award.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "icon_width": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 80,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Everything is better with a good hug",
+                    "end_date": null,
+                    "giver_coin_reward": 0,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png",
+                    "icon_width": 2048,
+                    "id": "award_8352bdff-3e03-4189-8a08-82501dd8f835",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Hugz",
+                    "penny_donate": 0,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=73a23bf7f08b633508dedf457f2704c522b94a04",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=50f2f16e71d2929e3d7275060af3ad6b851dbfb1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ca487311563425e195699a4d7e4c57a98cbfde8b",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=7b4eedcffb1c09a826e7837532c52979760f1d2b",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=e4d5ab237eb71a9f02bb3bf9ad5ee43741918d6c",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=16&amp;height=16&amp;auto=webp&amp;s=69997ace3ef4ffc099b81d774c2c8f1530602875",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=32&amp;height=32&amp;auto=webp&amp;s=e9519d1999ef9dce5c8a9f59369cb92f52d95319",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=48&amp;height=48&amp;auto=webp&amp;s=f076c6434fb2d2f9075991810fd845c40fa73fc6",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=64&amp;height=64&amp;auto=webp&amp;s=85527145e0c4b754306a30df29e584fd16187636",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=128&amp;height=128&amp;auto=webp&amp;s=b8843cdf82c3b741d7af057c14076dcd2621e811",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "JulianVault101",
+            "author_created_utc": 1484366075,
+            "author_flair_background_color": "",
+            "author_flair_css_class": "MEVO",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Mecklenburg-Vorpommern"
+                }
+            ],
+            "author_flair_template_id": null,
+            "author_flair_text": "Mecklenburg-Vorpommern",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_14f6a1",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1621455166,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1621494017.0,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "ngfs69",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ff8206",
+            "link_flair_css_class": "category hilfe",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Hilfe"
+                }
+            ],
+            "link_flair_template_id": "9cad2108-25c9-11e7-9303-0ea76eee71ee",
+            "link_flair_text": "Hilfe",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_ngfs69",
+            "no_follow": false,
+            "num_comments": 76,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/ngfs69/angst_um_meine_mutter/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623514067,
+            "score": 290,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Moin.\n\nIch hatte schon mal einen ähnlichen Pfosten erstellt, zwischenzeitlich war es besser und nun ist es wieder soweit.\n\nMein beschissener, dauerarbeitslose Halbbruder kommt mit über 30 noch jeden Tag zu uns, um sich zu waschen, seine Wäsche waschen zu lassen und zu essen. Arbeiten geht er nicht, Termine beim Jobcenter nimmt er nicht wahr. Allein das ist schon schlimm, aber er gibt ständig meiner Mutter die Schuld für alles\n\nEr hat kein Geld? Meine Mutter ist schuld. Seine Wäsche ist nicht gewaschen? Meine Mutter ist schuld. Er hat kein Hundefutter? Meine Mutter ist schuld. Nur er wäre schon längst im Knast, wenn meine Eltern nicht ständig aushelfen würden. Oftmals zahlt er seine Rechnungen nicht.\n\nHeute abend wieder das gleiche Theater. Es klingt um 21 Uhr. Ich denke mir nur, bitte mach die Tür nicht mehr auf. (mein Vater hat Spätschicht und bin mit meiner Mutter alleine.) uuuund natürlich macht sie die Tür auf. Ich stelle mich schon wieder auf das Schlimmste ein. Mein Herz rast quasi jedesmal, wenn er da ist.\n\nEr kommt mit seinem Hund, ich höre schon die Wut bis in mein Zimmer. Er beschwert sich, dass das Jobcenter sein Hartz 4 gestrichen hat. Er beleidigt meine Mutter, ich kann nur da sitzen, obwohl ich innerlich schon wieder fast am explodieren bin. Er hat angeblich kein Essen, meiner Mutter gibt ihm Kartoffeln mit Kohl und Hack. Ich höre nur das Gefäß an die Wand trümmern, massive Beleidigungen wie \"geh sterben\" \"heul doch wieder du ****\" und dabei tritt er noch seinen Hund. \n\nIrgendwann ist er weg, eigentlich war er nur 15 Minuten da, für mich war das eine halbe Ewigkeit. Ich gehe aus meinem Zimmer und sehe, dass das ganze Essen im Flur verteilt ist, das halbe Essen klebt an der Wand. Ich sehe meine Mutter wie sie mit Tränen versucht das Essen wegzuwischen. Ich sage ihr, sie soll sich bitte hinsetzen, ich mach das schon. \n\nIch bin absolut hilflos, fast jeden Tag das Gleiche, so richtig eskalieren tut es nur, wenn mein Vater nicht da ist. Ich würde gerne ausziehen, aber ich möchte meine Eltern damit nicht alleine lassen. Ausserdem liegt ihr Bruder zurzeit auf der Intensivstation und es sieht sehr schlecht aus...\n\nTut mir leid, wenn das alles ein wenig durcheinander ist, ich versuche gerade irgendwie meine Gedanken zu ordnen.\n\nEdit: Danke für die zahlreichen Kommentare. Ich kann leider nicht auf alle einzeln eingehen. Ich lese mir aber alles durch und versuche ein paar Sachen davon umzusetzen bzw. es wenigstens zu versuchen.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449795,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Angst um meine Mutter",
+            "top_awarded_type": null,
+            "total_awards_received": 2,
+            "treatment_tags": [],
+            "upvote_ratio": 0.95,
+            "url": "https://www.reddit.com/r/de/comments/ngfs69/angst_um_meine_mutter/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "can_gild": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1621458843,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "nghbj3",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Diskussion/Frage"
+                }
+            ],
+            "link_flair_text": "Diskussion/Frage",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_nghbj3",
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/nghbj3/verdiene_kohle_mit_sprachprojekt/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": "deleted",
+            "retrieved_utc": 1623514146,
+            "score": 0,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "[removed]",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449797,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Verdiene Kohle mit Sprachprojekt",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.14,
+            "url": "https://www.reddit.com/r/de/comments/nghbj3/verdiene_kohle_mit_sprachprojekt/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "flarne",
+            "author_created_utc": 1522335433,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_13zzxgdx",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1622194741,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "spiegel.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "nmu3hw",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category newsde",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Nachrichten DE"
+                }
+            ],
+            "link_flair_text": "Nachrichten DE",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_nmu3hw",
+            "no_follow": false,
+            "num_comments": 34,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/nmu3hw/energiewende_wirtschaftsministerium_will/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "cdgInL-4_zMH_jY7GIMC3-RB-R-9yKM8kNAXFZLR6Uw",
+                        "resolutions": [
+                            {
+                                "height": 61,
+                                "url": "https://external-preview.redd.it/WOc9GrdsbO4scbuBQlTjA1JnMT1JIeHRKjjYgL9ZXag.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=32a722cd67c77991f1a927e44dd129d01b8ec900",
+                                "width": 108
+                            },
+                            {
+                                "height": 122,
+                                "url": "https://external-preview.redd.it/WOc9GrdsbO4scbuBQlTjA1JnMT1JIeHRKjjYgL9ZXag.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0b84bdbdaf46da43862119a20a1f5af4705b46a1",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/WOc9GrdsbO4scbuBQlTjA1JnMT1JIeHRKjjYgL9ZXag.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=742519859b63bb00eb6e4c4774feee7ff0f83865",
+                                "width": 320
+                            },
+                            {
+                                "height": 361,
+                                "url": "https://external-preview.redd.it/WOc9GrdsbO4scbuBQlTjA1JnMT1JIeHRKjjYgL9ZXag.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb262f2f29d4dc744bbd62d4232dd19e3feb19fb",
+                                "width": 640
+                            },
+                            {
+                                "height": 542,
+                                "url": "https://external-preview.redd.it/WOc9GrdsbO4scbuBQlTjA1JnMT1JIeHRKjjYgL9ZXag.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=f24ad2d73d8cb2a9ce93d11bb52adc812218d1f7",
+                                "width": 960
+                            },
+                            {
+                                "height": 610,
+                                "url": "https://external-preview.redd.it/WOc9GrdsbO4scbuBQlTjA1JnMT1JIeHRKjjYgL9ZXag.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=1208d57a56059dbeff3f7d095c6ed3ae5b3afaf5",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 723,
+                            "url": "https://external-preview.redd.it/WOc9GrdsbO4scbuBQlTjA1JnMT1JIeHRKjjYgL9ZXag.jpg?auto=webp&amp;s=ce689c79d68402536522ba9d961c6125adf5ea7a",
+                            "width": 1280
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623526531,
+            "score": 31,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449855,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/7T_hbOlBEDdCGT1CCFfrG46fM58qGgCO_aUBBiKxbjI.jpg",
+            "thumbnail_height": 79,
+            "thumbnail_width": 140,
+            "title": "Energiewende: Wirtschaftsministerium will Kohle-Kraftwerke für Holz-Verbrennung umrüsten",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.89,
+            "url": "https://www.spiegel.de/wissenschaft/natur/energiewende-wirtschaftsministerium-will-kohle-kraftwerke-fuer-holz-verbrennung-umruesten-a-0403118b-22cd-41da-958f-f6b3ce1c6ec9#kommentare",
+            "url_overridden_by_dest": "https://www.spiegel.de/wissenschaft/natur/energiewende-wirtschaftsministerium-will-kohle-kraftwerke-fuer-holz-verbrennung-umruesten-a-0403118b-22cd-41da-958f-f6b3ce1c6ec9#kommentare",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 182,
+        "op_b": 176,
+        "total": 364
+    },
+    "error": null
+}

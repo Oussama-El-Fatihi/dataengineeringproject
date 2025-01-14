@@ -1,0 +1,47 @@
+[
+    {
+        "text": "Oder irgendwas mit Kernenergie",
+        "date": "2023-11-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Weil es, wie viele von euch irgendwie nicht verstehen, komplett egal ist wie der Strom hergestellt wird, wichtig ist wie viel CO2 am Ende raus kommt.\n\nDa hat Spanien halt einfach mal weniger als die Hälfte. \n\nGas ist viel besser als Kohle und Kernenergie noch mal vieeeel besser als beides.",
+        "date": "2023-11-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Siehe auch:\n\nhttps://www.globenewswire.com/news-release/2023/11/15/2781465/0/en/NuScale-Power-Corporation-Sued-By-Block-Leviton-LLP-for-Securities-Law-Violations.html\n\n&gt; \"NuScale Power Corporation Sued By Block &amp; Leviton LLP for Securities Law Violations\n&gt; \n&gt; Block &amp; Leviton LLP (www.blockleviton.com), a national securities litigation firm, announces that it has filed a class action lawsuit on behalf of shareholders against NuScale Power Corporation (NYSE: SMR) and certain of its executives, for securities fraud. \"\n\nalso wenn auch keine billige Kernenergie herauskommt, ist die kriminelle Energie offenbar durchaus vorhanden.",
+        "date": "2023-11-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Kernfusion hat leider ein paar prinzipielle Probleme, die nicht so leicht in den Griff zu bekommen sein werden.\n\nWie funktioniert derzeit grundsätzlich ein Wärmekraftwerk? Denn alle diese Dinge, egal ob mit Gas, Kohle, Uran oder eben Fusion befeuert, sind Wärmekraftwerke.\n\nMan erhitzt Wasser, es wird zu Dampf, der Dampf treibt Turbinen, die Turbinen liefern Strom, das Wasser kondensiert, und geht zum Wärmeerzeuger zurück. Der einzige wirklich große Unterschied ist, wo die Wärme herkommt. *Und wie man die Wärme von dort raus bekommt, wo der sie erzeugende Prozess stattfindet.* An letzteres denkt man nicht so oft, aber das ist ein enormer und grundsätzlicher Pferdefuß bei Fusion.\n\nMan schaue sich mal einen konventionellen Kernreaktor an. Im wesentlichen hat man ein paar \"spicy rocks\" in einem Tauchbad, und nützt die von den speziellen Steinchen abgegebene Hitze um die Turbinen zu treiben. Die Steinchen sind so angeordnet, dass sie sich möglichst nicht unkontrolliert aufwärmen (Modell Tschernobyl, wobei das ein Graphitkernreaktor war), aber das haben wir mittlerweile gut im Griff. Und wie der Zufall es will ist Wasser, also das Zeug mit dem wir die Wärme übertragen, auch gleichzeitig das optimale Zeug um die speziellen Steinchen bei Laune zu halten. Sprich, die Kernreaktion kontrolliert am laufen zu halten: die Brennstäbe während der Kettenreaktion in Wasser eingetaucht zu halten ist eine der besten Arten das ganze kontrolliert ablaufen zu lassen.\n\nWin-win, also. Bis auf so kleine Details wie den Atommüll, und dass der ganze Reaktor extrem kompliziert und teuer ist. Aber grundsätzlich ist der Prozess gut zu managen, und man bekommt die Energie auch sehr gut weg von dort wo sie frei gesetzt wird. Man kann lange darüber streiten ob man Kernenergie nutzen soll: aber der Prozess an sich ist wenigstens keine grundsätzliche Schnapsidee.\n\nIm Vergleich dazu ist ein Fusionsreaktor ein Widerspruch in sich.\n\nWieso? Weil Kernfusion, sprich ein kontinuierlich fusionierendes Plasma, grundsätzlich nur im Hochvakuum am Laufen gehalten werden kann. *Das gleichzeitig ein hervorragender thermischer Isolator ist.* So viel zum Thema \"die freigesetzte Energie auf einfache Art dort auch raus bekommen\". Und direkten Kontakt mit dem Plasma kann man sich bei den Temperaturen sowieso abschminken.\n\nOk, gut, ein Plasma ist aber so energiereich dass es die überschüssige Energie sowieso abstrahlt, so dass sie auf den Rand des Containments trifft. Modell ringförmige Sonne in einem übergroßen Autoreifen (Torus). Oder so.\n\nDort ist aber der nächste Widerspruch. Denn unmittelbar am Rand des Containments brauchen wir supraleitende Magneten, um das Plasma lokalisiert zu halten. Das bedeutet extrem niedere Temperaturen, die auch permanent aufrecht gehalten werden müssen, sonst sind die Magnete weg. Und genau den Teil der Maschine bombardiert das Plasma mit genau der Energie, die man aus dem System raus bekommen will.\n\nKlar, das kann und will man kühlen: aber da die hauchfeine Gratwanderung zwischen \"wir leiten die überschüssige Energie kontrolliert ab\" und \"die Magnete werden zu heiß und nippeln uns ab\" zu finden ist ein ganz anderes Level von Prozessmanagement als der vergleichsweise harmlose Tauchsieder Kernreaktor.\n\nDazu kommt, dass das Containment aus exotischen Materialien sein muss, um bei dem ganzen Spiel mitzutun: aber die vom Plasma ausgehende Strahlung das Containment und die Magnete langsam aber sicher radioaktiv macht, und auch erhebliche Materialermüdung erzeugt. Es hat einen Grund, dass die bewohnbare Zone des Sonnensystems ein gutes Stück weg von der Sonnenoberfläche anfängt: und wir reden hier von ein paar zehn Zentimetern zwischen dem Plasma und dem Containment. Insgesamt bedeutet das, dass man auch bei einem ausgedienten Fusionsreaktor einen Haufen strahlenden Müll entsorgen muss. Andere Isotope als bei einem Kernreaktor, aber auch nicht wirklich was das man sich daheim gegen das Rheuma unter die Matratze legt.\n\nUnd alle die hier beschriebenen Probleme kommen erst auf uns zu: im Zuge der Praxiseinführung (sprich: Entwicklung eines Reaktors der tatsächlich Strom liefert). Das können wir angehen, sobald mal jemand einen dauerhaft laufenden experimentellen Fusionsreaktor gebaut hat: aber das ist seit Jahrzehnten etwas, das \"in den nächsten 20 Jahren\" mal erreicht wird.",
+        "date": "2023-11-21",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Gute Studie, danke. Auch wenn sie selbst sagt, dass es gerade in D eine etwas dünne Datenlage gibt, aber damit lasst sich doch schon mal ganz gut argumentieren.\n\nWobei man es sich auch wieder leicht machen kann. Ich suche mir jetzt den Satz hier raus: \"Die durchschnittlichen LCOE der einzelnen Erzeugertechnologien zeigen, dass nach Aussage der Studie nukleare Energie die zweitteuerste Energieform insgesamt ist und der LCOE über die vergangenen 12 Jahre sogar um 33 Prozent gestiegen ist.\"\n\nUnd ein anderer den hier: \"Basierend auf deren Annahmen zählt Kernkraftenergie nicht zu den teuersten Energieformen, wobei hier explizit Werte von AKWs angesetzt werden, die noch in der Entwicklung bzw. im Bau sind.\"\n\nZack, selbe Studie und zwei Meinungen können sich bestätigt sehen, wenn man nicht genau reinguckt.\n\nAber auf den ersten Blick sieht es so aus, als wären die Erneuerbaren FAST gleichauf beim kWh-Preis, werden weiterhin immer günstiger und haben fast keine nicht-internalisierten externen Kosten. Das sieht bei der Kernenergie ganz anders aus. Ausgeforscht, super teuer im Neubau und für die Internalisierung kommt nochmal das 5 bis 8-fache der eigentlichen Kosten oben drauf.\n\nTrotzdem hätte ich gedacht, dass die direkten staatlichen Zuwendungen viel größer sind.\nWer zahlt nun eigentlich den Rückbau, Staat oder Betreiber? \n\nDie Endlagerdebatte ist dann ja nochmal ein ganz eigener Klotz, der man nicht los wird, aber die Debatte ist mir noch zu heiß.",
+        "date": "2023-11-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Hauptsächlich wird mit Kernenergie die Bombe subventioniert. Die übrigens auch der einzige Grund ist,  warum Kernenergie aus staatlicher Sicht sinnvoll sein kann.",
+        "date": "2023-11-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Das Müllproblem ist dann auch noch da. Es gibt einen \"Science\"-YouTuber, den ich früher viel geschaut habe, der einfach so tut, als wäre das schon längst gelöst, AKA er knutscht einen containment Behälter, die als temporäre Lösung gedacht sind und verwendet das als Argument, warum das Müllproblem gelöst sei.\n\nEndlager sind ein politisches Problem, kein technisches. In Finnland wo es einen politischen Konsens zur Kernenergie gibt (inklusive den dortigen Grünen) funktioniert das.",
+        "date": "2023-11-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Nostradamus TV:\n\nMärz 2026, Bundeskanzler Friedrich Merz fordert Opposition auf für die Aufhebung der Schuldenbremse zu stimmen. Auf Grund von Altlasten aus der Zeit der Ampel, sei dies unumgänglich um zentrale Zukunftsprojekte wie den Wiedereinstieg in die Kernenergie, die Erforschung verbrauchsarmer Verbrennungsmotoren, sowie die Abschaffung der Erbschaftssteuer und Absenkung des Spitzensteuersatzes zu finanzieren.",
+        "date": "2023-11-28",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mein Lieblingsbeispiel in dem Zusammenhang ist [§ 307 Herbeiführen einer Explosion durch Kernenergie](https://www.gesetze-im-internet.de/stgb/__307.html)",
+        "date": "2023-11-30",
+        "sentiment": "positive"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "text": "Hum, dans les réponses il y a un point important qui n'est pas abordé : l'autonomie personnelle décrite ici n'est pas vraiment écologique (pas d'inquiétude, la mutualisation l'est).\n\nIl vaut mieux avoir un seul gros moyen de production pour x habitations que x moyens de productions pour chaque habitation. En terme de bilan co2 d'un cycle de vie complet, c'est physiquement impossible de faire mieux avec de multiples moyens de productions, qu'avec une seule grosse. C'est principalement dû au principe d’[efficacité énergétique et au rendement](https://fr.wikipedia.org/wiki/Efficacit%C3%A9_%C3%A9nerg%C3%A9tique_(thermodynamique)) issue de la [deuxième loi de la thermodynamique](https://fr.wikipedia.org/wiki/Deuxi%C3%A8me_principe_de_la_thermodynamique). \n\nDit autrement, vous serez plus écologique dans votre consommation électrique de vous brancher directement au réseau nationale nucléaire que de tenter vous même une productions à coups de panneaux solaires ou de petites éoliennes personnelles.\n\nCe principe est identique pour votre filtration d'eau (grosse usine de traitement des eaux vs filtre chez soi).\n\nLa vraie possibilité de faire baisser votre emprunte, c'est la sobriété.",
+        "date": "2023-07-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\\&gt;  j'ai appris que chaque mois je payais 30 euros d'abonnement pour l'électricité et le gaz !! Peut-être même l'eau.\n\nBah oui il faut bien entretenir les tuyaux et le réseau électrique, l'usure de tout ça ne dépend pas de la consommation.\n\nEn ce qui concerne les panneaux solaires, attention : pour les gros panneaux de 400W à mettre sur le toit, l'énergie qu'il a fallu pour construire le panneau est \"remboursée\" par ce qu'il produit en quelques années... à condition d'utiliser toute l'énergie que le panneau produit.\n\nC'est tout le problème : si tu n'utilises que la moitié de la production, il faudra deux fois plus longtemps pour que le panneau \"rende\" l'énergie qui a servi à le fabriquer, et ainsi de suite.\n\nC'est une façon de produire de l'énergie qui n'est pas adaptée à l'usage que nous en faisons, qui consiste à consommer quand on en a besoin, et pas quand la production est maximum.\n\nOn peut avoir une image un peu idyllique d'une cabane autonome dans la montagne qui produit son électricité, mais ce n'est qu'une image : les sites autonomes sont les pires au niveau utilisation des panneaux. Parce qu'il faut en mettre assez pour avoir du jus l'hiver, donc en été ils sont sous-utilisés, et quand tu rajoutes les 200 kilos de batteries au lithium...\n\nEn gros, pour l'électricité, le mieux, c'est encore le nucléaire.\n\nLe solaire c'est relativement compliqué à la fois au niveau technique et réglementation, cher, il faut avoir les compétences requises, et on manipule des tensions mortelles. Bon je te dis ça et j'en ai mis plein sur mon toit, mais dans mon cas c'est pour la clim, la voiture électrique, et c'est aussi un hedge contre la hausse des tarifs du kWh. Donc si t'as des questions là dessus, tu peux envoyer.\n\nBon bref, tu as envie de faire quelque chose, c'est bien, mais j'ai l'impression que tu pars dans tous les sens et que tu n'as pas trop la notion des ordres de grandeur.\n\nInjecter de l'eau de pluie dans le réseau d'eau potable est dangereux pour la santé et interdit. Mais si tu habites dans une maison, un bon truc c'est le récupérateur d'eau de pluie pour arroser le jardin. C'est une cuve et un tuyau, c'est simple et low tech, facile à installer soi-même.\n\nRégler ta chasse d'eau ne coûte rien.\n\nEn gros, il faut que tu tries tes idées en fonction du rapport coût et effort versus bénéfice, c'est-à-dire un calcul de rentabilité.\n\nEn général, ce qui arrive en haut du classement, c'est l'isolation : je viens de passer deux de mes locations du DPE E à C, c'est un peu d'huile de coude mais rien d'insurmontable.",
+        "date": "2023-07-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Contrairement à ce que beaucoup de personnes pensent, vivre en \"autonomie\" n'est pas vraiment écologique ni économique.\n\nLa mise en réseau du système électrique permet de faire des économies d'échelles massives et d'équilibrer en permanence la production avec la consommation. \n\nDes panneaux solaires déconnectés du réseau avec des batteries auront sur la durée de vie totale un impact écologique / carbone significativement plus important que l'électricité d'EDF (qui est déjà très décarbonnée). Il te faudra aussi des décennies pour rentabiliser cet investissement. Beaucoup moins si tu te passes de batteries, te connecte au réseau et revend le surplus à EDF.\n\nUn autre exemple : si chaque famille faisait chacun son pain de manière artisanale le matin. Il faudrait environ 10 (!) Centrales nucléaires supplémentaires pour alimenter cette surconsommation.\n\nLa mutualisation / industrialisation permet de faire des économies significatives en ressources.\n\nLa seule chose qu'on peut / doit faire au niveau individuel c'est réduire notre consommation (élec, eau).",
+        "date": "2023-07-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Il manque aussi la partie sur la variabilité de la production. Le facteur de charge est une moyenne de production, mais s’il y a du vent, c’est souvent partout et inversement, donc on se retrouve avec des périodes creuses avec l’éolien qu’on a pas avec le nucléaire.",
+        "date": "2023-07-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Pour l'usine, je suis d'accord. Pour le particulier, avec le prix d'une pompe à chaleur tu es autonome dès avril. Bon la machine à laver est économe et bruit de fond à 120W. En hiver, c'est sûr on a besoin du nucléaire d'où un mix énergique.",
+        "date": "2023-07-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "A l'aise financierement? c'est le co2 qui compte, pas l'argent.\n\nles panneaux émettent 8 fois plus que le nucléaire en cycle de vie, donc l'éolien reste mieux.",
+        "date": "2023-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le nucléaire pose plein de problèmes autre que le CO2. C'est incalculable aujourd'hui sans connaître le recyclage, le démantèlement et la durée de vie. Certaines technologies s'améliorent aussi et cela va changer la donne.",
+        "date": "2023-07-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Les projections de RTE sont des dossiers de milliers de pages et ils ont déjà calculé tout ça en détail pour nous pour les 40 prochaines années, je ne vois pas bien quel intérêt j'aurai a regarder des chiffres ponctuel avec le peu de connaissances que j'ai, je vais forcément en tirer de moins bonne conclusions.\n\nLes scénarios sans nucléaires sont par exemple faisables dans les pronostics de RTE avec beaucoup moins de stockage que ce que l'on croit (mais quand même une certaine quantité). Et les scénarios avec 30% de nucléaire ne demandent quasiment aucun stockage.",
+        "date": "2023-07-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pour moi 1GW de stockage, c’est pas négligeable, on parle quasiment d’un EPR (1,6GW pour un de troisième génération). C’est pour le scénario à 50%. On double pour le scénario à 30% et on monte à 26GW pour un scénario sans nucléaire. [Le rapport](https://assets.rte-france.com/prod/public/2021-12/Futurs-Energetiques-2050-principaux-resultats.pdf) (j’ai pris la version simplifiée) parle bien de défis techniques extrêmement importants. Alors « moins que ce qu’on croit » je ne sait pas ce que ça représente, mais pour moi ça reste beaucoup.\n\nDonc oui, je pense que le stockage qui est induit par les variations météorologiques n’est pas assez traité dans cette comparaison.",
+        "date": "2023-07-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Intéressant, merci pour ces infos et pour avoir regardé en détail alors que je ne l'ai pas refait moi même. \n\nIls parlent aussi de défis techniques pour le scénario le plus nuclearisé si je ne me plante pas. Les scénarios les plus \"atteignables\" étant les scénarios du milieu, équilibrés entre nucléaire et renouvelable.",
+        "date": "2023-07-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ce qui m'agace ici, c'est le fait qu'on est une région qui pourrait tirer énormément des capacités de l'énergie solaire mais je le voit à peine sur quelques pavillons. En plus de modifier les façades pour refléter les rayons du soleil, on pourrait aussi l'utiliser bien qu'on soit alimenter par le nucléaire. Ce serait une adaptation tout à fait faisable pour le pourtour méditerranéen.",
+        "date": "2023-07-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "J'aime beaucoup ses idées autour de la protection et défense de l'environnement mais j'avoue que sa position anti-nuclaire est problématique..\n\nPourquoi est-ce que nous ne pouvons pas avoir, pour une fois, quelqu'un de pragmatique et rationnel en tête du parti des verts ?!?\n\nSinon, enfin, l'EELV a pris la bonne décision de se présenter seul aux européennes.. Si le nucléaire induit déjà beaucoup d'irrationalité au sein du parti, si on en ajoute les \"solutions\" de LFI aux questions sociales alors ont se trouve avec un parti qui marche sur des petits nuages.",
+        "date": "2023-07-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Développons un peu. Nous  vivons un réchauffement climatique progressif, qui est un parmi d'autres problèmes environnementaux. \n\nUn autre de ces problèmes environnementaux, c'est l'utilisation d'insecticides nuisibles aux insectes sauvages dans l'agriculture, qui sont la principale raison du troisième lien. A mon humble avis, ce sujet des insecticides mérite beaucoup plus d'attention.\n\nPour ton second lien, oui, nous avons une année de relative sécheresse, mais je pense avec un peu plus de précipitations en juillet que la normale, et des températures pas si chaudes que ça. On devrait donc en France avoir je crois une année agricole tout à fait raisonnable.\n\nEffectivement, les océans se réchauffent, ce qui est logique puisque la Terre se réchauffe.\n\nJe suis un peu fatigué quand même de l'exagération autour des conséquences à moyen terme du réchauffement climatique, et cette exagération est particulièrement énervante quand on prend n'importe quel évènement ponctuel comme preuve que ce sera l'enfer dans 10 ans, ce qui n'est pas le cas. \n\nPour remettre les choses en place, dans un scenario de déclin raisonnable de l'utilisation des combustibles fossiles qui est le plus probable car il y a de moins en moins de pétrole et de gaz facilement exploitables et certains renouvelables / le nucléaire seront donc compétitifs:\n\n* Environ 3 degrés de plus en 2100 (l'époque où mes jeunes enfants  seront en maison de retraite ou morts) par rapport aux niveaux pré-industriels (soit la petite ère glaciaire) et environ 1.7 degrés par rapport à la situation actuelle.\n* Une montée des mers de 60cm à 80cm je crois\n* Une perte toutes choses égales par ailleurs de 5 à 20% de rendement agricole. Le \"toutes choses égales par ailleurs\" est important car en un siècle, on peut progresser en sciences agronomiques, on peut aussi beaucoup adapter les cultures au nouveau climat (on ne fera peut-être plus de mais en France), et je ne suis pas sûr que les études, qui se concentrent sur l'impact des plus fortes températures, prennent en compte les aspects positifs pour l'agriculture de l'augmentation du taux de CO2 et des précipitations. Par exemple, il parait que le Sahel est en train de se reverdir.\n* Des régions très spécifiques qui deviendront potentiellement inhabitables, mais elles sont très rares, car elles correspondent aux endroits cumulant hautes températures et taux d'humidité élevé, aujourd'hui, principalement des bras de mer entourés de désert comme la mer Rouge, le golfe Persique.\n\nIl faut aussi signaler l'énorme incertitude sur tout ce qui va se passer. Le climat est extrêmement compliqué.",
+        "date": "2023-07-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Aucun soucis... \n\nOn va maintenant parler de ressources et matières premières. Sans vouloir mettre le lien vers l'excellente présentation d'Aurore Stéphan sur l'industrie minière, on peut effectivement faire un brin de recherche et s'apercevoir que nous commençons à manquer d'un peu tout : Bois, donc papier, mais minerais (sauf le Phosphore apparemment). \n\nPrenons le cuivre par exemple, métal utilisé dans absolument tout ce qui est électronique : Chaque smartphone en contient une bonne grosse dizaine de grammes. Nous avons miné depuis trois mille ans l'équivalent de sept cent millions de tonnes de cuivre, et nous commençons à faire les fonds de tiroir. Si nous voulions tenir les objectifs de transition verte que nous avons fixé (voitures électriques, éoliennes, etc...), il faudrait miner en plus 1.4 milliard de tonnes de cuivre. Sans parler des dégâts inhérents à l'industrie minière en soi.   \nBon courage. :)\n\n[https://www.theguardian.com/us-news/2021/nov/09/copper-mining-reveals-clean-energy-dark-side](https://www.theguardian.com/us-news/2021/nov/09/copper-mining-reveals-clean-energy-dark-side)\n\nIl y a une cinquantaine de minerais différents, présents dans 34 milliards d'appareils en circulation (+ environ 4 milliards qui croupissent dans nos placards, genre smartphone de Mémé qu'on garde au cas où). Ca commence à faire un certain poids, surtout que cela ne concerne que cette génération et pas les précédentes. Sachant que nous recyclons que 17% des DEEE (déchets d'équipements électroniques et électroménager), nous gaspillons donc 83% de ces ressources, qui seront soit incinérées, soit enfouites, soit laissées à croupir des décharges. \n\n[https://www.latribune.fr/opinions/tribunes/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-855427.html](https://www.latribune.fr/opinions/tribunes/le-volume-de-dechets-electroniques-explose-et-leur-taux-de-recyclage-reste-ridicule-855427.html)\n\nEn clair, nous sommes en train de foutre en l'air nos ressources pour construire de nouveaux appareils. Et très vite. \n\nEt au lieu de freiner des quatre fers et d'éviter de produire des pots de fleurs connectés (!), on parle maintenant de miner les fonds marins, puisque l'on n'a pas déjà fait assez de mal à l'océan comme ça.\n\n[https://apnews.com/article/mining-critical-materials-sea-ocean-7d883d7e9238006a0faaab837d3d1240](https://apnews.com/article/mining-critical-materials-sea-ocean-7d883d7e9238006a0faaab837d3d1240)\n\nEt je ne parle pas des problématiques d'énergie à venir. Va falloir rationner, une fois plus d'énergie fossile à exploiter : Le nucléaire ne pourra pas remplacer cela, et les énergies vertes sont presque anecdotiques (sans parler de leur propre pollution). Alors que non seulement on ne rationne rien, mais on explose en usages. \n\n[https://ourworldindata.org/energy-overview](https://ourworldindata.org/energy-overview)\n\nDonc j'aimerais bien savoir, si, à ce rythme, on peut encore imaginer une science et une recherche efficaces dans le futur, sans technologie pour les soutenir, faute de ressources ? Est-ce que la science, à qui il faut des années pour mener de vraies recherches, aura le temps de faire quoi que ce soit pour arriver à sauver les meubles avant que tout ne soit trop chaud et trop sec ? \n\nEst-ce une \"conviction\" ou bien un regard froid et posé sur des chiffres qui font froid dans le dos ?",
+        "date": "2023-07-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Il y a énormément d'énergie solaire (5000 km2 de panneaux solaires suffisent à tous les besoins énergétiques de la France), le nucléaire a une capacité quasi-infinie avec la surgeneration (arrêtée à cause des écolos dans les années 90 pour de mauvaises raisons) et le thorium.\n\nEt les industries minières améliorent sans cesse leurs capacités d'extraction (surtout pour le cuivre qui n'est pas rare). Je ne suis pas inquiet.",
+        "date": "2023-07-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Et pour rappel, les centrales à charbons rejettent des poussières radioactives dans l'atmosphère (très peu) contrairement au centrale nucléaire \n\nhttp://radioprotection.unblog.fr/2010/08/26/une-centrale-a-charbon-rejette-t-elle-de-la-radioactivite/",
+        "date": "2023-07-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;ans pour autant les croire aveuglément nous savons d'ores et déjà que vivant dans un monde \"fini\" (càd que nous ne pouvons avoir plus de ressources sur notre planete que celles qui y sont, sauf importation spatiale) arrivera un jour ou il n'y aura plus de ressources...\n\nOui, la Terre est finie, mais la question intéressante, c'est \"y-a-t-il assez de ressources pour permettre aux 10 milliards d'habitants d'avoir une vie moderne dans des conditions respectueuses de l'environnement ?\".\n\nEt c'est là que souvent, le discours écologique habituel se plante très souvent à mon avis. \n\nPour ne prendre qu'un seul exemple, toute l'énergie dont la France a besoin aujourd'hui, c'est a peu près je crois 2000 à 3000 km.2 de panneaux solaires, ce qui est peu, à la fois en terme d'espace (un tiers d'un département désert du sud du massif central ou des Alpes) et même de coût ou de matériaux si l'on compare par exemple à l'ensemble des habitations françaises.\n\nEt je ne mentionne même pas le nucléaire, où en utilisant des technologies existantes ou faciles à mettre au point (surgénération et thorium), on a suffisamment de combustible connu pour des centaines ou des milliers d'année d'énergie. Et je ne parle pas de fusion dont on ignore si elle marchera un jour.\n\nEt puis, on confond souvent les ressources 'connues aujourd'hui', c'est à dire les endroits qu'on a exploré et rentables avec le prix de marché actuel et les technologies d'extraction du moment, avec les matériaux présents au total dans la croute terrestre. j'avait fait un calcul sur un coin de table sur le cuivre, et le rapport entre les deux est de 1 à 10.000. D'ailleurs, quand un matériau devient plus demandé par l'industrie, souvent, les ressources connues augmentent simplement parce que l'on cherche plus et de façon plus intelligente.",
+        "date": "2023-07-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les activistes écolos sont les pires écolos. Ils ont promus pendant des années la sortie du nucléaire, ils promeuvent les voitures électriques, ils font de la morale et font tous pour être détestés. Donc oui je comprends le ras de bol.",
+        "date": "2023-07-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ne demandez jamais\n\nÀ un homme son salaire\n\nÀ une femme son âge \n\nAux écologistes pourquoi la résistance à n'importe quel site nucléaire est significativement plus importante à la résistance à la construction et à la mise en service de la centrale à gaz de Landvisiau\n\nD'un coté \"oh non c'est suboptimal de placer la super centrale à gaz qui fait tourner deux turbines à la fois pour la même quantité de gaz, y'aune sous espèce d'escargot qui vit ici\", de l'autre \"On a acheté un lance roquette pour tirer sur Superphénix\"",
+        "date": "2023-07-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le deux salles deux ambiance marche aussi pour un même journal mais sur deux saisons\n\nEn hiver : IL N'Y A PAS DE MAL À BRÛLER DU BOIS POUR SE CHAUFFER CAR C'EST RENOUVELABLE, ET C'EST PAS NON PLUS UN PROBLÈME DE SE CHAUFFER AU GAZ. CE SERAIT TELLEMENT MAL DE FORCER LES GENS QUI ONT ACHETÉ UN CHAUFFAGE À GAZ AVEC LES AIDES DES ANNÉES 2012 DE L'ÉPOQUE OU ON VOULAIT BAISSER NOTRE PART DE NUCLÉAIRE\n\nEn été : Vous utilisez votre pompe à chaleur en été, en l'utilisant comme une climatisation ? Vous êtes Satan. Il faut utiliser des swamp coolers qui vont surtout humidifier au max votre logement et pas efficace, comme ça vous ferez pénitence. Et on s'en fout que ça soit hyper efficace, surtout dans des hivers plus doux.",
+        "date": "2023-07-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Les meilleurs guerriers du climat ne sont pas les chercheurs en biodiv.\n\n&amp;#x200B;\n\nUn plombier peut remplacer 100 chaudières au fioul par des pompes à chaleur chaque année.\n\nUn électricien peut installer 200 bornes de recharges pour les voitures électriques chaque année\n\nUn plaquiste peut isoler 50 logement pour limiter la conso d'électricité chaque année\n\nUn cuisinier de restauration collective peut créer 100 000 plats végétarien pour ringardiser la viande de boeuf chaque année\n\nUn prof peut former 100 élèves au changement climatique chaque année (1000 en fac)\n\nUn ouvrier peut fabriquer des millions de trottinettes en France avec de l'électricité nucléaire, limitant les importation de trottinettes fabriquée à 20 000km avec de l'électricité au charbon, chaque année...\n\n&amp;#x200B;\n\netc. etc.",
+        "date": "2023-07-18",
+        "sentiment": "positive"
+    },
+    {
+        "text": "La gauche a aussi des oppositions compliquées à résoudre, par exemple :\n\n* La croissance de la population dans une économie en décroissance. \n\n* Le nucléaire comme moyen pour permettre la transition énergétique à court-moyen terme.",
+        "date": "2023-07-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\\- Faux sujet. La production mondiale produit à l'heure actuelle largement plus que ce qu'il faudrait pour nourrir tous les humains sur Terre. Il n'y a pas de problème de production il y a un problème de répartition avant tout.  \n\n\n\\- Ce qui est très efficace si on a déjà les infrastructures. Nos infrastructures à nous sont vieillissantes et de moins en moins fiables. La faute peut-être à avoir laissé dépérir le parc nucléaire mais bon on en est là maintenant. A ceci s'ajoute le fait que le nucléaire est de moins en moins une source fiable d'énergie en été puisque les cours d'eau qui servent au refroidissement surchauffent.  \nPar ailleurs se reposer sur le nucléaire sert souvent à se détourner du fait qu'il va falloir repenser nos modes de vies et nos infrastructures (au sens général cette fois) pour dépenser beaucoup moins d'énergie. A ce stade il paraît plus judicieux d'investir dans la transformation de ces infrastructures plutôt que dans le renouvellement du parc nucléaire.  \nCeci étant, pour l'instant on ne fait ni l'un ni l'autre...",
+        "date": "2023-07-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Court-moyen-long terme, y’a actuellement rien de plus viable que le nucléaire..",
+        "date": "2023-07-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui précisément, certains à gauche (même certains écolos) n'en veulent absolument pas de nucléaire. C'est celui-là la contradiction.",
+        "date": "2023-07-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Et ouais il suffit de dire on est conservateurs (de notre environnement), on est attachés à nos terroirs, à notre qualité de vie. \n\nOn se distingue des ecolos de gauche en étant résolument pro nucléaire et pro-chasse (comme ça c’est sûr qu’on est pas de gauche). \n\nBonne bouffe, bon vin, bonne viande, pas besoin de devenir vegan pour prendre soin de l’environnement etc.",
+        "date": "2023-07-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "C'est marrant vous décrivez très bien les moralisateurs écolos et hypocrites en fait.\nAu final ça se dit écolos mais ça saccage des serres destinées à la recherche scientifique, des champs agricoles .\nÇa se dit écolos mais ça lutte contre le nucléaire , contre le chemin de fer, contre les ogm etc\nAu final la planète n'est qu'un prétexte à des luttes technophobes et anticapitaliste.",
+        "date": "2023-07-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Pire site du monde.Ce résume à :- le nucléaire c'est caca- les agriculteurs sont des méchants (sauf s'ils sont bios ou biodymaniques)- Les gens qui contestent ce qu'on raconte sont des harceleurs.",
+        "date": "2023-07-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Personnellement un peu septique ! \nJ’ai lu des très bons articles découlants de travail d’investigations poussés et sérieux, mais j’ai aussi lu des sacrés torchons à la limite de la fausse information (notamment concernant le nucléaire). \nBref, j’ai appris à me méfier de ce média et à être particulièrement attentif à la vérification des sources et des informations que j’y trouve ! Même si en général c’est quand même qualitatif",
+        "date": "2023-07-21",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ca a été tout l'objet de la récente commission d'enquête de l'Assemblée Nationale qui a été conduite pendant de longs mois pour établir les raisons de la perte de souveraineté et d'indépendance énergétique de la France. Il en est ressorti d'excellent entretiens avec tous les acteurs du secteur. Même les présidents Hollande et Sarokzy y ont été auditionnés.\n\nLien ici : [https://www.assemblee-nationale.fr/dyn/16/organes/autres-commissions/commissions-enquete/ce-independance-energetique](https://www.assemblee-nationale.fr/dyn/16/organes/autres-commissions/commissions-enquete/ce-independance-energetique)\n\nEt c'est en grand partie suite à ces travaux que l'on doit la relance du nucléaire aujourd'hui et l'annonce de ces 3 futures paires d'EPR 2.",
+        "date": "2023-07-24",
+        "sentiment": "positive"
+    },
+    {
+        "text": "C'est là qu'on voit que la décroissance ne marche pas. Dans à peu près toutes les cultures, les gens commencent à se préoccuper de l'environnement dès qu'ils atteignent, à l'échelle d'un pays, le revenu de 5000€/an, en commençant par s'inquiéter de ce qui les touche directement (qualité de l'air...).\n\nLes grands pays en voie de développement, dont certains ont l'arme nucléaire, n'accepteront jamais de stopper leur développement pour nous faire plaisir.\n\nLa seule sortie réaliste, c'est de développer des technologies décarbonnées meilleures que leurs équivalents fossiles, et des usages plus optimisés, et c'est à mon avis le rôle le plus important que peuvent avoir les pays développés.",
+        "date": "2023-07-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Jusqu’à preuve du contraire, la technologie n’a fait qu’accroître nos émissions et nos destructions depuis le début de l’ère industrielle.\n\nSi tu regardes un pays comme la France (et même l'Europe en général), nous avons généralement stabilisé et même réduit nos émissions ces 50 dernières années. Il se trouve qu'on aurait pu faire mieux encore si des écologistes irresponsables n'avaient pas torpillé la filière nucléaire (surgénération...), et si par exemple les trains étaient mieux gérés (combien de voitures et de camions en  plus à cause des 50 grèves qu'il y a tous les  jours à la SNCF?) ce qui est rageant.\n\nMoi, je vois qu'on a eu des vagues technologiques successives qui ont, à chaque fois, résolu des problèmes de la vague technologique précédente. L'Europe fonctionnait au bois et à l'huile de baleine, et au milieu du 19è siècle, on avait un énorme problème de déforestation. Le charbon a remplacé le bois, puis le pétrole, plus propre et plus efficace, a remplacé le charbon...\n\nLà où la photo est faussée en ce moment, c'est que les pays les plus développés améliorent leur efficacité, tandis que les pays en voie de développement utilisent encore, pendant une transition qui n'est pas éternelle, les anciennes technologies plus polluantes. Mais dès que ces pays atteignent un certain niveau de vie, ils feront comme nous et s'inquiéteront de l'environnement. Donc, c'est bien qu'ils y arrivent le plus vite possible.\n\nDu reste, c'est la seule voie possible car, que ça te plaise ou non, le mouvement écologique occidental n'a aucune prise sur la Chine et l'Inde, deux puissance nucléaires (qui dont font ce qu'elles veulent chez elles) et qui de plus n'ont aucune des références culturelles sur lesquelles sont basées nos mouvements écologiques (le péché originel...). La seule influence possible, c'est de développer chez nous des technologies à la fois efficaces et propres qu'elles voudront évidemment adopter. \n\nLa Chine écoute Elon Musk, pas Greta Thumberg ni JM Jancovici.",
+        "date": "2023-07-28",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;mdr du coup il y a vraiment des gens qui croient au mythe de l'hydrogène\n\nLe hydrogène tel comme le nucléaire a une rôle importante dans la transition énergétique et il sera stupide de ne pas être considéré comme une solution pour certaines applications.\n\nComme s'il ne suffisait pas les antinucléaires, maintenant il faut se taper les anti-H2.. Franchement ces positions idéologiques à la con qui ne se reposent sur aucune base rationnelle sont aussi contreproductives que les gens en déni climatique.\n\nJe vous recommande de lire les rapports du GIEC pour mieux comprendre les applications où l'hydrogène a un rôle important...",
+        "date": "2023-07-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ca paraissait pas clair. Tu le compare à l'énergie nucléaire alors qu'il faudrait plutôt le comparer à l'électricité.\n\n&amp;#x200B;\n\nEt pour le coté l'hydrogène va nous sauver, c'est un peu surcoté. En pratique actuellement c'est pire que la production d'électricité.\n\n&amp;#x200B;\n\nJe ne dit pas que c'est un outils à jeter, ça sera très utile pour polluer moins si on s'y prend pas mal, mais je ne pense pas que ça fasse tant que ça une différence mageure et ça semble actuellement surtout servir le mythe du \"on peut toujours autant consommer, ça sera aux industriels de s'adapter\".",
+        "date": "2023-07-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Ca paraissait pas clair. Tu le compare à l'énergie nucléaire alors qu'il faudrait plutôt le comparer à l'électricité.\n\nJe comparais les deux parce que l'hydrogène commence maintenant à avoir une certain crépuscule populaire idéologique contre l'hydrogène comme le nucléaire l'a eu depuis plusieurs décennies.\n\nOn ne peut jamais discuter à propos du nucléaire sans être bombardé en permanence par les mêmes arguments foireux et désinformations et il semble que cela commence également pour l'hydrogène.",
+        "date": "2023-07-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Rien à voir, prendre un exemple débile pour cacher que tu connais rien à la vie de la grande majorité des français soit parce que tu n’as pas de notion de l’argent sois tu es de mauvaises fois. Les individus comme toi sont responsable de l’état écologique du monde, autant que ceux qui le précipitent. Parce que vous réfléchissez uniquement contre les autres qui ne viennent pas strictement comme vous, une forme de nazisme.\n\nL’écologie devrait être au premier range des sujets politiques depuis au minimum depuis 30ans. Or tous les débiles qu’on nous propose, des sois disant écologistes n’ont qu’une idée en tête, contraindre et taxer la masse. Bref ceux qui on pas grand chose et qui galère qu’ont enfonce encore plus. Pendant ce temps là, les débiles continue de ce pavaner à la TV, lute contre le nucléaire pour du gaz ver lol. Ouvrir des centrales charbons a cause de 40ans de délires hypocondriaques pas de problème. Par contre nourrir les gens ou crée une ligne de train, la y’a manif.\n\nPar exemple les neuneus qui ce collaient sur le périphe. Ils voulaient dénoncer l’inaction de l’état (là dessus ils ont plus que raison). Mais qui est leur cible? Les gens qui vont travailler. Pourquoi ne pas bloquer l’Élysée? Il est là le gouvernement. Pas sûr le périphe.",
+        "date": "2023-07-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Est-ce que Jancovici lance de telles menaces sur les libertés seulement pour vendre le nucléaire ? Perso j'arrive pas à croire que l'aviation de tourisme représente un tel poids en termes de CO2 que cette mesure se justifie par rapport à d'autres: on importe/exporte des produits à travers le globe simplement pour le bonheur du marché, c'est sans comparaison avec la liberté de chacun de voir le monde.",
+        "date": "2023-07-31",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Est-ce que Jancovici lance de telles menaces sur les libertés seulement pour vendre le nucléaire ?\n\nT'as rien compris en effet.",
+        "date": "2023-07-31",
+        "sentiment": "negative"
+    },
+    {
+        "text": "D'accord, je vois que ça n'a pas fait beaucoup avancer la discussion...\n\nDu coup est-ce que tu souhaites mieux expliquer en quoi est-ce que faire les gens réfléchir à un avenir social où il aura des limitations extrêmes (subies ou voulues) dans la consommation d'hydrocarbures est-il un moyen de vendre du nucléaire ? Surtout quand cette réflexion utilise l'exemple de l'avion qui aujourd'hui n'a pas une propulsion électrique alternative ?\n\nJancovici lui-même a dit que l'avion est né avec les hydrocarbures et il meura avec les hydrocarbures.",
+        "date": "2023-07-31",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je suis bien entendu en faveur d'une réduction suffisamment drastique des hydrocarbures mais je m'étonne qu'elle doive passer par une telle limitation de la liberté que représente le fait de pouvoir prendre l'avion pour voyager (et je ne parle pas du Paris-Nice bien sûr). Il me semble que d'autres dépenses sont à supprimer prioritairement et pourraient faire l'affaire.\n\nJancovici m'apparaît principalement comme un promoteur du nucléaire prêt à employer des arguments de mauvaise foi. Lancer cette idée de restriction à 4 vols pourrait très bien lui servir comme épouvantail pour rallier les opinions à l'atome, d'où mon commentaire initial.",
+        "date": "2023-07-31",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Jancovici m'apparaît principalement comme un promoteur du nucléaire prêt à employer des arguments de mauvaise foi.\n\nC'est certainement l'image que ses détracteurs lui veulent attribuer.\n\nSi tu regardes ses vidéos peut-être tu réaliseras qu'il est un scientifique, très pragmatique et qui défend que pour s'en passer des hydrocarbures il nous faudra beaucoup beaucoup d'énergie et cette énergie, pour des raisons que je ne vais pas détailler ici, ne pourra pas venir exclusivement des énergies renouvelables.\n\nDans ce contexte le nucléaire est le moyen moins risqué à notre disposition pour produire de l'énergie décarbonée de façon à compléter le développement des renouvelables. Faut aussi dire que ce contexte prévoit déjà une deconsommation massive d'énergie (équivalent à revenir à la consommation énergétique d'il y a 70 ans).\n\nEn revanche Jaconvici ne dit rien de plus que cela déjà avancé par le GIEC et le RTE.\n\nDonc ouais, je te recommande de regarder les paroles de Jancovici au lieu de croire aux bêtises des antinucléaires.",
+        "date": "2023-07-31",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Certains disaient aussi qu'on pouvait s'en passer du nucléaire il y a 80 ans.. Regarde où nous sommes maintenant.",
+        "date": "2023-07-31",
+        "sentiment": "neutral"
+    }
+]

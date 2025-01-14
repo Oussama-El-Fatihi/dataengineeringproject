@@ -1,0 +1,502 @@
+[
+    {
+        "text": "Unsere Nachbarländer um uns herum bauen neue. Wir schalten ab. Jeder soll E Autos fahren und Wärmepumpen nutzen. Mit Windkraft und Solar bekommt man den Bedarf nicht gedeckelt. Solange man keine Alternative hat ist man auf Atomstrom angewiesen. Wozu weiter Atomstrom aus anderen Ländern teuer importieren?",
+        "date": "2023-09-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Für mich muss der Artikel nicht inhaltsleer sein. Auch sehr gute Artikel können eine Clickbait-Überschrift haben.\n\nZiel dieser Überschrift ist doch, dass potentielle Leser glauben, dass RWE hier wichtige Windkraft platt macht und dann auch noch Kohle da gefördert wird. Wenn man den Artikel liest, kommt aber heraus, dass die Windräder von Beginn an mit dem Wissen dorthin gestellt wurden, dass sie nun rückgebaut werden. 20 Jahre sind zudem die übliche Lebensspanne von Windrädern in Deutschland. Also auch  ohne die Braunkohle wären die Windräder vermutlich nicht mehr sehr lange dort betrieben worden. \n\nAm Ende des Tages sind die Windturbinen also total irrelevant und es geht eigentlich um die Kohle. Aber klar, wenn man das in den Titel schriebe, würden da weniger Leute drauf klicken.",
+        "date": "2023-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja der ursprüngliche Plan war ja auch das ganze durch Erneuerbare zu ersetzen, dann kam die CDU machte den Atomausstieg rückgängig und hat nebenbei die Solarbranche zerstört und den Ausbau von Winfkraft massiv schwerer gemacht. Nur um später doch einen Atomausstieg und Kohleausstieg umsetzen zu wollen, den man mit russischem Gas ersetzen wollte. Also selbst die CDU hat damals keinen Ausstieg ohne Einstieg beschlossen, man ist halt nur in die dümmste Alternative für AKW und Kohle eingestiegen und jetzt haben wir keinen Zugang mehr zu russischem Gas und die Alternative ist halt plötzlich weggebrochen.\nLöst sich aber natürlich bei dem exponentiell steigenden Ausbau von Solar- und Windkraft.",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dänemark ist dabei seit der Eröffnung der Leitung vor 2-3 Jahren schon immer primär nur das Transitland gewesen, wir importieren vor allem aus Norwegen und Schweden, d.h. vor allem Wasserkraft. Schon allein weil wenn hier die Windkraft lahmt, ist das meistens auch in Dänemark der Fall.",
+        "date": "2023-09-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Was viele halt echt nicht begreifen: Es gibt einen Grund warum AKWs in der Merit Order ganz hinten stehen: Es ist mit Abstand der teuerste Strom\n\nDiese Aussage ist leider grober Unfug!\n\nLaut den Daten des Fraunhofer ISE aus dem Jahr 2021 stellen sich die durchschnittlichen Strompreise nach Merit Order wie folgt da (sortiert nach Kosten in Eurocent pro KW/h)\n\nSteinkohle: 11,03–20,04\nBraunkohle: 10,38–15,34 \n\nBiomasse (Gas): 7,22–17,26\nErdgas: 7,79–13,06\n\nOff-Shore Windkraft: 7,23–12,13\nWind On-Shore: 3,94–8,29 \nPhotovoltaik: 3,12–5,7\nWasser (nur 2015 erhoben): 2,2–10,8\n\nDemgegenüber steht die Atomkraft (ebenfalls Daten aus dem Jahr 2015, danach wurden diese nichtmehr erhoben): 3,6–8,4\n\nDie Grundlage für die Berechnung des Strompreises nach dem Merit Order Prinzip ist eine Formel, welche die Investitionsausgaben im jeweiligen Jahr (incl.Baukosten) (Euro), die Betriebs- und Wartungskosten im jeweiligen Jahr (Euro), die Brennstoffkosten im gegebenen Jahr (Euro), die Kosten der Kohlenstoffdioxidemissionen im jeweiligen Jahr (Emissionsrechte in Euro), die Entsorgungskosten bzw. den Restwert im jeweiligen Jahr (Euro) in Betracht zieht und diese der Stromprodunktion im gegebenem Jahr Gegenüberstellt.\n\nhttps://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/DE2021_ISE_Studie_Stromgestehungskosten_Erneuerbare_Energien.pdf",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ist korrekt, aber was hat das mit \"gierigen Anbietern\" zu tun? Merit Order System ist wie ALLE Commodities gehandelt werden, von Weizen über Kupfer und Öl bis Strom. Ein anderes Handelssystem gibt es nicht, ausser bilaterale Verträge. Und das Problem mit den Erneuerbaren ist dass sie manchmal liefern und manchmal nicht, das heißt dass du immer wieder teure Gaskraftwerke anwerfen und die entsprechenden Strompreise zahlen musst. Wenn man unbedingt super viel Windkraft und PV haben will, bekommt genau das was man wollte, samt aller intrinsischer Nebenwirkungen.",
+        "date": "2023-09-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Wenn der selbst erzeugte Strom teuerer ist als der Ausland importierte liegt das daran, dass der Strom zu knapp ist. Denn die teuren Preise sind letztlich nur das Marktsignal, dass der Strom zu knapp ist im Verhältnis zu dem was gebraucht wird. \n\nDas ist so fürchte ich nicht ganz richtig. Der Strompreis wird vom teuersten benötigten erzeuger diktiert. Wenn wir in DE 99% billige Windkraft hätten aber 1% teueren Kohlestrom dann müssten alle den Kohlepreis zahlen. Deutschland importiert Strom, nicht weil wir nicht genug Strom selbst produzieren könnten, sondern weil der Importstrom billiger ist als die teureren Optionen hier. Die Gründe dafür sind auch vielfältig. Beispielweise kaufen wir hier gerne französischen Atomstrom weil die Atomkraftwerke nicht einfach abgeschaltet werden können. Im Falle eines Stromüberschusses in Frankreich verscherbeln die daher ihren Überschuss für wenig Geld im europäischen Markt, weil sie den Strom nicht wirklich wegschmeißen können. \n\nAuch wenn Deutschland Strom importiert sind wir insgesamt Stromexporteur in Europa.",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Das ist so fürchte ich nicht ganz richtig. Der Strompreis wird vom teuersten benötigten erzeuger diktiert. Wenn wir in DE 99% billige Windkraft hätten aber 1% teueren Kohlestrom dann müssten alle den Kohlepreis zahlen.\n\nJa, so funktioniert das Merit-order System welches das System ist mit dem wir Knappheit/Überfluss abbilden. Letztlich gilt immer wenn es zu viel Strom gibt wird er billiger, wenn es zu wenig gibt wird er teurer. Die 1% Kohlestrom werden nicht aus Spaß produziert und eingekauft, sondern weil der Strom benötigt wird. Wenn er nicht benötigt würde, würde er nicht eingekauft werden und alle könnten günstigen Storm haben.\n\n&gt;Deutschland importiert Strom, nicht weil wir nicht genug Strom selbst produzieren könnten, sondern weil der Importstrom billiger ist als die teureren Optionen hier.\n\nJa, aber letztlich bilden die teuren Preise ja die Knappheit ab. Es müssen nicht wortwörtlich die Lichter hier ausgehen, damit man von Knappheit reden kann.\n\n&gt;Beispielweise kaufen wir hier gerne französischen Atomstrom weil die Atomkraftwerke nicht einfach abgeschaltet werden können. Im Falle eines Stromüberschusses in Frankreich verscherbeln die daher ihren Überschuss für wenig Geld im europäischen Markt, weil sie den Strom nicht wirklich wegschmeißen können.\n\nJa, unser Strom ist zu knapp (und deswegen teuer), deshalb kaufen wir uns dem aus dem Ausland ein, wo es tendenziell zu viel gibt( und deswegen billig ist). (Frankreich subventioniert natürlich seine AKWs, genauso wie wir das mit Kohle und Grünen Energien machen.)\n\n&gt; Auch wenn Deutschland Strom importiert sind wir insgesamt Stromexporteur in Europa.\n\nDas ist natürlich schön und gut, aber letztlich haben wir hier immer noch die höchsten Stromkosten Europaweit, unser Grüner Umweltminister hat den letzten Monat damit verbracht unseren FDP(!!!) Finanzminister anzubetteln die Steuern zu senken(!), damit unser (sehr dreckiger zu großen Teilen aus Kohle kommender) Strom billiger wird. Das hat Habeck nicht aus Spaß gemacht, sondern weil wir dann zu wenig Strom haben wenn wir ihn brauchen.\n\nDas wir an einem schönen Sommermittag Negativpreise für Strom haben und ihn dann exportieren ist natürlich schön, aber bringt uns was das angeht nicht viel.",
+        "date": "2023-09-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Die Regelung eines Stromnetzes besteht ja darin, dass immer genau so viel Elektrische Energie produziert wie verbraucht wird.\n\nDer Begriff Grundlastf existiert nur, weil es mal eine billigere aber schlechtregelbare Quelle für elektrische Energie gab, sprich Kohle und Kernkraft. Davon kann man immer nur so viel einsetzen, dass man die nicht kurzfristig ausschalten müsste. Also nie mehr als die minimale Leistung die absehbar benötigt wird.\n\nMan brauch die nicht, wenn es regelbare und günstigere Quellen gibt, sprich Windkraft und Photovoltaik. diese sind zumindest regelbar im Sinne, dass die sich wenn nötig ausschalten lassen, man kann davon also jederzeit so viel einsetzen wie man möchte, weil die beide sich ohne Probleme vom Netz nehmen lassen, man muss dementsprechend eigentlich nichts tun, um Produktionsüberschüsse zu vermeiden.\n\nNachfrageüberschüsse muss man in beiden Szenarien durch andere Kraftwerke oder Speicher ausgleichen. Das funktioniert aktuell regenerativ durch Pumpspeicherkraftwerke oder Biomassekraftwerke, aber auch hauptsächlich durch bestimmte Gaskraftwerke und Generatoren aller Art. und diesen zweiten Teil gilt es irgendwie zu ersetzen, der lässt sich weder durch AKWs ersetzen, noch ausschließlich durch Wind und Photovoltaik. Pumpspeicherstandorte sind mehr oder weniger ausgereizt in Deutschland, also benötigt es jetzt z.B. Batteriespeicher oder Anlagen um überschüssige Energie chemisch zu speichern, wie z.B. in durch Wasserelektrolyse hergestelltem Wasserstoff oder in dem man aus diesem Wasserstoff und Kohlenstoff und dessen Oxiden Methan herstellt.\n\nAußerdem lassen sich Nachfrageüberschüsse durch das Abschalten von Verbrauchern abfedern. Das ist vollkommen normal, sowas wird dann mit speziellen Tarifen vergütet, Bei entsprechender Gestaltung lohnt sich sowas auch für Großverbraucher.",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja klar nach dem Länderfinanzausgleich bei dem der Süden über Jahrzehnte Milliarden in den Norden und Osten gepumpt hat führen wir jetzt zusätzlich Stromzonen in Deutschland ein das den Süden benachteiligt weil wir hier leider keine Küste und Meer haben wo sich Windräder unproblematisch aufstellen lassen....\n\nIst ja nicht so als ob ENBW auch meherere größere Offshore Windparks in der Nordsee und Onshore verteilt über Deutschland betreiben würde.... /s \n\nOnshore\n\nhttps://i.imgur.com/PrijzWh.png\n\nOffshore\n\nhttps://i.imgur.com/9dRul0v.jpg\n\nDie Windzonen in denen sich Windkraft wirklich lohnt liegen nun mal geografisch im Norden. Die ultra Grünen wären die ersten die sich hier an die Bäume im Schwarzwald ketten würden wenn wir beginnen an den wenigen lohnenden Stellen den Schwarzwald für Windräder zu roden.",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Viele Punkte.\n\nWir haben in Norddeutschland weite, windreiche Flächen, die sich perfekt für Windkraft eignen. Und die größte installierte Kapazität. An einem windreichen, sonnigen Tag gehen die Gestehungskosten von Strom in Norddeutschland in Richtung 0. \n\n\"Aha\" sagst du. \"Warum nur Norddeutschland?\"\n\nWeil man sich im Süden, v.a. in Bayern, seit Jahren erfolgreich gegen die Nord-Süd-Stromtrasse wehrt, die diesen billigen Strom nach Süden schaffen könnte.\n\nAlso verkaufen wir stattdessen an dem Tag den Strom billig in die Nachbarländer, die auch angeschlossen sind.\n\nUnd im Süden importiert man dagegen teuren, z.B. Atomstrom aus Frankreich.\n\nDa in Deutschland aber nur eine Strompreiszone existiert, bezahlt man im Norden den teuren Strom für den Süden mit.\nIch sage das als Baden-Württemberger, wo man kurz gesagt einfach den EE-Ausbau nicht geschissen bekommt.\n\nDazu kommt das \"Merit-Order-Verfahren\". Das wird jetzt zu lang fürs am Handy tippen, aber kurz: \n\nEs gibt in DE eine Börse für Strom. Es wird X Strom geordert, und die billigsten Anbieter werden zuerst gekauft. Dann nach und nach die teureren Anbieter. Der gesamte Strompreis richtet sich aber nach dem letzen gebrauchten Kraftwerk. Wenn das Gaskraftwerke sind, gehen z.Zt. die Preise durch die Decke.\n\nBillige Stromanbieter freut's. Die bekommen denn zig fachen Betrag. Den Kunden nicht so.\n\nMan müsste aber auch darüber reden, dass in Frankreich EDF sehr günstige Preisgarantien zu geben hat, und wie im letzten Jahr wg. Wartung und fehlendem Kühlwasser die riesigen Stromkosten als Schulden von EDF, und damit vom franz. Staat gefressen werden müssen.\n\nHat halt auch was von rechte Tasche - linke Tasche...",
+        "date": "2023-09-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Was denkst du geschieht mit der Höhe des Länderfinanzausgleiches, wenn die Regionalentwicklung im Norden/Osten durch abstruse Bürden am Strommarkt behindert wird? Sinken tut er nicht, das kann ich dir sagen.\n\nEs geht hier nicht darum, den Süden zu benachteiligen sondern darum einen Widerspruch im System zu beseitigen, der übrigens am gesamtdeutschen Markt unnötig Mehrkosten verursacht. Wenn man das nicht als Diskriminierung gegen den Südler diffamieren und sich stattdessen aktiv beteiligen würde, könnte man sogar noch bessere Lösungen finden die lokale Stärken noch belohnen, etwa das Nodal Pricing.\n\nDie Umweltspinner im Süden sind genauso blöd wie die im Norden. CSU-MeckPom hätte auch da oben die 10H eingeführt, man hätte was anderes gefunden um zu jammern und Windkraft zu verhindern - 'Nordsee ist viel windiger, das ist unfair' oder so. Das bestehende Potential wird nicht annähernd ausgeschöpft, nicht in Bayern nicht in BW und nicht in Südhessen. Und Netzausbau ist hier auch Zirkus. Nichts davon hat der LFA verursacht.",
+        "date": "2023-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Bayer hat pro Quadratkilometer gar nicht mal so wenig erneuerbare Energie.\n\nAlso wenn man jetzt mal alle zusammen zählt, statt nur Windkraft rauszupicken.\n\nDenn am Ende ist es egal wie man den Strom erzeugt. Solange er CO2 neutral ist.\n\nAber das wir jetzt eigentlich richtig schnell Speicher aufbauen müssen. Da gibt es keinen Zweifel",
+        "date": "2023-09-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ach so, du glaubst ernsthaft dass die Windkraft- oder Solarindustrie keine Lobbyverbände unterhalten?",
+        "date": "2023-09-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Leider wenn man die Kapazitätsfaktoren mit einbezieht, wahrscheinlich weniger als 2017 (PV hat sehr niedrige Kapazitätsfaktoren, Offshore Wind noch am Meisten - Biomasse mal ausgenommen). Das Jahr ist zwar auch noch nicht rum, aber 1,6 GW Windkraft Onshore und 0,2 GW Offshore klingt jetzt dafür, dass schon fast 3/4 des Jahres rum sind auch nicht so pralle...",
+        "date": "2023-09-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Leider wenn man die Kapazitätsfaktoren mit einbezieht, wahrscheinlich weniger als 2017 (PV hat sehr niedrige Kapazitätsfaktoren, Offshore Wind noch am Meisten - Biomasse mal ausgenommen). Das Jahr ist zwar auch noch nicht rum, aber 1,6 GW Windkraft Onshore und 0,2 GW Offshore klingt jetzt dafür, dass schon fast 3/4 des Jahres rum sind auch nicht so pralle...",
+        "date": "2023-09-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Zeit hat einen Monitor zur Energiewende:\n\nWindkraft enttäuscht mit -18% zum Ausbauziel.\nSolar übererfüllt mit +28% und hat schon praktisch das Jahresziel im September erreicht.",
+        "date": "2023-09-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ohja, wie wichtig den Bayern die Bildung ist, kann man ja gerade echt gut sehen. _\"Volksverräter massenweise ermorden in Konzentrationslagern? War da nicht was? Warum sollte das schlecht sein?!\"_\n\n\nWirtschaft wird bestimmt auch echt abgehen ohne Strom. Windkraft? Atomkraft? Stromtrassen? Nee, die gut gebildeten Bayern benutzen einfach handbetriebene Kurbeln oder so...\n\n\nUnd ohja, diese Klimaterroristen sind wahrlich die größte Bedrohung der inneren Sicherheit, die ich je gesehen habe! lol\n\nIhr Bayern seid echt so durch...",
+        "date": "2023-09-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Genehmigungen für PV-Anlagen auf Gewerbedächern sind mit ziemlicher Sicherheit einfacher als für einen neuen Windpark auf einem Feld. Von daher schon nachvollziehbar, dass Windkraft aktuell noch hinterherhängt. Zumal die Logistik nach der Genehmigung auch noch mal aufwändiger ist (Grüße an unseren Verkehrsminister). Ich gehe also davon aus, dass Windkraftzubau in den nächsten Jahren schneller steigen wird, sobald die in diesem Jahr gestellten Anträge abgearbeitet werden.",
+        "date": "2023-09-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Söders Verheimlichung der Verteuerung der zweiten Stammstrecke, Söders katastrophaler Umgang mit Covid und die Ausbremsung der Windkraft und Stromtrassen.\n\nAll das hat garkeine Konsequenzen für die CSU?",
+        "date": "2023-09-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Stammstrecke ist glaube eher n münchen spezifisches problem und da ist spd oberbürgermeister weswegen die das wahrscheinlich ausbaden werden müssen. der Umgang mit corona wurde von den meisten konservativen wohl als positiv aufgefasst und windkraft und stromtrassen \"verschandeln dje schöne bayrische natur\" also auch für viele eher n positiver aspekt ☠️",
+        "date": "2023-09-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Naja, bauen würden sie schon und betreiben auch, bezahlen wollen sie das aber nicht. \n\nEs hat seine Gründe warum kein Privatunternehmen mehr ein AKW ohne staatliche Unterstützung/Beteiligung baut. Selbstverständlich geht damit auch ein gewisser Preis einher für den Strom. Den lässt man sich im Voraus nämlich auch schon vertraglich absichern. Menge X für Betrag Y und es wird ja niemand überraschen, dass Betrag Y deutlich über dem Wert von Erneuerbaren liegt.\n\nAlles genau so abgelaufen in England bei Hinkley Point C\n\nhttps://www.fr.de/wirtschaft/britischer-meiler-kostet-mehr-90190553.html\n\n&gt; Der Bau wird damit fast doppelt so viel kosten wie bei den ersten Planungen 2008 geschätzt und die Stromerzeugung fast ein Jahrzehnt später beginnen als damals geplant. Der Starttermin sollte ursprünglich 2017 sein. Das Projekt kann trotz der hohen Kosten nur realisiert werden, weil der britische Staat für 35 Jahre Laufzeit eine Einspeisevergütung von umgerechnet 10,5 Cent pro Kilowattstunde garantiert, die deutlich höher als die Vergütung etwa für Offshore-Windkraft liegt\n\nDer ganze Artikel lohnt sich, da bleibt kein Auge trocken.",
+        "date": "2023-09-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ist Atomkraft nicht beliebig CO2 intensiv? Halt nicht direkt bei der Nutzung des Strom aber während der Einlagerung der Abfallprodukte für 25000 - 500000 Jahre bis der Müll nichtmehr tötlich für Leben ist?\n\nDavon ab, können wir nicht einfach weiter Fusionskraft der Sonne direkt verwenden (PV) oder indirekt via Windkraft?",
+        "date": "2023-09-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja, aber das mit der Windkraft ist etwas cherrypicking. Ich finde das auch ärgerlich, dass die CSU das so bremst - aber an den Zahlen gemessen, ist Bayern trotzdem im Vergleich ziemlich weit vorne was den Ausbau erneuerbarer Energien angeht. Es wird hier halt viel Geothermie und Wasserkraft gebaut statt Windkraft, was um ehrlich zu sein hier im Süden Deutschlands mit relativ wenig Wind auch einen höheren Wirkungsgrad hat. Mein Stromrechnung gehen aktuell runter; habe erst letzte Woche einen Brief bekommen von den Stadtwerken, dass ich ab November pro Monat 40% weniger zahlen muss, als noch 2020. In den Medien wird immer so viel über Bayern hergezogen, aber wenn man sich die Zahlen ankuckt und das Gesamtbild, läuft es echt gut.\n\nBildungsmobilität kenne ich die Zahlen nicht, aber als jemand mit Migrationshintergrund aus einem Nicht-Akademikerhaushalt, hatte ich rigentlich insgesamt eine sehr positive Erfahrung mit dem bayrischen Bildungssystem. Vor allem hat mich das Bayrische Abitur viel besser auf mein Studium vorbereitet, wenn ich mich so zurückerinnere an die Schwierigkeiten, die meine Kommilitonen aus anderen Bundesländern in den ersten Semestern hatten.",
+        "date": "2023-09-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Selber Falschinformationen verbreiten und sich dann lustig machen, geil.\n\nDein Wert für das AKW sind Betriebskosten, die populärste Augenwischerei der Atomindustrie. Da wird dann gerne mal ausgelassen, dass so ein Meiler 5-30 Mrd. im Bau kostet, was verzinst werden will, mehrere Milliarden im Abbau etc. Wenn du dir ein Auto kaufst dann rechnest du ja auch nicht nur mit den Benzinkosten und vergisst die 30k für die Anschaffung.  \nWenn man also nicht absichtlich den Großteil außen vor lässt dann kostet der Strom aus dem AKW 14-22 ct pro kWh vs. 4-8ct aus Windkraft.",
+        "date": "2023-09-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "du hast das steuerliche Perpetuum Mobile erfunden, glaube ich. \nmehr Freizeit, höhere Löhne, trotzdem mehr Geld, dadurch mehr Steuereinnahmen, win win! \n\ndas ist so, als würde ich an meinen Elektroroller einen kleinen Windkraft Generator dranbauen, und vom Fahrtwind lädt die Batterie wieder auf und wird nie leer! \n\n/s\n\nwenn es Mal so einfach wäre...",
+        "date": "2023-09-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Und externe Kosten kommen auch noch dazu, aber die muss ja nur der Steuerzahler zahlen, die merkt man also beim Strompreis nicht. Die sind bei Windkraft bei 0,26ct/kWh, bei Atomkraft 10,70 bis 34ct/kWh.\n\nDiese Kosten sind genau wie berechnet? Nach den aktuellen Rechnungen für Vollkosten-LCOE für Windkraft sind die externen Kosten eher in Richtung 5-6 ct/kWh (das sind Integrationskosten, bezahlt vom Stromverbraucher, nicht vom Steuerzahler). Die angeblichen externen Kosten der Kernenergie beruh meist auf ziemlich verquerer Logik, die aus irgendwelchen Gründen nie für andere Energieerzeugung rechnet. Wenn man z.B. bei den für PV benötigten Silbermengen die Blei- und Arsenemissionen beim Abbau des Silbers berücksichtigt, und die daraus sich ergebenden Gesundheitsschäden  für die nächsten 20 Generationen im Anbaugebiet als Kosten auf PV-Strom aufschlägt, kann man (unter anderem) PV schlecht rechnen. Man kann die ewige Einlagerung der alten cadmiumhaltigen Dünnschicht-PV nehmen, die in Herta-Neurode o.ä. bis in alle Ewigkeit lagern müssen, und sie auf die aktuelle Si-Zellen aufschlagen. Das gleiche kann man auch bei der Windkraft machen - der Phantasie sind keine Grenzen gesetzt. Nur tut man es nicht, weil es dumm wäre. Bei der Kernenergie sind ähnlich unsinnige Rechnungen in Deutschland aber sehr in: je unsinniger und esoterischer, desto interessanter werden sie. \n\nNun, aus Ländern wie Schweden, Schweiz oder Finnland wissen wir die tatsächlichen Kosten der Kernenergie. Und da kommt man auf völlig andere Zahlen.   \n\n\n&gt;Windkraft lag 2019, je nach Standort, bei 3,99 bis 8,23ct/kWh. \n\nWeltweit oder in Deutschland ? Nicht vergessen, so günstig sind die meisten deutschen Standorte im weltweiten Vergleich nicht.\n\n&gt;Da man eher günstige Standorte auswählen dürfte statt schlechte liegt man wahrscheinlich eher bei den 3,99ct, mit den 0,26ct kommt man vielleicht gerundet auf 5ct/kWh oder so.\n\nDie meisten guten Standorte wurden zuerst bebaut. Das was jetzt noch kommt wird eher im mittleren bis oberen Kostenbereich liegen.",
+        "date": "2023-09-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Well, das Programm einer  ganzen Partei an ein paar Defiziten aufzuknüpfen ist auch etwas weirder Humor. Ich habe nie behauptet, die CSU jemals gewählt zu haben (habe ich auch noch nie),sondern nur die Gründe ausgeführt, warum ich es dieses Jahr ernsthaft in Erwägung ziehe. Und mein Kernpunkt ist: die CSU ist nicht perfekt,aber sie macht unterm Strich in den für mich richtigen Punkten sehr viel richtig und ich sehe nicht,dass eine andere Partei es in Bayern besser machen könnte, wenn ich die Programme mir ansehe. Und dagegen hast du ja auch bisher kein einziges Argument geliefert. Du hast nur aufgezeigt, wo die CSU aus deiner Sicht Dinge falsch macht - aber du hast kein einziges Argument dafür geliefert, dass es eine bessere Alternative gäbe. Und das Argument, dass unterm Strich die Ergebnisse km Gesamtbold positiv sind, entkräftest du ja damit auch nicht.  Und well, solange die CSU mehr richtig als falsch macht und keine überzeugende Alternative zu sehen ist, die es besser machen würde, warum dann nicht CSU wählen?\n\nAlso laut dem Artikel vom BR ist ja selbst die Bundesregierung gegen die Trennung der  Zonen. Und es gibt vier mögliche neuzpnungen. Und es gibt gute Gründe. Strom lässt sich im Norden mit Windkraft günstiger produzieren, wird aber vor allem von der Industrie im Süden, bzw in Baden-Württemberg und Bayern verbraucht. Deutschland hat eh schon das Problem, dass Firmen wie BASF oder VW ihre Produktion nach China und Co verlagern, weil denen hier die Strompreise zu teuer sind. Da hat niemand ein Ijteresse daran da noch mehr Öl ins Feuer zu kippen. Und der ganze Artikel ist im Konjunktiv. Es ist ein hypothetisch Gefahr.\n\nz.B. haben sich die Medien in ganz Deutschland über das Raumfahrtprogramm Bavaria One vom Söder lustig gemacht.  Tatsächlich aber, geht das gerade auf. Mein Bruder ist Luft- und Raumfahrtingenieur mit Spezialisierung auf Raketen also Raumfahrt, und der hat jetzt jahrelang im Ausland gearbeitet und zieht jetzt demnächst nach Bayern, weil in Bayern mittlerweile eins der größten Cluster in Europa für diesen Bereich aktiv ist. Airbus Space und Hensoldt in Taufkirchen, MTU Aeroengines in Ottobrunn etc...\nPAG ist jetzt Retrospektiv weniger apokalyptisch,als 2018 von den Medien dargestellt.",
+        "date": "2023-09-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;ist auch etwas weirder Humor. Ich habe nie behauptet,\n\nNa dann ist ja gut, dass ich das nicht mache. Der Großteil des CSU-Programms ist Müll. Ich habe die genannten Aspekte ausgewählt, weil sie zeigen, dass es mit der Wirtschaftskompetenz und den Bemühungen für gute Bildung für alle nicht weit her ist.\n\n&gt;sondern nur die Gründe ausgeführt, warum ich es dieses Jahr ernsthaft in Erwägung ziehe.\n\nMacht für meine Aussage keinen Unterschied. Auch es ernsthaft in Erwägung zu ziehen, ist ziemlich komischer Humor.\n\n&gt;aber sie macht unterm Strich in den für mich richtigen Punkten sehr viel richtig \n\nJemand, dem angeblich Klimaschutz super enorm wichtig ist, kann so eine Aussage nicht ernst meinen. Entweder du ignorierst zentrale Elemente der Politik der CSU, oder Klimaschutz ist dir doch nicht so wichtig.\n\nDer einzige Punkt, den du zugunsten der CSU genannt hast, waren hohe Ausgaben in Bildung und Forschung (besonders deinen eigenen Forschungsbereich). Und das wollen die Oppositionsparteien nichtmal ändern.\n\n&gt; Und dagegen hast du ja auch bisher kein einziges Argument geliefert.\n\nDie Argumente dagegen waren implizit in meiner Kritik enthalten. Wenn man sich etwas mit bayrischer Landespolitik auskennt, weiß man z.B., dass SPD und Grüne, sogar die FDP, die 10H-Regel abschaffen und den Bau der Stromleitungen beschleunigen wollen.\n\n&gt;Und das Argument, dass unterm Strich die Ergebnisse im Gesamtbild positiv sind, entkräftest du ja damit auch nicht. \n\nNatürlich habe ich dieses Argument entkräftet. Ich habe aufgezeigt, wo die CSU gravierende Fehler macht, und wo sie sich mit fremden Lorbeeren schmückt. Entsprechend ist es eben kein positives Gesamtbild mehr.\n\n&gt;solange die CSU mehr richtig als falsch macht \n\nAlso deinem Fachbereich viel Geld gibt?\n\n&gt;Also laut dem Artikel vom BR ist ja selbst die Bundesregierung gegen die Trennung der  Zonen.\n\nDie hat das aber nicht alleine zu entscheiden. Auch die EU hat ne Menge mitzureden, und die will schon seit Jahren Deutschland aufteilen.\n\n&gt;Und es gibt vier mögliche neuzpnungen.\n\nBei jeder Möglichkeit würden die bayrischen Strompreise deutlich steigen.\n\n&gt; Strom lässt sich im Norden mit Windkraft günstiger produzieren, wird aber vor allem von der Industrie im Süden, bzw in Baden-Württemberg und Bayern verbraucht\n\nEben nicht, weil die Stromtrassen dank der CSU fehlen, und stattdessen in Bayern Gaskraftwerke laufen müssen.\n\nAußerdem ist das ein Argument FÜR unterschiedliche Preiszonen. Der Transport ist dann auch noch möglich, aber Firmen könnten auch in den Norden Deutschlanda umzusiedeln, wo sie kompetitiver produzieren könnten. Deutschland als ganzes würde davon also profitieren.\n\n&gt;Es ist ein hypothetisch Gefahr.\n\nNein, es ist eine reale Gefahr. So funktioniert der Konjunktiv nicht. \n\n&gt;z.B. haben sich die Medien in ganz Deutschland über das Raumfahrtprogramm Bavaria One vom Söder lustig \n\nJa, wegen der absolut lächerlichen Selbstdarstellung von Söder, die damit verbunden war. Es ist nämlich kein Raumfahrtprogramm, Bayern wird keine eigenen Raketen ins All schießen. Niemand hatte ein Problem damit, dass mehr Geld für Raumfahrtforschung ausgegeben wird.\n\nAber egal, hast du noch mehr Beispiele? Gibt ja jeden Monat neue, oder? \n\n&gt;PAG ist jetzt Retrospektiv weniger apokalyptisch,als 2018 von den Medien dargestellt.\n\nDas genaue Gegenteil ist der Fall, 2018 wurden große Märchen erzählt, dass man das Gesetz gegen gefährliche Terroristen braucht, jetzt werden damit systematisch Klimaaktivisten unterdrückt. Aber dir ist ja Klimaschutz super wichtig (lol)",
+        "date": "2023-09-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Man muss Kretschmars Rhetorik verstehen, damit man seine Aussage zur \"Energiekrise\" einordnen kann. \n\n1) Ist Kretschmar ein absoluter Anhänger von Strom aus Gas und Strom aus Atomkraft (wobei Kretschmar kein Atomkraftwerk und auch kein Endlager in Sachsen billigen würde, den Strom würde er allerdings liebend gern nach Sachsen transportiert wissen).\n\n2) Kretschmar hat bereits im letzten Jahr die Energiewende für gescheitert erklärt. Auch hier muss man sich vor Augen halten, dass Sachsen unter Kretschmar den Ausbau, gerade von Windkraft, massiv verschläft. Man könnte auch sagen, Kretschmar hat nichts für die erfolgreiche Umsetzung der Energiewende geleistet und möchte sie jetzt, wo sie durch den Krieg an Fahrt aufnimmt, am liebsten begraben.\n\n3) Kretschmar ist nach wie vor der Meinung, dass Energiewende ohne fossile Energieträger nicht möglich ist. Erst kürzlich hat er sich zum gefühlt x-tausendsten Mal dafür ausgesprochen, die Sanktionen gegen Russland fallen zu lassen, die Unterstützung gegenüber der Ukraine einzustellen und Nordstream zu reparieren und darüber wieder Gas aus Russland beziehen zu können.",
+        "date": "2023-09-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;... im Gegensatz zum rest des Landes läuft Bayern schon ganz gut.\n\nUnd was ist mit der zweiten Stammstrecke in München? Der Maskenaffäre? Dem jahrelang verschleppten Ausbau der Windkraft und der Stromleitungen?",
+        "date": "2023-09-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Solar sieht gut aus, Wind aber leider nicht. Und man kann auch nicht einfach zu wenig Windkraft mit mehr PV-Kapazität ersetzen.",
+        "date": "2023-09-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wenn man die Wind und Solarenergie vergleicht sieht man auch was die Privathaushalte gegenüber den Betreibern der Windkraft mit leisten + der immense Kostenunterschied zwischen den beiden. Aber dass das dann so einen Unterschied in der prozentualen Zielerreichung macht ist bemerkenswert.",
+        "date": "2023-09-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Glaub das liegt eher daran dass die NIMBYs mehr gegen Windkrafträder sind als wenn da eine Solaranlage steht und den ganzen Abstandsregeln bei Windkraft.",
+        "date": "2023-09-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich war vor ein paar Wochen mal bei einer Info-Veranstaltung für die geplante Ausschreibung für einen Windpark. Also noch vor der konkreten Planung hat die Stadt Bürger eingeladen sich über Windkraft zu informieren. Sehr aufwendig mit Ingenieuren, Biologen, benachbarten Betreibern eines Bürgerwindparks, Leuten die sich mit Schall auskennen, jemanden vom landeseigenen Forst... usw...\n\nEs war knapp an einer totalen Shitshow vorbei, die Gegner waren teilweise organisiert und wollten die Experten dort mit ihrem Internet-Wissen belehren. Zum Glück war das ganze einigermaßen gut moderiert...\n\nSolche Idioten machen es den Leuten schwer die sich ernsthaft informieren wollen...\n\nIch war zudem gerade zwei Wochen in Dänemark im Urlaub. Dort kann man ja gefühlt in keine Richtung schauen ohne zig Windräder zu sehen... die scheinen da oben keine großen Probleme zu haben.\n\nNaja.",
+        "date": "2023-09-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Zustimmung sollte schon allein dadurch gegeben sein, dass es sinnvoll ist Windkraft auszubauen.",
+        "date": "2023-09-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Mich wunderts, dass es alle zwei Jahre nur 80€ als Beteiligung gibt. Das sind nur etwa dreifuffzich pro Monat… und schon freuen sich die Leute über Windkraft?\n\nHat man entsprechende Modelle auch in anderen Bereichen probiert?",
+        "date": "2023-09-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es müsste halt radikal ausgebaut werden, sowohl was Produktion, Speicher und Netze angeht.\n\nDesweiteren bräuchte es weit reichende Reformen der Regulationen vor allem in der Windkraft, um den Ausbau überhaupt zu ermöglichen.\n\nDas ganze hat ja auch mords Potenzial was Arbeitsplätze und globalen Wettbewerb angeht, das verkauft bloß keiner richtig.",
+        "date": "2023-09-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja aber dann nenn mir bitte diese echten Sorgen. Was ich meine, ist, dass kürzlich Leute Sturm gegen das Heizungsgesetz gelaufen sind, weil sie der Meinung waren, Robert Habeck tritt persönlich die Wohnungstüre ein, reißt die Öl- oder Gasheizung heraus, pflanzt ne Wärmepumpe da hin und knallt ihnen eine Rechnung über 60.000€ auf den Tisch.\n\nUnd wo ist diese progressive Politik? Wo ist der Gendergaga und Verbotswahnsinn?\n\nWer als Lösungen „Ausländer raus!“, „Frieden mit Russland!“ und „Windkraft? Nein danke!“ skandiert, ja sorry, aber was ist das denn bitte, wenn nicht anti-intellektuell und wissenschaftsfeindlich? Das sind keine Sorgen, das ist die Weigerung, sich den realen Problemen zu stellen.",
+        "date": "2023-09-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Großartig, Wasserstoffeinepsiung in das bestehende Gasnetz.\n\nAuch so eine große Lüge in dem \"aber wir müssen doch gar nicht alles auf Strom umstellen, wir haben Alternativen\". Selbst die neuesten Leitungen vertragen nur ein wenig Beimischung, bei den älteren kann man das komplett vergessen.\n\nUnd dann auch die Frage wo der Strom denn dafür herkommen soll. Windkraft will man nicht, Leitungen für Strom von woanders will man nicht. Kernkraft will man eigentlich auch nicht. Also bleibt dann nur Kohle, oder?",
+        "date": "2023-09-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; sind in der Ampel gerade die einzige Partei die konsistent das liefert was sie im Wahlkampf versprochen hatten\n\nJetzt nicht wirklich. Von der Steuerpolitik haben sie nichts durchbekommen außer eine mikrige Erhöhung des Grundfreibetrags die meine ich sogar unter der Inflation liegt. Vegane Milchalternativen wurden nicht steuerlich mit normaler Milch gleichgesetzt (man sollte meinen so eine Änderung wäre einfach). Beim Bürgergeld wird nicht auf Sanktionen verzichtet und es gleicht in großen Zügen einfach einem rebranding von Hartz IV. Eigentlich ein Witz das so zu nennen, wenn der Grundgedanke sofort unterwandert wird. BaFög wird nicht zu einer Grundsicherung umgestaltet, die Bedarfssätze steigen unter der Inflation und das ganze bleibt weiterhin von den Einkommen der Eltern abhängig. Verkehrspolitik ist eine einzige Katastrophe. Schuldenbremse besteht weiterhin in der gleichen Form und es wird nicht hinreichend investiert. Sowohl Grüne und SPD wollten 50 mia. zusätzlich jährlich investieren. Ist das geschehen? Rente wurde nicht reformiert. Bundesweiter Mietdeckel wird es nicht geben aber die Idee ist auch wirklich Scheiße also in dem Sinne Glück gehabt. Das NATO 2 % Ziel wurde von den Grünen im Wahlprogramm abgelehnt. Die Ausführungen der Regierung dazu seitdem waren verwirrend und widersprüchlich. \n\nUnd es ist egal wer welches Resort bekleidet. Dafür gibt es einen Koalitionsvertrag. Wenn die Grünen sich bei der Verkehrspolitik so über dem Tisch ziehen lassen, kann man nicht alle Schuld auf die FDP schieben.\n\nWas ich den Grünen hoch anrechne ist Habecks Osterpaket vom letzten Jahr und überhaupt die Arbeit an dem schnelleren Ausbau der Windkraft. Außerdem das Heizungsgesetz. Das waren mit Abstand die zwei besten und wichtigsten Dinge, die die Grünen durchbekommen haben und für zweiteres hasst gefühlt die halbe Republik Habeck.\n\nAußerdem könnte man vielleicht noch sagen der Kohleausstieg 2030 in NRW, aber da ist die Frage ob man nicht mit dem Deal mit Lützerath eigentlich RWE einen viel zu großen Gefallen getan hat. Effektiv wird ja jetzt erstmal mehr abgebaut. Und in der Lausitz außerdem bis 2038, also das Ziel 2030 aus dem Wahlprogramm jetzt eher so ziemlich halbgar erfüllt.",
+        "date": "2023-09-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Na ja, Ehe für Alle, ca. 50% Strom aus Erneuerbaren Energien (gegenüber wenigen Prozent 1990) und Atomausstieg, einen erheblichen Ausbau der internationalen Kooperation, Einführung des Euro, nur um ein paar Punkte zu nennen. Also, dass nichts passiert sei in den letzten Jahrzehnten, das kann man nun wirklich nicht behaupten.\n\nUnd wenn man sich z. B. den Ausbau von Windkraft und Photovoltaik anschaut, dann würde ich sagen, sind sehr eindeutige Unterschiede erkennbar während der GroKo und der Ampel (ich würde die Grünen mittlerweile auch zu \"den Altparteien\" zählen).",
+        "date": "2023-09-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Man hätte sich ja mal die Mühe machen können wenigstens die Zusammenfassung der zitierten Studien zu lesen:\n\n&gt;We find that generating today's US electricity demand (0.5 TWe) with wind power would warm Continental US surface temperatures by 0.24°C. Warming arises, in part, from turbines redistributing heat by mixing the boundary layer. Modeled diurnal and seasonal temperature differences are roughly consistent with recent observations of warming at wind farms, reflecting a coherent mechanistic understanding for how wind turbines alter climate. The warming effect is: small compared with projections of 21st century warming, approximately equivalent to the reduced warming achieved by decarbonizing global electricity generation, and large compared with the reduced warming achieved by decarbonizing US electricity with wind. For the same generation rate, the climatic impacts from solar photovoltaic systems are about ten times smaller than wind systems. Wind's overall environmental impacts are surely less than fossil energy. Yet, as the energy system is decarbonized, decisions between wind and solar should be informed by estimates of their climate impacts.\n\nDas letzte Wort in der Sache ist also nicht \"Wir bauen keine Windkraftwerke\", sondern \"Wir müssen abwägen wo wir auf Windkraft setzen müssen und wo es möglich wäre, die in der Hinsicht bessere Technologie Solarenergie zu setzen\".",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Das letzte Wort in der Sache ist also nicht \"Wir bauen keine Windkraftwerke\", sondern \"Wir müssen abwägen wo wir auf Windkraft setzen müssen und wo es möglich wäre, die in der Hinsicht bessere Technologie Solarenergie zu setzen\".\n\nDas ist halt um mehrere Größenordnungen zu differenziert für solche Wirrköpfe wie den Verfasser des Flugblatts.",
+        "date": "2023-09-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Da haben die aber auch leicht zwanghaft einfach jedes Buzzwort genannt, was ihnen in den Sinn gekommen ist. Asbest der Windkraft?!",
+        "date": "2023-09-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "SF6 wird sowieso schon aus umweltgründen abgeschafft und kommt bei Windkraft nicht großartig zum Einsatz weil die eher mittelspannung erzeugen, da geht auch Vakuum.",
+        "date": "2023-09-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich nehme also mit: Es gibt keine *vernünftigen* Gründe, die gegen Windkraft sprechen.",
+        "date": "2023-09-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ein Haufen Blabla und heiße Luft mit wissenschaftlichen Unterton. \n\nEs gibt sicher Argumentative Gründe gegen Windkraft. Den Mist kann man aber fast gänzlich streichen.",
+        "date": "2023-09-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja SF6 braucht man auch ohne Windkraft Anlage. Das isoliert jeden Strom egal aus welcher Anlage :D",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "disinformation auf hohem niveau. das ist schon bösartige bauernfängerei.\n\nnebenbei: 3500 tonnen beton pro wka? windkraftanlage? also pro windrad 3.500.000kg beton? wenn man das auf google sucht kommen viele anti-windkraft seiten... ist das viel? ist das zu hoch spekuliert? wie steht das im verhältnis zu was?\n\nund seit wann ist balsa problematisch??? das wächst so schnell weil es leicht ist. lieber nachwachsende rohstoffe aus ecuador als uran und öl aus dem ex-sowjet block... wtf.\n\ndas erinnert mich an die kampagne vor einigen jahren, wo sie versucht haben, den abrieb von fahrrädern (bremsen und reifen), als schädlicher als autos zu rechnen...",
+        "date": "2023-09-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es schwurbelt gewaltig. Wo sind eigentlich die ganzen Chipgesteuerten Leute, die bei der Impfung gechipt wurden? Oder die Erstickten, die nicht durch eine Maske atmen konnten? Alle untern Teppich gekehrt oder schwurbeln die über Windkraft?",
+        "date": "2023-09-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich finde auch schön, wie hier generelle Entwicklungen, die maßgeblich durch die Erderwärmung und den Verlust von Lebensräumen verursacht werden, auf die Windkraft geschoben werden. \n\nNur mal zur Erinnerung: Wir widmen derzeit pro Tag ca. 56 ha Land um. Davon werden ca. 45% versiegelt.",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Japp, das ist absolut richtig! Bin auch gegen neue AKWs in Deutschland. Trotzdem wird es oft immer als böse Alternative zur gute  Windkraft genannt wie bei OP.",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Was hat SF6 mit Windkraft zu tun? Ich kenn das nur als Schutzgas aus Hochspannungsverteilungen",
+        "date": "2023-09-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Geht's noch? Studie? Wissenschaft? Das letzte Wort hat die Bibel. PUNKT. \n\nIn der Bibel steht nichts vom Windkraft.\n\nAlso Windkraft = Teufelszeug.",
+        "date": "2023-09-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Windkraft, die atomarere Kernenergie.",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Das letzte Wort in der Sache ist also nicht \"Wir bauen keine Windkraftwerke\", sondern \"Wir müssen abwägen wo wir auf Windkraft setzen müssen und wo es möglich wäre, die in der Hinsicht bessere Technologie Solarenergie zu setzen\".\n\nWobei da natürlich noch diverse Aspekte hineinspielen, zum Beispiel die um Längen bessere Flächeneffizienz von Windenergie.\nAm Ende landet man dann - pikachu face - einem Mix, wie ihn zum Beispiel die Bundesregierung anstrebt.",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;\"Wir müssen abwägen wo wir auf Windkraft setzen müssen und wo es möglich wäre, die in der Hinsicht bessere Technologie Solarenergie zu setzen\".\n\nWobei da auch anzumerken ist das (da die Sich anscheinend auch nicht ausreichend mit Solar beschäftigt haben), dass in Bezug auf das so genannte \"forcing\" (Differenz zwischen \"energie rein gegen energie raus durch Abstrahlung) massenhafte Schwärzung von Flächen auch einen negativen Einfluss auf die Abstrahlung hat (weil Infrarot(also  Wärmestrahlung) schwieriger rausgeht als vis. Licht.\n\nUnd Windkraft ist halt in letzter Instanz auch \"solar\" (im Gegensatz zu fossil, nuklear und sogar geothermal).\nMit dem Bonus das durch Windkraft gerade DIE freie Energie nochmal genutzt wird, die gerade überbleibt wenn man Solarzellen schon genutzt hat.\n\nIm Endeffekt bleibt so oder so die Frage im Raum stehen das wir auf lange Sicht einfach weniger (besser \"weniger mehr\") Energie in Infrarot umwandeln dürfen, selbst wenn wir das CO2 Chaos überstehen würden.",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "SF6 hast du halt in jeder etwas besseren und größeren Schaltanlage drin. Das kommt da aber auch, wenn man halbwegs vernünftig damit umgeht nicht raus. Ist auch nicht Windkraft-spezifisch, auch bei den Schaltanlagen von Solarwechselrichtern auf den größeren Feldern hast du das.\n\nDas wäre eher ein genereller Aspekt, aber nicht wegen WKA speziell",
+        "date": "2023-09-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Das SF6-Gas wird hauptsächlich für Gas-isolierte (Hochspannungs-)Schaltanlagen (GIS-Anlagen) verwendet, überall da wo luftisolierte Schaltanlagen keinen Platz haben. Der Großteil dieser GIS-Schaltanlagen wird in Städten verbaut in Räumen und Kellern, das hat mit Windkraft so wenig zu tun, wie Skifahren mit Schnorcheln.\nbeweist nur eindrucksvoll, dass der Autor des Schmierzettels Null Ahnung hat. Schaltanlagen werden für die Energieverteilung benötigt, das hat mit der Art der Energieerzeugung wie bei Windkraft rein gar nix zu tun, der Schaltanlage ist es scheissegal ob Kohlestrom oder Windkraft verteilt wird",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die Coronaschwurbler hängen immernoch tief im Rabbithole, aktuell is scheinbar ein Teil davon jetzt Anti-Windkraft.",
+        "date": "2023-09-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja oder die Windkraft verringert die Erdumdrehung und irgendwann fallen wir alle runter.",
+        "date": "2023-09-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Vor allem brauchen wir erstmal einen sinnvollen *Mix* aus diversen regenerativen Energieen. Aktuell haben wir ja bereits Strom wenn Wind weht oder die Sonne scheint. Jetzt noch ein paar große tiefenthermische Kraftwerke, Wellen/Gezeitenenergie, und wir können diese Schnapsidee von wegen jedem Haus neben der Solaranlage auch noch einen dicken Akku erstmal beerdigen, bis umweltfreundlichere Akkutechnologien serienreif sind.\n\n\"Nur Windkraft weil flächeneffizienter\" macht jedenfalls herzlich wenig Sinn.",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich studiere Chemie und wurde in einer Vorlesung explizit vor dem Schewelhexafluorid-Scheinargument gewarnt. Der betreffende Prof ist selber allerdings wohl kein größerer Windkraft-Fan (Dafür in Atomkraft verliebt).",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Jap, Windkraft und nicht Monokulturen und Klimawandel sind für den Borkenkäfer im Harz verantwortlich. Sicher war es die Windkraft.",
+        "date": "2023-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ist Davon auch nur ein Punkt wahr geschweige denn richtig? Meines Wissens nach sind Windkraft und solar am besten in Kombination mit Wasserkraft sogar unschlagbar oder ist das nicht mehr richtig hab ich was verpasst? 😅",
+        "date": "2023-09-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich dachte wir hätten uns auf Windkraft ist cool aber nicht neben meinem Haus geeinigt",
+        "date": "2023-09-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Überrascht es dich? Das sind rechtsextremistische Kreise, da ändert sich das Narrativ nach Tagesgeschehen. Wenn das Thema Windkraft durch ist, werden es wieder die bösen Migranten sein, die angeblich jeder 10k€ Handgeld bei der Ankunft in Deutschland bekommen.",
+        "date": "2023-09-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Schön daß sich Pkt 4b und 6 auch irgendwie selbst wiedersprechen aus was ist der Rotor denn balsa oder Kohlenfaser? \nWat ein Quatsch Pkt 1 und 2 das gleiche verdunstet jetzt mehr Wasser? So wie sich das liest könnte man meinen die pusten die Gegend trocken, und dann sagen se dat der Wind abläuft was denn jetzt?\nUnd vor allem was soll die alternative deren Ansicht nach sein? Windkraft böse, gegen Atomkraft scheinen sie auch was zu haben wegen Radioaktivität die sie erwähnen also Kohle? Macht aber ja genauso viel Feinstaub wie so ein Rotorblatt dann angeblich, also deren Meinung scheint zu sein weg mit den ganzen Mist und wieder in ner Höhle schlafen wie in der Steinzeit...",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Blätter sind aus Carbon... Was fürn Honk. Also... Das sticht mir besonders aus all dem Bullshit hervor.\n\nHab in der Windkraft Industrie gearbeitet.",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nein? Warum gibt es Katalysatoren? EU 6 Motoren? Bleifreies Benzin? Windkraft? Solarstrom? Warum hat man das alles gemacht? Um der USA eins auszuwischen oder genau aus Gründen des Klimaschutzes. Dummes Geschwätz.",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Für Faust große Hagelkörner gibt es ausbeulen und eine Versicherung. Quelle: Habe dieses Jahr im Hagel bei Kasse gestanden, als dort entsprechender Hagel herunterkam. \n\nUnd Protest ist solange legitim, solange er nicht andere Nötigt, was in diesem Fall mit den zerstochenen Reifen definitiv gegeben ist, abgesehen vom Sachschaden. \n\nSpinnt man deine Argumentation weiter, dürften Windkraft- oder Solaranlagengegner entsprechende Anlagen sabotieren, den es ist ja legitimer Protest.\n\nMit solchen Aktionen erreicht man nur, das die Springerpresse wieder eine Sonderserie über sich radikalisierende Umweltschützer raushaut.",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Warum gibt es Katalysatoren? \n\nAus Umwelt-, nicht Klimaschutzgründen.\n\n&gt;EU 6 Motoren? \n\nAus Umwelt-, nicht Klimaschutzgründen.\n\n&gt;Bleifreies Benzin? \n\nDamit nicht alle Kinder so wie du enden. Und aus Umwelt-, nicht Klimaschutzgründen.\n\n&gt;Windkraft? Solarstrom?\n\nWeil sie billig sind.\n\n&gt;Dummes Geschwätz.\n\nGute Zusammenfassung des Kommentars.",
+        "date": "2023-09-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Für Faust große Hagelkörner gibt es ausbeulen und eine Versicherung. Quelle: Habe dieses Jahr im Hagel bei Kasse gestanden, als dort entsprechender Hagel herunterkam.\n\nWenn sowas häufiger passiert, wird es irgendwann keine Versicherung mehr dafür geben oder sie wird sinnlos teuer. So wie in den USA keine Häuser mehr Hurrikan- und Flut-Gebieten versichert werden. \n\nQuelle: [https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/](https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/)\n\n&amp;#x200B;\n\n&gt;Und Protest ist solange legitim, solange er nicht andere Nötigt, was in diesem Fall mit den zerstochenen Reifen definitiv gegeben ist, abgesehen vom Sachschaden.\n\nDie Reifen werden nicht zerstochen, sondern es wird mit dem Ventil Luft rausgelassen.  Eine Luftpumpe löst das Problem.\n\n&amp;#x200B;\n\n&gt;Spinnt man deine Argumentation weiter, dürften Windkraft- oder Solaranlagengegner entsprechende Anlagen sabotieren, den es ist ja legitimer Protest.\n\nDiese Logik ist für mich nicht nachvollziehbar. Schließlich das Bundesverfassungsgericht keine Gefährdung zukünftiger Generationen durch Wind- und Solarkraft festgestellt, eine Gefährdung durch den Klimawandel jedoch schon. \n\n&amp;#x200B;\n\n&gt;Mit solchen Aktionen erreicht man nur, das die Springerpresse wieder eine Sonderserie über sich radikalisierende Umweltschützer raushaut.  \n\n\nWas soll man denn sonst tun? Rumsitzen und der Welt beim Brennen zuschauen, weil die Bild könnte ja was böses schreiben? Springer schreibt nur Scheiße, das wusste schon die APO aus den 68ern.",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Aber Batterien werden (solange sie nicht um einige Größenordnungen billiger werden) keine realistische Option sein, um im Winter bei \"Dunkelflaute\" die Energieversorgung über Wochen zu gewährleisten\n\n[https://www.ikts.fraunhofer.de/de/blog/wann-kommt-der-natrium-akku-in-deutschland.html](https://www.ikts.fraunhofer.de/de/blog/wann-kommt-der-natrium-akku-in-deutschland.html)   \nNatrium Ionen Akkus sind schon gut billiger als Li-ion Akkus.   \n\n\n&gt;\"Natrium ist wesentlich preiswerter als Lithium und weltweit leicht und praktisch unbegrenzt verfügbar. Daraus ergibt sich ein Kostenvorteil bei den Rohmaterialien der Batterieherstellung und perspektivisch eine günstigere Fertigung als bei der Lithium-Ionen-Technik. Natriumchlorid ist der mengenmäßig zweitgrößte Bestandteil von Meerwasser und sowohl die Gewinnung von Meersalz als auch der Abbau untertägiger Vorkommen sind seit Jahrhunderten etabliert. Große Mengen Natriumsalze fallen auch als Kuppelprodukt anderer Abbauprozesse wie der Gewinnung von Kalisalzen an und werden teilweise, mangels Bedarf, zu Kalihalden aufgetürmt. Bedeutsamer ist jedoch, dass manche Bauformen von Natrium-Ionen-Akkumulatoren ohne Kupfer, Cobalt und Nickel auskommen können.\\[3\\] Insbesondere Cobalt und Nickel gelten als teure und kritische Materialien bei Lithium-Ionen-Akkus\"  \n\n\n\"Das britische Unternehmen Faradion, in Partnerschaft mit dem britischen Akkuhersteller AMTE und der chinesische Hersteller CATL, hat im Jahr 2022 Natrium-Ionen-Akkumulatoren in erster Generation mit bis zu 160 Wh/kg entwickelt\" Für Langstreckenautos noch nicht relevant aber die meisten dürften kein problem für Geringere Kosten mehr Platz im Keller für den Akku zu verbrauchen.   \n\n\nUnd der Mythos mit Dunkelflaute für Wochen ist halt Falsch. wenn wir über Gesamt Deutschland verteilt Windkraft ausbauen, werden die Tage die überbrückt werden müssen schon um einiges Sinken. Gas Peaker Plants(Erdgas und später Wasserstoff) werden wir eh brauchen aber am besten immer weniger laufen lassen.",
+        "date": "2023-09-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Nein. Das System funktioniert einfach aus demografischen Gründen nicht. Selbst wenn man damals einen riesigen Rentenfont angespart hätte würde das wenig nützen, da irgendwer trotzdem heute die Arbei verrichten muss.\n\nDas einzige was die Boomer anders hätten machen können, ist mehr Nachwuchs heranziehen, so dass die Bevölkerung nicht stark sondern leicht schrumpft. Aber da das heute ja auch nicht anders geschieht, ist es ein wenig hochmäsig.\n\nNatürlich kann man noch weiter gehen, und argumentieren, dass es auch nützlich gewesen wäre, z.b. die Windkraft schon vor 10 Jahren auszubauen, aber das hat dann nichts mehr mit dem Rentensystem an sich zu tun.",
+        "date": "2023-09-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Länder machen die Politik, die ihre Bevölkerung gewählt hat. Denen dann aus der Ferne zuzurufen, dass 10-H oder ein dreigliedriges Schulsystem sei eine ganz schlechte Idee - kann man machen, aber ich will nicht wissen, was hier loswäre, wenn hier tatsächlich ein Berliner Absolutismus über alle regionalen Befindlichkeiten hinweggehen würde.\n\nHja, weiß ja nicht. Über alle regionalen Befindlichkeiten: Nein, muss und soll es ja nicht. Wenn man aber bundesweite Sachen hat, so Windkraft und man sich 2% als Ziel ins Gesetz schreibt, kann es nicht klar gehen, dass ein Bundesland sich da durch ihr eigenes Gesetz grob gesagt rauszieht und alle Flächen als nicht valide reinschreibt. Genauso ging es beim Atommüll und da hatte der Maggus in die Bayrische Verfassung reingeschrieben, dass es keine Orte für in Bayern gibt. \n\nIm Endeffekt sollten die 16 Länder bei solchen Maßnahmen, die bundesweit relevant sind, halt auch keine Extrawürste machen. Wenn es darum geht, dass tatsächlich was vorliegt, was die Sache erschwert (Windräder in den Stadtstaaten oder so), dann ist das so. Gegen Bundesinteressen und die anderen 15 Länder zu arbeiten ist aber halt absoluter Humbug, gegen den man machtlos ist. \n\n&gt;Die aktuelle Kritik am Förderalismus liegt darum auch nicht in diesem selbst begründet, sondern weil er nicht richtig gelebt wird.\n\nVon mir aus. Aber ich sehe auch keine Änderung dahingehend, dass sich das ändert. Und ich sehe auch keine Druckmittel, die man hätte, um das zu verbessern. \n\n&gt;Wenn die Länder und die KMK das nicht geschissen bekommen, dann ist das deren Problem. Umgekehrt würde Schule auch nicht besser, nur weil der Bund das regelt. \n\nErsteres geht erstmal ja nicht. Art. 7 Abs. 1 - steht unter der Aufsicht des Staates. Steht nicht Bund aber meine Interpretation wäre, nrennt es irgendwo, muss der Bund eingreifen. Da kann man kein Land die Bildung abfackeln lassen. \n\nWeiß auch nicht, ob Schule besser werden würde. Ich finde eine Normalisierung aber doch um einiges besser für die Bürger, auch wenn es im Schnitt nicht besser oder schlechter wird. \n\n&gt;Das würde mindestens zwei Verwaltungsebenen mehr bedeuten, die nur damit beschäftigt sind, dafür Sorge zu tragen, dass in Flensburg und Füssen die Vorgaben eines über den Dingen schwebenden Fachreferats aus Berlin gleich verstanden und umgesetz werden.\n\nZwei Verwaltungsstellen meinst du. Und 16 würden halt wegfallen. Verstehe das Argument nicht. Und das Fachreferat muss weder aus Berlin sein, noch muss deren Ausarbeitung so schlecht sein, dass es dazu Erklärungsbögen braucht. Das kann auch in einer KMK-ähnlichen Struktur funktionieren. Bloß, dass dann per Gesetz deren Kompetenzbereich festgelegt wird, sie einem Bundesministerium unterstehen oder sonstwie ein Kontrollmechanismus bei Versagen gewährleistet wird. Und wenn sie regeln, aber auch sagen, hier ist ein flexibler Teil, \"Schulen, seit erfinderisch, wenn ihr wollt\", finde ich das auch okay. Dafür braucht es keine Landesbehörde, da können Schulen einfach selbst Pilotprojekte starten. \n\n&gt;In Frankreich gibt es wöchentliche Bulletins des Bildungsministeriums als dienstanweisendes Rundschreiben. Einfach mal den Schuldezernenten im Regieurungspräsidium anrufen ist da nicht.\n\nHab da jetzt nicht so den Einblick oder die Kenntnis von der Praxis. Aber pauschal ist das mMn auch nicht so die Hölle. Wöchentlich ist bissl oft, aber solche dienstanweisenden Rundschreiben sind ja nicht zu verdammen. Ich gehe aber pauschal davon aus, in einem wöchentlichen Rhythmus ist einem da nur 10-20% des Inhalts relevant. Aber ich verstehe das grundlegende Problem daran nicht, wenn man stattdessen wöchentlich telefoniert. So hast du es schriftlich, musst nicht telefonieren und musst auch nicht erneut zum selben Thema telefonieren sondern liest es halt nochmal nach. Oder sogar: Du kannst das regionale Schuldezernat ja beibehalten. Dann kommen da die wöchentlichen Newsletter vom Bund an. Dann wird das für die Schulen weiterverteilt, ggf. mit passender Zusammenfassung oder auf das Relevante zusammengestrichen. \n\nAber es geht ja vorrangig um die Regelungshoheit - und das ist ein Spektrum. Man kann von mir aus auch sagen, dass Mathe halt keine 16 verschiedenen Lehrpläne braucht. Politik vielleicht schon, da stellt man verbindliche 70% auf und lässt bei den übrigen 30% Überschriften oder eine Auswahl stehen, damit z.B. auch Regionales reinkommt. Aber dass das pauschal einfach 16 mal gemacht wird, man dazu die KMK mit Empfehlungen (aber eben keiner Regelungshoheit) hat, und da eine sehr unterschiedliche (und im Gesamtergebnis auch einfach schlechte) Bildungslandschaft entsteht, kreide ich schon dem Föderalismus an. Natürlich ginge es auch, wenn die Länder jeweils mehr Geld in die Hand nehmen. Man sollte aber auch erkennen, dass eine Sache 16 mal machen einfach nicht effektiv ist und Aufwand wie Geld frisst.",
+        "date": "2023-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Gegen Bundesinteressen und die anderen 15 Länder zu arbeiten ist aber halt absoluter Humbug, gegen den man machtlos ist.\n\nWenn der Bund Zielvorgaben macht, wo er nix zu melden hat? Da hat er einfach die KLappe zu halten. Wo er was zu sagen hat,  muss er eben seine Kompetenzen aushutzeh. Wer etwa Windkraft ausbauen will, muss auch die Planungsgesetze anpassen (ist ja jetzt passiert). Wenn das nicht geht, weil man das nicht durch den Bundesrat bekommt? Tja, dann ist das genau die Situation, vor der diese Konstruktion schützen soll. \n\nWas die KMK angeht: Aktuell ist Bildung mehr oder weniger auf die Weise bundeseinheitlich geregelt, die du beschreibst. Es gibt verbindliche Staatsverträge zwischen den Ländern und teilweise dem Bund, die das Schulwesen in Grundzügen festlegen (*Ländervereinbarung über die gemeinsame Grundstruktur des Schulwesens und die gesamtstaatliche Verantwortung der Länder in zentralen bildungspolitischen Fragen*). Und natürlich gibt es auch Arbeitsgruppen, die gemeinsam die Lehrpläne erarbeiten und dazu im Austausch stehen. [Die KMK gibt Empfehlungen zur Ausgestaltung ab](https://www.kmk.org/themen/allgemeinbildende-schulen/unterrichtsfaecher.html). Es ist eine Nebelkerze zu glauben, 16 Ministerien sitzen im stillen Kämmerlein und reden nicht miteinander. Die wären doch schön blöd. Wenn man die Struktur vom Nachbarn nehmen kann, anstatt sich selbst was zu überlegen, kommt man früher ins Wochenende. \n\nUnd es ist eben auch ein Trugschluss, dass eine zentralistische Lösung effizienter wäre. Die erzeugt dann eben andere Reibungsverluste. Sie kann - schon aus ihrem Selbstverständnis heraus - etwa nicht zulassen, dass unten alle machen wie sie lustig sind, muss also ein Kontrollfunktion aufbauen. Der Verwaltungsoverhead nimmt zu. Und der Zwang, jede Situation ins kleinste Detail regeln zu müssen. Hast du mal mit französischen Beamten zu tun gehabt? Die sind Detailfanatiker, m.E. auch weil sie auf einem Berg sitzen, von dem aus dem Dunst schemenhaft die Gestade des Mittelmeeres zu sehen sind. Ohne sich da runter zu bewegen schreiben sie dann ziseliert auf, wie zu verfahren ist, in der Hoffnung, dass man das in Toulouse auch so versteht und umsetzt. Oder kuck dir EU-Richtlinien an. Die sind so geschrieben, weil man 27 Pappenheimer mit unterschiedlicher Rechtssetzungs- und Verwaltungtradition irgendwie in dieselbe Richtung bekommen möchte. Das wäre hierzulande dann nicht anders. Und Herr Lobo beschwert sich dann, dass diese verquasten Beamten in Berlin noch immer zulassen, dass unterschiedliche Aussprachevarianten des Latein gelehrt werden.",
+        "date": "2023-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Was wäre denn überhaupt ein realistisch eintretbarer Schadensfall der zur Freisetzung einer nennswerten Menge an Material führt?\n\nWas heißt hier realistisch? Gegen Windkraft wird ja auch mit Blackouts argumentiert. Nimm bei Isar 1 z.b. Ausfall der Stromversorgung und Notkühlung, Wasserstoff Ablass ins Reaktorgebäude und Abklingbecken oberhalb des Sicherheitsbehälters. Kurzer Blick auf die Karte und bei schlechtem Wind wird allein der Immobilienschaden beträchtliche Teile des deutschen BIPs für ein Jahr auffressen. \n\nUnd das sind alles noch ausschließlich unbeabsichtigte Unfälle. Krieg und Terrorismus kommen da immer noch ontop drauf. Das ist gerade bei der nicht-verbunkerten Notstromversorgung ein Problem. Natürlich kannst du das heute auch so bauen, dass da noch deutlich weniger Risiko, z.b. Keramikauffangbehälter, aber das macht kostentechnisch kaum Spaß mehr.",
+        "date": "2023-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Soweit ich weiß sind alle in Anlagen die in den letzten Jahren noch im Betrieb waren genau aus solchen Gründen mit Wasserstoffrekombinatoren ausgestattet. Das Sicherheitskonzept beinhaltet ja Ausfall der Stromversorgung, Notstromversorgung, etc. und garantiert einige Zeit für externe Strom oder Kühlwasserzufur. IMHO sind die regelmäßigen Sicherheitsreviews und entsprechende Pflicht moderne Maßnahmen nachzurüsten absolut ausreichend, eine Situation wie in Fukushima mit einem seit 30 Jahren nicht geupdateten Standards mit öffentlich angeprangerten Sicherheitsproblemen ist keine auf Deutschland übertragbare Situation. Von 40m hohen Tsunamiwellen in Bayern mal abgesehen.\n\n\n&gt; Krieg und Terrorismus kommen da immer noch ontop drauf\n\nIch glaube wenn aktiver Kriegsschauplatz mitten in Deutschland herscht sind die Immbilienwerte nahe Isar 2 nicht in erster Linie durch radioaktive Freisetzung gefährdet. Zaporizhzhia im Moment zeigt ja eher das die Anlagen mitten in einem großen aktiven Kriegsschauplatz erstmal vergleichsweise sicher sind.\n\n&gt; Gegen Windkraft wird ja auch mit Blackouts argumentiert\nBlackouts selber sind natürlich quatsch, zumindest solange wie den gesamten Bedarf weiterhin jederzeit mit steuerbaren Kraftwerken absichern können. Mit finanziellen Auswirkungen wie Energiekriese uind gefordertem subventionierten Industriestrompreis.",
+        "date": "2023-09-18",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Und wenn jeder Windkraftbetreiber eine Versicherung für einen flächendeckenden Blackout im Falle einer Dunkelflaute bezahlen müsste, wäre der Windstrom ebenfalls unbezahlbar.\n\nAm Ende zahlt der Verbraucher über den Strompreis die notwendigen fossilen Backups. Und der Steuerzahler dazu die Subventionen weil nicht steuerbare Windkraft und PV sich selbst am Markt kanabilisieren. Wie bezahlbar das ist hören wir im Moment ja aus der deutschen Wirtschaft.",
+        "date": "2023-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ist jetzt halt wirklich die Frage.\n\nDer zirkulierende Elternbrief enthält jedenfalls nichts von irgendwelchen Alternativveranstaltungen. Könnte also eher eine Ausrede sein.\n\nDas Prinzip \"die Klasse hat abgestimmt und weil mehr als 50% für die Demo waren müsst ihr jetzt alle auf die Demo gehen!\" ist jedenfalls ziemlicher Unfug. Ich bin zwar selbst für viel stärkere Maßnahmen gegen den Klimawandel (hartes Heizungsgesetz, früheres Verbrennerverbot, \"Verspargelung\" vor meiner Haustür mit Windkraft, deutlich teurere Lebensmittel und andere Güter mit hohem CO2-Ausstoß, usw. wäre ich überall dabei), aber auf diese Demo würde ich glaub ich trotzdem nicht gehen wollen, weil mein Eindruck ist, dass das auch stark mit in meinen Augen stark übertriebener Kapitalismuskritik einhergeht. Da kann man nun drüber streiten, aber ich bin trotz der Schwächen des Systems positiv zur (ordentlich gezügelten) Marktwirtschaft eingestellt und denke, mit Sozialismus o.ä. wäre die Lage noch viel schlechter.\n\nUnd wenn jetzt eine andere Klasse mit 51% der Schüler entscheidet, auf \"Fridays for Hubraum\"-Demos oder so zu gehen, dann müssen auch alle mit?\n\nAlso ich finde jedenfalls, Demoteilnahme sollte eine rein persönliche Entscheidung sein. Da wäre die Klasse doch besser auf dem Auwald-Lehrpfad wandern gegangen.",
+        "date": "2023-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ganz ehrlich, ich würde mal gern ein Paralleluniversum sehen wo Deutschland 1990 zu einem großen Land ohne Bundesländer vereint worden wäre.\n\nIch persönlich glaube dann sähs hier viel besser aus. \"Bremsen\" ist doch im Grunde alles was die Bundesländer tun.\n\nEinheitliche Regelungen für das ganze Land wären ja auch sinnvoll, und mit einheitlichen Systemen für den Baue von Wohnräumen, Windkraft etc würde man ja nicht genug ressourcen verschwenden...",
+        "date": "2023-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Zentralismus ist nicht per se Förderalismus überlegen. \n\n&gt; \"Bremsen\" ist doch im Grunde alles was die Bundesländer tun\n\nDas ist ziemlich haltlos\n\n&gt; Einheitliche Regelungen für das ganze Land wären ja auch sinnvoll, und mit einheitlichen Systemen für den Baue von Wohnräumen, Windkraft etc würde man ja nicht genug ressourcen verschwenden...\n\nEs gibt einheitliche Reglungen, dort wo sie sinnvoll sind. Manchmal sind einheitliche Reglungen auch kontraproduktiv, weil Voraussetzungen zu verschieden sind. Die Idee ist eigentlich, dass Entscheidungen auf der niedrigstmöglichen Ebene getroffen werden, sodass individuelle Voraussetzungen möglichst gut beachtet werden können. Nennt sich Subsidiaritätsprinzip. Hat große Vorteile, es so zu handhaben. Nachteilig wird es, wenn indirekt dagegen verstoßen wird, wenn manche Entscheidungen \"zu weit unten\" getroffen werden,aka \"jeder kocht sein Süppchen\".\n\nHat alles Licht und Schatten.",
+        "date": "2023-09-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Und genau deshalb lösen verbesserte Haltungsbedingungen das Problem nicht.\n\nDoch genau das tun sie. Ansonsten könnte man auch sagen statt von Kohle und Gas auf Windkraft und Photovoltaik zu wechseln löst das Problem nicht, man sollte komplett auf Stromerzeugung verzichten, ansonsten wäre dem Klima nicht geholfen.",
+        "date": "2023-09-20",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Hab ja nie behauptet, dass solche Dinge nur in Bayern vorkommen. Nur stelle ich eben gerade aus Bayern durchaus eine Häufung solcher Dinge fest. Zum Beispiel\n\n- der seit Jahren schleppende Ausbau von Erneuerbaren und insbesondere Windkraft\n- die ebenfalls seit Jahren vorliegende kategorische Ablehnung gegen den Bau von Stromtrassen, die für die Energiewende essentiell sind\n- und nicht zu guter Letzt auch fortschrittsfeindliche Stammtischparolen von Söder und Aiwanger, die in der Bevölkerung ja offenbar auf breite Zustimmung treffen müssen\n\nAlles in Allem finde ich das durchaus bedenklich. Und wie gesagt, das zieht sich halt schon einige Zeit so.",
+        "date": "2023-09-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wie bei der Windkraft und Solar.\nKlar sind die Bayern dafür.\n\n\nDafür das die Dinger im Norden gebaut werden wo sie die nicht sehen. Und die Stromleitungen wollen sie auch nicht sehen und unterirdisch nicht bezahlen.",
+        "date": "2023-09-23",
+        "sentiment": "positive"
+    },
+    {
+        "text": "- Deckungsgleich mit Windkraft.    \n Und... wobei mir einfällt, dass wir sogar noch Gleise und sogar einen Bahnhof im Irt und ein mächtiges Eisenbahnviadukt im Wald haben. Alles stillgelegt und verfallend seit 1976.",
+        "date": "2023-09-23",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Der Ausstieg aus der Atomkraft und damit Zwang Kohlekraftwerke weiter einzusetzen war bescheuert und hat unserer Wirtschaft dermaßen viel Schaden zugefügt, dass Deutschland unter den Industrieländern jetzt was Wachstum betrifft das Schlusslicht ist. Die aktuelle Regierung nimmt quasi den Genickbruch unserer Wirtschaft in Kauf. Keine Ahnung, wie du darin auch nur irgendwas positives finden kannst.\n\nIch muss daran nichts positives sehen, weil nichts davon war ist. Der Atomausstieg wurde von der CDU-geführten Regierung von einem Jharzehnt beschlossen. Die Abschaltung der letzten Reaktoren dieses Jahr hat exakt keine Schaden angerichtet, sondern zu einem sofortigen Sprung zu weniger Kohle und mehr Erneuerbaren geführt. Das fehlende Wachstum in Deutschland liegt an hohen Energiepreisen, weil man die CDU-initierte Abhängigkeit von Russland rückgangig machen musste, an hohen Kosten für Energiesteuern und Netzentgelt, nachdem die selben Leute jahrzehntelang nötige Infrastruktur-Arbeiten blockiert haben, und daran, dass wir ca. 10 Jahre dem Plan zum Umstieg auf Erneuerbare hinterherhinken (na, wer hat die Solarenergie in Deutschland kapoutt gemacht und dann ein paar später das selbe (beinah erfolgreich) für Windkraft versucht?). Es liegt auch daran, dass die Transport-Infrastruktur völlig verfallen ist. Und immer noch keiner Digitalinfrastruktur über dem Niveau eines Dritte Welt Landes existiert. Ich nehme an, die wurde auch in den letzten 2 Jahren von der neuen Regierung zerschlagen, oder? Oh... und ein guter Teil der deutschen Industrie ist übrigens Fahrzeugherstellung, die gerade über ihren Marktanteil jammern. Das war sicher auch die Regierung, die die armen deutschen Fahrzeugbauer ein Jahrzehnt lang gezwungen hat, den Wechsel zur Elektromobilität zu verweigern, lange bevor sie ins Amt kamen\n\nMal ersthaft... wirst du für den Mist bezahlt oder ist Gehirnwäsche echt so einfach?",
+        "date": "2023-09-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Bayern könnten aber auch alle 100m eine WKA aufstellen und hätten dann immer noch weniger Windkraft als Norddeutschland.",
+        "date": "2023-09-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Bayern hat ein enormes Potential für Erneuerbare (Solar, Wasser und ja auch Wind) bei vergleichsweise niedriger Bevölkerungsdichte.\n\nDas macht halt keinem Sinn. Potential heißt ja nur, dass wir mehr aufstellen können als andere, aber ja auch nicht schneller, wenn die Fachkräfte fehlen. Wie sollen wir jetzt Massen an Anlagen Instalieren, wenn die Leute dafür fehlen? Nur weil wir mehr Land haben?\n\n&gt;Die katastrophale Netzsituation in Deutschland ist eine direkte Folge bayrischer/CSU-Politik:\n\nInwiefern Ost Bayern/CSU für die Situation in ganz Deutschland verantwortlich? Bitte begründen!\n\n&gt;Es ist nur fair, dass Bayern für die Konsequenzen dieser schlechten Politik zahlt.\n\nNein ist es nicht. Außer natürlich du möchtest dieses Land gewaltsam spalten. Das die Leute in Bayern eher gegen Windkraft sind ist unschön, aber daran kann auch ein Söder nichts ändern. Der hat sich dem halt, mit der 10H Regel, gebeugt um die politische Situation stabil zu halten. Dafür investiert er massiv in Solar und Wasser, da es dafür hier deutlich weniger Wiederstand gibt und ist damit ziemlich erfolgreich. \n\nWas soll Söder denn deiner Meinug nach tun? Auf die Proteste der Leute scheißen und sich dann wundern wieso so viele Afd wählen? Die Afd ist in Bayern deutlich schwächer als im Rest der Republik (Abgesehen von SH). Und trotzdem haben wor hier viel erneuerbare Energien. Ich halte das für einen sehr guten Kompromiss.",
+        "date": "2023-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Nur das Bayern halt, je nachdem welche Zahlen man nutzt, im vorderen oder mittlerem Mittelfeld liegt was erneuerbare energien angeht. \n\nNur das Bayern flächenmäßig nicht nur das größte Bundesland ist, sondern dazu auch noch, anders als zum Beispiel NRW, unendlich Platz hat. \n\nWas Windkraft angeht ist Bayern ein Armutszeugnis, egal, ob der regionale Patriotismus einem da jetzt die Augen zuhält.",
+        "date": "2023-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ne das ist extrem dumm\n\nNicht alle Standorte sind gleich geeignet für windkraft",
+        "date": "2023-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Nur das Bayern flächenmäßig nicht nur das größte Bundesland ist, sondern dazu auch noch, anders als zum Beispiel NRW, unendlich Platz hat. \n\nWie bereits in einem anderen Kommentar gesagt, was ändert das? Wenn Fachkräfte fehlen, was nützt es einem, dass mehr Platz ist? \n\n&gt;Was Windkraft angeht ist Bayern ein Armutszeugnis\n\nFairer Punkt, aber das gleiche könnte Bayern ja auch im Thema Solarkraft über andere Bundesländer sagen. \n\nWenn man sich die % an erneuerbaren Energien zum Verbrauch anschauen steht Bayern gut da und dass ist die Hauptsache. Ich hätte auch lieber mehr Windkraft, sber Bayern als den Bösewicht dieser Republik zu inszenieren und jetzt die Leute abziehen ist halt unmoralisch.",
+        "date": "2023-09-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Potential heißt ja nur, dass wir mehr aufstellen können als andere, aber ja auch nicht schneller, wenn die Fachkräfte fehlen.\n\nLol bitte was? Was hat die 10H-Regel, die die Windkraft in Bayern ermordet hat, oder Seehofers Trassenblockade bitte mit dem Fachkäftemangel zu tun?\n\n&gt; Wie sollen wir jetzt Massen an Anlagen Instalieren, wenn die Leute dafür fehlen?\n\nEs geht hier um die Fehler der letzten 10 Jahre. Natürlich kann man die nicht von heute auf morgen beheben. Aber die CSU will das ja auch gar nicht, also relativ irrelevant.\n\n&gt;Inwiefern ist Bayern/CSU für die Situation in ganz Deutschland verantwortlich? Bitte begründen!\n\nIn Bayern wird aufgrund von CSU-Politik deutlich weniger Windstrom erzeugt, als möglich wäre. Das führt zu einem Ungleichgewicht, wenn starker Wind weht, gibt es einen Überschuss an Windkraft im Norden. Da aber die CSU gleichzeitig den Bau von Stromtrassen blockiert/verzögert/verteuert hat, kann dieser Strom oft nicht in den Süden transportiert werden. \n\n&gt;Außer natürlich du möchtest dieses Land gewaltsam spalten.\n\nDas ist kein Argument für Unfairness, sondern für die Borniertheit und den Opferkomplex der bayrischen Bevölkerung. Warum sollte es einen Anspruch auf billigen Strom geben, der vom Norden finanziert wird?\n\n&gt;Das die Leute in Bayern eher gegen Windkraft sind ist unschön, aber daran kann auch ein Söder nichts ändern.\n\nErstens könnte er das sehr wohl (der Widerstand gegen Windkraft wäre nicht so stark, wenn er nicht von der CSU instrumentalisiert worden wäre), zweitens ist halt dann die faire Konsequenz teuerer Stro.\n\n&gt;Der hat sich dem halt, mit der 10H Regel, gebeugt um die politische Situation stabil zu halten. \n\nBlödsinn. Die 10H-Regel kam praktisch aus dem nichts, die CSU hätte nichts zu befürchten gehabt, hätte sie diese nicht eingeführt. Alle anderen Parteien mit Ausnahme der AfD wollen sie abschaffen, und die AfD gab es damals noch nicht mal.\n\n&gt; ist damit ziemlich erfolgreich. \n\nNein, eben wie gesagt nicht, weil das enorme Potential überhaupt nicht ausreichend genutzt wird.\n\n&gt;Was soll Söder denn deiner Meinug nach tun?\n\nEs geht weniger darum, was man jetzt tun kann. Die Situation ist jetzt scheiße, weil man viele Jahre falsche Politik gemacht hat. Aber Söder hat mehrere Optionen: \n\n1. Deutlich mehr Windkraft \n\n2. Schnelleren Bau von Stromtrassen mit weniger komplexen Bedingungen\n\n3. Höheren Strompreis (der wie gesagt fair wäre) als Konsequenz der eigenen Politik akzeptieren.\n\n\n&gt;Auf die Proteste der Leute scheißen und sich dann wundern wieso so viele Afd wählen? \n\nSelbst wenn wir annehmen, dass eime windkraftfteundlichere Politik die AfD stärken würde (wofür es keine Grundlage gibt): warum sollte es eim Problem sein, wenn die AfD 15% statt 10% hätte? \n\n&gt;Die Afd ist in Bayern deutlich schwächer als im Rest der Republik\n\nDas ist falsch. Die AfD ist auch in Rheinland-Pfalz, im Saarland, in NRW, in \n\n&gt;Und trotzdem haben wor hier viel erneuerbare Energien.\n\nEben nicht",
+        "date": "2023-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ist Markus Söder höchstpersönlich hier im Thread um die kollektive Inkompetenz seines Bundeslandes zu verteidigen?\n\n&gt; Das macht halt keinem Sinn. Potential heißt ja nur, dass wir mehr aufstellen können als andere, aber ja auch nicht schneller, wenn die Fachkräfte fehlen. Wie sollen wir jetzt Massen an Anlagen Instalieren, wenn die Leute dafür fehlen? Nur weil wir mehr Land haben?\n\nStimmt, weiß jeder, dass die hochbegabten Fachkräfte zum Windkraftanlageaufstellen ausschließlich in Schleswig-Holstein zu finden sind. Exzellenter Punkt, definitiv nicht schwachsinnig.\n\n&gt; Inwiefern ist Bayern/CSU für die Situation in ganz Deutschland verantwortlich? Bitte begründen!\n\nMuss man dir jetzt wirklich erklären wie der Föderalismus funktioniert? Muss man dir jetzt wirklich erklären, inwiefern sich CSU Ministerposten auf Bundesebene negativ auf Bundesländer auswirken, die eben für die CSU ausschließlich als Resource angesehen werden?\n\n&gt; Nein ist es nicht. Außer natürlich du möchtest dieses Land gewaltsam spalten. Das die Leute in Bayern eher gegen Windkraft sind ist unschön, aber daran kann auch ein Söder nichts ändern. Der hat sich dem halt, mit der 10H Regel, gebeugt um die politische Situation stabil zu halten. Dafür investiert er massiv in Solar und Wasser, da es dafür hier deutlich weniger Wiederstand gibt und ist damit ziemlich erfolgreich. \n\nSelbstverständlich ist es fair, wenn die bayrische Bevölkerung ihre eigene Unfähigkeit als Konsequenz bekommt. Das geht jedem anderen Bundesland in jeder anderen Hinsicht genau so, nur bei Bayern wird geheult wie ein Kleinkind, wenn das eigene Wahlverhalten Konsequenzen bringt.\n\n&gt; Was soll Söder denn deiner Meinug nach tun? Auf die Proteste der Leute scheißen und sich dann wundern wieso so viele Afd wählen? Die Afd ist in Bayern deutlich schwächer als im Rest der Republik (Abgesehen von SH). Und trotzdem haben wor hier viel erneuerbare Energien. Ich halte das für einen sehr guten Kompromiss.\n\nDie AfD ist in Bayern schwächer *weil*? Willst den Gedanken mal weiterführen, Kollege? Hat das vielleicht etwas damit zu tun, dass die Freien Wähler in Bayern sitzen? Oder damit, dass man es sich bei der CSU in den letzten Jahren mehr und mehr zum Ziel gesetzt hat möglichst weit nach rechtsaußen zu rücken? \n\nAber klar, Konsequenzen für bayrische Politik darf Bayern nicht sehen. Dann würde das Möchtegernkönigreich sich mit den anderen Bundesländern gleichstellen und das geht doch mal so absolut gar nicht.",
+        "date": "2023-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Natürlich, aber nicht nur aus Windkraft sondern natürlich auch aus Solarenergie.",
+        "date": "2023-09-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Wie bereits in einem anderen Kommentar gesagt, was ändert das? Wenn Fachkräfte fehlen, was nützt es einem, dass mehr Platz ist? \n\nWie bereits in einem anderen Kommentar gesagt habe ich nicht bedacht, dass es jene Fachkräfte ausschließlich in Schleswig-Holstein gibt, hast du natürlich absolut richtig gesehen. \n\n&gt; Fairer Punkt, aber das gleiche könnte Bayern ja auch im Thema Solarkraft über andere Bundesländer sagen. \n\nViel Glück damit, interessiert halt niemanden weil das Potential vs. Nutzung in anderen Bundesländern wesentlich weniger Relevanz hat als Windkraft.\n\n&gt; Wenn man sich die % an erneuerbaren Energien zum Verbrauch anschauen steht Bayern gut da und dass ist die Hauptsache. Ich hätte auch lieber mehr Windkraft, aber Bayern als den Bösewicht dieser Republik zu inszenieren und jetzt die Leute abziehen ist halt unmoralisch.\n\nNein, Bayern steht armselig dar wenn man bedenkt wo das Potential liegt und wie wenig ausgeschöpft wird. Wenn es in der Bayernwelt unmoralisch ist, zu sagen, dass man in Bayern was Windkraft angeht absolut armselig darsteht, dann bin ich nochmal etwas froher, das bayrische Handicap nicht zu haben - das ist schon eine ganze Menge Gehirnakrobatik.",
+        "date": "2023-09-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Grundsätzlich ja, natürlich, alles andere wäre unfair.\n\nAber wir sollten das nicht an der absoluten Menge an Windkraft fest machen - es gibt halt einfach Regionen, die weniger Potenzial haben als andere. Stattdessen sollten wir es daran fest machen, wie sehr eine Region ihr Potenzial ausschöpft. Wer maximal möglichen Ausbau hat, sollte mit minimalen Preisen belohnt werden.\n\nUnd König Maggus würde so oder so die deftige Schelle kassieren, die ihm schon lange zusteht.",
+        "date": "2023-09-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Stimmt, weiß jeder, dass die hochbegabten Fachkräfte zum Windkraftanlageaufstellen ausschließlich in Schleswig-Holstein zu finden sind. Exzellenter Punkt, definitiv nicht schwachsinnig.\n\nJa klar, der Fachkräftemangel ist frei erfunden und hunderte Anlagen könnten völlig Problemlos von heute auf morgen installiert werden. Satan Söder will nur nicht. Genau so ist die Realität.\n\n&gt;Muss man dir jetzt wirklich erklären wie der Föderalismus funktioniert? Muss man dir jetzt wirklich erklären, inwiefern sich CSU Ministerposten auf Bundesebene negativ auf Bundesländer auswirken, die eben für die CSU ausschließlich als Resource angesehen werden?\n\nBitte zeig mir inwiefern Bayrische Minister dafür verantwortlich sind, dass Deutschland jetzt schlechte Strom Infrastruktur hat. Welche Entscheidung war dafür verantwortlich? Und gilt das eigentlich auch andersrum wenn ein CDU Minister scheiße baut, dürfen wir dann hier in Bayern einfach alle anderen verantwortlich mache?\n\n&gt;Selbstverständlich ist es fair, wenn die bayrische Bevölkerung ihre eigene Unfähigkeit als Konsequenz bekommt. Das geht jedem anderen Bundesland in jeder anderen Hinsicht genau so, nur bei Bayern wird geheult wie ein Kleinkind, wenn das eigene Wahlverhalten Konsequenzen bringt.\n\nGut, wieso machen wir das auch mit Solarenergie? Oder Wasserkraft? Oder im Punkt Länderfinanzausgleich? Wenn das Land nicht genug Geld macht müssen die Bürger halt höhere Stuern blechen. Oder werden hier einfach willkürliche Parameter genutzt nur damit die Bayern soch bitte noch mehr zahlen sollen? Weil die mag ich nicht. Was genau qualifiziert den Parameter Windkraft als Kriterium für eine extra Gebühr für Stromkunden, im Vergleich zu Solar oder Wasser? \n\n&gt;Die AfD ist in Bayern schwächer weil? Willst den Gedanken mal weiterführen, Kollege?\n\nHab ich doch. Weil man halt nicht auf die Proteste von Bürgern scheißt, auch dann wenn das vielleicht nicht super rational ist.\n\n&gt;Ist Markus Söder höchstpersönlich hier im Thread um die kollektive Inkompetenz seines Bundeslandes zu verteidigen?\n\nKomisch, viele scheinen mir zuzustimmen. Etwa weil ich mit Faktem argumentiere?",
+        "date": "2023-09-25",
+        "sentiment": "positive"
+    }
+]

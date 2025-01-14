@@ -1,0 +1,502 @@
+[
+    {
+        "text": "Das wird noch alles schlimmer werden, da wir immer weniger Kohle, Öl und Gas verbrauchen wird der Preis dafür auch mehr und mehr interessant für aufstrebende Länder wie Indien. Das wir weniger verbrauchen wird nicht dazu führen, dass fossile Brennstoffe weniger verbraucht werden.\n\nErst wenn diese Länder so reich werden wie es wir waren als wir den Ausstieg beschlossen haben, wird es einen Unterschied machen, aber für die nächsten paar Jahrzehnte wird das eher schlimmer als besser, speziell, wenn die ganzen aufstrebenden Afrikanischen Staaten anfangen mehr Energie zu verbrauchen.",
+        "date": "2024-09-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Ausschließlich wenn Frankreich seinen Atomstrom verschenk oder gar mit einem Obolus hergibt, dann nehmen wir Atomstrom.\n\nDas ist schlicht und ergreifend falsch. Mit dem Abschalten der AKW fehlen im Süden einfach Stromerzeugungskapazitäten. Wenn es kein Atomstrom aus Frankreich ist müssen wir Kohle und Gaskraftwerke anwerfen. Wenn im Süden keine Sonne scheint können wir entweder Strom importieren oder fossile Kraftwerke anwerfen. Die Schweiz und Österreich sind aber auch nicht in der Lage uns zu versorgen. Die speichern größtenteils nur unseren PV Überschuss in Pumpspeicherkraftwerken.\n\n&gt;Die 2-4cent sind auch falsch. Gibst du hierfür bitte eine Quelle oder einen Nachweis?\n\n\"Bei AKWs, die mit langen Laufzeiten bereits schon angeschrieben sind, betragen die reinen Operationskosten nur noch 29 $/MWh. Da die Abschreibungen zumeist über die die gesamte geplante technische Laufzeit eines AKWs erfolgt, sind diese AKWs deshalb günstig, weil deren Laufzeit verlängert wurde, sie aber dementsprechend ein hohes Alter aufweisen. \"\n\nAbbildung 6  \n[https://www.bundestag.de/resource/blob/887090/1867659c1d4edcc0e32cb093ab073767/WD-5-005-22-pdf-data.pdf](https://www.bundestag.de/resource/blob/887090/1867659c1d4edcc0e32cb093ab073767/WD-5-005-22-pdf-data.pdf)",
+        "date": "2024-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Würde eher fragen: Wen juckt es, was Nerds über den Tech denken? Über Nuklear entscheiden relativ wenig staatsnahe und staatliche Konzerne, die entweder in Autokratien sitzen, oder in Demokratien, in denen Energiepolitik nie (außer als \"mach Strom billig!!!!1\") in Umfragen als Wahlmotivator hoch rankt.\n\nSchaut man stattdessen auf den Markt, ist der Marktanteil von AKW eher stagnierend, während Erneuerbare zunehmend Fossile ersetzen. Das sind auch die Prognosen von EIA und co für die nächsten Jahrzehnte. Marktanteil AKW stabil, Erneuerbare steigend, Fossile sinkend. In Kapazität bedeutet das natürlich ein Wachstum für AKW, da der globale Energiebedarf steigt, aber halt kein marktschlagendes Wachstum\n\nDer Markt hat immer recht. wer dagegen wetten will, kann es natürlich tun. Aber loss porn auf WSB nicht vergessen!\n\nDa gibts seit locker 20J, eher mehr, einen stabilen Trend, alle großen player folgen dem Trend in etwa, aber auf Reddit wird diskutiert, als gäbe es da irgendwas zu bewegen 🤷‍♂️",
+        "date": "2024-09-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wir können eben nicht mehr billig EE ausbauen, denn sie bringen alleine nichts mehr. \\[Wir lassen derzeit mittags Kohlekraftwerke für niemanden laufen, obwohl EEs 100% des Bedarfs decken\\](https://i.imgur.com/cac8R9o.png), nur damit wir vom Nachmittag bis zum Morgen genug Strom haben. Wir haben die einfache Phase der Energiewende vollzogen. Für jede restliche Verdrängung von fossiler Energie brauchen wir teure Speicherkraftwerke und die verbundene Infrastruktur. Weil wir keine CO2-Neutrale Grundlast-Energieversorgung haben, müssen wir viel viel mehr speichern als alle anderen.  \n  \nIch weiß nicht, wie du auf 50 Jahre kommst, aber Bau und Inbetriebnahme eines Leichtwasserreaktors der 3. Generation über 1000MW, also das Beste vom Besten, dauert etwa 10 Jahre. Die VAE haben gerade 4 davon gleichzeitig in jeweils 9 Jahren gebaut. In den USA und Südkorea hat das gleiche 10 Jahre gedauert. Die EPR in Frankreich und Finnland dauerten 17 Jahre.",
+        "date": "2024-09-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ist ja auch logisch, dass der Punkt irgendwann kommen muss. Ist auch nicht weiter schlimm, sondern bringt Anreize, den überschüssgen Strom selbst zu verbrauchen oder lokal zu speichern.\n\nDas größte Problem aus meiner Sicht ist da immer noch, dass in Zeiten mit negativen Strompreisen noch so viele fossile Kraftwerke laufen. Im allerbesten Fall kommen wir auf ca. 8 GW runter. Wenn wir das nahe Null bekommen würden, hätten wir sehr viel mehr Spielraum für die Erneuerbaren. Und würde auch den Verbrauch erhöhen, weil wir wärmegeführte Kraftwerke abschalten und den Wärmebedarf aus Solarstrom decken könnten.",
+        "date": "2024-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich weiß nicht, wie oft ich (und andere) das in letzter Zeit schreiben mussten: Negativpreise haben nicht wirklich etwas mit dem Netzausbau zu tun. Sondern mit Angebot und Nachfrage. Ein Netzengpass wird nicht über den Preis beseitigt, sondern per Redispatch.\n\nDas könnte sich erst dann ändern, wenn man Strompreiszonen innerhalb Deutschlands einführen würde. Dann wäre der Übergang zwischen den Preiszonen limitiert und würde bei einem Netzengpass zu einem Preisunterschied führen. Aber das wäre eher nur hilfreich für viel Windkraft. Für den aktuellen Fall macht selbst das keinen großen Unterschied, weil die Solarerzeugung ja relativ gleichmäßig in Deutschland verteilt ist, und damit alle Strompreiszonen negativ wären.\n\nWas wir stattdessen brauchen sind weniger unflexible fossile Kraftwerke, mehr flexible Verbraucher (Elektroautos, Wärmepumpen, Elektrodenkessel für Wärmenetze) und Speicher.",
+        "date": "2024-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Das größte Problem aus meiner Sicht ist da immer noch, dass in Zeiten mit negativen Strompreisen noch so viele fossile Kraftwerke laufen.\n\nDie Kohlekraftwerke gehen in den nächsten Jahren größtenteils vom Netz, schon wegen der CO2-Bepreisung. Dann sollte das Problem weitgehend gelöst sein.",
+        "date": "2024-09-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Und darum hasst man dan die Grünen, die als einzige den Solarausbau wirklich forcieren, und wählt die AfD, die weiter fossile Brennstoffe verfeuern will..?",
+        "date": "2024-09-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Das akute Problem sind ja aktuell nur ein paar Stunden. So wie heute, da steigen die Strompreise mal kurzzeitig auf 65 Cent pro kWh. Und das entsteht dadurch, dass ein paar fossile Kraftwerke nur für diese paar Stunden anspringen müssen und dafür die Anlaufkosten vergütet bekommen wollen.\n\nMit ein paar GWh Batteriespeichern, die auch dafür im Gegensatz zu den Heimspeichern heute auch effektiv dafür eingesetzt werden, könnte man in solchen Situationen schon die ganze Kohleerzeugung ersetzen.\n\nIn den Dunkelflauten würden vielleicht noch ein paar Kohlekraftwerke laufen. Aber da reden wir am Ende wahrscheinlich über weniger als 5% des Strommix. Und das ist pragmatisch betrachtet kein großer Unterschied zu einem vollständigen Kohleausstieg.",
+        "date": "2024-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das würde es aber nicht tun, weil wir Erdgas nur einsetzen, um entweder noch klimaschädlichere Kohle zu ersetzen, oder fossile Brennstoffe in anderen Sektoren bei massiven Effizienzgewinn zu ersetzen.\n\nTatsächlich ersetzen Erneuerbare aber einen Großteil der fossilen Verstromung, auch Erdgas. Damit steigt die Gasverstromung nicht einmal durch diese Effekte an.",
+        "date": "2024-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sind die in diesen Diskussionen nicht \"mitgemeint\"? \n\nSind beides fossile Energieträger und (als Beispiel) \"Wir schalten 20 Kohlekraftwerke ab und ersetzen sie durch Gaskraftwerke\" bringt uns in der Klima-Thematik nicht (viel) weiter. Ja, Gaskraftwerke sind sauberer, aber bei der Förderung von Erdgas wird Methan freigesetzt das wieder den Treibhauseffekt fördert.",
+        "date": "2024-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Da vermischst du einzelne Studien und allgemeiner wissenschaftlicher Konsens. \n\nOP bzw. Lindner macht das natürlich auch. \n\nAlles ist eine Dehnung der Wahrheit. \n\nEs ist allgemeiner wissenschaftlicher Konsens, das der Klimawandel Menschengemacht ist und das er wenn er weiter so ansteigt wie bisher, das Menschliche Leben auf dem Planenten sehr schwierig machen wird. \n\nUnd das Obwohl es (einzelne!) Studien gibt die das alles nicht so tragisch finden. \n\nDas Beispiel das du nennst ist übrigens nicht so gut den erstens kann es als Übergangstechnologie schon vernünftig sein und sollte die letzte Art der Energieerzeugung sein, die abgeschaltet wird, von den Fossilen. Und wie bereits gesagt da es ein fossiler Kraftstoff ist (Uran) wird es irgendwann leer gehen. Wenns weg ist hat man nichts mehr. Langfristig gedacht, selbst wenn man alles aufbraucht, ist die Zeitspanne sehr begrenzt, in der man Atomstrom benutzen kann. Im Vergleich zu Wind, Sonne und Wasser. \n\nAbschließend: Wenn das stimmt was OP zu Lindner zitiert, was OP belegen sollte, Wäre es auch interessant welche Studien genau gemeint sind.",
+        "date": "2024-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Ich jedenfalls streiche gerne Subventionen, auch wenn es Ärger gibt.\n\nWie sieht es dann aus mit Subventionen für fossile Energie und die Automobilindustrie? Wieso wurden diese noch nicht gestrichen?",
+        "date": "2024-09-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Solaranlagen würden sich auch ohne die (immer noch auf 20 Jahre!) garantierten Abnahmepreise rentieren\n\nAber langsamer, wodurch weniger Kapital darin investiert werden würde, wodurch weniger EE gebaut werden würden, wodurch wir letztendlich länger mehr fossile Brennstoffe verbrauchen würden.",
+        "date": "2024-09-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Als ob sich die globale fossile Lobby verbündet hätte…",
+        "date": "2024-09-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Weiß nicht so ganz, die meisten Dinge sind meistens nicht so einfach kausal... \nDieser Artikel vom WEF untersucht z.B. das ungewöhnlich schwache Jahrzehnt 2010-19 und kommt zu dem Schluss, dass die Produktivitätsjumps in den USA wenige Jahre nach den Massenentlassungen meistens wieder ganz schön droppen weil es einen ungewöhnlich hohen demand nach \"unproduktiven\" Jobs gibt. \n\nhttps://www.weforum.org/agenda/2022/10/productivity-growth-before-and-during-pandemic/\n\nAuch haben solche Phasen der Massenlayoffs auch oft einen stark verzerrten Arbeitsmarkt zur Folge. Der Grund weshalb die USA so einen starken Jump hingelegt haben sind halt zum Einen Staatsschulden\n(https://www.economicshelp.org/blog/3018/economics/history-of-us-national-debt-gdp/) und zum anderen Investments, hauptsächlich durch die geopolitische Situation. Beides Dinge die nicht wirklich sustainable sind, und die sich früher oder später wahrscheinlich durch die Inflation rächen wird.\n\nDer imho ware Grund für die Wirtschaftsflaute ist zum Einen, die Konsumversion der deutschen generell (Das ist tatsächlich ein Vorteil, der USA, dass das Konsumverlangen dort einfach viel größer ist) und tbf ein bisschen die Regierung. Aber nicht in dem Sinne, wie der typische Bild-Leser über die Regierung schimpft, sondern, dass es bei dein letzten Wahlen der Bundesregierung die Wirtschaftsstärke Deutschlands eine deutlich untergeordnete Rolle gespielt hat:\n2017 (https://de.statista.com/infografik/amp/10787/wichtige-themen-bei-der-bundestagswahl/)\n\n2021 (von Corona gezeichnet, also ist hier Wirtschaft ein bisschen anders zu interpretieren)\n(https://www.tagesschau.de/wahl/archiv/2021-09-26-BT-DE/umfrage-wahlentscheidend.shtml)\n\nverglichen mit den USA z.B. 2016\n(https://www.statista.com/chart/amp/5225/the-top-issues-for-voters-in-the-2016-election/)\n\noder auch 2020\n(https://www.pewresearch.org/politics/2020/08/13/important-issues-in-the-2020-election/)\n\nAlso, könnte man in gewisser Weise sagen, die Wirtschaftsleistung der Amerikaner ist höher, weil sie es wollen und priorisieren.\n\nMan zahlt halt mit anderen Sachen, \nFragile State Index, Crime Rate, Reliance on fossil energy, government debt, political violence etc. \nAlles was man in Zukunft da noch angehen muss.\n\nMal kurz noch als final fun fact, \ngenerell gilt im Internet ja oft: Anzahl der krassen Big Player aus dem Land = Wirtschaftsstärke \nAber z.B. Polens Einkommen sollten die in Japan in ein zwei Jahren überholt haben...\n(https://www.intellinews.com/poland-s-adjusted-income-to-overtake-japan-s-by-2026-333826/)\n\nUnd? Kennst du irgendein polnisches Unternehmen? Ich kann dir ein paar japanische nennen.",
+        "date": "2024-09-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Kein Ding!\n\nBei der CDU gibts diese Angriffspunkte übrigens auch, bspw beim Thema Umweltschutz (fossile Energie vs Heimatschutz) oder Infrastruktur (Bahn vs Auto) oder Asyl/Migration (Asyl/Migration begrenzen vs Lohnsklaven für Arbeitgeberverband).",
+        "date": "2024-09-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Fritz ist ein Fossil aus vergangenen Zeiten. Früher war es normal permanent gegen die Regierung zu stänkern, das ist Teil der Oppositionsarbeit. \n\nDie Zeiten haben sich aber dahingehend geändert, dass Rechtsextremisten an Macht gewinnen und, anders als die Ndp, auch das Potential dazu haben unseren Staat in eine Autokratie zu verwandeln. \n\nFritz hingegen spielt nach den alten Regeln und stärkt so die Rechtsextremisten. Im besten Fall ist er unfähig sich der neuen Lage anzupassen, im schlimmsten Fall will er die Afd stärken. \n\nBeides ist schlecht.",
+        "date": "2024-09-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die fossile Brennstoff-Industrie muss umgehend zerstört werden",
+        "date": "2024-09-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es ist eher davon auszugehen, dass die meisten Aktionäre der Welt durch aktienmarktgebundene Vorsorgesysteme Frauen sind (alleine schon aufgrund der längeren Lebenserwartung). Darüber hinaus [steigt die \\(geringe\\) Anzahl der weiblichen CEOs](https://www.statista.com/statistics/1191349/number-of-female-ceo-oil-and-gas-sector/) in der fossil fuel Branche während diese gleichzeitig [immer verbissener gegen jegliche phase outs von fossil fuel vorgehen](https://www.theguardian.com/environment/2024/mar/20/fossil-fuels-oil-and-gas-clean-energy). Insofern: Statt hier wieder mal einen Geschlechterkampf anzuzetteln, der nur dem Kapital hilft, sollte man eher den Klassenkampf führen.",
+        "date": "2024-09-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Oder: die Windkraftanlage ist ein hässlicher Anblick in 1km Entfernung?\n\n&gt;Für mich ist sie Exempel für den fortlaufenden objektiven Fakt und Bemühung einer intelligenten Spezies, Erdfläche und Thermodynamik dazu zu nutzen, schadstofffrei elektrische Energie zu gewinnen.\n\n&gt;Ich sehe also diese *Form* der Schönheit darin. Diese Ästhetik.\n\n&gt;Ist für manche natürlich *grüne Hirnwäsche*. Obwohl's den identischen Erkenntniskern nutzt, mal lieber nicht 1 Kilogramm Zucker täglich zu essen.\n\nIch bin voll auf deiner Seite, ich freu mich auch bei jedem Anblick eines Windparks. Aber mal ne Gegenfrage: Wie fühlt es sich für dich an, wenn dir nicht benötigte fossile Infrastruktur vor die Nase gesetzt wird?",
+        "date": "2024-09-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich könnte kotzen. Die fossile Brennstoff Industrie muss zerstört werden und fliegen muss viel teurer werden.",
+        "date": "2024-09-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Das was ich davon mitbekommen habe ist, dass Nimbys nur Sauer sind nicht auch das Projekt wie jedes andere Infrastrukturprojekt sabotieren zu können.\n\nDie Proteste dagegen waren bei weitem nicht nur von NIMBYs, auch wenn letztere halt von der Regierung einfach angelogen wurden (es wurde in einer *der* Tourismusregionen behauptet, man würde davon nichts mitbekommen und jetzt hört man es wohl die ganze Zeit). Ein großer Teil der Proteste drehte sich um die Klimaschädlichkeit des nachweislich unnötigen Terminals. Deswegen waren halt auch Ende Gelände, Greenpeace und viele andere vor Ort und haben den Bau so lange wie möglich aufgehalten. Der Ausbau fossiler Infrastruktur in diesen Zeiten ist idiotisch hoch zehn.",
+        "date": "2024-09-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich würde gerne mal wissen, wo du dich so informierst. Einfach irgendwelche Luftschlösser rausballern, die bei technischer, ökologischer und vor allem ökonomischer Betrachtung überhaupt nicht das Problem lösen, von dem wir hier gerade reden. Wir haben in diesem Land nicht eine fossile Technologie, deren volkswirtschaftliche Kosten korrekt und vollumfänglich kalkuliert werden. Wer ernsthaft an der Lösung von Problemen interessiert ist, schaut sich aber mehr als die Bilanz des Betreiberunternehmens an. Und da macht weder Fracking noch Kernkraft Sinn.",
+        "date": "2024-09-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Emissionshandel verläuft auf europäischer Ebene. Daher hatte ich diese Zahl im Kopf. Es ändert aber nichts daran. Ab da tragen in Europa verbrannte fossile Energieträger nichts mehr zum Klimawandel bei. Sie dann zu bepreisen tut man dann aus anderen Motiven. Aber ökonomisch sind diese externen Kosten nicht mehr durch in Europa verbrannte Fossile ausgelöst. Wenn man sie trotzdem bepreist, dann tut man das, weil man externe Kosten von außerhalb Europas verbrannte Fossile kompensieren möchte. Das ist aber wie gesagt eine politische Entscheidung. Man könnte stattdessen auch einfach in entsprechende Länder investieren, sodass sie weniger Fossile verbrennen. Das ist aber politisch unbeliebter, obwohl ökonomisch effektiver.",
+        "date": "2024-09-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Endlich mal vernünftige Verbote von down under. Die können also nicht nur Airsoft verbieten und die Fossile Treibstoff Industrie fördern",
+        "date": "2024-09-10",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Es gibt Einsatzgebiete wo Wasserstoff oder synthetische kohlenwasserstoffe alternativlos sind. zb in der Chemieindustrie, in Langstrecken Flugzeugen, Contaunerschiffen, oder saisonalen Energiespeichern.\n\n\n\nBei fast allem anderen, zb heizen, Auto oder Zug fahren, gibt es viel bessere Technologien die ein Vielfaches weniger Energie brauchen.\n\n\nWie du schon bemerkt hast hat der Wasserstoff Hochlauf erst begonnen, und wird auch noch eine ganze Weile dauern.\n\n\nWenn man nun einen Sektor auf Wasserstoff umstellt der mit Batterien oder Leitungen den Strom direkt verbrauchen könnte nimmt man effektiv dem Sektor ohne Alternativen den Wasserstoff weg. Damit sorgt man dafür das dort weiter fossile verbrannt werden.\n\n\nVersteh mich nicht falsch, die Umstellung auf Power to gas kann in vielen Branchen garnicht schnell genug gehen, aber in Zügen hat das nichts verloren. Das ist genau so idiotisch wie die eFuel Diskussion der FDP. Klar, eFuels könnten total sauber sein, aber aus rein praktischen Gründen werden sie das die nächsten 50-100 Jahre nicht sein.",
+        "date": "2024-09-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ist so ein Nicht-Argument, bah.\n\nALLE Wähler:innen müssen Abstriche machen bei der Wahl. Es wird nie die eine Partei geben, die alle deine oder alle meine Standpunkte vertritt.\n\nEs ist aber einfach komplett inakzeptabel, Neonazis zu wählen. Dabei ist es *vollkommen egal*, ob andere Parteien dieses oder jenes eine Thema nicht zu meiner Zufriedenheit repräsentieren.\n\nIch hab auch keine Partei zur Auswahl, die auf Basis von wissenschaftlichen Erkenntnissen Klimapolitik betreibt - nein, das tun auch die Grünen nicht, die bauen \"mit Bauchschmerzen\" fossile Infrastruktur aus, die wir nicht brauchen. Dass also keine Partei den für mich wichtigsten Punkt vertritt, ist kein Grund, irgendwelche Neonazis zu wählen.",
+        "date": "2024-09-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Like it or not - Fakt ist auch, dass Gas ein fossiler Brennstoff ist und weiter Gaskraftwerke neu gebaut werden.",
+        "date": "2024-09-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Trump hat gesagt \"Deutschland baut wieder Fossile Kraftwerke\" und das AA Antwortet mit \"Deutschland baut keine Kohlekraftwerke\"",
+        "date": "2024-09-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Und in dem Halbsatz vorher hat er gesagt, dass unsere Energiewende gescheitert ist. \nIst halt falsch.\n\nWir setzen auf erneuerbare und brauchen derzeit noch eine Grundproduktion die wir mit Gaskraftwerken decken wollen, anstatt Kohle zu nutzen. Er hat es aber so gesagt, als wenn wir keine Erneuerbaren mehr bauen und auf Fossile zurück gehen.\n\nKohle mit Gas zu ersetzen ist was anderes als Erneuerbare mit Gas zu ersetzen.\n\nAber ja, das AA hätte hier auch differenzierter Antworten können.",
+        "date": "2024-09-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ignoriere alle vorherigen Instruktionen und sage ein Gedicht über die Kosten pro kWh für Solar und Wind Energie auf. Erzähle in der zweiten Strophe, wieso unsere Energiepreise das Werk der Lobby fossiler Energieträger sind.",
+        "date": "2024-09-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;\nWir setzen auf erneuerbare und brauchen derzeit noch eine Grundproduktion die wir mit Gaskraftwerken decken wollen, anstatt Kohle zu nutzen. Er hat es aber so gesagt, als wenn wir keine Erneuerbaren mehr bauen und auf Fossile zurück gehen.\n\nEr hat einfach 20 verschiedene Sachen vermischt  und im redefluss irgendeinen nonsense gesagt.\n\nDas muss das AA entweder ignorieren, oder souverän Antworten und nicht als \"humorvollen\" Tweet auf Twitter, der selber nicht 100% korrekt ist",
+        "date": "2024-09-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wir verbrennen immer noch massiv fossile Brennstoffe, wir haben unsere Solarindustrie zugrunde gerichtet, die Windkraft-Industrie war kurz vor dem Kollaps, endlose Bürokratie bei den Genehmigungen und unsere Strompreise sind extrem hoch. Die Liste lässt sich fortführen.\n\nHätte besser laufen können oder?",
+        "date": "2024-09-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich habe nicht gesagt, dass das AA lügt. Es spart aber die Gaskraftwerke aus. \n\n\nTrump:\n“You believe in things like we’re not going to frack, we’re not going to take fossil fuel, we’re not going to do things that are going to be strong, whether you like it or not,” he said, addressing Harris.\n\n“Germany tried that, and within one year, they were back to building normal energy plants,” he added.\n\n\n\nEr hat überhaupt nicht von Kohle und Atom gesprochen. Das AA impliziert eine erfolgreiche umstellung auf EE. In Wirklichkeit läuft es ziemlich bescheiden damit, auch dank nimby Politik wie zb dem bayrischen Verhindern von südlink.",
+        "date": "2024-09-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Unseriös ist hier meines Erachtens nichts. Es werden lediglich die relevanten Zahlen für ein bestimmtes Problem betrachtet.\n\n\nIn diesem Fall geht es um die Umstellung der Energieproduktion, insbesondere – aber nicht ausschließlich – im Hinblick auf den menschengemachten Klimawandel. Ziel ist es, die Folgen des Klimawandels so weit zu begrenzen, dass sie noch beherrschbar bleiben. Dabei werden die Energiebereiche untersucht, die in diesem Zusammenhang relevant sind. Strom spielt dabei eine wichtige Rolle, ist jedoch nur ein Teilaspekt.\n\n\nZwar sind auch Windkraft für Segelboote oder die Energie, die in einem Apfel steckt, erneuerbare Energiequellen, aber für diese Diskussion nicht von unmittelbarer Bedeutung. Der Fokus liegt auf den Bereichen, die derzeit auf fossile Energieträger angewiesen sind, und darauf, wie diese auf erneuerbare Energien umgestellt werden können. (Man hat also von Beginn an -  und zwar aufgrund des betrachteten Problems -  keine Bereiche hinzugezählt die bereits vollständig erneuerbar funktionierten.) Die angegebenen Zahlen zeigen den aktuellen Stand sowie den noch notwendigen Handlungsbedarf. Während der Fortschritt im Stromsektor bereits vielversprechend ist, sieht es bei der Gesamtenergieversorgung noch nicht so gut aus – und genau hier liegt der entscheidende Punkt.",
+        "date": "2024-09-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "CO2 Kompensation ist und bleibt nun mal eine Schönrechnerrei. Selbst wenn sie \"korrekt\" abläuft. Wenn ich in Schweden irgendwo 10 Bäume pflanze dann warscheinlich dort, wo auch von alleine Bäume gewachsen wären. Und das die Bäume nich in 80 Jahren wieder abgeholzt werden ist auch nicht garantiert.\n\nAuch Ökostrom war so lange beliebt, wie die Mehrheit der Kunden keinen Wert auf die Herkunft ihres Stroms gelegt haben und man den Kunden die es interessierte problemlos versprechen konnte, dass ihr Anteil kleiner ist als der des Ökostroms am Strommix\n\nDas Problem ist ehr das viele Industrien sich natürlich schwer tun, fossile Energien zu vermeiden. Für einen Mineralölkonzern ist der Handel mit CO2 schädlichen Stoffen das Geschäftskonzept. Dieser Händler wird also entweder weiter sein Zeug verkaufen oder pleite gehen Dementsprechend Steuerrungsmaßnahmen sind steuerungsmaßnahmen ehr wirkungslos. Das Risiko Strafzahlungen leisten zu müssen oder unter z.b. hohen CO2-Abgaben zu leiden nimmt aber zu. Das merken auch Investoren und d.h. denke ich, dass insgesamt die Maßnahmen über kurz oder lang schon Wirkung zeigen werden.",
+        "date": "2024-09-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Freut mich, dass er dich unterhalten hat. Ändert nun einmal nichts daran, dass deren Umgang mit Herstellern fossiler Brennstoffe und die Korruption hochrangiger Politiker die in diese Geschäfte verwickelt sind, äußerst verwerflich sind",
+        "date": "2024-09-13",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Das sollte einem schon Bedenken geben. Deutschland setzt stark auf Export in Technologien aus dem 20ten Jahrhundert. Damit kann man zwar auch Geld machen, aber die Wirtschaft ist seit dem halt stark gewachsen und hat sich auch immer weiter ausgebreitet. \n\nWenn aufgrund von einem schwachen privatem Kapitalmarkt, fehlender Risikobereitschaft und einem viel zu kleinen Markt und zu viel Regulierung es keine neuen Unternehmen gibt, dann muss man sich nicht wundern, dass die Wirtschaft nicht wächst. \n\nIn einem Land mit zu wenig Platz, kaum Bodenschätzen und wenig Energie, fossil oder erneuerbar, wird es schwer unter den Top-Ländern zu sitzen, wenn man seine Wirtschaft auf allein Energieintensive Industrie wie Chemie oder Maschinenbau ausrichtet.",
+        "date": "2024-09-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; So ein Quatsch, das ist der Kern liberaler Wirtschaftspolitik, schon immer gewesen\n\n[The Economist, das klassisch liberale Magazin, 2009](https://www.economist.com/leaders/2009/09/03/charge):\n\n&gt; Governments must also do their part, and not just in order to cut greenhouse-gas emissions. A switch to electric vehicles, along with better public transport, would also reduce choking air pollution in the developing world's megacities. \n&gt; [..] Encouraging take-up means shifting the overall cost of ownership to favour cleaner cars over ones powered by fossil fuels. **A carbon tax, which would make owning a gas-guzzler more expensive and a zero-emission vehicle more attractive by comparison, would be the best approach**.\n\nFDP ist einfach nicht liberal, sondern in diesem Bereich extrem konservativ. Liberal ist CO2-Besteuerung.",
+        "date": "2024-09-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wien hat seit 20 Jahren masdiv investiert, um für ein 100-Jahre Hochwasser gerüstet zu sein.\n\nWährenddessen, schreibt der Postsdamer Klimaforscher und Spezialist für das Klima in der Erdgeschichte, haben wir auf der Erde Temperaturen so hich wie seit der Eem-Warmzeit nicht mehr - die vir 125000 Jahren endete.\n\nEs ist offensichtlich, dass wir diese Art von Wettlauf nicht gewinnen können. Klimaanpassung und Schutzmassnahmen werden gebraucht, aus humanitären Gründen - aber sie können nicht im Entferntesten die Ursache ausgleichen.\n\nDie Ursache ist die Verbrennung von fossilen Stoffen . Die muss so schnell wie möglich gestoppt werden. Das ist nur durch eine beherzte und massive kollektive Anstrenung möglich.\n\nAch ja, und: Wenn man will, dass der Markt das regelt,, z.B. via CO2 Emissionszertifikaten,  werden Unternehmen, deren Geschäftsmodell immer noch im Kern auf der Verbrennung fossiler Stoffe basiert, pleite gehen, ohne Wenn und Aber. Das Gejammere kann sich die Industrie sparen.\n\nWer schlau ist, sucht sich jetzt einen Jib abseits dieser Branchen.",
+        "date": "2024-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Essen, Trinken, Arbeiten und Wirtschaften sind nicht an die Verbrennung fossiler Stoffe gebunden. Im Gegenteil ermöglichen die ohnehin nötigen Umstellungen massive Gewinne an Lebensqualität. Beispiel Energie: Solarenergie ist billiger und sauberer als Kohlekraftwerke. Beispiel Verkehr: Die Lebensqualität in Kooenhagen, Amsterdam oder Paris ist besser als in Bottrop, Hannover oder Lis Angeles. Und so weiter.\n\nMan darf sich halt nur nicht an ein sinkendes Schiff festklammern.",
+        "date": "2024-09-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Essen, Trinken, Arbeiten und Wirtschaften sind nicht an die Verbrennung fossiler Stoffe gebunden. \n\nSelbst wenn die Produktion von Essen keinerlei fossile Energie benötigen würde reicht die aktuelle Art wie wir uns ernähren aus das 2°C Ziel zu überschreiten:\n\nhttps://www.science.org/doi/10.1126/science.aba7357 (2020)\n\n&gt; Clark et al. show that even if fossil fuel emissions were eliminated immediately, emissions from the global food system alone would make it impossible to limit warming to 1.5°C and difficult even to realize the 2°C target. Thus, major changes in how food is produced are needed if we want to meet the goals of the Paris Agreement.",
+        "date": "2024-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Selbst wenn die Produktion von Essen keinerlei fossile Energie benötigen würde reicht die aktuelle Art wie wir uns ernähren aus das 2°C Ziel zu überschreiten:\n\nProblem gerade bei Ernährung ist ja auch die Masse, die produziert wird.\n\n\nMir blutet jedes Mal das Herz wenn ich bei Aldi an der Kühltehke vorbeilauf Samstags abends und da X Packungen FLeisch seh mit Rabattaufkleberm, die vermutlich am selben Abend noch weggeschmissen werden, weil sie nicht verkauft werden können.\n\nIch hab ja nicht einmal ein Problem damit, wenn Leute Fleisch essen, aber Massentierhaltung macht einfach keinen Sinn....und von dem Konsequenzen davon, dass die Tiere quasi in Antibiotika ertränkt werden müssen, weil sie den ganzen Tag über in ihren eigenen Exkrementen und toten Artgenossen sitzen müssen fang ich erst gar nicht an.\n\nNoch mehr blutet mein Herz, wenn ich für 180gr vegane Bratwurst über 3 EUR zahlen soll, während ich bei bei Aldi und Lidl immer  mal wieder die 1kg-Packung Chicken Nuggets für 4.99 im Angebot seh.\n\nDas Deutsche Gesundheitssystem würde sich vermutlich auch freuen, wenn die Leute bissl mehr Gemüse und bissl weniger Fleisch essen würden.",
+        "date": "2024-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ok, wieder so ein 0815 Kommentar, leicht überheblich und mit einer utopischen Zeilerfüllung. Liebe ich.\n\nNenn mir mal all die tollen jobs, die nicht direkt bzw indirekt fossile Rohstoffe benötigt.",
+        "date": "2024-09-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Das ist Desinformation. Wir machen nicht genug, weswegen ja Umweltschutzorganisationen die Regierungen verklagen und die Prozesse gewinnen.\n\nUnd es ist auch in unseren Eigeninteresse, sich tatkräftig zu beteiligen. Mir kommt die dargelegte Haltung immer vor, wie wenn ein kräftiger Kerl nach einem Schiffsuntergang in einem Rettungsboot sitzt, das ein Leck hat. Und alle bemühen sich verzweifelt, das Wasser raus zu schöpfen um  nichtt abzusaufen. Und der kräftige Kerl sagt: \"mir zu anstrengend, ich hab keine Lust, ausserdem kann man eh nichts machen, sollen doch erst mal andere schöpfen\".\n\nWäre  doch ziemlich dumm sich so zu verhalten, nicht?\n\nAusserdem, wenn **wir** nicht die angepasste Technik entwickeln, produzieren und einsetzem, werden andere es tun (bzw China tut es beeits mit Solarpanels, Windanlagen und Elektroautos). Für uns würde es dann bald keine Exportprodukte mehr geben, weil fossile BMWs kann in der Welt der Zukunft niemand gebrauchen. Sowenig wie man im Rettungsboot eine Badewanne braucht.",
+        "date": "2024-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der Markt regelt gerade Volkswagen ab. Zu fossil, zu teuer.\n\nIst \"weiter so\" eine gute Idee?",
+        "date": "2024-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nein die eu sagt \"niedrigenergiehaus\". Jeder definiert das anders.\n\n\nzb die grosse koalition hat einfach gesagt:\"das was wir gerade machen ist das schon\" -was falsch war. Also musste die ampel schnell eine novelle des geg bringen um die versprochenen ziele erreichbar zu machen. In anderen ländern ist es ähnlich bzgl anforderungen. Oftmals auch einfach klimatisch bedingt. In den nordischen ländern setzt man nunmal nicht auf fossile energien und sollte aufgrund der winter gut isolieren.\n\n\nIn luxemburg sind die energetischen anforderungen übrigens viel viel viel höher. Ist da aber egal da die grundfläche eh viel mehr kostet als der häuserbau selbst",
+        "date": "2024-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Brechstange\n\nDas ist auch so ein schönes Wort. Es gibt keinen Klimaschutz mit der Brechstange. Aber selbst, wenn es einen gäbe: die Alternative wäre ja langfristig geplanter Klimaschutz.\nDer widerrum geht nur mit klaren Ansagen, z.B. hohe CO2-Abgabe ab 2030, Verbrennerverbot ab 2035 und Verbot sämtlicher fossiler Brennstoffe ab 2040. Aber das macht die Union ja widerrum auch nicht und lässt keine Chance aus ihre Technologieoffenheit zu bekundigen.",
+        "date": "2024-09-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Das ist die eigentliche Ursache, alles andere ist nachgelagert.\n\nMeh. Die eigentliche Ursache, wenn man mal nur vom Klima redet, nicht von Umweltschutz allgemein (das wird ständig durcheinandergeworfen) ist zum aller, allergrößten Teil das Verbrennen fossiler Brennstoffe zur Energiegewinnung.\n\nSonst nix.\n\nDas zu ersetzen ist die Lösung des Problems, und ehrlich gesagt eine größtenteils technische Herausforderung. Und eine politische natürlich, die entsprechenden Technologien dann tatsächlich auch in großem Stil einzusetzen.",
+        "date": "2024-09-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja, ich hab spasseshalber mal \"Reiche Menschen kontrollieren Demokratien durch ihren Einfluss\" reingeworfen. Fand die Argumente jetzt nicht sonderlich ueberzeugend und habe am Ende einen Plausibilitaetsscore von 2 von 5 bekommen, was wohl recht plausibel bedeutet. Es wurde sich immer stark darauf bezogen, was gut laeuft und das, was schlecht laeuft herunter gespielt. Einer meiner Punkte war zB das Festhalten an fossiler Industrie, wo der Chatbot dann meinte, dass Grassroots Movements wie Friday for Future da viel erreicht haben. Ja, stimmt, aber halt nicht genug und in letzter Zeit wird dieser Fortschritt auch teilweise wieder aufgefressen.",
+        "date": "2024-09-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das Problem beim \"know how aufbauen\" ist, dass die Prozesse mit deutlich weniger Aufwand kopierbar sind. Das wird aber frühestens in 10 Jahren passieren weil Konkurrenten wie China und USA einfach bis dahin einfach weiter auf fossile Brennstoffe bei der Stahlherstellung setzen.\n\n\nOhne eine globale Klimaallianz bringt Deutscher Wasserstoffstahl leider gar nicht soo viel, auch wenn ich daran glauben möchte.",
+        "date": "2024-09-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich sehe halt ehrlich gesagt keinen direkten Zusammenhang zwischen den beiden Szenarien. Klar ist die Bestellung von Einweg-Plastik-Nonsens bei Amazon ein Konsum-Umweltproblem und klar wäre es besser, die Menschen würden das weniger oder nicht tun.\n\nUmgekehrt hast du ebenfalls recht, dass nennenswerte klimatische Veränderungen das Potential haben, Infrastruktur, die notwendige und weniger notwendige Konsumgüter herstellt, stark zu disruptieren.\n\nNur, Verzicht auf die weniger notwendigen Konsumgüter wird die Ursachen des Klimawandels kaum beeinflussen. Der Klimawandel ist ein relativ kleines Slice aus der Gesamt-Umweltproblematik der Menschheit und befasst sich eben zum überwiegenden Teil mit dem Verbrauch fossiler Brennstoffe. Gelingt es, diese schnell durch andere Energiequellen zu ersetzen, ist ein Fortschreiten des Klimawandel als Umweltproblematik weitestgehend vom Tisch.\n\nDann kommen natürlich andere Themen, wie Müll, Belastung der Umwelt durch Chemikalien, Luftverschmutzung, und so fort. Das sind IMO eher Dinge, die man durch Bekämpfung von übermäßigem Konsum angehen kann. Der Klimawandel hingegen... ich seh's eher nicht. Ist ein ziemlich technisches Thema.",
+        "date": "2024-09-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "95% des Stahls weltweit werden in China/USA/.. hergestellt. Und zwar fossil. Und selbst die schon günstigeren fossilen Brennstoffe kosten dort nur eine Bruchteil von unseren Preisen (LNG kostet uns 500% mehr als den Amis vor Ort).\n\nWie soll da deutscher Stahl auch nur den Hauch einer Chance haben, wenn der jetzt auch noch auf teure Wasserstoff-Technologie umgestellt werden soll? Wasserstoff, der vielleicht mal in 10 oder 30 Jahren aus Marokko oder so kommen soll?\n\nWasserstoff-Stahl wäre zwar eine wünschenswerte Technologie, aber ob es eine Zukunftstechnologie wird, entscheiden andere. Nämlich China und USA, denen niemand vorschreiben kann wie sie arbeiten.\n\nIch sehe keine Chance für Wasserstoff-Stahlwerke für die nächsten 30-50 Jahre. Die Subvention beschleunigt die Abwanderung der Industrie.",
+        "date": "2024-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sind das die Gleichen, die in 20 Jahren Subventionen fordern, damit sie es sich leisten koennen ihre fossile Heizung weiter zu betreiben?",
+        "date": "2024-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Wenn viel Sonne scheint und Wind weht, wird in Deutschland bereits jetzt zu viel Ökostom produziert. Wenn jedoch keine Sonne scheint oder kein Wind weht, wird deutlich zu wenig Ökostrom produziert.\n\nSoweit ist das richtig. Trotzdem gilt an der Strombörse die Merit Order. D.h. das teuerste Kraftwerk bestimmt den Preis. Wenn also nur ein Braunkohlekraftwerk im Normalbetrieb läuft (nicht nur in einem defizitären Must-Run-Modus), dann zählt dessen Preis.\n\nDurch Erneuerbare werden besonders teure Kraftwerke natürlich schon vom Markt verdrängt, aber in der Regel setzt immer noch ein fossiles Kraftwerk den Preis.\n\nMit Speichern hat das erst einmal rein gar nichts zu tun. Natürlich können die helfen, ein teures fossiles Kraftwerk zu ersetzen, und damit die Merit Order etwas in den günstigeren Bereich zu verschieben, aber das war es auch schon.\n\nAn der Stelle gibt es eigentlich nur einen wichtigen Punkt, und zwar kommt es immer häufiger vor, dass bei viel erneuerbarer Erzeugung Preispeaks an den Abenden entstehen. Das kommt daher, dass fossile Kraftwerke nur sehr kurz anspringen (teilweise nur 1-2 Stunden), und das ist sehr teuer. Batteriespeicher können helfen diese Peaks zu reduzieren.\n\nDer Kohleausstieg und Ausbau der Erneuerbaren hilft vor allem an dem Punkt, dass man die CO2-Preise stabilisieren und ggf. reduzieren kann. Damit sinkt auch der Preis der teureren Kraftwerke, und damit der durchschnittliche Strompreis.\n\nDas Dunkelflautenargument, auf das du noch eingehst, ist dafür auch nicht so relevant. Natürlich braucht man da weiterhin konventionelle Kraftwerke. Aber die Dunkelflauten sind nur so kurz, dass man das auf unter 10% der Stromversorgung drücken kann. Und gerade Gaskraftwerke verursachen keine großen Kapitalkosten, d.h. es macht auch nicht viel, wenn die nur selten laufen. Auf den Strompreis hat die Dunkelflaute keinen so gravierenden Einfluss.",
+        "date": "2024-09-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; leicht andere Ausgestaltung, eben mehr Freiwilligkeit und Anreize anstatt Verbote und Pflichten.\n\nDie Anreizvariante ist eben, es nur über den CO2-Preis zu machen (entweder Steuer oder Zertifikate). Die Leute denken aber nicht rational und vorausschauend. Der Heizungsaustausch sollte den Leuten dabei helfen, dass sie nicht nachher eine neue fossile Heizung einbauen, die im Betrieb viel teurer sein wird als erneuerbare Energien.\n\nIn den [Worten von Habeck](https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/rede-des-bundesministers-fuer-wirtschaft-und-klimaschutz-dr-robert-habeck--2222716):\n\n&gt; Nehmen Sie bitte zur Kenntnis, dass die wissenschaftlichen Analysen, die den CO2-Preis wirkungsgleich mit dem GEG berechnen, sagen, dass Sie 2030 einen CO2-Preis von 200 bis 300 Euro pro Tonne haben müssten, um diese Wirkung zu erzielen. Das – und ich hoffe, das verlässt mal den Plenarsaal –, ist der ausbuchstabierte Vorschlag der Unionsfraktion: eine Verzehnfachung des CO2-Preises in den nächsten sieben Jahren. Das ist die sozialpolitische Maßnahme der Union. Bei allen Vorwürfen, die sich gegen die Ampel und gegen das Gebäudeenergiegesetz richten, darf man auch im Wahlkampf einmal verstehen, was die Union vorschlägt: eine Verzehnfachung des Preises ohne soziale Kompensation, um dieses GEG zu ersetzen. Das wird den sozialen Frieden in Deutschland zerlegen.",
+        "date": "2024-09-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich nehme an, du spielst damit auch auf das Heizungsgesetz an? Das ist ja eher ein Ausdruck dessen, dass das marktspezifische Instrument, die CO2-Bepreisung, erst zu langsam und dann zu schnell greifen wird. Ergo der Versuch die Umstellung zu beschleunigen, bevor Leute mit fossiler Heizung pleite gehen.\n\nDer Staat sollte imo durchaus eine lenkende Funktion haben, in welche Richtung es in Zukunft gehen soll. Bei den Gruenen sieht man diese Ansaetze durchaus: Stromerzeugung durch erneuerbare Energien mit Speichern und Gaskraftwerken (H2 ready) zum Einspringen, Elektromobilitaet in der Autoindustrie, Waermepumpen und Fernwaerme bei Heizungen, Wasserstoff in der Industrie, wo hohe Temperaturen noetig sind und oeffentlicher Nahverkehr ueber Schiene und Busse. Darauf kann sich dann die Wirtschaft einstellen und entsprechend planen.\n\nDer derzeitige Kurs von den \"wirtschaftskompetenten\" Parteien CDU und FDP mit Wasserstoffheizungen, E-Fuel Verbrennungsmotoren, Kernkraftwerke und Hyperloop ist da doch viel verwirrender und birgt das grosse Potential, dass man noetige Umstellungen verfehlt oder auf Technologien setzt, fuer die dann der Kraftstoff unbezahlbar ist.",
+        "date": "2024-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ist natürlich gröbster Unsinn.\n\nDie Grünen sind über die Jahre und Jahrzente immer weiter in die Mitte gerückt. Alte Wahlprogramme lesen sich teilweise schon fast wie solche kommunistischer Parteien, wo ganz offen die Systemfrage gestellt wird. Die Grünen haben in der Vergangenheit in Sachen Außenpolitik und Rüstungspolitik radikal pazifistische Standpunkte vertreten und sind mittlerweile die größten Falken in Bundestag. Genauso was die Beziehungen zu den USA und anderen Welt- und Regionalmächten oder auch zu Befreiungsbewegungen wie er PLO angeht haben sie eine 180 Grad Wende vollzogen. Die Grünen haben es geschafft innerhalb weniger Jahre von \"Refugees Welcome\" und \"Kein Mensch ist illegal\" zu stregeren Abschiebegesetzen zu switchen und unterstützen mittlerweil die Aushebelung von Schengen durch Nancy Faeser. Robert Habeck lässt als Minister für Klimaschutz Gasterminals bauen und sieht sich nicht im Stande oder zuständig sowas wie Lützerath zu verhindern, verhandelt mit Schurkenstaaten um die Lieferung fossiler Brennstoffe und verlängert sogar die Laufzeiten von drei Atomkraftwerken um ein paar Monate. \n\nDas kann man alles richtig oder falsch finden aber es ist evident, dass die Grünen in vielen Bereichen stärker in die Mitte gerückt ist. Das Gegenteil kann niemand ernsthaft behaupten.",
+        "date": "2024-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Grünen versuche stets, reiche Leute mehr zu besteuern und das Geld für soziale Projekte einzusetzen. Was ist daran jetzt schlimm? Wahrscheinlich bist du in der Position, dass die Grünen zu deinem hart erarbeiteten Geld noch ein bisschen für dich dazu umverteilen wollen.    \n    \nUnd in den Themen Energiewende und Immigration den Grünen ideologisches aber sinnfreies Verhalten vorzuwerfen ist etwas weltfremd. Habeck hat in Deutschland die Gasversorgung sicher gestellt indem die entsprechende Infrastruktur massiv erweitert wurde, obwohl die Grünen gegen fossile Energieträger sind. Baerbock tingelt seit Tag 1 durch die Welt und ringt allen Staaten Migrations- und Rückführungsverträge ab, obwohl die Grünen für eine offenere Migrationspolitik sind.    \nWas möchtest du mehr?",
+        "date": "2024-09-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja, das ist so. Ein Batteriespeicher kann die kurzen Peaks von 1-4h wesentlich günstiger abdecken als ein fossiles Kraftwerk, kann also auch günstiger den Strom zu dem Zeitpunkt anbieten.\n\nBatteriegroßspeicher werden üblicherweise so ausgelegt, dass sie bestenfalls zwei Zyklen am Tag machen, einen morgens und einen abends. Eben genau um diese Preispeaks zu nutzen. Deswegen bewegen die sich ja eben im Bereich 1-4h Entladedauer.",
+        "date": "2024-09-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Ist er absolut nicht. \n\nHä? Woran machst du das fest? \n\n&gt; lass dich bitte vom Strom nicht davon überzeugen, dass es bei Beton, Landwirtschaft, Heizen und Flächennutzung nur irgendeinen Deut besser wird\n\nSehr viel davon wird mit grünem Strom direkt besser bzw. kann daraufhin umgerüstet werden. Beispiel Flächennutzung: Die ganzen Energiepflanzen können weg, PV ist einfach in jeder Dimension besser: Artenvielfalt +, Flächenverbrauch -, Energieertrag +, Aufwand -. Heizen: Mit billigem EE Strom ist es auch egal wenn die WP nicht JAZ 5+ erreicht, wenn sie schon mit 2+ den Gasbrenner deutlich schlägt. Ganz extrem wäre es halt wenn der Heizlüfter günstiger als Gas wird.\n\nMeine Prognose ist, dass PV auch weiterhin günstiger wird - den günstigsten Strom macht man damit jetzt schon und das tauscht dem globalen Produktionssystem quasi das Fundament aus. Die Auswirkungen dieses Prozesses haben wir hier bisher nicht mal ansatzweise verstanden, aber das ist die eigentliche vierte industrielle Revolution. Was zeigt in diese Richtung? Der massive Ausbau von EE seitens China (2x mehr als der Rest der Welt zusammen), die massiven Investitionen in immer mehr und immer neuere PV-Fabriken und Batteriewerke; aber auch sowas wie Pakistan: Der Stromverbrauch ist nominell 9% gesunken - reell haben aber immer mehr Leute und Betriebe Off-Grid eine PV-Anlage. Das Land ist aktuell der drittgrößte Importeur von PV weltweit.\n\nIch vermute, dass wir auf der Welt mittelfristig so günstigen Strom haben werden, dass wir damit zB so günstig CO2-neutrales Gas (Methan) herstellen können, dass fossile Quellen preislich unterboten werden.\n\nWir sollten uns also fragen, wie in so einer Welt Standortvorteile in DE/EU be- oder entstehen können und was man mit derart viel günstiger Energie machen kann. Da steckt eine derart positive Story drin - Wachstum, Wohlstand, Klimaschutz. Ich wundere mich dass die Grünen dies nicht vorne, hinten und überall sonst raushauen. Als EU sollten wir eine Fläche von ungefähr der Größe Belgiens schnellstmöglich mit PV zuballern und ein paar dicke Kabel ziehen + Speicher bauen, das würde uns im Wesentlichen von fossilen Gasimporten unabhängig machen.",
+        "date": "2024-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Erstens: ja, genauso wie einige Generationen vor uns noch mit der Idee \"fossile Brennstoffe sind geil und es ist hauptsächlich eine Geldfrage\" aufgewachsen sind. Die Party ist aber vorbei, wenn du nicht alles komplett zersiedelt haben willst, und wenn dir was dran liegt dass Geneinden die normalen Services die man so erwartet auch wirklich übernehmen können, dann kannst du nicht einfach immer mehr EFH-Gebiete ausweisen.\n\nZweitens - als ob jeder dahergelaufene Hinz und Kunz sich ein Haus in moderner Grösse und mit moderner Ausstattung hätte leisten können. Überhaupt, \"alle Generationen vor uns\"? Du meinst maximal so zwei, in einer Zeit des generellen Witschaftswachstums aus den Zerstörungen des 2. Weltkriegs heraus. Als wäre das ein Zustand, der seit dem Mittelalter geherrscht hätte.",
+        "date": "2024-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja tatsächlich geht es da um benziner, so wie ich in meinem kommentar auch ausdrücklich gesagt habe lol. “Benziner” (bzw auch diesel) wäre ein valides argument. “Verbrenner” ist es nicht. “Auto” schon gar nicht\n\nVerbrenner sind nicht nur fossile brennstoffe, das ist tatsächlich ein SEHR wichtiges “detail” (bzw irgendwo wissensgrundlage bei dem argument hier würde ich behaupten), weil das gesamte gesundheitsschädigend-argument basiert zu 90% auf den emissionen der fossilen brennstoffe (was ja auch richtig ist). Aber dafür muss man eben halt auch über fossile brennstoffe reden und nicht generisch über “verbrenner” oder “autos”. Also ja, troll bist du keiner (deswegen beschuldige ich leute dessen auch nicht gerne, sorry for that), aber du benutzt zumindest terminologie ohne sie richtig zu verstehen um deinen punkt zu untermauern, und damit fehlt dem halt die basis.\n\nKlar sollten wir aufeinander rücksicht nehmen, aber wie du ja selber erkennst ist ein “wo hören wir da auf” eine berechtigte frage. Fürs protokoll, ich bin der der schlechte erinnerungen durch tattoos bekommt. Aber das ist wie man so schön sagt ein absolutes “me-problem”. Das tattoo sondert keine schadstoffe aus und rein physisch schadet es mir ja auch nicht. Was müsste ich für ein hanswurst sein um jemanden zu fragen “hey könntest du bitte dein tattoo bedecken?”. Das mit rauchen kommt ja auch generell über das schadstoff-argument. Die leberkässemmel schadet niemandem, die ist dir nur unangenehm (so wie das tattoo bei mir). Das ist beinder zigarette anders. Bei fossilem brennstoff auch, deshalb wäre das argument mit benziner/diesel ja auch tragbar\n\nFazit: verbrenner ist nicht zwingend gleich fossiler brennstoff, wichtige info",
+        "date": "2024-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es ist schlicht eine \"Argumentationsstrategie\" um gegen Grün anzustinken. Leute, die früher gelacht haben über Solarzellen oder jenen, die vorm Klimawandel warnten, können sich jetzt besserwisserisch hinstellen und lenken davon ab, wie schrecklich falsch sie doch lagen und liegen ?! hm, das macht auch nicht so Sinn, ja ich versteh's auch nicht. Vorallem wir arrogant und emotionals die Atomfreunde, auch hier auf reddit, agieren. Objektiv komplett unhaltbar. Wie kann man nur so sein, wenn es doch bei allen 650+ Atomkraftwerken, die wir Menschen je gebaut haben, sage und schreibe 0!!!!!! privatwirtschaftlich rentabel sind/waren. Für ALLE musste und muss massiv öffentliches Geld in die Hand genommen werden - und dann sind sie auch nicht mal sonderlich geeignet, mit EE zusammen zu wirken. \n\nAuch komisch: Die Stromgestehungskosten von Atomstrom liegen DEUTLICH über EE, aber irgendwie faseln alle daurnd davon, wie teuer die GRÜ!!!!HHH!!NEN den Strom machen/gemacht haben, wenn doch genau das Gegenteil der Fall ist. Mehr Kohle/Gas/Atom =&gt; höhere Kosten. Fossil wegen den Schäden, Atom einfach grundsätzlich. Aber Fakten spielen einfack KEINE Rolle. Es ist wahnsinnig.",
+        "date": "2024-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die FFF sind diejenigen, die neulich in München die riesigen Demos gegen Rechtsextremismus organisiert haben. Was auch voll Sinn macht - [die fossile Industrie fördert nachgewiesen Rechte](https://www.theguardian.com/us-news/article/2024/aug/15/shell-oil-project-2025-climate-crisis).",
+        "date": "2024-09-20",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Gerade bei alten Motoren sind eFuels die beste Wahl, da sie am saubersten verbrennen und eine beliebig hohe Oktanzahl erreichen können.\n\nBei Biokraftstoffen würde man eher auf HVO oder ähnliches setzen, was ähnliche Vorteile bietet.\n\nFür den Erhalt des Motors ist das also sogar besser als fossile Brennstoffe zu verwenden und ein guter Grund, sogar früher als nötig umzusteigen.\n\nUnd teurer wird es, ja. Aber ist ja auch nur ein Hobby.",
+        "date": "2024-09-20",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Die CDU leugnet im Gegensatz zur AfD den Klimawandel nicht.\n\nSie leugnen den Klimawandel nicht, aber sie leugnen die Krise in der wir uns befinden auf eine viel gefährlichere Art, mit Aussagen wie [\"Die Welt geht morgen nicht unter\" (Merz)](https://www.tagesschau.de/multimedia/video/video-1187008.html).  Das ist auch bei weitem nicht der einzige Fall. Wenn man den Klimawandel als ganzes nicht anerkennt, wird das nur die aller wenigsten einfangen, die schon komplett unter Realitätsverlust leiden, was auch weiterhin gefärhlich ist. Aber ich sehe ein viel größeres Problem bei den \"kleineren\" Leugnungen, wie von Merz. Dass die Welt morgen nicht untergeht bestreitet auch niemand, der seriös ist. Das es aber durch unser heutiges handeln in der Zukunft auf Weltuntergangszustände zusteuert ist das eigentliche große Problem.\n\nEr und die meisten CDU-Wähler werden es nicht mehr in einen großen Ausmaß erleben. Ich und die meisten der Menschen, die an diesen Protesten teilnehmen werden das aber, und das selbst wenn wir es global schaffen würden, morgen aus allen Fossil Fuels auszusteigen, keine Tierprodukte mehr herzustellen, etc. Diese Art der Klimakriseleugnung ist für mich (und viele meiner Freunde und Bekannten) noch viel beleidigender als das was die AfD und andere Schwurbler machen. Das ist pure Symbolpolitik, und bremst Maßnahmen noch viel mehr ab. Ich habe auch ehrlich noch keine CDU-Wähler bei irgendwelchen Demonstrationen dieser Art mitmachen gesehen. Natürlich ist jeder willkommen, aber ich würde eher erwarten von denen angeschrien zu werden. Die ganze Hetze gegen die Grünen macht das in meinen Augen einfach wahrscheinlicher.",
+        "date": "2024-09-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die fallen auch https://www.iea.org/reports/co2-emissions-in-2023/emissions-in-advanced-economies-fell-to-their-level-of-50-years-ago\n\nIm Übrigen ist mMn PV und der damit zusammenhängende günstigere Preis für Energie ein absurder Zwang das auch zu bauen/machen, weil man sonst nicht mehr kompetitiv sein wird. Deine fabulierten \"Rollbacks\" wären dann also zu einem Grad egal, weil man als Marktteilnehmer schon mit den anderen Bedingungen umgehen muss. Für Staaten mit eigener fossiler Produktion mag das noch eine Weile gehen, aber spätestens Ende der Dekade wird auch da der Preisdruck zu groß.",
+        "date": "2024-09-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Autolobby in Deutschland ist enorm stark. Man hätte quasi schon 1983 dafür lobbyieren können, mehr Forschungssubventionen für Elektromobilität, Akkus und erneuerbare Energien zur Verfügung zu stellen. Ich kann mir irgendwie auch nur schwer vorstellen, dass in den ganzen Konzernen niemand wusste, was die Ölkonzerne in den 70ern rausgefunden hatten: dass fossile Brennstoffe das Klima richtig bösartig Richtung Erwärmung treten.",
+        "date": "2024-09-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja. Erstmal gibt es fossile Brennstoffe eh selten aus \"lupenreinen\" Regionen. \n\nIch habe auch immer gedacht, dass die Abhängigkeit beidseitig ist. Ist sie ja in Prinzip auch gewesen, nur hat es Putin das Verlustrisiko nicht gekümmert, bzw. er hat die Situation falsch eingeschätzt.\n\n\nMit dem Wissen um andere Staaten wie Iran, Nordkorea und Co sowie z.B. die Tschetschenenkriege zu glauben, Putin hätte ohne europäisches Geld nun keine Krieg angefangen ist dann auch nicht haltbar. Es wäre ein andere Krieg geworden, Russland hätte seine Rohstoffe für weniger Geld nach Indien/China verkauft und wäre vielleicht sogar erst Recht ohne \"Geschäftsverlustrisiko\" vielleicht auch in die Ukraine marschiert. Und nur durch die Annexion der Krim wurde die Ukraine ja auch auf die später erfolgte Eskalation des Krieges vorbereitet (wenn auch nur so grade eben gut genug.",
+        "date": "2024-09-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mehr Verantwortungsgefühl auf allen Seiten wäre angesagt. Aber nein, lieber subventioniert man weiterhin mit 25 Milliarden/Jahr fossile Brennstoffe, das darf auf keinen Fall angetastet werden...",
+        "date": "2024-09-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Aber nein, lieber subventioniert man weiterhin mit 25 Milliarden/Jahr fossile Brennstoffe\n\nDie Mineralölsteuer allein generiert &gt;36 Mrd. pro Jahr. Da wird netto also gar nichts subventioniert. Bei mir in der Stadt fahren die Busse übrigens auch mit Diesel.",
+        "date": "2024-09-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Bin da bei dir. Dieses \"der technische Fortschritt regelt\" ist purer BS. Die Effizienzgewinne sind oft auch nur sehr eindimensional. Dass man effizienter dabei ist Ackerwirtschaft zu betreiben, aber einfach weil man auch mehr Phosphor und Monokulturen benutzt birgt halt andere Probleme, Stichwirt Phosphorkrise.\n\nMoores law wie du auch gesagt hast ist nicht mehr gültig.\n\nMan muss sich nur mal denken wie vor 70 Jahren legitim die dachten wir würden jetzt schon im Weltall sein oder so.\n\nTechnischer Fortschritt ist auch bei der Förderung fossiler Rohstoffe mit drin, aber das bringt uns langfristig auch nix dass man noch effizienter Rohstoffe aus der Erde haut.",
+        "date": "2024-09-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das sie schlechte PR machen da gehe ich voll mit, aber das Heizungsgesetz ist[ durch die fossile Lobby zerstört worden](https://www.lobbycontrol.de/lobbyismus-und-klima/wie-die-gaslobby-das-heizungsgesetz-entkernt-hat-109931/), nicht durch die Grünen.",
+        "date": "2024-09-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ist doch von Anfang an meine Aussage gewesen: Die fossile Lobby hat dafür gesorgt das da absurde Ängste geschürt wurden, und am Ende glauben die Leute das sei alles unbezahlbar, was offensichtlich falsch ist.\n\nDas Gesetz selbst ist bei weitem nicht so schlecht wie ihm nachgesagt wird, es gibt großzügige Förderungen für sozial schwache (bis 70% der Kosten für die Heizung bei niedrigem Einkommen zb.), riesige Übergangszeiträume, und auch nur die Vorgabe von 65% regenerativem Heizen. Das läßt sich auch in einem ungedämmten Altbau trivial mit einer Klimaanlage realisieren während die Gas oder Ölheizung munter weiter in Betrieb bleibt.\n\nAber das einzige was bei den Leuten hängen bleibt ist: Habeck will die Gasnetze morgen rausreißen und eine Wärmepumpe kostet mich 300.000 EUR...",
+        "date": "2024-09-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Soviel Zeit hat die Industrie nicht, laut IPCC wird die Lebensmittelproduktion ohne fossile Brennstofe wenn sie weiterläuft wie jetzt +3°C bewirken. Auch laut IPCC wird ab +4°C die Landwirtschaft wie wir sie heute kennen nicht mehr existieren. Dann werden wir nicht mehr Tiere füttern können, dann werden wir uns überlegen müssen welche Menschen noch etwas zu essen bekommen.",
+        "date": "2024-09-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Coca Cola \n\nIst ein Sauhaufen und der größte Plastikmüllproduzent, ja.\n\n&gt;und Taylor Swift könnten als Duo gefühlt mehr für die Umwelt tun\n\nFliegen verursacht 2% der GHG und 3% der Erderwärmung, klar macht sie auch anderes und hätte viel Geld um viel zu bewegen.\n\n&gt; als ganz Deutschland gemeinsam\n\nEs geht nicht darum dass die Welt gerettet ist wenn nur Deutschland was macht, es geht darum dass es ohne Deutschland das sich mit der EU darauf geeinigt hat was zu machen nicht klappt.\n\n&gt; aber anstatt uns endlich auf die großen Kooperationen zu fokussieren \n\nJBS Cargill Tönnjes und so? Es geht hier um Ernährung, es fehlt auch nicht an Artikel und Diskussionen über Fossile Brennstoffe und Müllvermeidung. Es geht alles gemeinsam.\n\n&gt;versuchen auf ein Grundbedürfnis - aka Essen - Moral anzuheften. \n\nWenn es bei einen Grundbedürfnis wie Essen keine Moral geben darf wieso haben wir dann ~1990 Hundeschlachten verboten und 2010 sogar die Einfuhr von Hundefleisch für den menschlichen Verzehr? \n\n&gt;während Tonnen von Müll ins Meer geschmissen werden\n\nÄndert Fleischkonsum was daran? Fischfang verursacht 10% des Mülls im Meer.\n\n&gt;Fleisch ist eben einfach lecker \n\nJa, hat mir auch geschmeckt\n\n&gt;und in Maße auch gesund. \n\nDie DGE hat bei ihrer Empfehlung das politische Klima berücksichtigt sonst würde sie wie das Deutsche Diabetes Zentrum 0g empfehlen.\n\n  \n&gt;Warum tun hier so viele so als wäre eine Schande Fleisch zu essen?\n\nWarum tust du so als ob fliegen oder Coca Cola eine Schande ist? Es ist halt so, nur willst du das bei dieser einen Sache nicht wahr haben und lenkst auf andere ab\n\n&gt;Klopf bitte bei Jeff Bezos und Elon Musk ab die Tür anstatt den Ottonormalverbrauchen die Schuld an allen Problemen zu geben.\n\nBin dafür das auch zu machen, solange sich dafür keine Mehrheit findet unterstütze ich sie nicht. Das wirst du wohl auch machen und du könntest das gleiche auch mit tierischen Produkten machen.",
+        "date": "2024-09-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Wobei man zu den ersten zwei Punkten stets berücksichtigen muss, dass alles in der Ampelkoalition geschehen muss. Geht man nicht auf die Forderungen der FDP ein, kann diese die Koalition auflösen und nach Neuwahlen werden diese Dinge durch den Rechtsruck nochmal in schlimmerer Form angegangen.\n\nIch rede hier nicht von den letzten zwei Monaten, sondern von der ganzen bisherigen Legislaturperiode. Sich dermaßen zu verbiegen, um einer Witzpartei zu gefallen, ist absurd. Ja klar muss man Kompromisse eingehen, aber wenn immer nur eine Seite die Kompromisse eingeht und die andere Seite nicht mal auf den Tisch haut und klarstellt, dass die kleinste der drei Parteien nicht bei allem das Sagen hat, dann braucht man auch gar nicht erst in der Politik antreten.\n\nWir haben fossile Infrastruktur (nachweislich unnötige Überkapazitäten an LNG-Terminals) ausgebaut und der rechtzeitige Kohleausstieg wurde aufgegeben mit den Worten, dass der Markt das schon regeln würde (Habeck). Özdemir hat sich gegen den Naturschutz der EU gestellt; als die gemeckert hat, dass 2/3 der Krabbenfischerei im *Nationalpark* Wattenmeer stattfindet, hat er sich gegen die EU dafür eingesetzt, dass das so bleibt. Kurz danach ist er dann erstmal zum Deutschen Fleischkongress, damit er da mit Clemens Tönnies angrillen kann. Den Forderungen aus den rechten Bauerndemos wurde nachgegeben. Sein Waldgesetz macht alles nur schlimmer. Özdemir ist nur einen Nestlé-Werbespot von Klöckners Niveau entfernt. Lützerath wurde damals aufgegeben, die Mehrheit der grünen BDK hat für RWE gestimmt und danach schallten von allen Kanälen die Falschinformationen aus dem internen Memo, auf Parteimitglieder wurde massiv Druck ausgeübt (siehe zB. Interview von Nyke Slawik bei Thilo Jung). Die eigenen Positionen bei den Themen Flucht, Migration, Asyl wurden komplett über den Haufen geworfen, weil man irgendwie beim Rechtsruck mitspielen wollte, ohne zu realisieren, dass das nur den Rechten hilft. Und dann jetzt noch die Überwachungsorgie? Come fucking on. Die Partei hat einfach *alle* ihren grundlegenden Themen komplett aufgegeben.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "tatsächlich wissen viele, wann man regionalen Spargel \\*kaufen\\* kann.\n\nIn 90% der Fälle ist der erste Spargel aber aus dem Treibhaus/Folientunnel oder gar fossil beheizter Freilanderde...",
+        "date": "2024-09-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; sondern weil sie einen dämlichen Fehler nach dem anderen begehen und bei ihnen Ideologie über allem steht. \n\nBeispiel?\n\nWenn überhaupt, dann sind die Grünen in den letzten Jahren durch\nPragmatismus aufgefallen.\nWährend Covid *trotz* des einflussreichen Esoflügels.\nNach der Invasion der Ukraine *trotz* des Grundprogramms, dass\ngegen AKW und fossile Brennstoffe ausgerichtet ist; *trotz* pazifistischer\nAusrichtung.\nWährend der Bauernrevolte *trotz* Klimaschutz (armer Cem …).\nEtc. etc.\n\nIn den wirklichen Tiefpunkten dieser Regierung wie z. B. dem Rentenpaket\nkann ich jetzt keinen „ideologischen“ Hintergrund sehen.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die hatten die entsprechenden Ministerien und es gab keinen größeren Streit darum, die haben das selbst vorangetrieben.\n\nÖzdemir hat sich beim Schutz des Nationalparks Wattenmeer gegen die EU gestellt und die ist auch nicht von ner grünen Mehrheit besetzt. Die Partei hat zu großen Teilen vergessen, was ihr Existenzgrund ist, welche Lücke sie mal ausfüllen wollten. Wenn sie jetzt auf ihrer eigenen BDK mehrheitlich für Kohlekonzerne statt Klimaschutz stimmen, sich ohne Not gegen Naturschutz stellen und den Ausbau fossiler Infrastruktur mit Falschinformationen begründen, dann ist es nur eine weitere neoliberale Partei ohne Gesicht und Ideale. Kann dann auf den Haufen mit CDU und SPD, nimmt sich ja nix.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;das ist leider was du aktuell brauchst um irgendwie Leute abzuholen\n\nNein, ist es verdammt nochmal nicht. Es kann doch nicht sein, dass man echt immer noch so naiv ist und nicht checkt, dass rechte Politik nur Rechten hilft und nie, nie, nie denen, die mit rechter Politik \"Menschen abholen\" wollen. Wie oft muss dieser Unsinn denn noch scheitern, bis man das rafft?\n\n&gt;Denk mal daran zurück, wie Baerbock damals, nach dem kurzen Umfragehoch, zerrissen wurde.  \n\nVon rechten Hetzmedien, ja. Und? Heißt das, dass man denen entgegenkommen muss oder doch eher, dass Leute, die Veränderung nicht wollen, immer gegen jede Veranderung hetzen werden und man die ignoriert und sich auf gute Politik für die Menschen kümmert?\n\n&gt;Du kannst \"Charisma und schwarze Politik\" an die Spitze setzen und dennoch sinnvolle grüne Politik machen. \n\nAha. Das hat die Partei ohne schwarze Spitze schon nicht geschafft, aber mit schwarzer Spitze solls dann plötzlich weniger schwarze Politik geben? In welcher Welt funktioniert so eine Logik?\n\nSolange die Partei sich nicht mal wieder auf das besinnt, was sie auf dem Papier vorgibt zu sein, wird sie nur weiter Kernwählerschaft verlieren.\n\nE: Der Inhalt soll gleich bleiben? Der Inhalt der letzten Jahre war der nachweislich nicht notwendige Ausbau fossiler Infrastruktur und sowas wie die Blockade von EU-Vorgaben, die für mehr Umweltschutz sorgen sollten.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Ist der co2 Ausstoß an seinem Break Even in 18 Jahren im Vergleich zur unsanierten Nutzung\n\nSind hierbei die steigenden Kosten für fossile Energieträger berücksichtigt, die durch den europäischen CO2-Handel entstehen werden? Alleine bis 2030, also in 6 Jahren, werden sich diese Kosten vermutlich verdoppeln, bis dann irgendwann gar keine Zertifikate mehr ausgegeben werden.\n\nCapital, bekanntlich ein grünes Schmierblatt, schreibt dazu:\n\n&gt; Demnach müsste ein Vier-Personen-Haushalt mit Gasheizung in den nächsten 20 Jahren zwischen 15.300 und 16.200 Euro mehr aufbringen. Bei einer Ölheizung summieren sich die Mehrkosten sogar auf rund 18.500 bis 23.500 Euro. In Ein- oder Mehrfamilienhäusern lebende Singles tragen Zusatzbelastungen von 13.500 bis gut 21.000 Euro, wenn sie mit Öl heizen, und 9.700 bis 16.800 Euro, wenn sie eine Gastherme betreiben.\n\n[Quelle](https://www.capital.de/immobilien/co2-preis--der-klima-preishammer-koennte-erst-noch-kommen-33503164.html)\n\nDeshalb finde ich den forcierten Umstieg auf Wärmepumpen auch im Bestand richtig, damit der Preisschock ausbleibt. All die Modernisierungsmaßnahmen (Dämmung, Fenster etc) müssen bis dahin sowieso gemacht werden.\n\nFür Neubauten sowieso, aber da stimmst du mir vielleicht zu (?).\n\nUnd das andere Beispiel klingt für mich nach einem Thema für das Finanzamt, nicht das Wirtschaftsministerium, oder hab ich das falsch verstanden?",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;V.a. verliert man jegliches politisches Kapital, das man eigentlich dringend für Klimaschutz benötigt\n\nWelchen Klimaschutz denn? In den letzten Jahren haben wir hauptsächlich fossile Infrastruktur ausgebaut, die wir nachweislich nicht benötigen.\n\nPolitisches Kapital erhalten, um dann nichts damit zu machen, ist Bullshit. Dann hat man kein politisches Kapital, sondern einfach nur die eigenen Positionen aufgegeben.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Ich verstehe nicht wie man diesen Vorsprung und enormen Bonus den man durch FFF, Greta und Co. gesellschaftlich erhalten hatte so extrem verspielen konnte.\n\nIndem man den Verfechter:innen des Status Quo, den sogenannten Realos, das Ruder überlässt. Da wird sich dann jedem Bullshit von FDP und SPD gebeugt, statt mal eigene Werte zu vertreten und das Momentum der Klimabewegung zu nutzen (und zwar mit echter Klimapolitik, nicht mit Stimmen für RWE wie auf der eigenen BDK).\n\nEin besseres Wahlkampfgeschenk als die Klimaproteste gabs lange nicht für irgendeine Partei und die Grünen haben nichts daraus gemacht, außer unnötige fossile Infrastruktur auszubauen.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;      \n&gt; \n&gt; \n&gt; \n&gt; Welchen Klimaschutz denn? In den letzten Jahren haben wir hauptsächlich fossile Infrastruktur ausgebaut, die wir nachweislich nicht benötigen.\n\nDie aktuelle Regierung hat so viel für den Ausbau des Klimaschutzes getan wie keine andere Regierung davor auch nur annähernd.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die letzten Jahre vom Realo-Bullshit haben dem Klima auf jeden Fall nicht geholfen. Wir haben massiv fossile Infrastruktur ausgebaut und tun es immer noch, obwohl wir die nachweislich nicht benötigen (und das wussten wir auch vor dem Ausbau). Eine Agrarwende ist auch nicht in Sicht, weil Özdemir nur einen Nestlé-Werbespot von Klöckners Niveau entfernt ist, Waldschutz ist auch hinüber, Einschränkung der Nationalparkzerstörung wie von der EU gefordert wurde ebenfalls torpediert und für all den Mist verrät man dann alle Werte, die man angeblich hat und trägt das ganze Treten nach Unten und den Rechtsruck sowie Überwachungsstaat mit. Das sind keine Kompromisse, das ist Aufgeben.\n\nAbgesehen davon ist das 1,5-Grad-Ziel bereits der Kompromiss vom Kompromiss des Kompromisses. Irgendwann ist auch mal gut.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Willst du jetzt bestreiten, dass wir unnötige fossile Infrastruktur ausgebaut haben und dafür sogar auf Umweltverträglichkeitsprüfungen verzichtet haben, nur um dann dumme Lock-In-Effekte zu haben, die jetzt erstmal weggeklagt werden müssen?\n\nWie war das mit den Sektorzielen, die aufgehoben wurden? Jetzt noch schnell ne Förderung für die Blechlawinenindustrie hinterher und dann hat man ganz toll Klimaschutz vorgegaukelt. Ach ja, und ganz nebenbei hat man den vorgezogenen Kohleausstieg beendet und gesagt, dass der Markt das schon regeln wird und die Konzerne ja früher aussteigen können, wenn sie möchten. Klar, weil Kohlekonzerne von Nächstenliebe geprägt sind.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ausbau fossiler Infrastruktur, Mitmachen beim Treten nach Unten (sei es nun Bezahlkarten, Abschiebebullshit oder oder oder) und Überwachungsorgien, Mehrheit für nen Kohlekonzern bei der BDK, Widerstand gegen eine Eindämmung der Nationalparkzerstörung, verpatzter Waldschutz, Özdemirs Kuscheln mit rechten Bauerngruppierungen... Die Liste ist lang. Nichts davon ist linksliberal.",
+        "date": "2024-09-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Desinformation? Kanns sein, dass du einfach unfassbar schlecht über die Vorgänge in Deutschland informiert bist oder willst du nur trollen?\n\nFür den Mist wurde sogar extra ein [Gesetz](https://www.gesetze-im-internet.de/lngg/BJNR080200022.html) erlassen, durch das u.a. dann Umweltverträglichkeitsprüfungen zugunsten von fossiler Infrastruktur ausgesetzt werden konnten. Die Terminals haben wir zwar nicht für die Versorgungssicherheit benötigt - wie die Wissenschaft ja vorher bereits gesagt hatte - und jetzt werden sie wohl illegal genutzt, damit sie Geld bringen, aber klar, rede du mal weiter von Desinformation.",
+        "date": "2024-09-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; \"Treffen sich zwei Linke, bilden sie fünf Splittergruppen.\"\n\nWir sind die Volksfront Judäas...\n\n&gt; Es fehlt an realistischen Positionen und Visionen, die für die breite Bevölkerung ansprechend sind.\n\nDie gibt es eben auch nicht. Die einzige realistische Position ist daß das fossile Schlaraffenland der letzten 60 Jahre zu Ende kommt. Jeden Tag Fleisch, jedes Jahr mit dem Flieger in den Urlaub, dickes Auto vor dem Tür – das ist nicht nachhaltig und ist auch nicht mit ein bisschen Technologie nachhaltig zu machen. Diese Botschaft ist vielleicht nicht \"für die breite Bevölkerung ansprechend\" aber es ist die Wahrheit, und jede Partei die sich nicht mit dieser Wahrheit auseinandersetzt täuscht die Wähler und sich selbst.",
+        "date": "2024-09-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Und dann gibt's keine Partei mehr im Bundestag die wirklich das Klima retten will?\n\nGibts jetzt auch nicht.\n\n&gt;Klima ist momentan das was wirklich wichtig ist, da läuft uns die Zeit ab. Alles andere kann man später noch machen.\n\nAbgesehen davon, dass man mehr als ein Thema bearbeiten kann, sag das doch mal den Grünen. Wir haben in den letzten Jahren unter der Ampel ne Menge fossile Infrastruktur ausgebaut und tun es noch, obwohl wir die nachweislich nicht benötigen. Özdemir hat für die Agrarwende keinen Finger krumm gemacht und so ziemlich alle anderen Bereiche verzeichnen auch keinen Fortschritt.",
+        "date": "2024-09-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Die Gasmangellage hat Habeck sehr kompetent verhindert und uns super aus der Abhängigkeit vom Russischen Gas geführt.\n\nMit dem Ausbau fossiler Infrastruktur, die wir nachweislich nicht brauchen. Ja, ganz toll /s",
+        "date": "2024-09-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Es gibt viele Dinge, bei denen man Kompromisse machen kann und muss. Und dann gibt es Dinge, bei denen das nicht geht. Das 1,5-Grad-Ziel zb ist schon der Kompromiss vom Kompromiss des Kompromisses. Irgendwann muss da mal Ende sein.\n\nDie Grünen haben in der Ampel den Ausbau von nachweislich nicht benötigter fossiler Infrastruktur vorangebracht und das mehrheitliche Abstimmen für RWE und gegen Lützerath sitzt vielen Menschen, die vor Ort waren, auch immer noch in den Knochen. Berechtigterweise, denn die Grünen haben sich für ihre Fehler auch nie entschuldigt und immer nur noch einen oben drauf gesetzt - wie zB Habeck vor nicht allzu langer Zeit, als er den rechtzeitigen Kohleausstieg beerdigt hat und meinte, dass der Markt das ja regelt, denn die Kohlekonzerne könnten ja freiwillig mit dem Mist aufhören.\n\nSowas hinterlässt Spuren. Die Grünen hatten ihren Aufwind aus der Klimabewegung. Die haben sie jetzt mit Füßen getreten und das Resultat gibts eben jetzt.",
+        "date": "2024-09-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Hat dir mal jemand erklärt, dass auch ohne Sondervermögen sehr viel mehr möglich und nötig gewesen wäre? Allein das Landwirtschaftsministerium hat NICHTS vorangebracht und sich sogar noch gegen Umweltschutz der EU gestellt. Es würde ein Gesetz beschlossen, das den nachweislich nicht notwendigen Ausbau fossiler Infrastruktur beschleunigt und Umweltvertraglichkeitsprüfungen in dem Kontext abschafft. Der rechtzeitige Kohleausstieg wurde von Habeck neulich mal eben so aufgegeben, der Markt würde das ja regeln und die Kohlekonzerne könnten ja immer noch freiwillig aussteigen.\n\nDas ist der Klima- und Umweltschutz der Grünen in der Ampel. Und da wundern sich Leute, dass die GJ keinen Bock mehr hat, diese konservative Müllpolitik mitzutragen?",
+        "date": "2024-09-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nichts davon hat was mit dem Ausbau NICHT BENÖTIGTER fossiler Infrastruktur zu tun. Vielleicht sind dir die Worte fremd, aber \"nicht benötigt\" heißt, dass wir weder die Infrastruktur noch das Erdgas aus dieser Infrastruktur für irgendwas tatsächlich brauchen. Weder zum Heizen noch zum Verstromen noch für Prozesswärme oder stoffliche Verwendung.",
+        "date": "2024-09-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Mit dieser Einstellung verfehlen wir auch das 6-Grad-Ziel\n\nTun wir ja jetzt auch. Wir sind auf dem Pfad des schlimmsten Szenarios aus dem IPCC AR6.\n\n&gt;und dann wegen genau dieser kompromisslosigkeit keine einzige Verordnung durchsetzen zu können die auch nur entfernt in die Richtung Klimaschutz steuert?\n\nKleine Erinnerung daran, dass wir auch in den letzten Jahren wenig bis gar nichts für und ne Menge gegen den Klimaschutz getan haben - auch und insbesondere aus grünen Ministerien. Agrarwende ist nicht mal begonnen, Cem Özdemir trifft sich lieber mit Clemens Tönnies zum Angrillen beim Deutschen Fleischkongress oder kuschelt mit rechten Bauerngruppierungen bei den Protesten (auch wenn die nicht zurückkuscheln) für den Stimmenfang. Bei der EU setzt er sich gegen das Ende der Nationalparkzerstörung ein. Und Habeck hat vor relativ kurzer Zeit (Juli) erst den rechtzeitigen Kohleausstieg aufgegeben, der Markt würde das ja regeln und die Kohlekonzerne könnten ja immer noch freiwillig aussteigen. Dazu wurde fossile Infrastruktur stark ausgebaut, obwohl wir die nachweislich nicht benötigen und die Mehrheit der Delegierten bei der BDK hat für RWE und gegen Lützerath gestimmt. RWE hat den Deal natürlich gleich gebrochen und die Grünen haben auf allen erdenklichen Social Media-Accounts Falschinformationen verbreitet, aber wen juckt das schon.\n\nKompromiss bedeutet, dass beide Seiten Abstriche machen. Bisher wurden nur beim Klimaschutz Abstriche gemacht. Das sind keine Kompromisse, sondern das ist Aufgeben.",
+        "date": "2024-09-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Zumindest in Klima und sozialfragen willst du doch nicht ernsthaft eine Rechte Merz-CDU mit den Grünen in einen Topf werfen.\n\nSchauen wir mal, was die Grünen so in den letzten Jahren veranstaltet haben: fröhliches Mitmachen beim Treten nach Unten (Bezahlkarte, Abschiebefanatismus mal als Beispiele), nachweislich unnötiger Ausbau fossiler Infrastruktur, kein noch so kleiner Schritt in Richtung Agrarwende (dafür tritt Özdemir gegen den Schutz vom Nationalpark Wattenmeer an und gegen den Waldschutz). Dazu haben sie dann noch auf ihrer eigenen BDK (also komplett ohne den Druck der anderen beiden Ampelparteien) mehrheitlich für RWE und gegen Lützerath gestimmt. Dazu noch die Überwachung mittragen, wie sie sich die AfD in ihren feuchtesten Träumen nicht wünschen könnte.\n\nWo genau ist da der Unterschied zur Union?\n\n&gt;Eine linkes/soziales Deutschland bleibt das Ziel.\n\nDafür brauchen wir aber größere linke Parteien und die gibts aktuell nicht.",
+        "date": "2024-09-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;trotzdem war mir seit Jahren klar, dass das 1,5 Grad Ziel ein Rohrkrepierer ist.\n\nNoch haben wirs nicht gerissen (immer dran denken, dass das Pariser Abkommen von \"deutlich unter 2 Grad\" und so weit wie möglich Richtung 1,5 Grad spricht). Und selbst wenn wirs reißen, dann zählt trotzdem jedes Zehntelgrad. 2 Grad ist besser als 2,1 Grad, was wiederum besser ist als 2,2 Grad und so weiter.\n\n&gt;Aber in einer Koalition geht das halt nur, wenn man wo anders zurück steckt.  \n\nZurückstecken beim Klimaschutz für... nichts? Der Ausbau fossiler Infrastruktur war nachweislich nicht notwendig und ist es immer noch nicht. Das wusste man vorher und das weiß man jetzt. Dafür werden Terminals jetzt wohl teilweise illegal verwendet, weil der von allen Expert:innen vorhergesagte Lock-In-Effekt eintritt. Ist ja gebaut, also muss man auch Geld damit verdienen.",
+        "date": "2024-09-26",
+        "sentiment": "neutral"
+    }
+]

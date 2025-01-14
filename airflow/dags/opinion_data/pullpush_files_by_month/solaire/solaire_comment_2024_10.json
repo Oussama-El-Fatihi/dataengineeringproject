@@ -1,0 +1,212 @@
+[
+    {
+        "text": "&gt; « *La production d’hydrogène vert est aussi un moyen d’apporter de la flexibilité au réseau électrique* », appuie Michel Gioria, secrétaire général de France renouvelables.\n\n&gt; Les électrolyseurs peuvent moduler leur production pour l’adapter à l’intermittence de l’éolien ou du solaire. Certaines industries ont toutefois besoin d’un apport constant d’hydrogène. La modularité de la production doit s’accompagner de capacités de stockage pour amortir ces à-coups. **Storengie, une filiale d’Engie, teste déjà la possibilité de conserver cette molécule dans des cavités salines, utilisées jusqu’à présent pour constituer des réserves de gaz naturel. Il faudrait aussi déployer un réseau de pipelines, sachant que la moitié de celui-ci pourrait reposer sur des infrastructures gazières existantes, selon une étude réalisée par GRDF et RTE, respectivement gestionnaire du réseau de transport de gaz et d’électricité**  « *Les bénéfices pour le système électrique couvrent largement les coûts de développement d’un système hydrogène flexible* », précise cette étude. ",
+        "date": "2024-10-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "L'hydrogène est un absurde puit sans fond à gaspiller de la thune, de l'énergie et qui justifie le maintien d'infrastructures pétrolièrs. Sinon on peut investir dans ce qui fonctionne, coûte peu cher et à un bien meilleur rendement. Eolien, solaire, hydro et batteries.",
+        "date": "2024-10-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Rien ne va dans ta réponse... \n\nL'éolien et le solaire sont intermittents, donc soit on stocke l'énergie (hydrogène par exemple, soit batteries mais il faut masse de matières premières pour stocker une quantité d'énergie suffisante pour pallier à l'intermittence si on ne fait que ça).\n\nL'hydro ? Mais t'en mets où en France ? On a couvert partout où c'était intéressant. Si on peut encore monter des barrages c'est sur des ruisseaux... on a couvert 97% de ce qu'on pouvait en France, le reste aurait un coût trop important pour ce qu'on en retirerait.\n\nLes batteries ? Il en faudrait des montagnes.\n\nL'hydrogène n'est pas la solution miracle à tout, mais faut arrêter de vouloir mettre de l'éolien et du solaire partout sans réfléchir à ce qu'il faut pour compenser l'intermittence. Si t'as pas de solution pour contrer, c'est full gaz/pétrole/charbon en parallèle. Solution au top. /s",
+        "date": "2024-10-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Alors s'ils y ont pensé mais :\n1) Le politique s'en est sérieusement mêlé.\n2) A l'époque où ces arbitrages ont été faits les coûts et rendements de l'éolien, du solaire et des batteries étaient des dizaines de fois supérieurs à aujourd'hui.\n3) Les ingénieurs non impliqués idéologiquement dans le nucléaire et qui juste regardent les données factuelles arrivent à la même conclusion aujourd'hui.",
+        "date": "2024-10-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les batteries peuvent tout assurer sauf l'intersaison.\nPour ça il va falloir avoir recours à de l'hydro et de la modulation de la demande.\nLes lignes continentales à courant continu vont devenir cruciales également pour équilibrer les réseaux sur de grandes distances avec des gisements de vents et solaires non corrélés",
+        "date": "2024-10-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ce dont on parle trop peu avec l'houlomoteur c'est l'empreinte matière de la technologie. Si c'est si lent à se développer alors qu'on a des projets de toutes natures depuis 60 ans, ce n'est pas complètement un hasard. Des trucs qui bougent dans l'eau, on en fait depuis des siècles (les bateaux), alors pourquoi l'hydrolien et l'houlomoteur peinent tant ? \n\nEt bien c'est parce que ça demande une sophistication considérable pour survivre aux agressions marines (chimique, biologique, minérale) et des machines colossales pour récolter un peu d'énergie.\n\nCe dernier point saute aux yeux sur l'image d'illustration ; on sent qu'on parle en centaines de tonnes d'acier pour brasser de l'ordre du MW et, on s'en doute, pas avec une espérance de vie de 20 ans. \n\nC'est déjà une critique que l'on peut faire au solaire et à l'éolien ; si l'houlomoteur fait, imaginons (à défaut d'avoir des chiffres), trois fois pire, est-ce que ça vaut vraiment la peine de s'attarder sur ce gouffre à acier ?",
+        "date": "2024-10-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;PS: Remarquer que ce stockage thermique est avantageux quand l'énergie à stocker est déjà sous forme de chaleur (revalorisation de biomasse par exemple).\n\nExactement. Ou solaire thermique.",
+        "date": "2024-10-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Ce rendement est-il accessible avec des températures habituelles de combustion ?\n\nOui. En fait l'électrolyse à haute température est un procès qui permet d'apporter de l'énergie thermique à l'électrolyse à la fois de l'électricité. Cela augmente le rendement de la réaction quand l'énergie thermique est présente.\n\nDans un extrême t'as l'électrolyse classique (à température ambiante) où l'intégralité de l'énergie provient d'électricité.\n\nDans l'autre extrême t'as la thermocraquage de l'eau où 100% de l'énergie provient de la chaleur. Pour ceci il faut des températures supérieures à 2500C, ce qu'on peut obtenir dans des centrales à concentration solaire.\n\n&gt;Tu as oublié de prendre en compte la compression du H2 dans la cavité. Sauf à réussir à valoriser la chaleur fatale (dans un stockage inter-saisonnier ;-) ), c'est malheureusement une source importante de pertes.\n\nCes cavités salines sont normalement des anciens puits de gaz naturel (qui ont été vidés) donc ils ont naturellement stocké un gaz. Le H2 injecté dans une cavité saline n'est pas compressé (au moins c'est loin des niveaux de compression utilisés pour stocker H2 dans des réservoirs pressurisés).",
+        "date": "2024-10-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "On ne peu pas tout amortir sur le long terme. \n\nNon les projets pilotes n’ont pas vocation à être rentable, regarde les routes solaires. \n\nJe ne suis pas forcément contre hein",
+        "date": "2024-10-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;On ne peu pas tout amortir sur le long terme. \n\nC'est pas faux, mais malheureusement notre économie n'est pas trop faite pour diriger de l'argent dans des améliorations qui n'apportent pas de retour en capital... Ce type d'opérations à perte de capital est normalement à charge des contribuables ou des citoyens (par moyen de dons).\n\n&gt;Non les projets pilotes n’ont pas vocation à être rentable, regarde les routes solaires. \n\nNon mais attends, les routes solaires ne devraient même pas avoir passé l'étape d'étude de rentabilité et de faisabilité. Le fiasco a dû être évident dès le début.",
+        "date": "2024-10-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sacré manque d'honnêteté intellectuelle ici... Le lait pour le corps, le lait solaire et autres sont clairement indiqués comme un produit d'hygiène/beau qui ne se mange pas.\n\nLe lait d'amande est clairement indiqué comme un lait alimentaire et en plus promu comme meilleur pour la santé (ce qui pour un adulte n'est pas faux), avec les infos nutritionnelles minimalistes sur les macronutrients écrits en tout petit et que la moitié des français ne comprennent pas.\n\n Justement le problème c'est que le lait d'amande est comestible, est spécifiquement fait et vendu pour remplacer le lait de vache, et est proposé comme une alternative directe, vegan (donc éthique) et meilleure pour la santé. Évidemment que ça porte à confusion pour le parent moyen qui veut juste donner du lait à son bébé et qui veut le truc le plus healthy et responsable pour son jeune enfant. Donc non c'est absolument pas comparable avec le lait pour le corps surgras au beurre de karité ou le lait solaire indice 50 qui dit aux gogoles de pas le bouffer.",
+        "date": "2024-10-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sauf erreur de ma part pour le nettoyage des panneaux solaire pas besoin de faire venir des chinois :D",
+        "date": "2024-10-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ton téléphone, tes fringues ils peuvent venir de Chine et ton pétrole peut venir d’Arabie Saoudite mais produire sa propre électricité avec des panneaux solaires : pas question !",
+        "date": "2024-10-10",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Le secateur ou le râteau n'ont ni le meme niveau de complexité, ni le même niveau de réparabilité, ni la même diversité de matériaux, ni la même robustesse, ni la même dépendance à une longue chaîne industrielle hyper spécialisée, ni ne résultent d'un enchevêtrement de strates technologiques aussi poussé que les panneaux solaire.\n\nLe rapprochement est donc plutôt bancal.\n\nLe problème des panneaux solaires, c'est leur apparente simplicité, qui donne l'impression qu'il sont, dans l'instant, exempts de toutes ces dépendances – alors que leur existence est directement lié à celle d'un système techno-industriel complexe.\n\nAucun souci pour que des gens s'en servent. C'est mon cas également.\nMais parler \"d'autonomie\" ou de \"circuit court\", c'est participer à un greenwashing qui pousse à la paresse intellectuelle et empêche de se poser, à terme, les vraies questions (comment consommer moins, au lieu de chercher à juste consommer autrement)",
+        "date": "2024-10-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Cette affirmation est trop générale. Tout dépend de comment tu définis : \n- La \"localité\" (parcelle, quartier, village, région, pays... ?)\n- La \"production\" (nourriture, outils en bois, électronique complexe... ?)\n- Les \"intrants\" (un fleuve qui rentre dans ce périmètre est-il un intrant ? Du polen porté par un insecte ? Des photons vennus du soleil ?)\n\nOui, dans l'absolu,  en thermodynamique hors-équilibre, tout système maintient son organisation interne en étant ouvert sur des flux de matière et d'énergie. Dans le vivant au sens large, la pure localité n'existe donc pas.\n\nMais il existe quand même différents degrés de dépendances aux externalités. Les panneaux solaires sont  très hauts sur cette échelle de la dépendance (nombreux matériaux, acteurs industriels, chaînes logistiques, savoirs experts qui proviennent tous de l'extérieur du système... sauf si tu considères que ton système est la Terre, ce qui n'est pas une définition très courante du mot \"local\")\n\nPeut-on se défaire de ces dépendances ? C'est une autre question. Je ne blâme pas le fait de ne pas y parvenir.\nMoi-même, je trouve le solaire intéressant et pratique pour tout un tas de raisons.\n\nPar contre, dire qu'on consomme \"local\" quand on utilise des produits aussi high tech que des panneaux solaires, j'appelle ça de la malhonnêteté intellectuelle (ou de la naïveté).",
+        "date": "2024-10-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "En version fr \ntrop de panneau solaire donc pas de consommation sur le réseau classique donc effondrement de la tension = panne généralisée évitée https://www.jeuxvideo.com/news/1931603/tant-d-australiens-ont-des-panneaux-solaires-sur-leurs-toits-que-le-reseau-electrique-est-au-bord-du-gouffre.htm",
+        "date": "2024-10-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sauf erreur de ma part, le thorium, la Chine s'y met avec les premières applications industrielles (la construction du réacteur commence l'an prochain), et si j'ai bien compris, il n'y a rien de plus dans la technologie que de la surgénération que nous maîtrisions déjà dans les années 90 (Phenix / SuperPhenix), l'uranium en utilisation classique, il nous reste une bonne centaine d'années de réserve je crois, mais avec la surgénération, ça peut durer extrêmement longtemps.\n\nOui, je sais que déployer une technologie est autre chose que la découvrir en labo. Par contre, ça va quand même de plus en plus vite, et tous ceux qui prédisent comment ça va se passer se plantent  en général, soit en prédisant les voitures volantes pour après-demain, soit en ronchonnant que rien n'est possible façon JM Jancovici (dont j'admire en général les analyses, mais dont je pense que ce point-là est son talon d'Achille). Au passage, il y a maintenant des initiatives pour faire du nucléaire plus souple / plus rapide, l'émergence d'un acteur qui fasse au nucléaire ce que Space X a fait au spatial (complètement massacrer les acteurs existants) semble assez probable.\n\nSur l'IA, les études faites actuellement sur la pollution qu'elle engendre ne valent à mon avis pas grand chose, la technologie étant encore en train à la fois de trouver ses usages, et d'optimiser son matériel (Tesla est notamment en train de construire des puces faites exactement pour l'entraînement de l'IA, et faire des puces spécifiques à un usage plutôt que générales peut multiplier l'efficacité énergétique par un facteur 5 à 100). Ce que je constate, c'est qu'on peut déjà aujourd'hui sur certaines tâches remplacer un mois de travail d'un humain (soit 2000€ dont on va dire 10-20% en énergie pure) par 20€ d'IA. Et l'ordinateur permettant a peu près la conduite autonome consomme je crois 200W. 200W pour remplacer un conducteur, c'est plutôt bien.\n\nBon, quand on met tout cela ensemble, c'est impossible de prédire exactement si ça va 'passer crème' (on déploie le solaire, l'hydrogène et le nucléaire et il n'y a pas de baisse du niveau de vie), si ce sera dur (la même chose avec le retour à un mode de vie plus basique, par exemple, de la viande 3 fois par an, maisons peu chauffées, on repasse au porno sur DVD plutôt que sur Internet...), ou s'il y aura des drames majeurs, mais même dans le pire des cas, je ne vois aucun scenario où la France ne peut survivre avec a peu près sa population actuelle.\n\nJ'ai l'impression que tu as une base de culture générale sur le sujet, pas affreuse, mais clairement pas assez poussée pour avoir un avis tranché comme tu te le permets ;-)",
+        "date": "2024-10-13",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le mix énergétique européen n'a pas de sens. Les pays du nord veulent installer des panneaux solaires et les italiens investissent dans le nucléaire.\n\nJe ne suis pas contre le nucléaire mais avec leur niveau de corruption et l'état de certaines de leurs infrastructures, je ne suis pas complètement serein.",
+        "date": "2024-10-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Le mix énergétique européen n'a pas de sens. Les pays du nord veulent installer des panneaux solaires et les italiens investissent dans le nucléaire.\n\nNon, tu racontes n'importe quoi.\n\nLes pays du nord investissent majoritairement dans l'énergie éolienne et hydraulique. Il en produisent tellement qu'il y a plusieurs projets visant à acheminer cette énergie vers le reste de l'UE.\n\nL'exploitation du photovoltaïque dans l'UE reste marginale par rapport à des pays comme le Maroc..\n\n[https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023](https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023)\n\nhttps://preview.redd.it/a4k2nv7cqbwd1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=37c3a351a3dd88248cd6836795e80702676009a5",
+        "date": "2024-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Le mix énergétique européen n'a pas de sens. Les pays du nord veulent installer des panneaux solaires et les italiens investissent dans le nucléaire.\n\nNon, tu racontes n'importe quoi.\n\nLes pays du nord investissent majoritairement dans l'énergie éolienne et hydraulique. Il en produisent tellement qu'il y a plusieurs projets visant à acheminer cette énergie vers le reste de l'UE.\n\nL'exploitation du photovoltaïque dans l'UE reste marginale par rapport à des pays comme le Maroc..\n\n[https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023](https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023)\n\nhttps://preview.redd.it/39y1rpujqbwd1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=06e914e1d4e900107c6a113724842d6b78da723e",
+        "date": "2024-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;On est d'accord que la production d'hydrogène \"vert\" c'est eau + énergie renouvelable ?\n\nEssentiellement, oui .\n\n&gt;Est-ce que le réseau électrique Algérien est riche en énergie renouvelable ? Plus riche que l'Europe ?\n\nNon, l'électricité Algérienne est encore très carbonné. Mais ils sont en train d'investir énormément sur les EnR, notamment le photovoltaïque :\n\n[Un Mega projet d’énergie solaire en Algérie. Des entreprises de 15 pays entrent en compétition](https://www.algerie-focus.com/un-mega-projet-denergie-solaire-en-algerie-des-entreprises-de-15-pays-entrent-en-competition/)\n\nLa production d'hydrogène vert n'implique pas forcément l'utilisation d'électricité renouvelable qui pourrait être destinée à la consommation électrique et c'est certainement le cas car économiquement aujourd'hui ça ne ferait pas du sens. Par contre, les EnR comme le photovoltaïque sont intermittentes (pas de soleil la nuit) donc la production d'hydrogène vert permet le surdimensionnement des EnR en permettant produire de l'hydrogène à partir du surplus de production EnR. Ce hydrogène peut être utilisé comme un moyen de stockage (pour combler l'intermittence des EnRs) et exporté vers les voisins (l'UE).\n\nhttps://preview.redd.it/vbbwddjm4wwd1.png?width=790&amp;format=pjpg&amp;auto=webp&amp;s=0d44887a2b7f55b8afa7066f3140d6cebaf4f978",
+        "date": "2024-10-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;On est d'accord que la production d'hydrogène \"vert\" c'est eau + énergie renouvelable ?\n\nEssentiellement, oui .\n\n&gt;Est-ce que le réseau électrique Algérien est riche en énergie renouvelable ? Plus riche que l'Europe ?\n\nNon, l'électricité Algérienne est encore très carbonné. Mais ils sont en train d'investir énormément sur les EnR, notamment le photovoltaïque :\n\n[Un Mega projet d’énergie solaire en Algérie. Des entreprises de 15 pays entrent en compétition](https://www.algerie-focus.com/un-mega-projet-denergie-solaire-en-algerie-des-entreprises-de-15-pays-entrent-en-competition/)\n\nLa production d'hydrogène vert n'implique pas forcément l'utilisation d'électricité renouvelable qui pourrait être destinée à la consommation électrique et c'est certainement pas le cas car économiquement aujourd'hui ça ne ferait pas du sens. Par contre, les EnR comme le photovoltaïque sont intermittentes (pas de soleil la nuit) donc la production d'hydrogène vert permet le surdimensionnement des EnR en permettant produire de l'hydrogène à partir du surplus de production EnR. Ce hydrogène peut être utilisé comme un moyen de stockage (pour combler l'intermittence des EnRs) et exporté vers les voisins (l'UE).\n\nhttps://preview.redd.it/2ean13rt4wwd1.png?width=790&amp;format=pjpg&amp;auto=webp&amp;s=4f60ece2c9f47c0dd3f7bea840d944c012d30099",
+        "date": "2024-10-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "À la fin, puisqu'il faut construire des infrastructures et investir à partir de pas grand chose, autant investir à fond en Europe. \n\nCar je veux bien qu'au niveau solaire le désert algérien soit plus intéressant (et encore, à voir pour l'efficacité des panneaux à HT et les problématiques de nettoyage à cause du sable) mais entre ça et le fait qu'en face on a un pays politiquement moyennement stable, corrompu et une dictature qui nous est hostile ; franchement je vois pas la logique.\n\nSi c'est juste pour se servir des infrastructures existantes à savoir les pipelines de gaz, ça me paraît faible. Si c'est pour transformer et réutiliser les terminaux gaziers en Europe, autant produire notre H2 à côté.",
+        "date": "2024-10-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Avant que les \"muh intermittence\" n'interviennent : le pic de conso journalier en Europe est au midi solaire, donc ça colle plutôt bien aux besoins. Et surtout, vu le mix énergétique précédent, chaque MWh produit avec le renouvelable déployé ces dernières années en Europe remplace littéralement un MWh produit avec des énergies fossiles (charbon, gaz ou fioul). La chute du charbon en 15 ans fait plaisir à voir https://ember-energy.org/data/electricity-data-explorer/ de 1300 TWh à 730TWh.",
+        "date": "2024-10-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "surtout de toucher les subventions publiques avant de fermer la boutique et de partir avec la caisse. Voir la route magique solaire.",
+        "date": "2024-10-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "14h l’été c’est le midi solaire.",
+        "date": "2024-10-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;des raisonnements tirés par les cheveux et qui ne se basent sur aucune source. Les gens te répondent avec des faits et citent des sources mais ce qui ne vas pas dans ton sens c'est ignoré\n\nMalgré tous les \"progrès technologiques\", les impacts environnementaux (émissions, chute de la biodiversité, etc.) ne cessent d'augmenter au global depuis le début de révolution industrielle. Même en normalisant par la population.\n\nEst-ce que tu nies cela ? Parce que si c'est le cas, alors c'est plutôt toi qui ignores les sources qui ne vont pas dans ton sens.\n\nLa charge de la preuve n'est pas de mon côté, ce que je dis est déjà avéré.  \n  \nElle est du côté de ceux qui affirment que les optimisations technologiques vont vers l'écologie. Ce qu'aucun chiffre ne confirme si on regarde le problème à la seule échelle qui nous intéresse en écologie : la planète entière (et pas une entreprise ou une région isolée qui \"diminue\" ses impacts en important des produits et en exportant des polluants - donc en trichant)\n\nLe fait de montrer, par exemple, que le rendement des panneaux solaires a été amélioré ne constitue pas une preuve que les panneaux sont écolos dans leur ensemble. Ca permet juste de montrer qu'ils optimisent localement une sous-partie d'un problème plus large. Mais faire ce genre d'analyse, ça s'appelle faire de l'ingénierie. Pas de l'écologie.  \n  \nIl faudrait montrer qu'ils un impact NET positif. C'est à dire démontrer que cette amélioration du rendement n'a pas été atteinte au prix de plus d'impacts ailleurs. Que ce soit dans la R&amp;D, l'extraction des matières, la production, etc.  \nJ'attends la source qui montre que l'arrivée du solaire a permis de diminuer l'impact humain dans sa globalité.  \n  \nRésumé :   \n\\- Les impacts environnementaux en tous genres ne cessent d'augmenter au global (malgré les \"progrès technologiques\"). C'est un fait.  \n\\- Certaines personnes disent que la technologie permettrait de réduire ça : on attend des sources.",
+        "date": "2024-10-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sur la partie production locale, même à l'échelle de l'Europe, il est utopique de penser que le panneau solaire portugais va compenser l'absence de vent en mer du nord.",
+        "date": "2024-10-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "L'économie de la chine reposant beaucoup sur l'industrie, ses besoins énergétiques ne sont pas les mêmes.\nAussi ces investissements massifs dans le solaires sont dues à leurs dépendance au charbon australien qui est un de leur adversaire géopolitique. \n\nAprès je ne dis pas non plus que c'est une mauvaise choses qu'ils investissent dans le solaire, mais l'installation d'énergie decarbonnée est plus un heureux accident. Aussi, ils ne decarbonnent pas leur source d'énergie puisqu'ils ont une telle demande qu'ils augmentent leur capacité de charbon. On a souvent l'impression que les enr ont un impact positif sur le climat mais non ellesont juste un impact beaucoup plus réduit que leurs alternatives. En fait l'impact carbone de la chine est en augmentation. En europe on essaye de réduire la capacité fossile pour la remplacer par des enr. C'est pas du tout la même chose en terme de coût quand tu as un besoin croissant:\n\nLa tu dois détruire une infrastructures fonctionelle pour la remplacer par autre chose. Les coûts s'additionnent en plus du cout de deconstrucrion. \nSi tu es en croissance de capacité, faire le choix d'enr plutôt que du fossile soustrait les couts puisque ce que tu construits en enr, tu n'as pas besoin de le construire en fossile.",
+        "date": "2024-10-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ce qu’il te manque c’est surtout une vision globale.\n- matière première\n- chaîne de production\n- emplacement d’exploitation\n\n1. L’Europe ne dispose pas des matières premières. D’ailleurs, dès qu’un projet d’exploitation minière est envisagé on a un mur d’écologistes qui se dresse.\nEn Chine, c’est bien différent. On ne se soucie que peu des impacts sur ce point.\n2. En Europe, il n’y a pas de chaîne de production qui permettent un tel développement. En Chine, si! D’ailleurs financé en grande partie par l’Europe (importation, subventions, recherches).\n3. Partons du principe que le 1 et 2 ne soient pas des problèmes. On va donc raser des forêts pour installer tes panneaux solaires. Dans deux ans, tu posteras en nous expliquant que l’Europe a perdu 40% de ses forêts alors que la Chine 0%. Et bien oui, en Europe, tu l’auras peut-être remarqué on a pas de désert.\n\nQuand on veut comparer des situations, il faut déjà lister les contraintes de chaque environnement. Et on pourrait encore étoffer la liste mais je pense que tu as compris le principe.",
+        "date": "2024-10-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je suis pro nucléaire, mais je pense que c'est une bonne solution seulement pour certains pays. Le nucleaire necessite des competences tres particulieres, alors que combo energies renouvelables - stockage ne necessite pas autant d'expertise ni de controle. Pour la plupart des pays, il est beaucoup plus simple d'importer des palettes de panneaux solaires made in China a des tarifs extremement bas (10 centimes par Watt crete) plutot que de se lancer dans un enorme programme industriel d'acquisition de competences, a supposer bien sur que les autres pays autorisent le pays en question a faire du nucleaire civil. \n\n  \nJe pense que malgre ses avantages en termes de rendement, le solaire et l'eolien (surtout le solaire) vont finir par l'emporter a terme, car les couts des panneaux solaires et des batteries de stockage n'arretent pas de diminuer a mesure que la production augmente.",
+        "date": "2024-10-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Les 160 GW de centrales solaires ajoutees cette annee vont produire autant que 22 centrales nucléaires (facteur de capacite de 14%)",
+        "date": "2024-10-29",
+        "sentiment": "positive"
+    },
+    {
+        "text": "T’es dépendant de la Chine pour tes éoliennes et tes panneaux solaires, des pays exportateurs de gaz pour tes centrales au gaz et de l’OPEP pour ton pétrole. Donc la dépendance aux fournisseurs d’uranium, qui est un cailloux que l’on trouve assez facilement sur tous les continents de la planète, c’est loin d’être un soucis. (On en a d’ailleurs plein d’en France que l’on n’exploite pas car pas rentable vu le tarif à l’import)",
+        "date": "2024-10-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je sais qu’il y a deux ans ils ont installés plein de panneaux solaires, super initiative…! Sauf que les panneaux solaires utilisés coûtent plus cher à être construits en énergie que ce qu’ils vont rapporter en 20 ans. Attention au greenwashing chinois.",
+        "date": "2024-10-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Quand ils libèreront les ouïghours, le Tibet, arrêté d'harceler Taïwan, arrêté de rejeter leurs poubelles, les eaux usées de leur industrie lourde et de leur centrales nucléaires directement en mer, on pourra peut être commencer à se réjouir qu'ils aient installé 3 éoliennes, 8 panneaux solaire et un poêle à granulé.",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "- Le Canada et L’Australie ont de gros stock d’Uranium. Et l’Uranium ça se stoque. En France on a 10 ans de réserve d’Uranium sur le sol français pour seulement 3 mois de pétrole, ce qui permet de passer seraint toute situation de crise.\n- Actuellement l’entretien, la construction et le transport de n’importe quoi dépend du pétrole. C’est donc un non-point. Même un barrage poids utilisant des rochers produits localement va quand même demander des camions. En revanche la quantité de matière demandé par le nucléaire étant relativement faible par rapport au volume total d’énergie il a donc (à volume d’énergie produite égale) une moins grande dépendance au pétrole.\n- Je ne comprends pas dout viens la légende que le cout de démantellement n’est pas pris en compte. EDF a plusieurs miliard de bloqué justement pour payer le démantellement.\n- On dépends de métaux importer pour le solaire, l’éolien et l’hydro (que ce soit la construction ou la mise à niveau du réseau), et du carburant pour les centrales aux gaz, pétrole, et chabon. Les quantitée d’énergie produite par les marée-motrice (une centrale en France), les métaniseurs et autres centrales globalement n’utilisant que des trucs locaux sont tellement dérisoire qu’on peut les ignorer. La question n’est donc pas blanc ou noir, mais quelle nuance de gris. Et l’hydro et le nucléaire s’en sortent très bien. Si nos relations diplomatiques se dégradent avec la Chine, dans 20-30 ans ont va avoir l’air très stupide au moment de renouveler nos panneaux solaire et éoliennes. Et pareil si on veut fabriquer des batterie en masse on dépends fortement de la Chine sans alternative crédible. Le nucléaire a au moins 4 producteurs sérieux : Kasakstan, Niger, Canada et Australie.\n\nEt qu’on soit bien clair, toutes les centrale de production bas carbone sont bénéfiques. La dépendance à la Chine est regrétable, mais ce n’est pas une raison pour ne pas fabriquer du solaire ou de l’éolien.",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je pense que ça peut être partiellement vérifié avec des photos satellites. Ça me paraitrait étonnant que l’on ne puisse pas au moins partiellement corréler ces chiffres avec des photos salelites, que ce soit les champs de panneaux solaire et éolienne ou la puissance électrique consommé par l’industrie. Pareil pour les centrale nucléaire d’ailleurs.",
+        "date": "2024-10-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "En milieu tempéré comme la majorité des zones en France, c’est clairement pas intéressant pour les gens.\n\nIl vaudrait mieux investir la différence de coût dans des panneaux solaire.",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;un accident grave tous les dix ans environ, avec son armée d'experts qui explique que ça ne se reproduira pas après avoir nié et minimisé pendant des mois voire des années à chaque fois, en crachant à la gueule des victimes qui se trouvent parfois à des milliers de kilomètres de là (dernier en date : Mayak 2017).\n\nChaque fois sur des technologies différentes ; un seul accident sans conséquences pour le public en 2000 TWh pour le parc REP - celui qui s'est imposé à 100% en France, à près de 100% en Europe et en majorité dans le monde. La même production aux fossiles aurait fait un bon million de morts de la pollution.\n\nAu-delà de la seule technologie REP, aucun des accidents « tous les dix ans » n'est une reproduction d'un accident antérieur ; seuls ceux ayant eu lieu en Russie/URSS peuvent être effectivement dénoncés pour leur mépris des victimes (mon petit doigt me dit que ce n'est pas un problème de nucléaire, en ce cas). \n\n&gt;l'incapacité à gérer les déchets sur le temps long (on parle d'une durée de vie plus longue que celle de plusieurs civilisations humaines bout à bout, rien n'est envisageable à cette échelle de temps pour garantir la sureté de l'installation).\n\nSi, [le stockage géologique](https://doseequivalentbanana.home.blog/2021/05/08/dechets-8-on-ne-sait-pas-gerer-les-dechets-nucleaires/).\n\n&gt;un combustible fossile dont l'approvisionnement exige soit de dépendre de la Russie (Kazakhstan) soit de poursuivre le pillage colonial de l'Afrique.\n\nCe n'est pas un combustible, ni un combustible fossile, et l'approvisionnement est [un peu plus complexe que ça](https://www.sfen.org/rgn/nucleaire-et-independance-energetique/). Puis faut avoir du cran pour lâcher les mots « pillage colonial » tout en lâchant « l'Afrique » comme si c'était un tout ou « Kazakhstan = Russie » dans le plus total mépris des habitants.\n\n&gt;une énergie si \"propre\" que l'extraction et le transport de son combustible, la construction et l'entretien des centrales, et enfin le traitement et le stockage de ses déchets engloutit une quantité absolument débile de pétrole.\n\nTellement débiles que [les dernières analyses de cycle de vie en date pour le parc nucléaire français](https://www.sfen.org/rgn/les-emissions-carbone-du-nucleaire-francais-37g-de-co2-le-kwh/#:~:text=Les%20émissions%20carbone%20du%20nucléaire%20français%20%3A%204g%20de%20CO2%20le%20kWh,-Publié%20le%2016&amp;text=Le%2016%20juin%202022%2C%20EDF,4%20g%20équivalent%20CO2) évaluent à environ quatre grammes d'équivalent CO2 les émissions (de la mine au déchet) pour produire un kilowattheure d'électricité nucléaire. C'est deux cents fois moins que par le pétrole ; comme quoi on ne doit pas en consommer tant que ça. C'est même légèrement (d'une différence anecdotique) mieux que ce à quoi peut prétendre l'éolien ([assez gourmand en matières premières](https://www.iea.org/data-and-statistics/charts/minerals-used-in-clean-energy-technologies-compared-to-other-power-generation-sources)) et considérablement mieux que le solaire photovoltaïque qui allie un fort besoin en matières première et une grosse consommation d'énergie pour leur transformation. Il n'y a pas grand monde d'assez stupide, sauf à regarder trop à droite de l'échiquier politique, pour dire que l'intensité carbone des panneaux solaires est rédhibitoire... Pourtant on trouve bien du monde pour dire qu'elle l'est pour le nucléaire, pourtant plus performant !",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "J'ai quand même quelques critiques sur cette analyse...\n\n* un lien fort entre nucléaire civil et nucléaire militaire\n   * Plus depuis les années 80 au moins\n* dépendance avec d'autres état pour le combustible\n   * Moins qu'avec toutes les autres sources d'énergies reposant sur un consommable (sauf hydroélectricité), et pas forcément pire que pour les sources d'énergies reposant sur la captation d'énergie diffuse (éolien, solaire)\n* nécessité de gérer les déchets\n   * Les énergies fossiles ne le nécessitent pas parce que les déchets sont balancés dans l'atmosphère et nos poumons. Devoir gérer les déchets est une qualité : ça veut dire qu'on contrôle où ils sont.\n* ça fait 1 bonne grosse cible en cas de conflit\n   * Même pas. C'est une cible teeeeeellement stratégique que même la Russie, l'Iran, Israël, l'Ukraine, l'Azerbaïdjan... N'osent pas. Oh, ils s'en servent clairement pour faire peur, mais sans franchir le pas.\n* le risque d'incident est très très très faible, mais bon il faut quand même le noter\n   * Face aux énergies fossiles, on a d'un côté des conséquences sanitaires et environnementales possibles selon une très faible probabilité, de l'autre des conséquences certaines, quotidiennes et graves. Là aussi, c'est un atout, pas un défaut.\n\nDans ceux que j'approuve :\n\n* c'est coûteux et long à produire, mais aussi à démanteler. Ça engendre des murs d'investissement comme celui auquel on va faire face quand les centrales arriveront à leur date limite\n   * Je nuance sur le démantèlement parce que c'est l'apprentissage qui coûte cher. Une fois la techno maîtrisée sur des réacteurs de technologies similaires, ça se fait bien. Les USA le montrent régulièrement. Mais le reste de l'argument est très vrai ; le mur d'investissement est déjà là parce qu'on espère ne pas attendre que les centrales soient fermées pour se demander comment les remplacer.\n* un gros gros besoin de planification sur la durée, donc ça nécessite une bonne stabilité politique et environnementale\n   * Ouais, cent fois ouais. Même la France est un pays trop instable pour, aujourd'hui, faire émerger une filière nucléaire nouvelle.",
+        "date": "2024-10-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Comme d'habitude le débat est mal posé. Le nucléaire bien utilisé est et pas \"variable\" (on évite \"intermittent\" qui est actuellement inexact) mais oui son facteur de charge et sa predictibilité sont des atouts considérables. \n\nPar contre, il prend 10 voire 15 ans à mettre en place et demande un investissement considérablesavec un retour tardif, ce sont là ses principaux défauts. \n\nSolaire et éolien ont un déploiement beaucoup plus rapide, mais de nombreuses limites. Densité d'énergie, bilan écologique, perturbation des prix.. \n\n.. mais la vraie erreur est d'opposer nucléaire et renouvelables : les deux sont indispensables à la transition énergétique.",
+        "date": "2024-10-31",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Attention : le réseau électrique doit littéralement être équilibré à chaque seconde. \n\nC'est déjà bien de prendre en compte le facteur de capacité hein, mais penser en production annuelle c'est ignorer que le solaire produit à fond en été et l'hiver on se retrouve en réalité sur du charbon..",
+        "date": "2024-10-31",
+        "sentiment": "neutral"
+    }
+]

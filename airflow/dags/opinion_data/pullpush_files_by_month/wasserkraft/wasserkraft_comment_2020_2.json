@@ -1,0 +1,117 @@
+[
+    {
+        "text": "Kryptomining ist praktisch auf erneuerbare Energien angewiesen, da fossiler Strom zu teuer ist.\n\nIn China baut man Miningfarmen neben riesigen Staudämmen und die Hashrate des gesamten Netzwerkes hat jedes Jahr einen Knick zur Ende der chinesischen Regenzeit, da weniger Wasserkraft zur Verfügung steht.",
+        "date": "2020-02-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "der gag an PoW ist, dass man viel \\_möglichst billigen\\_ strom braucht und das ist vor allem Wasserkraft. Mit kohle, öl, atomkraft und co kann man nicht gewinnbringend minen. Daher gibt es auch eine gewissen konzentration in china, denn da gibts nunmal viele wasserkraftwerke.\n\nKlar könnten staatliche player das netzwerk stören indem sie zb mining facilities den strom abstellen aber viel kaputt machen können sie nicht. der angriff wird auch für diesen player sehr schnell sehr teuer und auf der anderen seite stehen nur mäßige gewinnaussichten: Sich heimlich bitcoin zuschustern geht schonmal nicht, denn diese blöcke sind schlicht invalide und würden von allen nodes abgelehnt werden. Was man mit über 50% hashrate machen kann sind chain rollbacks, doublespends also und zensur von transaktionen, aber das sind erstmal hohe kosten und es ist äusserst fraglich ob man da irgendeinen gewinn rausschlagen kann.  Gegen rollbacks würden die großen börsen sofort die anzahl an mindestconfirmations erhöhen und den angriff gehörig verteuern. bei ensur würde es zu einem chainsplit kommen: Freiheitsliebende nodebetreiber würden zensorenblöcke manuell invalidieren und der unzensierten chain folgen, es würden sich miner finden die die unzensierte chain weiterführen und schon würde sich der angreifer nach hohen investitionen in einer wertlosen chain wiederfinden.\n\nUnd das ist auch das elegante am Bitcoin und der grund wieso ich nicht glaube, dass ein großangelegter angriff auf das system jemals versucht, geschweige denn erfolgreich sein wird: Das ganze ist spieltheoretisch so ausbalanciert dass es für jeden stakeholder am profitabelsten ist, nach den regeln zu spielen. Auch für umweltschützer übrigens, weil man mit cryptogeld viele fette staudamm/solarprojekte umsetzen kann, da die miner zuverlässige grundlastabnehmer sind während ein ganzer landstrich nebenbei mit ökologisch einwandfreiem strom mitversorgt werden kann.",
+        "date": "2020-02-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Im Sommer müssen sie sich gegen zuviel Solarenergie rüsten, bei Regen gegen zuviel Wasserkraft... Bei den Stadtwerken gibt es immer was zu tun!",
+        "date": "2020-02-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Windkraftanlagen schreddern auch Vögel. Sowie Wasserkraft Fische schreddert. Solarparks schreddern wahrscheinlich auch was. Photonen oder so.",
+        "date": "2020-02-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Vorweg: PV ist klimatechnisch deutlich besser als Kohle, Öl und Gas, kann in der Produktion gut skaliert werden (anders als Wasserkraft), kann vergleichsweise günstig produziert werden und hat ein relativ flaches Profil (anders als alle großtechnischen Kraftwerke und Windkraft).\n\nWas für Schattenseiten hat die Photovoltaik? Hauptsächlich 2: \n\nUnter den erneuerbaren Energien verursacht PV die mit Abstand meisten CO2-Emissionen pro kWh ([https://www.bundestag.de/resource/blob/406432/c4cbd6c8c74ec40df8d9cda8fe2f7dbb/WD-8-056-07-pdf-data.pdf](https://www.bundestag.de/resource/blob/406432/c4cbd6c8c74ec40df8d9cda8fe2f7dbb/WD-8-056-07-pdf-data.pdf)). Das liegt daran, dass in der Produktion von aktuellen PV-Zellen für den Massenmarkt (Solarzellen für Satelliten sind noch schlimmer) hauptsächlich hochreines, ein- oder polykristallines Silizium benötigt wird (dasselbe Material wie in Mikrochips, nur dass pro Chip Flächen von 1mm² oder 1 cm² gebraucht werden, bei PV-Modulen Flächen &gt;1m²). Die Herstellung von hochreinem Silizium ist vergleichsweise energieaufwändig, u.A. wird derselbe Prozess im Hochofen wie bei der Eisenverhüttung eingesetzt (mit Kohlenkoks!).\n\nZweitens - und das ist auch bei Wind ein aktuelles Problem - werden große Speicherkapazitäten für die Nacht und bewölkte Tage benötigt, die es aktuell schlicht nicht gibt. Es entstehen außerdem umwelttechnische und ethische Probleme bei der Beschaffung von Rohmaterialien sofern Wasserstoff (Katalysatoren!) oder Akkumulatoren als Speicher genutzt werden sollten. (Lithiumabbau (Tagebau und die großtechnische Nutzung von Wasser in Wüstengegenden) und der Abbau seltener Erden sind sehr umweltschädlich; Eines der größten Vorkommen von Lithiumsalzen auf der Welt wird in Afghanistan vermutet)\n\nAusgehend vom ersten Punkt ist Photovoltaik deutlich besser als fossile Energieträger, aber Wind (und Kernkraft) ist deutlich besser als PV was die CO2-Bilanz anbelangt. Der zweite Punkt schließt eine Nutzung erneuerbarer Energien als exklusiver (oder annähernd exklusiver) Energieträger aktuell aus und macht deutlich, dass ein enormer Investitionsaufwand (sowohl zeitlich, personell, als auch finanziell) nötig ist, damit eine solche Nutzung realistisch gemacht werden kann.",
+        "date": "2020-02-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Lesen hilft.\n\n...\n\n&gt; Weil Kernkraftwerk nur zu teuer ist, wenn Kohlekraftwerke und andere thermische Kraftwerke ihre Kosten durch Emissionen externalisieren dürfen.\n\nUnd was ist mit Solar, Wind, Wasserkraft usw. die auch alle billiger sind?",
+        "date": "2020-02-10",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Und was ist mit Solar, Wind, Wasserkraft usw. die auch alle billiger sind?\n\nReichen aufgrund der geografischen Gegebenheiten Deutschlands nicht aus, um den derzeitigen und zukünftigen Energiebedarf zu jeder Zeit zuverlässig zu decken.",
+        "date": "2020-02-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Die Norweger habens ja auch easy, die können 100% ihres Stroms durch Wasserkraft decken ud dann noch was exportieren. Natur regelt halt. In D ist das Potential für Wasserkraft zu 100% ausgeschöpft und wir kommen nur auf lausige 20%\n\nÄnder: verwirrende Abkürzung",
+        "date": "2020-02-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Lmao wiekommst du denn auf die Idee das Windkraft in DE voll ausgenutzt wäre??  \n  \nEdit: bin doof, Vorposter meint Wasserkraft.",
+        "date": "2020-02-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wasserkraft ist zu 100% Ausgenutzt",
+        "date": "2020-02-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Wasserkraft\n\nDu hast den Kommentar aber schon gelesen ja?",
+        "date": "2020-02-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bei mir geht es um 100% Erneuerbare nicht 100% Wasserkraft.......",
+        "date": "2020-02-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das stimmt so nicht ganz.\n\n&gt;Das Bundesministerium für Umwelt legte im Jahr 2010 eine umfassende Potenzialanalyse für die Wasserkraft vor. Demnach werden gegenwärtig von dem bestehenden Potenzial etwa 80 Prozent (20,9 TWh Regelarbeitsvermögen) genutzt. Das zusätzlich erschließbare Potential beträgt etwa fünf TWh (4,63 – 5,22 TWh)\n\nhttps://www.umweltbundesamt.de/themen/wasser/fluesse/nutzung-belastungen/nutzung-von-fluessen-wasserkraft#wasserkraft-und-klimawandel\n\nUnd da gehts nur um modernisierung von bestehenden traditionellen Anlagen, nicht aber den Umbau von z.B. Stauseen die bisher beim entleeren keinen Stromproduzieren. Oder moderne Kleinanlagen die für dezentrale Stromnetze sehr nützlich sein können.\n\nDeshalb schätzen andere das Potenzial noch höher ein.\n&gt;Bis zum Jahr 2030 könnte die Stromproduktion aus Wasserkraft bei entsprechenden Rahmenbedingungen auf 31 Terrawattstunden (TWh) gesteigert werden.\n\nhttps://www.bee-ev.de/unsere-technologien/wasserkraft",
+        "date": "2020-02-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "100% Erneuerbare kann in Deutschland hauptsächlich durch Wind- und Sonnenenergie erreicht werden. Bei der Wasserkraft wird man nur noch durch Erneuerung alter Turbinen etwas mehr Leistung rausholen können.",
+        "date": "2020-02-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wie gesagt die 20% Steigerung die das Ministerium errechnet beziehen sich auf modernisierung bestehender Anlagen und reaktivierung alter. Zumal in Deutschland die genaue Anzahl der Anlagen nicht genau erfasst wird und viele der Kleinanlagen oft 100 Jahre alt sind könnte das Potenzial da noch höher liegen.\n\nWasserkraft in Deutschland wird nicht das Allheilmittel, aber sie als \"fertig\" abzutun schadet dem Ziel, sie ist ein Baustein auf den nicht vergessen werden darf.",
+        "date": "2020-02-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Regelarbeitsvermögen\n\n&gt;Die Verfügbarkeit von Energieträgern wie Wasserkraft und Windenergie unterliegt jährlichen Schwankungen. Die Stromproduktion folgt diesen Schwankungen. Um diese auszugleichen, wird das Regelarbeitsvermögen berechnet. Dies stellt den realistischen, durchschnittlichen Ertrag dar und ist der Mittelwert der Jahresproduktionen einer zusammenhängenden Reihe möglichst vieler, mindestens dreier, Jahre. \n\nhttps://de.wikipedia.org/wiki/Regelarbeitsverm%C3%B6gen",
+        "date": "2020-02-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Weiß jemand wie es da mit Wasserkraft aussieht?\nIch finde das Wasserkraft noch viel zu sehr vernachlässigt wird.",
+        "date": "2020-02-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Ich finde das Wasserkraft noch viel zu sehr vernachlässigt wird.\n\nWasserkraft ist für die Umwelt und insbesondere Flora und Fauna wohl schlimmer als Kohle, da werden ganze Ökosysteme ausgerottet und Leute reden sich ein, dies schütze die Umwelt weil ja kein CO2 ausgestoßen wird.\n\nEines der Ziele bei einm Umbau unserer Energieversorgung hin zu +100% regenerativer Energie MUSS sein Wasserkraft komplett abschzuschaffen und Flüsse zu renaturieren und so weit möglich Talsperren zurückzubauen.",
+        "date": "2020-02-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "so lange wir noch Probleme mit CO2 haben, können wir die Wasserkraft nicht abschalten.",
+        "date": "2020-02-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ändert nichts daran, dass Wasserkraft nicht die Lösung sein kann, bei der Argumentation müsste man des Klimas wegen nämlich sonst auch Atomkraft ausbauen.",
+        "date": "2020-02-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Wasserkraft komplett abschzuschaffen und Flüsse zu renaturieren und so weit möglich Talsperren zurückzubauen.\n\nEnrst gemeinte Frage: Bringt das was aus CO2-/Klimawandelsicht? Soweit ich verstehe ist doch die Anlage der Talsperre das Problem, bzw die ersten Jahre danach in denen das ueberschwemmte Gebiet \"verrottet\" und dadurch die entsprechende Gase freigesetzt werden. Daher wuerde ich vermuten, dass zumindest in diesem Hinblick eine bestehende Talsperre klimaneutral ist?",
+        "date": "2020-02-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Umweltschutz ist mehr als Klimaschutz, wer beim Klimaschutz aufhört macht es schlicht falsch, das Klima zu retten bzw zu konservieren hat oberste Priorität im Moment, renaturierung zerstörter Ökosysteme ist aber genauso wichtig und dazu gehört auch Wasserkraft zurückzubauen.\n\n&gt; Aber wenn dieser Prozess beendet ist sollte, so mein Verstaendnis, der  See kein CO2 und Aehnliches erzeugen und damit klimaneutral sein.  \n\nAuf der Fläche des See findet halt immer noch keine nennenswerte Bindung von CO2 statt wie bei Bäumen.\n\n&gt;  Daher meine Frage ob der Rueckbau von Talsperren aus Klimasicht  sinnvoll ist, denn wenn sie klimaneutral sind und Strom erzeugen sollte  das so passen, oder? \n\nWie gesagt Klimaschutz und Umweltschutz sind nicht zwangsläufig das gleiche, Klimaneutral reicht nunmal nicht um es krass zu sagen, wir müssen dauerhaft auf ein CO2 Defizit kommen und CO2 binden, dabei helfen Talsperren leider nicht.",
+        "date": "2020-02-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Tatsächlich wäre das die einzige Möglichkeit unseren Energieertrag aus Wasserkraft zu steigern (abgesehen von den 10-20%, die wir durch Modernisierungen und verinzelte Kleinkraftwerke erreichen könnten): Wir versenken das ganze Rheinland. Leider haben die meisten Umweltschützer und Grünenpolitiker etwas dagegen, da sie meinen, dass wichtige Wohnräume für Millionen von Lebewesen verloren gehen würden. Nun, ich kann das verstehen, aber lustig fände ich es trotzdem!",
+        "date": "2020-02-17",
+        "sentiment": "neutral"
+    }
+]

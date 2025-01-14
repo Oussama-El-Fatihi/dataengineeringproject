@@ -1,0 +1,502 @@
+[
+    {
+        "text": "&gt; die Kraftwerksbetreiber werden quasi gezwungen zu liefern, damit das Netz stabil bleiben kann. \n\nDas ist eine interessante Formulierung. Strom zu verkaufen ist deren Geschäftsmodell, das sind ja keine Wassersammler die sich freuen wenn die Speicher möglichst voll sind, die freuen sich stattdessen wenn sie möglichst viel Strom produzieren und möglichst teuer verkaufen können.\n\n&gt;  Solche Situationen sind früher 2-3 mal pro Winter eingetroffen. Die letzten zwei Jahre, mussten die Wasserkraftwerke sooft eingreifen, dass Mitte Winter kein Restwasser in den Stauseen mehr drin war.\n\nDas stimmt nicht. Energy-Charts hat auch dafür eine tolle Statistik: https://energy-charts.de/storage_de.htm?year=all\n\nWenn du unten die Anzeige ganz nach links und nach rechts schiebst, so dass bis 2014 alle Speicherstände angezeigt werden wirst du sehen dass der übliche Verlauf immer in etwa gleich ist und dass die Speicher erst im April/Mai herum ihre Tiefststände erreichen. (Am besten auch noch Österreich und Deutschland oben rechts wegklicken damit du nur die Schweizer Speicherstände siehst.)\n\nUnd genau so soll es funktionieren, dafür sind die Speicher ja da, dass man die Energie über den ganzen Winter hinweg abrufen kann. Aus diesem Grund wird auch gerade eine zusätzliche Leitung nach Norwegen gelegt, die haben ein Vielfaches der Speicherkapazität wie Schweiz, Österreich und Deutschland zusammen.\n\nDu stellst das so dar als wäre das irgendeine Notfallmaßnahme, dabei ist das *by Design*. Darum macht man das ja und darum baut man die Speicher.\n\n&gt; Installierte Leistung ist übrigens auch nicht die Leistung die man tatsächlich nutzen kann. \n\nKorrekt aber hier geht es um die tatsächlich erzeugte Energiemenge, nicht um installierte Leistung. Von der installierten Leistung her gibt es bereits doppelt soviel Wind- und PV als Kohle und Atom.\n\n&gt; Häufig wird viel produziert wenn man gar nichts braucht, dann werden mit geringem Wirkungsgrad Speicher vollgepumpt.\n\nNein, das passiert nicht häufig. Das passiert eigentlich gar nicht. Es gab bisher noch keinen Tag in Deutschland in dem mehr erneuerbare Energie erzeugt als verbraucht wurde. Es gibt teilweise Fälle wo Windräder abgeregelt werden müssen aber das liegt in erster Linie daran dass andere Kraftwerke (vor allem Braunkohle) nicht weit genug runterregeln können und somit die Netze verstopfen.\n\nUnd ja, Strom in Speicherkraftwerke zu speichern ist erneut der Sinn der Sache, keine Notfallmaßnahme um irgendwie Strom wegzubekommen. Früher hat man in der Nacht den Atomstrom in Speicherkraftwerken für den nächsten Tag zwischengeparkt, nun eben immer öfter den Windstrom. Der Wirkungsgrad ist bei Pumpspeicherkraftwerken übrigens nicht gering sondern mit rund 80% relativ gut im Vergleich zu praktisch allen anderen Energiespeichern.\n\nAber ja, es wird auch noch in Zukunft den Bedarf an kalorischen Kraftwerken geben um Engpässe auszugleichen. Allerdings ist es eben etwas anderes ob ein Kraftwerk 300 Volllaststunden läuft und dabei die Umwelt und Atmosphäre verpestet oder eben 7.000+ Volllaststunden wie jetzt. Wenn wir die Kraftwerke nur noch ab und zu ein paar Stunden anwerfen müssten wäre schon sehr viel gewonnen. \n\nKlimaschutz ist nicht binär, es geht nicht um alles oder nichts. Selbst wenn man \"nur\" 90% Erneuerbare Energie schafft und für 10% weiterhin fossile Energieträger verbrennen muss wäre schon viel gewonnen! Und bis wir mal bei 90% sind wird ohnehin noch einige Zeit vergehen und vielleicht hat man bis dahin dank neuer Technologie und Kostensenkungen bei Speichern schon wieder ganz andere Möglichkeiten um die letzten 10% vielleicht doch noch anders zu lösen.",
+        "date": "2019-01-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich muss dich an einigen Stellen korigieren. Du hast Recht, dass dieses System explizit so funktionieren soll, aber die Situation ist zurzeit so, dass der Ausbau von Windkraft in Deutschland unangenehme Folgen auf das System Wasserkraft hat. Der Stromverkauf nach Deutschland durch die Betreiber wird von Swissgrid beauftragt, zum gegenwärtigem Strompreis. Die Betreiber verdienen an solchen Situationen u.U weniger als sie sonst machen könnten, und einen Rückerstattungsmechanismus gibt es nicht. Sie werden quasi « enteignet ».Ich habe aus erster Hand vom CEO der KWO, dass sie immer häufiger solche Pflichtabgaben haben und dass die Speicher deutlich schneller leer sind, als sie es gerne hätten und dass ihr Gewinn deswegen sinkt. Entsprechende Ausbauprojekte für neue Talsperren, Leitungen und Wasserfassungen laufen gerade deshalb jetzt an. Der Wirkungsgrad eines Pumpspeicherkaftwerks ist sehr unterschiedlich und erreicht nie den theoretischen Wirkungsgrad der Pumpe + Turbine kombiniert. Er hatte etwas von 25% bis 50% gesagt, ich kenne aus dem Studium rund 65-75%, aber ich glaube ihm.\n\nIch hoffe du missverstehst mich nicht als Gegner von erneuerbaren Energien, aber ich denke Deutschland hat (noch) keine schlüssige Energiestrategie, wie bspw. die Schweiz. Es ist kein Konzept erkennbar wie man mit Verbrauchsschwankungen umgehen wird (Smart Grids, Speicher,...?), wie man die Grundlast mot Kohle und Atomausstieg erzeugen will, etc.",
+        "date": "2019-01-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Deine Logik entspricht der eines Mörder, der argumentiert, dass das Opfer ja alkoholsüchtig war und eh bald gestorben wäre oder der eines Kohle-Verteidigers, der argumentiert, dass der Klimawandel uns eh alle töten wird. \n\nKann ich so nicht nachvollziehen. Wie gesagt: Man könnte heute in relativ kurzer Zeit (&lt;10 Jahre) alle Braunkohlekraftwerke abschalten und Steinkohle auch noch einmal um sagen wir mal 70% reduzieren. Man tut sich aber selbst heute extrem schwer damit, und zwar nicht weil das Stromnetz das nicht her gibt, sondern weil politische Gründe dagegen sprechen (\"aber die armen Arbeitsplätze\"). Das war vor 20 Jahren, als man den ersten Atomausstieg gestartet hatte, und das EEG initiierte (die Vorgängerversion war bei weitem nicht so ambitioniert) nicht anders. Die Wahrscheinlichkeit, dass man statt einem Atomausstieg einen Kohleausstieg gestartet hätte, würde ich sehr gering einschätzen. \n\nNur um es klar zu stellen: Mir wäre ein Kohleausstieg vor dem Atomausstieg auch viel lieber gewesen. Die Frage \"was wäre wenn wir keinen Atomausstieg hätten\" ist aber eben rein hypothetisch. Und dieses ständige Geheule \"wegen dem dummen Atomausstieg können wir nicht aus Kohle raus\" ist überhaupt nicht zielführend. Es ist nämlich eben so: Wir könnten heute anfangen aus der Kohle aussteigen, bzw. man hätte trotz Atomausstieg schon vor Jahren auch damit anfangen können. Wir tun es aber nicht, bzw. zumindest nicht gezielt und politisch gewollt. Wie gesagt sind technische Gründe keine Hürde.\n\n&gt;Warum wäre das besser? \n\nEs wäre nicht besser, aber erst einmal auch nicht schlechter. Und man kann statt tschechischen Kohlekraftwerken auch norwegische Wasserkraftwerke nehmen, was man dank Norger und Nordlink hoffentlich bald im großen Stil tun kann.\n\n&gt;Bin kein Profi, aber intuitiv würde ich mal behaupten, dass wenn wir keinen Wind haben, unsere Nachbarn auch keinen Wind haben.\n\nIst nicht automatisch so. Europaweite Flauten gibt es natürlich, aber oft weht am Atlantik trotzdem viel Wind, dann produziert Spanien, Großbritannien und Frankreich auch noch eine Menge Windstrom. Oder wir haben auf dem Festland wenig Wind, aber an der Nordsee, dann kommen die deutschen Offshore-Anlagen und Dänemark ins Spiel.\n\nViele Länder produzieren bei einer Flaute aber auch mehr Strom aus Gaskraftwerken, was eine deutlich bessere Umweltbilanz hat als Kohle.\n\n&gt;Weiß allerdings nicht inwiefern man da selektiv sein kann. \n\nIst eine Preisfrage. Kernkraftwerke haben typischerweise sehr niedrige Grenzkosten, werden also wahrscheinlich immer möglichst viel Strom produzieren. Ob das für Frankreich mit ihrem extrem alten Kraftwerkspark in Zukunft noch gilt weiß ich aber nicht. Sehr günstig wird in Zukunft aber eben der erwähnte Wasserkraftstrom aus Norwegen sein.",
+        "date": "2019-01-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wasserstoff wird heute überwiegend aus Erdgas (Dampfreforming) sowie Erdöl und Kohle (Vergasung) gewonnen. Auch im aktuellen Strommix kommt Wasserstoff aus Elektrolyse-Prozesse ziemlich dreckig und ineffizient weg. Viele Anbieter bieten daher Wasserstoff mit Strom aus rein erneuerbaren Quellen an.\n\nDass die Produktion von Wasserstoff zwangsweise energieintensiver als die Förderung und Aufbereitung von Diesel ist, ist einfach Thermodynamik. Nachgeschaltete Verarbeitungsschritte oder aufwändige Umwandlungsprozesse wie Elektrolysen verbrauchen zwangsweise zusätzliche Energie. Das ist allerdings auch ein Nachteil, der es Wert ist in Kauf genommen zu werden, denn mit erneuerbaren Energien kann man diesen Handel eingehen.\n\nDas wesentliche Problem von Wasserstoff, was uns vermutlich noch lange begleiten wird, sind die verfügbaren Speichertechnologien. Wasserstoff ist ein Gas mit sehr geringer Dichte, sehr geringer Molekülgröße und erwärmt sich beim Entspannen oberhalb von -70 °C, z. B. beim Entladen eines Speichers. (ELI5)\n\nSo gibt es dann eine ganze Palette von möglichen Speichertechnologien. Dabei verketten sich aber typischerweise die Nachteile des Verfahrens mit den physikalischen Nachteilen von Wasserstoff und das Ergebnis sind dann Energiespeicher, die ein 1/10 der Energiedichte von Benzin und Diesel haben. Endziel der Technologie-Roadmap des U.S. Department of Energy sind ca. 1/4 der Energiedichte von Benzin/Diesel. Das heißt in erster Linie steigender Platzbedarf für Speichertechnik (weniger J/kg) und steigender Investitionsbedarf durch größere Behälter (weniger J/m3). ",
+        "date": "2019-01-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mich wundert eigentlich nur, dass die Bezahlung bei einer Bank \"nicht so pralle\" ist - die hauen doch eigentlich die Kohle nur so raus?",
+        "date": "2019-01-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Verzweiflung darüber, dass die Kohle aus dem Asylbewerberleistungsgesetz nicht für noch mehr Alkohol oder härtere Drogen ausreicht? ",
+        "date": "2019-01-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Was gehört in welche Tonne? Darüber sollen die Deutschen besser informiert werden. Denn vieles landet im Gelben Sack, was dort nicht reingehört. Die Folge: miese Recyclingquoten.\n\nGuter Versuch den schwarzen Peter den Endverbrauchern zuzuschieben.\n\nLeider liegt es eher daran, dass auch viele Verpackungen die den grünen Punkt tragen leider nur schlecht recyclebar sind. Aber was solls? Wenn man nen grünen Punkt drauf macht gibt's Lizenz und das ist doch was zählt.\n\nAlternativ ist verschiedener Müll durch durch Beschichtung oder plumpes ineinanderstapeln nicht effizient (sprich: so, dass man damit einen Haufen Kohle verdienen kann) recyclen und wird daher lieber klassisch entsorgt.\n\n&gt; Denn Recycling beginnt nicht auf dem Wertstoffhof oder in der Sortieranlage, sondern in den Abfallsäcken.\n\nSo wird Recycling aber nicht funktionieren. Dem Müll den man mit großen Wagen abtransportiert ist nicht zuzutrauen, dass er am liebsten Sortenrein angeliefert wird.\n\nIch mein das ist ja erst seit 1997 bekannt aber am bequemsten wäre es auch in 2019, dass die Verbraucher das endlich irgendwie lösen. ",
+        "date": "2019-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Lieblingszeitvertreib: Kohle rollen!",
+        "date": "2019-01-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;* Weltweit hat die Stahlindustrie einen Anteil von sieben Prozent an den menschgemachten Kohlendioxidemissionen.\n&gt;\n&gt;* Diese Menge wollen Stahlhersteller künftig senken, indem sie bei der Erzverarbeitung Wasserstoff statt Kohle einsetzen.\n&gt;\n&gt;* Umweltfreundlich wird der Prozess nur, wenn der Wasserstoff klimaneutral, etwa mithilfe von Sonnen- oder Windstrom, hergestellt wird.\n",
+        "date": "2019-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Bin gerade am Handy, aber ich versuche es. \n\nErstmal gibt es eine populistische Partei (https://en.wikipedia.org/wiki/Pauline_Hanson%27s_One_Nation) die ist zwar nicht populaer aber trotzdem immer wieder in den Medien.\n\nGeht man nicht wählen, muss man $20 Strafe zahlen - zirka Euro 12, was dem Preis von zwei Bier entspricht.\n\nDie Regierung steht noch voll hinter Kohle und setzt Klimaschutzabkommen kaum oder zu langsam um.\n\nEine Amtszeit sind hier 3 Jahre, es ist also fast immer Wahlkampf es gibt eigentlich nie einen PM der fuer eine zweite Amtszeit gewaehlt wird, die meisten halten aufgrund von Grabenkaempfen nicht mal eine Amtszeit durch.",
+        "date": "2019-01-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Sekundiere. Ich würde nach einem Studium nicht nochmal eine Ausbildung anfangen, das ist doch ein Schritt nach unten und nach hinten.\n\nFernuni Hagen soll gut, aber auch sehr schwierig sein. Ich weiß nur vom BWL Studium und da gehört es wohl tatsächlich zu den anspruchsvollsten in Deutschland, die Durchschnittsnoten der Klausuren dort sind regelmäßig schlechter als 3,0.\n\nAnsonsten sind Euro-FH und FOM eventuell nicht verkehrt (immer schön vorher informieren). Wenn du die Kohle hast, kannst du dich ja auch international umsehen und vllt distance learning mit ner UK Uni machen. Ich hab vor ner Weile mal nen data science master der University of Edinburgh gesehen. Vielleicht werde ich mich da irgendwann mal ranwagen.",
+        "date": "2019-01-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Völlig einleuchtend. Aber die Mehrheit der Deutschen häuft weder signifikantes Vermögen an noch hat sie einen Studienabschluss. Wie schnell ein Studienabgänger (\"einige Leute\") die Kohle ranholt - ganz abgesehen von Fächerwahl, Wohnsitz, Berufswahl, Geschlecht, Alter, ... - ist irrelevant für die Diskussion zur breiteren Vermögensbildung.",
+        "date": "2019-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wo ist denn der ÖR unabhängiger als RTL oder SAT. 1? Die Unabhängigkeit von Werbung wird doch nur vorgegaukelt, da dort Fußball auch von Bitburger/Krombacher präsentiert wird ebenso wie das Wetter im Frühstücksfernsehen.\nGrundsätzlich wird da einfach unfassbar viel Kohle hin und her geschachert. Wie? Die Sender kaufen Sendungen oder Reportagen von Produktionsfirmen ein, die den Eheleuten oder Freunden der Mitarbeiter dort gehören.\n\nAußerdem werden die Intendanten im Grunde von der Politik gewählt, wo ich mir ja schon das Lachen nicht verkneifen kann. Das hat mit Unabhängigkeit nix zu tun. ",
+        "date": "2019-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Soweit ich weiss waren Adenauer und Kohl zu ihrer jeweiligen Kanzlerschaft auch Parteivorsitzende. Insofern ist das wohl nichts neues.\n\nSchwierig zu jonglieren, joa. Mag ich mich nicht zu äußern, ich war weder Parteivorsitzender noch Kanzler :D Aber sagen wir es mal so, der Kerngedanke der Demokratie ist ja der Dialog und der Kompromiss, insofern halte ich es jetzt nicht für schlimm zwei unterschiedliche Personen in den Ämtern zu haben. Es wird sicherlich mehr Arbeit und Zeit kosten das zu koordinieren, sofern es da wirklich viel zu koordinieren gibt. Ich bin eher gespannt wie es zur nächsten Wahl mit dem/r Kanzlerkandidaten/in von der CDU aussieht, ob AKK wie Merkel die Personalunion macht oder ob das ganze jetzt aufgeteilt bleibt.",
+        "date": "2019-01-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Festsetzung des Beitrags durch die Landesparlamente.\n\nDer wiederum den Vorschlag der KEF annimmt. Da kann man jetzt im Detail weiter drauf herumreiten, aber am Ende des Tages besitmmt der Regierung wieviel Kohle dort ankommt.\n\n&gt;Von den 8 vom **Fernsehrat gewählten Mitglieder** des Verwaltungsrates sind **4** in einer Partei\n\nUnd dazu kommen immer vier Vertreter der Länder. Macht zusammen 8/12 SPD oder CDU'lern.\n\nWir können uns jetzt weiter um Detailfragen streiten; klar ist: der politische Einfluss ist klar erkennbar. Wer das abstreitet ist blind oder Redakteur beim Kika.\n\nGute Nacht.\n\n&amp;#x200B;",
+        "date": "2019-01-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Jup. Kohle zur Sicherung der Netzfrequenz? Was für nen Bullshit. Dafür sind langsam regelnde Kohlekraftwerke völlig ungeeignet. ",
+        "date": "2019-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oder: Kohle- und Kernstrom verstopfen die Netze nicht, die Netze werden nämlich zu recht verstopft.",
+        "date": "2019-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Natürlich nicht. Das wäre Schwachsinn. Es ist aber auch Schwachsinn für den Klimaschutz die untere Mittelschicht und Unterschicht zu schröpfen. Wer fährt denn alte Autos? Liebhaber und die Leute, die sich keine neuen leisten können. Es gibt andere Umweltsünder, die sich höhere Umweltstandarts aber durchaus leisten können. Zum Beispiel die Business-Class-Flieger, die die Effizienz der Reiseflugzeuge durch geringere Passagierzahl senken. Oder die Leute, die gleich privatjet fliegen. Oder die SUV Besitzer, deren Mosterkarren 20 Liter schlucken und 2 Parkplätze brauchen. Oder die Industrie, die Kohle verbrennt um Strom zu erzeugen. Oder die Wohnungsbauunternehmen, die Gasherde und Gasheizungen anstelle von Wärmepumpen in Sanierte Gebäude und Neubauten einbauen. Oder die Leute, die \"weil es so gemütlich ist\" in ihrem Garten Lagerfeuer anzünden und dann ihre Gartenabfälle hinzuwerfen. Oder die Verkehrsunternehmen die heute noch Dieselloks im Schienenverkehr einsetzen. Oder die Hochseefrachter, die mit Schweröl um die Welt tuckern. Oder die Binnenschiffer, deren Reedereien seit Jahrzehnten schwarze Zahlen schreiben, und die trotzdem weiterhin mit dreckigen Dieseln der 60er Jahre unterwegs sind.\n\nSoll ich noch weiter machen? Aber nein, \"Dieselfahrverbot\" klingt so schön tatkräftig, als hätte man was geschafft, als hätte man es den Leuten da oben mal so richtig gezeigt. Dabei ist der Einfluss aufs Klima am Ende minimal und der Schaden mal wieder maximiert. Genau deswegen sollte niemand diese Partei wählen - sie ist eine Partei der Buzzwords und des Trendschwachsinns. ",
+        "date": "2019-01-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "ist aber auch nichts neues, siehe Atomausstieg und dadurch Förderung der Kohle",
+        "date": "2019-01-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; fast so viel wie Ex-Altkanzler Helmut Kohl erhielt (12.800 €).\n\nInflationsbereinigt?",
+        "date": "2019-01-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Konsum mit Umwelt-freundlicheren Technologien\n\nBis wie umweltfreundlich fliegen können, kann es aber locker 20-30 Jahre dauern und das vermutlich auch nur wenn wir verrückt viel Kohle reinhauen. Wenn es denn überhaupt machbar ist.\n\nDas gleiche gilt vermutlich für fast alle Konsumgüter. Stahlkonzerne gehen zur Zeit scheinbar davon aus, dass sie auf Produktionsverfahren mit Ökostrom statt Kohle-Hochöfen umstellen werden. Die Umsetzung fängt aber erst Richtung 2030 an und das auch nur mit Milliarden-Investitionen. Und es bringt auch alles nicht viel, solange nicht die entsprechenden Kapazitäten Ökostrom da sind. Das wäre für die Stahlproduktion Deutschlands  10x der Verbrauch Hamburgs. Rechne jetzt noch alle anderen Industrien dazu... Geht einfach nicht. Nicht in dem nötigen Zeitfenster.\n\nhttps://www.sueddeutsche.de/wissen/stahl-klimawandel-emissionen-wasserstoff-1.4268796\n",
+        "date": "2019-01-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Muss man denn schon ab 3 Jahren dazu verpflichtet werden zu einem ordentlich funktionierenden Bruttosozialproductbeiträger zu werden, oder darf man nicht auch noch Kind sein? \n\nBitte was? Hast du jemals einen Kindergarten besucht? Zumindest in meinem wurde eher weniger Kohle geschürft...",
+        "date": "2019-01-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ach, das sind Elektrozüge, daher Umrechnung auf Strom-Mix, da haut dann Kohle wohl rein? Finde ich recht sonderbar, aber hm ...\n\nHeißt dann aber auch, dass mit saubererem Strom das Verhältnis noch besser werden würde.\n\nSo nebenbei frage ich mich, ob N_2O bei den Stickoxiden noch einmal gezählt wird. Kurios, kurios",
+        "date": "2019-01-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Allerdings fährt der Schienenverkehr hier mit dem normalen Strommix. Die DB kauft für den Fernverkehr aber nur Ökostrom, weswegen wir hier Kohle und Co. noch ausklammern müssen. ",
+        "date": "2019-01-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Er hat ein paar gute Argumente, die man sonst selten hört:\n\nDie Produktion von Elektromobilen ist äußerst CO2-intensiv. Allein die Herstellung des Akkus setzt bei Mittelklassefahrzeugen um die 17 Tonnen CO2 in die Luft. Dafür muss ein Diesel oder ein Benziner erst einmal 200.000 km fahren, um auf diese Menge CO2 zu kommen. Und auch das ist nur ein Teil der Wahrheit, denn beim heutigen Strommix mit rund 55 Prozent aus fossilen Energieträgern tankt das E-Auto überwiegend Kohle. Dann können es sogar über 500 000 Kilometer sein, die der Verbrenner klimafreundlicher ist als der reine Elektroantrieb.\n\n&gt; Das sind ja nur aktuelle Werte. Mit mehr und besseren E-Fahrzeugen dürfte sich die Bilanz ja bessern.\n\n Diesen Optimismus teile ich nicht. Wenn wirklich im prognostizierten Umfang E-Autos gekauft werden, steigt der Stromverbrauch bei uns exorbitant an. Diese Rechnung macht interessanterweise derzeit niemand auf. Dann kann es passieren, dass wir unser Ziel von 50 Prozent erneuerbarer Energien bis 2030 gar nicht erst erreichen und stattdessen mehr Kohle- oder importierten Atomstrom benötigen. Diese Einführung der E-Mobilität mit der Brechstange ist vorne und hinten nicht zu Ende gedacht. \n\n&gt; *Moment, die Stickstoffdioxidwerte sind nun mal wirklich dank der Diesel vielerorts zu hoch.*\n\nEine Scheindebatte. Es gibt bis heute kein einziges Beispiel dafür, dass durch Stickstoffdioxid im Straßenverkehr ein Mensch zu Tode gekommen ist. Selbst das Bundesumweltamt räumt ein, dass es sich **nur um politisch gesetzte Grenzwerte handelt. Sie sind toxikologisch nicht zu begründen.**\n\n&gt; Das heißt?\n\nEs ist eine große Selbsttäuschung, der wir unterliegen. Vielleicht gehört es zum Merkmal saturierter Gesellschaften wie der bundesdeutschen, dass wir besonders für Hysterien und Angstpsychosen anfällig sind. Viele machen sich offenbar überhaupt keine Gedanken darüber, wie viele Arbeitsplätze durch diesen Feldzug gegen das Automobil auf der Kippe stehen.\n\n&gt; Hysterie?\n\nEs handelt sich um eine hysterisch aufgeladene Debatte, die ausschließlich in Deutschland geführt wird, nirgendwo sonst. Offenkundig steht **die Hälfte der 500 europäischen Messstellen hier in Deutschland**, die andere Hälfte teilen sich die übrigen 27 EU-Staaten. Und die Werte verändern sich fundamental, wenn man die Messstellen nur einige, wenige Meter versetzt. \n",
+        "date": "2019-01-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Man sollte doch erwarten, dass besonders die LUXUS-Entscheidungen auch dann nach Umweltgesichtspunkten getroffen werden.\n\nUnd wo man Urlaub macht ist ein reines Luxusproblem. Sie hätte mit ihrer Kohle auch nach Österreich oder Frankreich fahren können aber nein, es musste Kalifornien sein.\n\nDas hat nichts mit Überleben zu tun oder Forderung nach einem Leben im Kloster.",
+        "date": "2019-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Allein die Herstellung des Akkus setzt bei Mittelklassefahrzeugen um die 17 Tonnen CO2 in die Luft. \n\nDas ist völlig pauschalisiert und damit Blödsinn. Es gibt eine ziemlich [umfangreiche Studie](https://www.ivl.se/download/18.5922281715bdaebede9559/1496046218976/C243+The+life+cycle+energy+consumption+and+CO2+emissions+from+lithium+ion+batteries+.pdf), aber selbst die gibt keine genaue Zahl an, sondern schwankt je nach getroffenen Annahmen stark. Als geschätzten Durchschnittswert geben die 150-200 kg/kWh an. Die 17 Tonnen entsprechen also einem 100 kWh-Akku. Einen solchen Wert findet man nur beim Model S, und das ordnet man eher der Oberklasse zu (preislich auf jeden Fall).\n\nWas man weiß ist, dass der CO2-Ausstoß der Akkuproduktion hauptsächlich von der Elektrizität bei der Zellherstellerung ergibt. Das heißt je besser der Strommix am Produktionsstandort, desto weniger CO2.\n\n&gt;Und auch das ist nur ein Teil der Wahrheit, denn beim heutigen Strommix mit rund 55 Prozent aus fossilen Energieträgern tankt das E-Auto überwiegend Kohle.\n\nUnd das verbessert sich Jahr für Jahr. Und klar, Deutschland ist da relativ schlecht, in vielen anderen Ländern ist der Strommix besser.\n\n&gt;Wenn wirklich im prognostizierten Umfang E-Autos gekauft werden, steigt der Stromverbrauch bei uns exorbitant an\n\nFalsch. 100% Elektroautos bedeutet ein Anstieg von etwa 20%. Das ist nicht \"exorbitant\" und kann recht leicht durch einen leicht erhöhten Ausbau der Erneuerbaren zu 100% kompensiert werden.\n\n&gt; Wir ignorieren zudem, dass gerade die deutsche Zulieferindustrie in hohem Maße abhängig ist vom anspruchsvollen Dieselaggregat. Ein Dieselmotor beispielsweise hat ungefähr 2200 Teile. Ein Elektromotor hat 150. Alleine das wird unsere Zulieferindustrie vor große Herausforderungen stellen. \n\nDaher weht der Wind. Allerdings sollte dem guten Mann klar sein, dass der deutsche Markt nicht mehr den Takt angibt.",
+        "date": "2019-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich weiß nicht was ich schlimmer finde, die eklatanten Fehlinformationen und bewussten Verzerrungen oder die Tatsache, dass er für diese Äußerungen auch noch bezahlt wird. Gehen wir einfach mal alles der Reihe nach durch.\n\n&gt; Allein die Herstellung des Akkus setzt bei Mittelklassefahrzeugen um die 17 Tonnen CO2 in die Luft.\n\nDie 17 Tonnen wurden für die 100-kWh-Akkus von Tesla geschätzt, also Premiumsegment statt Mittelklasse. Die Zahl stammt übrigens aus einer schwedischen Studie, die immer gern von Gegnern der E-Mobilität zitiert wird, weil sie den höchsten CO2-Wert unter allen vergleichbaren Studien liefert. Noch dazu blendet die Information aus, dass der CO2-Ausstoß fast ausschließlich durch den Strombedarf der Produktion gedeckt wird. Wenn Tesla den Strom für die Zell- und Packproduktion selbst aus Sonne erzeugt oder Northvolt norwegischen Wasserkraftstrom nutzt, schrumpft der Ausstoß auf einmal deutlich.\n\n&gt; Dafür muss ein Diesel oder ein Benziner erst einmal 200.000 km fahren, um auf diese Menge CO2 zu kommen.\n\nMan kann leicht ausrechnen, dass die Behauptung schlichtweg falsch ist. Der hypothetische Diesel müsste einen Realverbrauch von 3,2l/100km aufweisen, der Benziner 3,6l/100km. [Kein Serienfahrzeug schafft das.](https://www.spritmonitor.de/de/die_sparsamsten_autos.html)\n\n&gt; Und auch das ist nur ein Teil der Wahrheit, denn beim heutigen Strommix mit rund 55 Prozent aus fossilen Energieträgern tankt das E-Auto überwiegend Kohle. Dann können es sogar über 500 000 Kilometer sein, die der Verbrenner klimafreundlicher ist als der reine Elektroantrieb.\n\nDa schon seine beiden Ausgangspunkte falsch sind (17t/200.000km sowie 55% Kohle im Stromnetz - 2018 wurden nicht mal mehr 40% erreicht), darf man diese Zahl sofort wieder vergessen.\n\n&gt; Wenn wirklich im prognostizierten Umfang E-Autos gekauft werden, steigt der Stromverbrauch bei uns exorbitant an.\n\nFür 100% batterieelektrische PKW auf Deutschlands Straßen werden bei gleichbleibender durchschnittlicher Jahresfahrleistung 150 TWh Strom benötigt. Das sind 25% mehr als jetzt, die außerdem nicht sofort, sondern erst gegen 2040 benötigt werden. Es bleibt also genug Zeit zum Ausbau des Netzes und des Kraftwerksparks.\n\n&gt; Diese Rechnung macht interessanterweise derzeit niemand auf.\n\nDoch, durchaus. Das ist ein klassisches - und widerlegtes - Argument gegen E-Mobilität.\n\n&gt; Dann kann es passieren, dass wir unser Ziel von 50 Prozent erneuerbarer Energien bis 2030 gar nicht erst erreichen und stattdessen mehr Kohle- oder importierten Atomstrom benötigen.\n\nDas kann durchaus passieren, hängt aber weniger mit der E-Mobilität, sondern mehr mit der politisch gewollten Bremse des EE-Zubaus zusammen.\n\n&gt; … weil viele Kunden wegen des Dieselbashings auf Benziner umsteigen und so die CO2-Bilanz verschlechtern.\n\nAuch das stimmt nur bedingt. Pro km ist Diesel nur 5-10% besser als Benzin im selben Chassis, dazu kommt, dass der durchschnittliche Benziner kleiner und leichter ist als der durchschnittliche Diesel - schon allein deshalb könnte am Ende die Null oder sogar ein leichter Vorteil für den Benziner rauskommen.\n\n&gt; Es gibt bis heute kein einziges Beispiel dafür, dass durch Stickstoffdioxid im Straßenverkehr ein Mensch zu Tode gekommen ist.\n\nHat auch - außer diejenigen, die das verfälschende Wort \"Dieseltote\" in die Welt gesetzt haben - nie jemand behauptet.\n\n&gt; Selbst das Bundesumweltamt räumt ein, dass es sich nur um politisch gesetzte Grenzwerte handelt. Sie sind toxikologisch nicht zu begründen.\n\nDas liegt zum Teil daran, dass für NOx noch keine als unschädlich geltende Dosis bekannt ist. Es könnte sogar genauso gut sein, dass die Grenzwerte noch viel zu hoch sind.\n\n&gt; Wir ignorieren zudem, dass gerade die deutsche Zulieferindustrie in hohem Maße abhängig ist vom anspruchsvollen Dieselaggregat. Ein Dieselmotor beispielsweise hat ungefähr 2200 Teile. Ein Elektromotor hat 150. Alleine das wird unsere Zulieferindustrie vor große Herausforderungen stellen.\n\nEigentlich kann das Interview auf diesen kurzen Ausschnitt reduziert werden. Die Dieseltechnologie steht vor einer Ablösung durch eine in mehreren Dimensionen bessere Technologie, deshalb muss jetzt noch mal alles getan werden, um dies so weit wie möglich hinauszuzögern.\n\n&gt; Nehmen Sie allein den neuen WLTP-Standard bei der Abgasmessung. Der wird in 14 Monaten in der EU durchgepeitscht, und gilt nicht nur für neue Modelle, sondern auch für bestehende Baureihen. \n\nSo überraschend kam WLTP nicht, außerdem war auch die Autolobby selbst an der Entwicklung des Standards beteiligt. Überraschend kam nur, dass die Einführung um ein Jahr vorgezogen wurde.\n\n&gt; Deutschland muss aufpassen, dass es nicht dem Mantra saturierter Gesellschaften verfällt, das da lautet: Es geht uns gut. Wir müssen uns nicht anstrengen Der Wohlstand ist in Stein gemeißelt. Das ist er eben nicht. Das Verständnis dafür, was Wirtschaft und Industrie brauchen, ist in unserer Gesellschaft deutlich geschwunden.\n\nIst das sein verdammter Ernst? Erst setzt er sich mit aller Kraft gegen die nächste technische Entwicklungsstufe zur Wehr, um dann genau diese Denkweise in der Gesellschaft zu kritisieren?\n\nEs hätte jetzt nur noch ein Hinweis auf Brennstoffzellenfahrzeuge als vermeintlich bessere Alternative gefehlt, dann wäre das Bullshit-Bingo komplett gewesen.",
+        "date": "2019-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich würd sagen die Kohle von Profagus ist so der Marktführer und die fertigen aus guten Deutschen Bäumen. Ich nehm manchmal auch Kokosbriketts aus Thailand oder so, das hat wiederum andere Vorteile bei der Nachhaltigkeit usw., aber der ewig lange Transport ist halt schon scheisse…",
+        "date": "2019-01-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;&gt; Allein die Herstellung des Akkus setzt bei Mittelklassefahrzeugen um die 17 Tonnen CO2 in die Luft.\n\n&gt; Die 17 Tonnen wurden für die 100-kWh-Akkus von Tesla geschätzt, also Premiumsegment statt Mittelklasse. Die Zahl stammt übrigens aus einer schwedischen Studie, die immer gern von Gegnern der E-Mobilität zitiert wird, weil sie den höchsten CO2-Wert unter allen vergleichbaren Studien liefert. Noch dazu blendet die Information aus, dass der CO2-Ausstoß fast ausschließlich durch den Strombedarf der Produktion gedeckt wird. Wenn Tesla den Strom für die Zell- und Packproduktion selbst aus Sonne erzeugt oder Northvolt norwegischen Wasserkraftstrom nutzt, schrumpft der Ausstoß auf einmal deutlich.\n\nmeinst du [diese](https://www.ivl.se/download/18.5922281715bdaebede9559/1496046218976/C243+The+life+cycle+energy+consumption+and+CO2+emissions+from+lithium+ion+batteries+.pdf) schwedische studie? das ist eine meta-studie, die andere studien vergleicht.\n\ndort schätzt man den co2 ausstoß auf 70 bis 110 kg-co2 equivalent pro kwh. bei einem 100 kwh akku würde man also auf 7-11 tonnen kommen, nicht auf 17 tonnen.\n\nwobei die eigentliche frage damit nicht beantwortet ist. wieviel mehr co2 kostet denn nun die herstellung eines elektroautos? wir fahren ja nicht mit batterien und motoren herum, sondern mit ganzen fahrzeugen. [diese](https://www.ucsusa.org/sites/default/files/attach/2015/11/Cleaner-Cars-from-Cradle-to-Grave-full-report.pdf) studie gibt auf seite 21 eine antwort darauf: \n\n&gt; For a full-size 265-mile-range BEV, manufacturing emissions are approximately 68 percent, or 6 tons of CO2e higher \nthan a comparable conventional gasoline vehicle.\n\njetzt stellt sich natürlich die frage, ab wieviel km laufleistung die elektrofahrzeuge diese 6 tonnen wieder reinholen. \n\ndas [umweltbundesamt hat 2016](https://www.umweltbundesamt.de/themen/co2-emissionen-pro-kilowattstunde-strom-sinken) einen wert von 528 gramm co2 ausstoß pro kwh stromproduktion angegeben. die deutsche energiewirtschaft [schätzt](https://www.bdew.de/media/documents/PI_20181219_Erzeugung-und-CO2-Emissionen-2018.pdf) den wert für 2018 auf 483 gramm pro kwh. der e-golf mit 135 ps elektromotor kommt laut webseite im nedc test-zyklus auf 13,2 - 14,1 kwh pro 100km, das macht also 6375 - 6810 gramm co2 ausstoß auf 100 km. \n\ndas gleiche fahrzeug mit 150ps dieselmotor hat kommt im nedc zyklus auf einen verbrauch von 4,2 - 4,3 litern diesel auf 100 km. das ergibt 11130 - 11395 gramm co2 ausstoß auf 100km. das ergibt einen co2 vorteil von 4585 - 4755 gramm pro 100km für den e-golf. *der e-golf wird also ab einer laufleistung von 126'000 bis 130'000 km co2-effizienter als der diesel*. \n\nda kann sich jeder selbst abschätzen, ob ein elektroauto so sehr viel effizienter ist als ein verbrenner. gerade umweltbewusste großstadtbewohner, die vorbildlicherweise mit dem rad oder dem öffentlichen nahverkehr pendeln, werden wohl kaum auf die 130'000 km kommen. mMn kann man die 10'000 euro, die ein e-auto in der regel mehr kostet als ein vergleichbarer verbrenner, in sinnvollere projekte zur klimarettung stecken.\n\n\n(wobei man vielleicht anmerken sollte, dass diese rechnung von einem durchschnittlichen co2 fußabdruck in der stromherstellung ausgeht. das ist in der realität nicht so. zum einen, weil man autos wohl hauptsächlich nachts geladen werden, wo es keinen solar-strom gibt, zum anderen aufgrund des erneuerbaren energien gesetzes. entsprechend des eeg läuft stromerzeugung aus erneuerbaren energien in deutschland immer auf voller power, mehrlasten werden aus konventionellen quellen abgedeckt. wenn jetzt sich also jemand aufgrund des abgasskandals umentscheidet und anstatt eines neuen verbrenners ein neues elektroauto kauft, wird er also hauptsächlich konventionellen strom verfahren und der break-even point wird erst deutlich später erreicht. die investitionen in erneuerbare energien werden auch hauptsächlich durch die eeg-umlage und die öffentliche vergabepraxis bestimmt, also gibt es dort auch nur wenige langfristigen auswirkungen. ich habe das ganze schon mal [hier](https://www.reddit.com/r/de/comments/8id9ad/so_beeinflusst_dein_konsum_das_klima/dyr4rpj/) ausführlicher erklärt.)\n\n&gt;&gt; Und auch das ist nur ein Teil der Wahrheit, denn beim heutigen Strommix mit rund 55 Prozent aus fossilen Energieträgern tankt das E-Auto überwiegend Kohle. Dann können es sogar über 500 000 Kilometer sein, die der Verbrenner klimafreundlicher ist als der reine Elektroantrieb.\n\n&gt; Da schon seine beiden Ausgangspunkte falsch sind (17t/200.000km sowie 55% Kohle im Stromnetz - 2018 wurden nicht mal mehr 40% erreicht), darf man diese Zahl sofort wieder vergessen.\n\ner redet von fossilen energieträgern. kohle hat 2018 einen anteil von 35%, dazu kommt aber noch 13% gas und etwa 1% öl. das ist zusammengerechnet etwa 50%.",
+        "date": "2019-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; das umweltbundesamt hat 2016 einen wert von 528 gramm co2 ausstoß pro kwh stromproduktion angegeben. die deutsche energiewirtschaft schätzt den wert für 2018 auf 483 gramm pro kwh. der e-golf mit 135 ps elektromotor kommt laut webseite im nedc test-zyklus auf 13,2 - 14,1 kwh pro 100km, das macht also 6375 - 6810 gramm co2 ausstoß auf 100 km.\n&gt; \n&gt; das gleiche fahrzeug mit 150ps dieselmotor hat kommt im nedc zyklus auf einen verbrauch von 4,2 - 4,3 litern diesel auf 100 km. das ergibt 11130 - 11395 gramm co2 ausstoß auf 100km. das ergibt einen co2 vorteil von 4585 - 4755 gramm pro 100km für den e-golf. der e-golf wird also ab einer laufleistung von 126'000 bis 130'000 km co2-effizienter als der diesel.\n\nDas ist soweit korrekt, allerdings werden hier die Probleme des NEFZ deutlich. Der Verbrauch beider Fahrzeuge ist in der Praxis deutlich höher als der NEFZ-Wert - interessanterweise beim Diesel viel mehr als beim e-Golf. Laut Spritmonitor schluckt der 150-PS-Diesel durchschnittlich [5,8l/100km](https://www.spritmonitor.de/de/uebersicht/50-Volkswagen/452-Golf.html?fueltype=1&amp;fuelsort=1&amp;vehicletype=1&amp;power_s=150&amp;power_e=150&amp;powerunit=2), der e-Golf auf [14,8 kWh/100km](https://www.spritmonitor.de/de/uebersicht/50-Volkswagen/452-Golf.html?fueltype=5&amp;vehicletype=1). Mit den realistischeren Werten wären wir bei 154 g/km (Diesel) bzw. 71,5 g/km (Strom). Damit hätte sich der CO2-Vorteil im Vergleich zum NEFZ auf einmal fast verdoppelt - der Unterschied beträgt jetzt 82,5 g/km, nach ca. 70.000 km steht der e-Golf im Plus.\n\n&gt; er redet von fossilen energieträgern. kohle hat 2018 einen anteil von 35%, dazu kommt aber noch 13% gas und etwa 1% öl. das ist zusammengerechnet etwa 50%.\n\nStimmt, hatte ich übersehen. Hier muss man allerdings bedenken, dass Erdgas in Sachen CO2 deutlich weniger problematisch als Kohle ist - auch ein theoretischer Komplettumstieg von Kohle auf Gas würde die deutsche CO2-Bilanz extrem verbessern.",
+        "date": "2019-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nein, das Argument “Windkraftwerke benötigen Stahl und der muss auch erst produziert werden“ macht eben keinen Sinn. Schon laufende Kohlekraftwerke benötigen Kohle, AKWs Brennstäbe und Endlagerung. Auf der einen Seite muss die Energie gewonnen werden, auf der anderen Seite benötigt der Mensch nunmal mehr Mensch denn je, ein dezentralisiertes, unreguliertes Ausbeuten ist da sicher nicht die Lösung.\n\nDie Fauna in einem off shore Wasserpark wird ein paar Jahren nach dem aufstellen sich sicherlich angepasst haben, das größte Problem hat wohl der Mensch selbst („Lautstärke!“, „meine schöne Aussicht aufs Wasser!“, „der Schatten!“).\n\n\nDein Argument mit dem eauto bezieht sich wohl außerdem auf ein Tesla Model S und könnte in ein, zwei Jahren schon der Vergangenheit angehören (genauso wie der Flop von Tesla), dazu erinnere ich gerne: vor 100 Jahren hat man Sprit noch in der Apotheke gekauft.\n\n\nDu darfst gerne deinen persönlichen ökologischen Fußabdruck auf ein Minimum senken, dies wird aber wohl oder übel nichts bringen, solange die Chinesen Städte wie vom Reißbrett aus dem Boden stampfen.",
+        "date": "2019-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Hab die Kohle eigentlich nur ein mal genommen, wie ich im Ulaub was falsches gegessen hatte. Da hats funktioniert... \n\nAber vll. stieg ich dann auf Hefe oder so um... ",
+        "date": "2019-01-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ein Gericht um sich so richtig den Magen vollzuschlagen: Linsen-Kohl-Curry. Die Zubereitungsdauer ist zwar nicht sonderlich kurz (auch nicht besonders lang), aber außer Schneiden und kochen lassen muss man nicht viel machen.\nDie Mengenangaben sind nur geschätzt, ich mache das ganze immer nach Gefühl. Hier Mal für eine großen Topf voll:\n- einen möglichst kleinen Spitzkohl, oder einen halben. Es gehen auch andere, ähnliche Kohlsorten.\n- ein paar mittelgroße Kartoffeln und Karotten\n- ein Stückchen Ingwer\n- Knoblauch nach Belieben\n- eine große Zwiebel\n- eine Dose Kokosmilch\n- eine kleine Tasse voll rote Linsen\n\nZwiebel dünsten, dann Kartoffeln, Karotten (beides in Würfel mit ca. 1,5 cm Seitenlänge schneiden), Ingwer und Knoblauch mit in den Topf. Wenn alles nur leicht gebräunt ist kommt der in Streifen geschnittene Kohl dazu. Das ganze noch ein, zwei Minuten dünsten lassen. Die Karotten und Kartoffeln sollten noch relativ fest sein, da wir jetzt die Kokosmilch und die Linsen dazugeben und alles so lange leicht köcheln lassen, bis die Linsen weich sind. Ich fülle die leere Kokosmilchdose immer mit Wasser (ca. 400 ml) und gebe das dazu, damit die Linsen genug Flüssigkeit haben. Das ganze dann bei kleiner Hitze ca. 20 Minuten köcheln lassen, eben bis die Linsen weich sind.\nIch würze das ganze mit Salz, schwarzem Pfeffer, viel Currypulver, Kreuzkümmel und gemahlenen Koriandersamen. Frischer Koriander passt auch toll dazu, wer das mag (am Schluss hacken und dazugeben!). Am wichtigsten ist jedoch eine Menge Currypulver.",
+        "date": "2019-01-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Schau dir doch mal an wie Öl abgebaut, aufbereitet und transportiert werden muss. Und nicht nur das, auch Gas, Kohle oder die Gewinnung von Rohstoffen zur Herstellung von Akkus haben eine erheblich schlechtere Ökobilanz.\n\n&gt;Und das Verbrennen eines Baums setzt CO2 frei, da führt nichts dran vorbei.\n\nJegliche Verbrennung tut das, auch dein Öl.\n Daher schrieb ich ja auch, dass man nur das nötigste verbrauchen (== verbrennen) sollte.",
+        "date": "2019-01-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das mit der Kohle hat mir mein Betriebsarzt in Vorbeitung einer Indien-Reise auch mal so gesagt: Kohle benutzt man nicht mehr, weil die Wirksamkeit (für Durchfall) in Studien nicht gezeigt werden konnte.\n\nWie du auf Hefe kommst, weiß ich aber nicht. Der Betriebsarzt hatte zwei Möglichkeiten empfohlen, die stark unterschiedlich kosteten (3 Euro/Packung und 10 Euro/Packung), sich aber stark unterscheideten (Die Hau-Ruck Methode, die man nur ein paar Tage nehmen darf, und die andere eher gezieltere Methode, die man auch 7 Tage nehmen darf).",
+        "date": "2019-01-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich mag unseren Kachelofen schon - aber halt nicht als Hauptheizung - dass der dafür nicht taugt, einen viel schlechteren Wirkungsgrad hat und auch nicht so sauber ist, wie eine \"richtige Heizung\" ist klar. Der ist gemütlich und dann eben nachmittags oder abends an, wenn man zu Hause ist, und es draußen richtig kalt ist. Dafür finde ich das auch okay. Und es ist auch eine Absicherung dafür wenn es mal für länger unter -15°C geben sollte, ist hier ja nicht ausgeschlossen - dann wäre die Gasheizung alleine irgendwann zu schwach.\n\nHolzkohlegrills verbieten ist eh lächerlich. Das macht kaum was aus - man grillt ja nicht mit ein paar Tonnen Kohle im Jahr, und da dürfte auch nicht viel gefährlicher Feinstaub entstehen. Was ist da denn die Begründung?",
+        "date": "2019-01-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Gas kann man als LNG auch per Schiff heran schaffen, oder in einer hypothetischen Krise auch aus Kohle herstellen. Und da wie gesagt der Gasverbrauch (genauso wie alle anderen fossilen Energieträger) ja langfristig bei der richtigen Strategie eher sinken wird, wird es insgesamt eher einfacher. Wir werden in Zukunft definitiv weniger von Energieimporten abhängig sein, wenn wir konsequent auf Erneuerbare und Sektorkopplung setzen.",
+        "date": "2019-01-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Auch wenn es nicht mehr in den Bereich des Kind-Seins fällt, so möchte ich doch gerne die Mär von der Abiturprüfung beisteuern, die man sich in meiner Schule auch immer wieder erzählt hat:\n\nAufgabe: \"Definiere Mut.\"\n\nAbiturprüfling schreibt nur \"Das ist Mut.\" Und gibt ab.\n\n\nPrüfung bestanden, 15 Punkte, das ganze Klassenzimmer klatscht, Prüfling kriegt von Helmut Kohl 1200 DM.",
+        "date": "2019-01-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Aber ziemlich gruselig für wie viel Kohle die zwei Teelöffel Joghurt verkauft haben",
+        "date": "2019-01-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Hinter eines Baumes Rinde sitzt die Made mit dem Kinde. \nSie ist Witwe, denn der Gatte, den sie hatte fiel vom Blatte. Diente so auf diese Weise, einer Ameise als Speise.\n\nEines Morgens sprach die Made:\n\"Liebes Kind, ich sehe grade,\ndrüben gibt es frischen Kohl,\nden ich hol'. So leb denn wohl.\nHalt! Noch eins, denk, was geschah,\ngeh nicht aus, denk an Papa!\"\n\nAlso sprach sie und entwich. -\nMade junior jedoch schlich\nhinterdrein, und das war schlecht,\ndenn schon kam ein bunter Specht\nund verschlang die kleine fade\nMade ohne Gnade. - Schade.\n\n\nHinter eines Baumes Rinde\nruft die Made nach dem Kinde.\n\nMade in W.-Germany",
+        "date": "2019-01-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der wird beauftragt vom Vermieter. Ich bin mir etwas misstrauisch. Unser Vermieter ist eigentlich Besitzer einer großen bekannten Firma bei uns in der Region. Sie besitzen anscheinend auch etliche Immobilien in der Stadt. Alle Firmen oder Handwerker, die bei uns bisher irgendwas gemacht haben, sind quasi mehr oder weniger nur für sie unterwegs. So wird hier nur rumgepfuscht, um Kohle zu sparen, aber wenn man nachhakt, wird alles immer so gedreht, dass das schon alles richtig so ist. \nDaher bin ich beim Sachverständigen auch etwas beunruhigt...",
+        "date": "2019-01-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Zur Info: Ich bin knapp 30 und auch mit den 1500€ bin ich deutlich unter dem Geldfreibeträge, das ich besitzen darf bevor ich kein ALGII bekommen würde. \n\nDu hast eine Forderung von 1500€ bei deinem Freund. Das wird dir durchaus als Vermögen angerechnet. Wenn du es jetzt bekommst durch Zahlungsverkehr sollte das kein Problem darstellen da es auch vorher dien Vermögen war. Ich würds mir trozdem Bar geben lassen im Zweifelsfall speert die Arge deine Kohle erstmal und du musst Belegen dass die 1500€ nicht aus ner Arbeitsstelle kommen. Du solltest den Schuldschein aber mit Angeben als Vermögen in dem Teil wo du Vermögen angeben musst. Wenn du das nicht gemacht hast dann hol das noch nach. ",
+        "date": "2019-01-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Gibt dort auch viele Trittbrettfahrer, die einfach sinnlos bestellen, anstelle sowas wirklich zu brauchen. \nPasst auch zu den Kommentaren, die hier einige geschrieben haben. \nLustiger wirds, wenn es \"Preisfehler\" oder wirkliche gute offizielle Deals sind, die dann innerhalb von 5min restlos leer gekauft und auf eBay gestellt werden um direkt nochmal dick Kohle einzufangen. \n\nCommunity ist im letzten Jahr gefühlt viel schlimmer geworden. \nMehr negative und weniger hilfreiche Kommentare. ",
+        "date": "2019-01-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Frage ist woher die Kohle kommt.",
+        "date": "2019-01-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Mach den Schritt! Deine Kiste ist schneller und du generierst den AB+ Hanseln keine Kohle.",
+        "date": "2019-01-07",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Und sollen wir jetzt klatschen, dass der eine Typ (falls er sich von der ganzen Kohle kein persönlich geschneidertes Steuervermeidungspaket mittels Bermuda, Caymans und Deutsche Bank leistet) prozentual derselben Bürgerpflicht nachkommt, aber absolut ne höhere Zahl rauskommt, weil er absolut mehr verdient und absolut auch mehr für ihn übrig bleibt? Ich denke eigentlich nicht, auch wenn das natürlich irgendwo schön für ihn und das Staatssäckel und zwei Polizisten ist, die wir uns davon leisten können.\n\nEs stimmt, dass die höchsten Einkommen effektiv am meisten Geld reinspülen, aber was willst du bei einem Serviermädchen auch konfiszieren? Nix. Die untersten 3 Dezile der deutschen Gesellschaft leben komplett von der Hand in den Mund, mit negativen Ersparnissen, gegenseitiger Nachbarschaftshilfe und Schwarzarbeit wo zwei riesige Parallelökonomien existieren, sowie der stetigen Bedrohung am Arsch zu sein wenn der Motor des 1000 EUR Gebrauchten platzt. Selbst die nächsten 2 Dezile - wir sind dann schon bei der Hälfte der Gesellschaft - hat eigentlich kein nennenswertes Vermögen.\n\nMan sollte auch eigentlich nicht stolz drauf sein, dass soviele Leute im Spitzensteuersatz drin sind. Das hat die kalte Progression und das Fehlen von Steuerbändern bewirkt, beides Dinge, die man offensichtlich mal reformieren müsste, aber nicht tut. Es ist doch hanebüchen, dass altgediente Meister in der Werkshalle schon zu den \"oberen Besserverdienenden\" ABER NUR AUS SICHT DER STEUER gelten, dieselbe Klasse wo sich der einzelne eine Werksleiter dieses Standortes auch staut, weil es kaum höher hinauf geht.\n\nDie reichen 20%, die haben noch eine Menge andere Einnahmen neben Arbeitslohn, daher kommt eine Menge Ungerechtigkeit in der Gesellschaft. Was willst du als Arbeiter mit Mietwohnung schon noch von der Steuer absetzen, außer dem Treppenwitz Arbeitszimmer zu Hause?\n\nDafür konsumiert diese untere Hälfte netterweise eigentlich eine Menge, oder wenigstens alles, was sie verdient. Sie kann ja gar nicht anders, weil am Ende ihres Geldes noch Monat übrig ist. Aber für die Prozente, was bei den ganz ganz hohen Gehältern nach der Steuer übrig bleibt, da kann man sich pro Monat - weil man die gleichen Preise wie die Armen zahlt beim Essen usw - ne Menge Monate von kaufen. Wenn man sich solchen absolut/relativ Dingen nicht klar ist, rutscht auch mal schnell so was bräsiges raus wie \"die untere Hälfte ist selbst schuld, wenn sie keine Aktien kauft.\" Die 450 Euro Kraft an der Metzgertheke so dazu: \"Jaha, wovon denn, du Komiker?!\"\n\nIch finde weiterhin nicht, dass ich jetzt irgendwie klatschen müsste weil er \"100 mal so viel\" zahlt.\n\nDas deutsche Steuersystem muss mal davon weggesteuert werden, den Staat/Sozialleistungen über die Arbeitszeit von Arbeitern und Angestellten finanzieren zu wollen. Das wäre im Moment mM die wichtigste Priorisierung.",
+        "date": "2019-01-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Kohle ist aber nicht so geil, und je nachdem wo er arbeitet sind die Zeiten auch suboptimal",
+        "date": "2019-01-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Die Kohle ist aber nicht so geil,\n\nWenn du das gelernt hast und nicht nur Helfer bist, kannst du schon ganz gut verdienen.",
+        "date": "2019-01-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; energetisches wasser\n\nIch ärgere mich noch immer ein wenig ein Gewissen zu haben. Die Kohle die man damit machen können muss...",
+        "date": "2019-01-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Und Helmut Kohl war noch bundeskanzler und der liter super verbleit hat fuffzich pfennig gekostet!!1!",
+        "date": "2019-01-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Kann man die nicht artgerecht umsiedeln in den aufgeforsteten Bereich?\n\nDa ist doch eh mittlerweile ein vielfaches an Platz.\n\n&amp;#x200B;\n\nDer ganze Protest könnte sich auf deutlich sinnvollere und konstruktivere Bereiche umverteilen, die Kohle wird so oder so gehen, schlicht weil regenerative energie im wahrsten Sinne keine Produktionskosten hat.",
+        "date": "2019-01-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Umweltnazi\n\nKohle vergasen!\n\n&amp;#x200B;",
+        "date": "2019-01-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Und verdammt nochmal, hört auf, Leuten zu sagen, dass sie eh keinen Job finden oder nur [low-prestige job] kriegen werden, wenn sie nicht MINT studieren. Wenn das von Ingenieuren kommt ist das schon nervig genug (stellt euch vor: man braucht auch noch andere Berufe in der Gesellschaft), von angehenden erst recht, aber dann von Leuten, ~~die Biologie studieren und die meinen, dass sie damit besser vermarktbar sind~~ [die denken, dass man mit Biologie besser vermarktbar ist](https://www.reddit.com/r/de/comments/ae1ug2/stemshitlords/edmfirl/) als Leute in den Geistes-, Kultur- und Sozialwissenschaften? \n\nAls ich zur Schule gegangen bin, hieß es BWL an jeder Ecke. Jetzt sind die Hälfte meiner ehemaligen Klassenkameraden arbeitslos oder unglücklich. Die andere Hälfte hat's geschafft, war dann aber ganz überraschend auch die Hälfte, die sich wirklich dafür interessiert hat.\n\nWer das Privileg hat, studieren zu können (dass nicht jeder seiner Leidenschaft folgen kann, ist mir bewusst), sollte sich wirklich überlegen, woran er oder sie Interesse hat. Nur für die Kohle zu studieren und arbeiten funktioniert für manche, macht auch einige zufrieden, aber jeder muss **für sich** entscheiden, ob das zutrifft. \n\nDie hochnäsige \"tja DAMIT kriegst du ja nie einen anständigen Job\"-Laberei legt meist nur offen, wie wenig die Leute über den Studiengang und das Feld wissen. Sobald es etwas vager ist als Ingenieurwissenschaft, Lehramt, Medizin oder Jura, haben die meisten leider eben einfach keine Ahnung, welche Jobs es überhaupt gibt und welche Anforderungen die haben.\n\nUnd für alle, die gern ihren Interessen folgen wollen, aber unsicher sind: Recherchiert. Setzt euch ein Ziel. Philosophie studieren und dann am Ende zu überlegen, was man damit machen will und zu entdecken, dass es für den Wunschjob aber noch Zusatzqualifikationen braucht, ist halt Mist. Haltet euch Optionen offen. Sammelt Erfahrung. \"Merkwürdig\" aussehende Kombinationen sind nicht unbedingt schlecht, aber Recherche ist wichtig. \nHeutzutage gibt es \"ich hab studiert und am Ende wartet ein Job\" nicht mehr, das gilt aber auch für viele MINTler. \nBei Abhängigkeit von z.B. Eltern lässt sich oft viel erreichen, wenn ihr lernt, auf ihre Bedenken einzugehen. Sie haben Angst, dass ihr auf der Straße Gitarre spielt für ein paar Cent? Erklärt ihnen genau, was ihr machen wollt und wie es euch finanziell damit gehen wird, wie ihr das Ziel erreichen wollt und welche Risiken es gibt und wie ihr plant, damit umzugehen. Das wird manchen noch immer nicht reichen, manchmal braucht es diese Unterhaltung auch mehrere Male (und oft muss man Eltern auch erstmal eine Weile auf den Informationen rumkauen lassen), aber es hilft in vielen Fällen eben doch.\n\nUnd für alle gilt: Man kann auch seine Meinung ändern. Wenn ihr merkt, dass ein Studiengang nichts für euch ist und ihr etwas anderes lieber machen wollt, habt bitte keine Angst, wegen eines verlorenen Jahres (oder sogar zweien) etwas zu ändern, statt weiter zu verfolgen, was ihr hasst. In dem Alter seid ihr meist noch nicht gewohnt, etwas abzubrechen und etwas Neues anzufangen, und denkt, dass das automatisch etwas Schlechtes sei und euch als Loser abstempelt. Das ist nicht wahr. Das eine verlorene Jahr interessiert später niemanden mehr, aber lustlose und halbherzige Arbeit beißt euch in den Hintern.",
+        "date": "2019-01-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich hab oft den Eindruck, die Kritik an Studienfächern wie z.B. Design (was ich mache) zusammen mit Klassikern der Humorgeschichte wie \"Ach du willst mal Barista werden? HAHAHA\" geht damit einher, dass bei manchen kein Verständnis dafür vorhanden ist, dass es unterschiedliche Gründe gibt, ein Fach zu wählen. Soll heißen, nicht jeder schreibt sich bei BWL und co ein, weil er denkt \"Damit macht man bestimmt Kohle.\" Ich habe meinen Studiengang aus Interesse gewählt und nicht weil ich dachte, damit habe ich die steilsten Karrierechancen...",
+        "date": "2019-01-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wer [so viel Kohle](http://www.spiegel.de/wirtschaft/soziales/erzbistum-paderborn-vermoegen-von-vier-milliarden-euro-a-1055141.html) rumliegen hat, kann auch ruhig mal ein paar Mios für Marketing rauswerfen",
+        "date": "2019-01-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Nichts für ungut, aber meistens wird es still wenn man mal konkret fragt.\n\nDas macht es ja noch nicht falsch - und ich denke niemand hier fordert, den Brandschutz zu lockern.\n\nMir fällt immer wieder auf, dass viel zu wenig Land zu Bauland wird. Im Umland von kleineren Städten in Ballungsräumen sind z.T. so viele Felder und Wiesen vorhanden, die einfach brach liegen. Man könnte viele dieser Flächen direkt zu Bauland machen, der Bauer freut sich weil er Kohle kriegt, der Bürger freut sich, weil er billig bauen kann, und alle sind zufrieden. Kleinere Felder sehen eh nicht dolle aus. Und ich rede hier nicht vom \"zubauen\", sondern einfach mal ein bisschen was freizugeben - da ist immer noch genug grün vorhanden. Leider haben diejenigen, die das könnten, kein Interesse daran, weil dann die Preise ihrer schon existenten Immobilien sinken könnten. Ein anderer, aber ähnlicher Punkt wäre, Leuten zu erlauben, irgendwo mitten im Grünen ein Haus zu bauen. Geht in anderen Ländern ja auch, nur hier komischerweise nicht, hier muss es immer angeschlossen Mauer an Mauer an einem bestehenden Ort sein, ein Haus mitten im Grünen ist eine extreme Seltenheit und in der Regel nur mit Bestandsschutz aus vergangenen Zeiten möglich. Das sind nur mal zwei Punkte, die mir als Laie einfallen.",
+        "date": "2019-01-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Mein Problem mit diesen Produkten ist, dass sie häufig hochverarbeitet und ungesund sind. Die Imitation von Geschmack und Optik steht häufig im Fokus.  Zudem werden viele Inhaltsstoffe quer über den Globus gefahren.\n\nDeshalb bin ich kein Freund von Ersatzprodukten, wenn ich vegetarisch esse dann lieber einfache Gerichte mit möglichst regionalen Zutaten. Kohl ist so ein geiles Gemüse, da brauche ich kein Veggieschnitzel.  ",
+        "date": "2019-01-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja, jetzt wo du die Nachricht hier geteilt hast ist es eh zu spät und schon bald werden alle deine Bekannten diese seltsamen Videos sehen :( :( :(\n\n( Also, wenn diese Videos überhaupt existieren würden. Und der Typ außerdem ne Möglichkeit hätte sie an deine Bekannten zu schicken. Und er wirklich auf mysteriöse Weise deine Virenscanner ausgetrickst hätte. Und er tatsächlich Ahnung von Treibern und Signaturen hätte. Und wenn er dich schon seit Monaten beobachtet, alle 4 Stunden an deinem Fall arbeitet, und erst jetzt Geld damit machen möchte. Und er wirklich tracken könnte wann du diese E-Mail liest :) :) :) )\n\nJa, das sieht ziemlich professionell aus gerade weil Grammatik, Satzbau und Wechsel zwischen Du und Sie ebenso wie der nett-drohende und erklärende Tonfall total unprofessionell aussehen, also so wie man sich so nen Kriminellen auch vorstellen kann. Aber das Einzige was daran echt sein könnte ist der Ort, an dem du ihn deine Kohle überweisen sollst.\n\nGibt n paar lustige Subreddits wo du haufenweise diese Nachrichten zum drüber lustig machen findest, die von dir zitierte kommt mir auch bekannt vor.\n\nDer beste Schutz um nicht auf sowas reinzufallen wäre natürlich ohnehin solche Filme nicht zu schauen, dann wirken diese Drohungen umso lächerlicher. \n\nAber ganz generell wird dir in so ner Erpressung, die gar kein reelles Druckmittel hat, niemals irgendwas von deinem ( angeblichen ) Handeln im Detail erläutert. Auch hier ist die Drohung lediglich du hättest irgendwelche Filme für Erwachsene geschaut, wenn die mehr wüssten würden sie es schreiben. Im Übrigen wissen sie noch nicht mal das; sie senden das an viele Leute und irgendwer fühlt sich dann angesprochen, vielleicht auch obwohl man fragliches gar nicht getan hat aber trotzdem grundsätzlich verunsichert ist.\n\nUnd selbst wenn solche Leute dir dein Geburtsdatum oder andere persönliche Informationen nennen besteht noch ne riesige Chance das sie eigentlich gar nichts wissen und nur n paar Tricks benutzen. \n\nVorsicht ist natürlich nie verkehrt, aber solche Leute zu bezahlen sollte gar keine Lösung sein!\n\nUnd selbst wenn in 48 Stunden jeder solche Videos sehen würde, die Chance dafür beträgt ziemlich genau 0,0%, geht das Leben weiter und alles kann geklärt werden. Aber wie gesagt, mach dir keine Sorgen, weder ist das ne echte Erpressung noch ist irgendetwas an deinem Computer in irgendeiner Weise nicht wie es sein sollte. Wie andere schon geschrieben haben kommen die Mails noch nicht mal von dir selbst.\n\n",
+        "date": "2019-01-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "UHh, der Rene hat sicher ein dufte Leben. Ordentlich Kohle, jeder mag ihn, alles gelingt und ein Held bei den Frauen. Immer wenn ich so Leute treffe beruhige ich mich mit der Annahme, dass Karma Humor hat und so jemand noch ganz oft wutentbrannt in die Röhre schaut. ",
+        "date": "2019-01-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "*Ich sach ja immer wieder: Die Mafiosi sin raffiniert. Die nehmen die Kohle an.*",
+        "date": "2019-01-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das regelt der Markt. Wenn es dem Klima wirklich so schlecht gehen würde, warum kauft es dann noch Kohle? Duh!",
+        "date": "2019-01-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Oder ihr Panikmacher habt recht und wir werden alle in 5 Jahren sterben? Sowohl Beer's Aussage als auch deine extreme Front /Reddit-Kantigkeit  sind doch doch **beides** Meinungen die totaler Quatsch sind.\n\n&amp;#x200B;\n\nFun fact: Die Grünen sprechen von der Notwendigkeit vom \"Öko-Kapiitalismus\" (die wollen keine Regulationen senken, die wollen das Miliardengrab und den toten Subventions-Zweig \"Energiewende\" aka wir verbrennen wieder 30% mehr Kohle (wortwörtlich)  während wir \"Firmen\" Steuergeld in den Arsch blasen bis irgendwann der Vertrag ausläuft, die Firmen Pleite gehen, die Gründer allerdings nicht. Sie verkaufen noch sämtliche subventionierten Patente die sie hatten überall hin, vor allem nach Fernost. Wers verfolgt hat, weiß was ich meine oder schmeißt Google und die offiziellen Quellen u. Mainstream-Medien an. Offensichtlicher Bias ist offensichtlich. Da bleib ich lieber liberal. ",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Der Grund dafür ist, dass die Unternehmenssteuer logischerweise keine Unternehmen trifft, sondern Anteilseigner, Angestellte und Kunden.\n\nUnd wer sagt, dass die Gewinne wirklich an Angestellte in Form von besseren Löhnen und Kunden in Form von angemessenen Preisen (siehe IPhones, diese Dinger sind in Herstellung&amp;Materialwert KEINE 1700 Euro wert) weitergegeben werden?\n\nEben, niemand! Stattdessen werden nur Investoren und Inhaber NOCH mehr Kohle scheffeln.\n\nWenn die Unternehmenssteuer abgeschafft wird dann nur mit Verbindlichkeiten in Form von höheren Löhnen für normale angestellte, nicht nur für die 0.1% ganz oben im Unternehmen.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja, genannte Quelle: ttps://news.google.com/search?q=Öko+Kapitalismus&amp;hl=de&amp;gl=DE&amp;ceid=DE:de\nSuch dir was aus, viel von der TAZ. \n\nUnd ich sagte die Grünen sprechen von \"Öko-Kapitalismus\". Nicht dass sie Kohlestrom gut finden (wer würde heute überhaupt behaupten Kohle ist geil? Naja gut, die AfD denkt da (in Maßen) gesteigerttes Co2 das Pflanzenwachstum fördert, ist es generell förderlich und schreibt das ins Parteiprogramm. Das startet außerhalb jeder Konkurrenz.). Ändert aber nichts an den Fakten.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ist keine Quelle, sondern ein Google-Suchergebnis. *Irgendwelche Kampfbegriffe bei Google eintippen kann ich selbst.*\n\nDu behauptest die Grünen wollen mehr Kohle verstromen, obwohl deren Parteiprogramm und generelles Vorgehen das Gegenteil suggeriert: \n\n&gt;  die wollen das Miliardengrab und den toten Subventions-Zweig \"Energiewende\" aka wir verbrennen wieder 30% mehr Kohle **(wortwörtlich)**\n\n(Ja, du hast sogar \"wortwörtlich\" gesagt!)\n\nDafür solltest du eine Quelle haben, wenn du es einen Fakt nennst.\n\n\nWas die AfD da denkt ist übrigens faktisch korrekt. Pflanzen wachsen besser bei höherer CO2-Konzentration in der Atmosphäre. Das ist nur kein gutes Argument gegen Klimaschutz, denn diese höhere CO2-Konzentration *haben wir schon*, der Rahmen um den es geht sind ein paar tausend PPM.\n\nGenau so ist es faktisch korrekt dass die Grünen einen Öko-Kapitalismus wollen, in dem die Kosten von Umweltschäden der Verursacher zu tragen hat - wenn das nämlich gegeben ist, *kann* der Kapitalismus vom zwangsläufigen Umweltkollaps den er unreguliert verursachen würde zumindest in der Theorie entkoppelt werden. Werden wir aber erst rausfinden wenn wir's versuchen.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wortwörtlich ist bezogen auf Kohle verbrennen, weil ich dachte es sei missverständlich mit Kohle=Geld, ich aber Kohle meinte. \n\n\"Was die AfD da denkt ist übrigens faktisch korrekt. Pflanzen wachsen besser bei höherer CO2-Konzentration in der Atmosphäre. Das ist nur kein gutes Argument gegen Klimaschutz, denn diese höhere CO2-Konzentration haben wir schon, der Rahmen um den es geht sind ein paar tausend PPM.\"\n\nSagte ich genau so, bevor du meinen Text auseinander nimmst, wie wärs wenn du erst mal richtig liest?\n\nIch bin garantiert nicht für die Verschwendung von Ressourcen und verbrennen von endlichen Rohstoffen und bezweifle auch nicht den Klimawandel, sondern nur die krasse Dramatik, die manche an den Tag legen. Entweder man ist 100% Klimaleugner oder 100% jmd der mit nem Schild auf dem steht \"die Welt geht in 5min unter, bringt euch in Sicherheit\" vorm Rathaus steht. Das geht mir einfach auf den Sack.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ändert an der Stelle irgendwie nix, diggi.\n\n//edit: Der Beitrag hierüber bestand ursprünglich aus nur dieser Zeile:\n\n&gt; Wortwörtlich ist bezogen auf Kohle verbrennen, weil ich dachte es sei missverständlich mit Kohle=Geld, ich aber Kohle meinte.\n\n//edit2:\n\n&gt; Sagte ich genau so, bevor du meinen Text auseinander nimmst, wie wärs wenn du erst mal richtig liest?\n\nSteht da nirgendwo (Stand: 08:36 MEZ). Wäre mir aufgefallen denn ich habe gelesen.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; aka wir verbrennen wieder 30% mehr Kohle\n\nIch finde schon.\n\"die wollen das Miliardengrab und den toten Subventions-Zweig \"Energiewende\" aka wir verbrennen wieder 30% mehr Kohle (wortwörtlich gemeint)\"\n\n\"...Subventions-Zweig \"Energiewende\" aka wir verbrennen wieder 30% mehr Kohle...\"\n\nDoch, macht einen Unterschied.\n",
+        "date": "2019-01-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Du behauptest trotzdem dass die Grünen mehr Kohle verstromen wollen, kannst die Behauptung aber nicht belegen. Insofern, nein, ändert nichts.\n\nAber du behauptest ja auch, Sozialismus wäre ein Glaubenssystem. Mit Glaubenssystemen scheinst du dich auszukennen.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\"Du behauptest trotzdem dass die Grünen mehr Kohle verstromen wollen, kannst die Behauptung aber nicht belegen.\"\n\nDu hast behauptest ich würde das behaupten und ich habe es sofort betont dass ich es überhaupt nicht behaupte. \n\nZum zweiten Satz sag ich einfach mal vielleicht solltest du nicht alles wortwörtlich verstehen wollen, aber machst du auch nicht, du versucht mich ja gerade einfach nur anzugreifen, hast aber keine Grundlage. ",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Du hast behauptest ich würde das behaupten und ich habe es sofort betont dass ich es überhaupt nicht behaupte.\n\nDu hast betont dass du mit \"Kohle\" wirklich \"Kohle\" und nicht \"Geld\" meinst. Da steht immer noch dass die Grünen mehr Kohle (im Sinne von Kohlenstoff) verstromen wollen, oder deine Formulierung ist wirklich heftigst unglücklich. In dem Fall - erklär doch mal was du eigentlich meinst, was Fakt ist.\n\n&gt; vielleicht solltest du nicht alles wortwörtlich verstehen wollen\n\nVielleicht solltest du Dinge die du bei ernsten Themen nicht ernst meinst als solche kennzeichnen, und nicht als \"Fun Fact\". Man könnte sonst den Eindruck bekommen du wolltest was zum Thema beitragen.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Schau mal auf den Kalender, seit wann es die Zahlungen nicht mehr gibt. Der Schaden ist getan. \n\nKommt es euch nicht komisch vor, dass ein Automobilkonzern auf der anderen Seite der Welt Kohle in einen Verein schießt, der sich in Deutschland vorgeblich um die Umwelt sorgt?\n\nUnd wer immer noch nicht glaubt, dass das ein absoluter Lobbyverein ist für jeden der sie bezahlt, dann lest mal weiter, Stichwort Industriekooperationen.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich würds mir sofort kaufen wenn ich die Kohle hätte. So fahre ich es nur regelmäßig, ist bei uns in der Familie.\n\nGeht ausreichend gut voran, regelt auf der Bahn so bei 175 erst ab (braucht dann aber auch 38kWh/100km ;)), da kann man auch links mal nicht zu sehr im Weg stehen, lädt mit 70kW wenn die Säule das hergibt, lädt auch wiederholt im Sommer bei 35°C nach Autobahntouren mit 70kW (looking at you, Leaf!), die Klima mit den belüfteten Sitzen kann was, die Heizung auch und es hat keine Online-Nabelschnur zum Hersteller.\n\nIm tiefen Schnee ist die Traktion mit abgeschaltetem ASR hinreichend gut, ansonsten regelt mir das etwas zu früh wenn man Schlupf zum Anfahren braucht.\n\nDer DAB-Empfang ist exzellent, auch in Gebieten die offiziell nicht versorgt sind.\n\nDie Klangqualität bei der Telefonie ist exzellent. Man merkt halt, dass kein Verbrenner am Chassis herumschüttelt.\n\nEs ist extrem lustig, das VESS abzuschalten, sich an Freunde anzuschleichen und dann zu hupen, wenn man fast die Kniekehlen beführt. Rekordhöhe aus dem Stand sind bis jetzt 50cm und fast eine aufs Maul :P Mit aktiviertem VESS klingt das Auto bis 30km/h so ein bisschen wie ein Shuttle in StarTrek. Ich mag das sehr.\n\nWas nervt:\n\n- Die Lüftungsautomatik regelt nicht so zugfrei wie die in meinem Audi. Da packt man öfter mal händisch rein und macht Fußdüsen an/aus oder so, gerade an heißen Tagen zieht es sonst doch.\n\n- Der Abstandstempomat regelt nicht energetisch optimal. Wo ich von Hand die Rekuperation abschalten würde und einen schwankenden Abstand in Kauf nähme, da beschleunigt und bremst er mit dem Vordermann und damit kommen Ladeverluste in die Energiebilanz. Um unter 10kWh/100km zu kommen, muss man von Hand fahren.\n\n- Die Rückfahrkamera saut sich bei nasser Straße ein.\n\n- Kein 3-Phasenlader. Entweder CCS-Säule oder maximal 6kW mit AC-Adapter an der 32A-Drehstrom-Dose, den man aber extra kaufen muss. An den 22kW-Säulen die überallstehen ist das dann auch das Maximum was man bekommt.\n\n- Einstellungen werden nicht gespeichert, die ich als wichtig ansehen würde. So heißt es nach dem Einsteigen immer erst: Fuß auf Bremse, einschalten, D drücken, AutoHold drücken, Abstandstempomat in Modus \"Cruise\" stellen, Rekuperation auf 0, dann Abfahrt. Gewöhnt man sich aber dran. Mit AutoHold werden die Bremsen an jeder Ampel angelegt, das hält die Kolben beweglich (in normalem Gelände fährt man sonst praktisch ohne Benutzung der Bremsen). Nebenbei fällt damit das simulierte Automatikkriechen weg.\n\n- Die Einstellung mit der die 12V-Batterie im Stand bei Bedarf aus dem Hochvoltsystem nachgeladen wird ist ab Werk deaktiviert. Warum auch immer. Da kann es dir passieren, dass du ein bisschen Radio hörst und sowas und auf einmal ist die 12V-Batterie leer. Die wird durch diese tiefen Zyklen auch nicht besser, deswegen beschwere sich Besitzer, dass sie ausfällt. Häkchen im Menü setzen, Problem erledigt...\n\n- Das Navi kannste wegwerfen. Android Auto ist meine Alternative. Das funktioniert dann aber gut, mit dem integrierten Touchscreen.\n",
+        "date": "2019-01-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ne, das ist schon definitiv passiert. Die Benachrichtigung kam von der App und der Verkauf war auch laut eBay Kundenservice im Konto. Zudem wurde das Paypal-Konto geändert. Zum Verkauf bei mir standen fast 100 Controller, also der Versuch war klar das Leute das Zeug kaufen und die Kohle auf ein ebenfalls gehacktes Paypal-Konto schicken.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nein, aber mir sind 5cent mehr oder weniger bei Lebensmitteln nicht so ein Aufstand wert, dazu wirst bei so vielen anderen Dingen um viel mehr Kohle betrogen. ",
+        "date": "2019-01-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich hab mich damit nicht genauer beschäftigt, weil ich für mein Studium erst noch ein Praktikum machen musste (und ich auch erst ein bisschen Kohle verdienen wollte).\n\nAber ich kenne ein paar aus meinem Jahrgang, die direkt im April angefangen haben zu studieren.",
+        "date": "2019-01-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Mahnen. In Verzug setzen. Mahnbescheid beantragen. Vollstreckungstitel erhalten. Regelmäßig den Gerichtsvollzieher vorbeischicken.\n\nDas Problem ist, wenn meine Kohle da ist, ist selbst mit Titel wenig zu machen. Woher soll die Kohle auch kommen. ",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Echt jetzt? was ein scheiss... Würde ich definitiv nicht in den \"Normalzustand\", sondern in einen brauchbaren Zustand versetzen lassen und mir den Rest der Kohle (falls doch was fliesst) mit der Werkstatt teilen.",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Auf Vox kommt am Vorabend immer so ein skurrile \"Dating\"sendung. Wir beeumeln uns da immer herrlich, wenn das Thema aufkommt und Frauen auf eine zweites Date verzichten, weil der Alte nicht die Kohle auf den Tisch packt. Zu Zeiten von Emanzipation und #metoo (aufkommende Erwartungshaltung beim Bezahlen) ist das nicht ganz nachvollziehbar für mich / uns. \n\nAls ich noch auf dem Datingmarkt aktiv war, habe ich stets Lokalitäten ausgewählt, die eine Damenkarte / Frauenkarte hatten. Das wurde bei der Reservierung entsprechend kommuniziert und es gab nie, wirklich nie Probleme, da es jeder Frau sofort klar wurde, als sie nur die Karte aufgeschlagen hat. Gibt es meines Wissens nach aber immer seltener und nur in ausgewählten Lokalitäten (unser Stammitaliener, geführt im Guide Michelin hat noch eine und fragt bei nicht Stammgästen auch vorher nach). ",
+        "date": "2019-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es gibt zumindest gute Gründe dafür es scheisse zu finden wenn traditionelle Mannschaften durch neue \"Plastikclubs“ verdrängt werden, die sich den Erfolg einfach mit nem Haufen Kohle kaufen.\n\nNatürlich ist Geld auch für andere Vereine wichtig, aber im Fall von RB ist es halt so, das sie quasi größtenteils von einer Firma finanziert werden und den Sport dann als Werbemaßnahme für diese Firma betreiben, nicht aus eigentlichem Interesse am Sport.\n\nIm Fußball ist es beispielsweise so, dass sie sich in wenigen Jahren ich glaube 3 oder 4 Aufstiege erkauft haben und nun oben in der Bundesliga mitspielen. Und beinahe jeder, der nicht Leipzigfan ist, ordnet sie in der persönlichen Sympathietabelle recht weit unten ein. Eben weil das ganze Konstrukt eine einzige riesige Werbemaßnahme darstellt und nichts mit Liebe zum Sport zu tun hat.\n\nAls Schalke Fan bin ich jetzt auch nicht der größte Sympathisant von Dortmund, aber bei denen weiß ich wenigstens das es ein Fußballverein ist, der gegründet wurde um Fußball zu spielen.",
+        "date": "2019-01-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "dein wort in gottes ohr OP, auch schön erklärt bekommen wie man seinen job machen soll, oder versuche mit bisschen kohle wedeln den service zu beschleunigen",
+        "date": "2019-01-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Diese Unternehmen sind zum Großteil in Staatshand. Und es sind zum großen Teil Firmen, die ihr Geld mit Rohstoffen verdienen. \n\nSprich sie holen Öl aus dem Boden für unsere Autos, oder Gas für Strom und Heizung oder Kohle. \n\nNicht super, aber das machen die ja nicht in einem Vakuum, das machen sie, weil die Menschen es nachfragen. Weil ich gerne meine Heizung im Winter anmache und  mein Nachbar gerne mit dem Auto die 20km zur Arbeit fährt.\n\n",
+        "date": "2019-01-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Nein, weil die meisten hier Jammerstudenten ohne Kohle sind und sich deswegen die Oetinger Plörre innen Kopp hauen weils für was besseres nicht reicht. Glaubst du solche Leute haben Geld für Getränke im Club?",
+        "date": "2019-01-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Du solltest Glücklich sein, bist es aber nicht. Entweder es fehlt etwas das Du nicht benennen kannst, oder Du machst Dir bei anderen Dingen etwas vor. Vielleicht ist es die fehlende eigene Familie, vielleicht ist es doch der falsche Beruf, oder die fehlenden oder falschen Hobbys (Sport soll zum Beispiel viele Menschen deutlich glücklicher machen).\n\nManche Dinge kann man leider nicht erzwingen, und andere sollte man vielleicht nicht unbedingt über's Knie brechen, aber man kann eigentlich an so ziemlich allem arbeiten.\n\nWichtig ist zu wissen was man will (oder braucht), und das ist nicht einfach (ich weiß es auch nicht derzeit). Es gibt auf jeden Fall auch Leute die einem professionell dabei helfen, wenn man Kohle hat könnte man auch z.B. über einen Life Coach nachdenken.",
+        "date": "2019-01-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Seenotrettung auch aufgaben des Bundes(Aber die haben eh Kohle bis zum abwinken)\n\nDLRG, macht Schwimmunterricht,in manchen Kommunen wird bis einer bestimmten Klasse ein bestimmtes Schwimmabzeichen vorausgesetzt, ansonsten wird es verpflichten von der Schule nachgeholt., spart der Kommune Geld.\n\nZudem überwachen die Badestrände, welches nötig ist um Kurtaxe einzutreiben. Rettungsschwimmer in Deutschland sind im Gegensatz zu vielen Ländern Ehrenamtlich im Einsatz. \nAlso auch viel Geld für die Kommune. Da der Tagessatz eines Rettungsschwimmer meist zwischen 17 und 25€ liegt, Führungspersonal etc erhält mehr. ",
+        "date": "2019-01-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Weil bei AKK keine Lobbyisten der arbeitnehmerischen Mittelschicht vorstellig werden. Hier wird versucht, einem den Trickle-Down-Schwachsinn anzudrehen. Die Kohle, das die Unternehmen hier sparen, wird ganz woanders geparkt, aber nicht beim Arbeitnehmer.",
+        "date": "2019-01-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "OUR GOAL? STOP COAL!\r\n\nDie Zeit ist knapp!\nDer Klimawandel ist längst eine reale Bedrohung für unsere Zukunft.\r\nWir sind die letzte Generation, die die Klimakrise noch stoppen kann. \r\nUnsere Politiker unternehmen dafür aber viel zu wenig! Die \r\nTreibhausgas-Emissionen steigen seit Jahren an. Kohle, Öl und Gas \r\nwerden weiter abgebaut. Deshalb gehen wir freitags weder in die Schule \r\nnoch zur Uni. Jeder ungenutzte Tag setzt unsere Zukunft aufs Spiel.\r\nGreta Thunberg (15), eine Schülerin aus Schweden, streikt seit Monaten \r\njeden Freitag für das Klima vor ihrem Parlament in Stockholm.\r\nSie ist zum Vorbild tausender Schüler weltweit geworden. Wir tun \r\nes ihr nach und demonstrieren unter dem Motto „Fridays for Future“ vor \r\nunseren Parlamenten, anstatt in die Schule oder zur Uni zu gehen. Denn: \r\nWozu zur Schule gehen und für eine Zukunft lernen, die es so \r\nvielleicht gar nicht geben wird.\r\n\nWas wir fordern?\nUnsere Regierung muss jetzt handeln! Die Politiker*innen müssen sich \r\nfür mehr Klimaschutz und das 1,5 Grad-Ziel einsetzen. Dies benötigt \r\neinen schnellen Kohleausstieg – nicht erst in X Jahren! Die Zeit ist \r\nknapp.\r\n\nNun bist DU gefragt!\nIn mehr als 50 Städten bundesweit wird bereits gestreikt. Immer mehr \r\nkommen dazu. Streike mit und zeige, dass dir deine Zukunft nicht egal \r\nist!\r\n\nMehr Informationen findest du auf unserer Webseite und auf Social \r\nMedia\r\n",
+        "date": "2019-01-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Magst du das inhaltlich begründen anstatt es nur im Raum als wahllose Aussage stehen zu lassen, wieso die Rechten auch so handeln? Zumal, dann müsstest du sie doch jetzt primär auch mal genauso verurteilen. Und ich würde auch jeden Rechten genauso verurteilen, der so einen Mist schreibt.\n\nAber ja, es war teil eines Twitter-Fadens, kopiere ihn 1:1 gerne hierher:\n\n&gt;Kretzschmar sagt es gebe keine Meinungsfreiheit. Man müsse zwar nicht in den Knast, aber dafür Konsequenzen tragen.\n&gt;\n&gt;Klare Haltung bringt Konsequenzen mit sich. Ob man's in Kauf nimmt hat nichts mit Meinungsfreiheit zu tun, sondern mit Treue zu sich selbst und eigenen Idealen.\n&gt;\n&gt;In Kohle schwimmen und sich darüber beschweren, dass man sich nicht frei äußern dürfe, weil man sonst alles verlieren würde was man hat, während es da draußen Menschen gibt, die sich klar positionieren und tagtäglich mit den Folgen konfrontiert werden. Also ganz ehrlich.\n&gt;Wenn man keine klare Haltung zeigt, weil man reich werden oder bleiben möchte, dann heißt das Opportunismus und nicht \"in Deutschland gibt es keine Meinungsfreiheit \" #Kretzschmar\n&gt;Ich rege mich nicht auf, weil #Kretzschmar rechte Ausdrücke nutzt wie \"Flüchtlingsmanagement\" oder \"Meinungsfreiheit\".\n&gt;Viel mehr geht's mir darum, dass er rumheult sich nicht frei äußern zu können wegen Abhängigkeitsverhältnis. Also wenn DU abhängig bist was sollen WIR denn tun?\n\nDass diese Person, die als Journalistin bei einigen Magazinen wie TAZ oder Missy tätigt ist 'Meinungsfreiheit' als rechte Ausdrücke bezeichnet und das sogar aus ihrem Twitter-Faden-Statemente nicht klar wird, worauf sie diese Ansichtsweiße aufbaut, aber es trotzdem so empfindet... ich persönlich bin ja kein Linker, würde mich aber übelst von ihr als Linker distanzieren weil... meine Güte, Hilfe. ",
+        "date": "2019-01-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der Kohl mit Mettenden den es in Münster gibt ist ganz ok, kommt aber nicht ansatzweise an norddeutsches Kohl und Pinkel mit Kassler heran.",
+        "date": "2019-01-13",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; **Sie nannten ihn Fotzen-Fritz**\n\n&gt; Friedrich Merz ist 44, katholisch und der neue Chef der CDU/CSU-Bundestagsfraktion. Elf Monate im Jahr kennt kaum jemand seinen Namen, doch den wird man sich merken müssen. Denn auf Merz ruhen die Hoffnungen der Union. Dort, wo er herkommt, haben sie es immer schon gewußt.\n\n&gt; Eine Spurensuche im Sauerland von Stefan Gärtner und Oliver Nagel\n\n&gt; Arnsberg. Manchmal muß er zurück in diese Stadt; er wohnt ja da. Dann muß er vorbei am Ehmsen-Denkmal, Forstrat Ehmsen, der 1890 hier den Sauerländischen Gebirgsverein gründete und den sie im Scherz immer noch »Berg-Ehmsen« nennen. Muß vorbei am Sauerlandmuseum, in dem er sich schon als Halbwüchsiger über Nacht einschließen ließ, um in Ruhe die Bundestagsreden von Rainer Barzel auswendig zu lernen. Vorbei am Grünen Turm, der »alten Feme-Gerichtsstätte mit reichsweiter Bedeutung«, wie es im Stadtführer heißt, wo schon Karl der Große sich nie sehen ließ; oder zumindest nur ganz selten. Muß den leise um den industriellen Kern (Metallverarbeitung, Elektrotechnik, Rüstung) herumflorierenden Dienstleistungssektor wiedersehen und die Straßen, in denen sie früher Bus gefahren sind, ohne Führerschein. Hier in Arnsberg. Arnsberg, Sauerland.\n\n&gt; **Überall wo er hinkam, roch es schon ziemlich nach Mettwurst.**\n\n&gt; Links vom Busbahnhof steht die Schule, ein reich verzierter Klinkerbau, der innendrin nach Bohnerwachs riecht, nach Angstschweiß und Hausmeister Wuttke. Auch Friedrich Merz ist mal zur Schule gegangen; da hieß der Hausmeister Fröhn und roch schon vor der kleinen Pause nach Mettwurst mit Zwiebeln. So was prägt.\n\n&gt; Als er fünfzehn war, haben sie den hochaufgeschossenen Vorderbänkler dann rausgeschmissen, weil er sich das einseitige Duzen von seiten der Lehrer verbeten hatte. Hausmeister Fröhn erinnert sich. »Wir haben ihn damals Friedrich genannt. Oder auch Fotzen-Fritz. Das kam ganz darauf an.« Worauf? »Na, ob er da war oder nicht!« Friedhelm Merz, ein Mann der Widersprüche, schon damals.\n\n&gt; Heute traut sich keiner mehr, ihm zu widersprechen, denn heute ist Merz der Star seiner Partei: »Schnelldenker« (Spiegel), »Jurist« (Spiegel), »Riesensau« (Gala, Bauernmagazin). Er ist der jüngste Fraktionsführer aller Zeiten, der größte Rhetoriker seiner Partei (1,98 Meter) und außerdem erfolgreicher Familiengründer (Frau, Kinder, Wäschetrockner, Oboe).\n\n&gt; Stationen einer Bilderbuchkarriere: erste Busfahrt mit sechs, erste Zugfahrt mit vierzehn, erster Geschlechtsverkehr mit dem Nachbarjungen. 1963 versehentlicher Colarausch, danach irgendwie in den Bundestag gewurschtelt. Heute steht der fanatische Fundamentalkatholik für die konservative Erneuerung der CDU: Nein zur doppelten Staatsbürgerschaft, Nein zur Abtreibung, aber unbedingtes Ja zum Ausbau der durchgehenden Autobahn 46 von Hagen über Hemer, Menden, Arnsberg, Meschede und Bestwick bis zum Autobahnkreuz Wünneberg/Haaren. Sein Lieblingsprojekt aber ist die vollständige Unterkellerung des Sauerlandes, außerdem will er bundesweit alle Straßennamen abschaffen und durch ein hochkompliziertes Zahlensystem ersetzen. Mehr Transparenz, das ist auch für Friedrich März oberstes Gebot.\n\n&gt; Im »Bella Napoli« in der Arnsberger Altstadt wird der Duft nach Parmesan, Aceto Balsamico und marktfrischem Thymian stimmungsvoll überlagert vom infernalischen Gestank aus der Küche. Pizzabäcker Gino sitzt versonnen in seinem Ristorante und schneidet sich die Fußnägel. Merz ist Stammgast. Allerdings nicht hier, sondern in der »Seerose« in Arnsberg-Oevertrop. »Dat hätt ich mir ja nie träumen lassen, dat aus dem mal wat wird! Wat is denn nun eigentlich aus ihm geworden?« Nachdenklich poliert Seerosenwirt Paul Bökelberg einem Gast die Fresse. Wir berichten kurz. »Von Politik versteh ich nix. Einen Autobahnanschluß brauch ich nicht, und einen Keller hab ich schon. Die da oben machen doch, wat se wollen.« Langsam senkt sich die Abenddämmerung über die brennende Altreifendeponie vor den Fenstern. Amseln krächzen. Die letzten Zecher zahlen.\n\n&gt; Zahlen: Finanzexperte Merz kennt sie genau; muß er auch, als Finanzexperte. Zum Beispiel die 11; oder die 55. Kein Zufall, daß sein Geburtstag auch in diesem Jahr wieder auf einen 11.11. fällt. Schon zum 45. Mal hintereinander, ununterbrochen seit 1955, dem Jahr, in dem er geboren wurde. Hinter uns fällt die Tür zu. Arnsberg-Oevertrop geht schlafen. Wir gehen erst mal mit.\n\n&gt; Am nächsten Morgen herrscht in Merzens Wahlkreisbüro dicke Luft. Irgend etwas stinkt in Arnsberg/Sauerland. »Das ist nur die brennende Altreifendeponie«, beruhigt uns Frau Plett, Merzens linke Hand, »oder die Küche von Gino. Aber wo die Herren schon mal da sind...« Gemeinsam gehen wir die Post durch, die sich unter einem auf Überlebensgröße hochkopierten Barzel-Porträt stapelt. Ein brisanter Brief von Landrat Leikop über aktuelle Probleme im Hochsauerlandkreis (Langeweile, keine Autobahn, Einladung R. Barzel), Werbung, mehr Werbung, noch ein Brief von Landrat Leipkop (Absage von Barzel). »Die übliche Scheiße«, lacht Frau Plett durch ein dick belegtes Mettwurstbrötchen hindurch, »aber finden Sie mal in meinem Alter was Vernünftiges!« Dafür kommt sie mit ihrem Chef prima zurecht. »Er ist ja zum Glück nie da, der Fotzen-Franz!« rülpst die Mittvierzigerin und erbricht sich umstandslos in die Ablage »Leikop (Hochsauerlandkreis usw.)«. Während Frau Plett pfeifend in Richtung Bad abgeht, blättern wir in Merzens Terminkalender: »06.50 Uhr: Abfahrt von zu Hause. 07.30 Uhr: Meschede Kreishaus, Gespräch mit Landrat Leikop über Wahnsinnsprobleme im Hochsauerlandkreis. 08.15 Uhr: Mettwurstfrühstück mit Fr. Plett, anschl. Freizeit.« Keine Frage, der Mann hat zu tun.\n\n&gt; Im »Rübezahl« in der Forstrat-Ehmsen-Straße ist die Stimmung schon am frühen Nachmittag auf dem Nullpunkt. Die Jukebox lärmt, der Bierhahn arbeitet gewissenhaft. Willi Lübke (45) nicht. Jedenfalls nicht mehr. Der arbeitslose Vegetarier ist mit Merz zur Schule gegangen, hat ihn in Sport immer abschreiben lassen. Trotzdem erinnert er sich nur ungern an die Zeit mit dem Klassenprimus. Genaugenommen überhaupt nicht. »Alles weggesoffen! Ich weiß praktisch überhaupt nichts mehr. Herr Wirt, ich hätte gerne ein... na... ein Dings...« In der Ecke hängt ein von Heinrich Merz persönlich signiertes Porträt von Franz Josef Strauß. Auf der letzten FJS-Tournee sind sich Merz und Strauß backstage begegnet. Das war in Siegen. Später sollte Strauß in seinen Memoiren schreiben: »Besonders gerne erinnere ich mich an Friedrich Mai, der mir damals den Slogan ›Vom Sauerland lernen heißt Siegen (i. Sauerland) lernen!‹ verkaufen wollte. Das war unter den damaligen politischen Verhältnissen allerdings nicht durchsetzbar.« Eine Begegnung, die Merz nie vergessen hat. Willi Lübke natürlich schon.\n\n&gt; Zwei Häuser weiter, in »Horsti’s Haarparadies«, frisiert der Chef noch selbst. Selbständiges Unternehmertum, wie es Merz gerne sieht. Wer in Arnsberg auf dem laufenden sein will, ist hier gut bedient, denn Horsti hat seine Ohren überall. »Ich kenne sie alle. Helmut Kohl, Gerd Schröder, seine Frau. Und Ingo Dubinski. Klar, hab ja Kabelanschluß! Hier ist übrigens der Topf, mit dem ich früher immer den Merz frisiert habe. Echt Edelstahl.« Horsti, der so aussieht, als werde er häufig mit Jürgen Domian verwechselt, nimmt die Brennschere aus dem Ofen. »Mit dem Fritzi konnte man nie Schritt halten. Jedenfalls nicht vor der Kundschaft. Irgendwann kam er dann nicht mehr, oder viel zu früh. Im Leben ist es doch wie in der Politik. Und umgekehrt!«\n\n&gt; Der alte Pfarrer Husemann, der vor der Probsteikirche St. Laurentius mit warmem Blick leere Pfandflaschen sammelt, kennt Fred Merz seit dessen Ministrantenzeit. Später hat er seine drei Kinder getauft, die Merzsche Einbaukirche ausgesucht und Charlotte Merz exkommuniziert (aus Versehen). »Das war in den späten Siebzigern. In meinen späten Siebzigern! Aber der Frieder ist ja ein guter Ehemann. Ehrlich, fleißig und nie zu Hause.« Einmal, als junger Amtsrichter, sei Merz völlig betrunken und mit offener Hose in die Spätandacht gestolpert und habe nach der Tagespost sehen wollen. Am nächsten Tag sei ihm dann allerdings rasch aufgefallen, daß er ja gar nicht in der Kanzlei, sondern auf der Kanzel gewesen war – »die ganze Post war ja noch unerledigt!« So war er eben, der Friedrich.\n\n&gt; Friedensreich Merz, der Rebell. Mit fünfzehn schwänzt er einmal die Klarinettenstunde, geht statt dessen ins Puppentheater. Mit sechzehn weigert er sich, Vollbart zu tragen, und läßt sich lieber Pickel wachsen. Noch heute verbittet er sich einseitiges Duzen, zum Beispiel von seiner Frau, Helmut Kohl oder dem amerikanischen Botschafter. Letzteres brachte schon mal transatlantische Verstimmungen mit sich. Aber so ist er eben, der Merz. Seine Überzeugung vertritt er mit einer Mischung aus Radikalität und Chuzpe: Als seine Tochter mit zwölf einmal ihren Teller nicht leer essen will, besorgt er das selber und zeigt sie anschließend wegen Hausfriedensbruch an. Danach läßt er sich von ihr wieder siezen. Merz, die Autorität.\n",
+        "date": "2019-01-13",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Oder hab ich was komplett falsch verstanden bei dieser ganzen Diskussion?\n\nJa, die Methodik funktioniert garnicht. \n\nWenn du Unternehmen entlastest ohne die Nachfrage nach ihren Produkten zu erhöhen (zB über Kaufkrafterhöhung durch Steuersenkung beim Angestellten), werden die Unternehmen die zusätzliche Kohle nutzen um Eigenanteile zurückzukaufen, Dividenden auszuschütten oder Rücklagen zu bilden. Sie werden keine neuen Jobs schaffen, solang sich ihre Auftragslage nicht ändert. Wenn sich die Auftragslage verbessert werden sie auch neue Leute einstellen auch wenn die Steuerlast die gleiche bleibt. Das ist Wirtschaftslehre 101. \"Trickle Down\" ist ein moderner Mythos.",
+        "date": "2019-01-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "das ist korrekt, die Person ist dort ware. das heisst aber auch, das man dem Kunden keinen Müll andreht, da man ja gern auch den nächsten Auftrag haben möchte. entsprechend ist immer das Ziel den optimalsten Kandidaten in den Job zu bringen. und auch nicht über Leiharbeit sondern direkt zum Kunden in die Festanstellung. dort ist die Kohle zu holen, Zeitarbeit sind Peanuts dagegen, da hier zu viel Verwaltung und Risiko dahinter stecken.",
+        "date": "2019-01-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bundeskanzler Kohl wurde befördert?",
+        "date": "2019-01-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "lange wartezeiten sind normal. ich hatte mal einen bescheid erst anfang märz erhalten.\n\ndu kannst beim studentenwerk einen zinslosen überbrückungskredit beantragen, falls dir bis dahin die kohle ausgeht.\n\naußerdem kannst du als student wohngeld beantragen.",
+        "date": "2019-01-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der Artikel ist komisch. Eine Regulierung würde schlecht etwas bringen, weil das Problem nicht die Abgasreinigung ist sondern einfach die Kohleverstromung. Wenn das [Gaskombinat Schwarze Pumpe](https://de.m.wikipedia.org/wiki/Gaskombinat_Schwarze_Pumpe) früher mal richtig aufgedreht hat weil die Industrie oder Russland Strom brauchten, gab es einen  wahren Ascheregen in der Umgebung, weil man nur ohne Filter die absolute Leistung fahren kann. Wir können froh sein, dass wir die ganzen Reinigungsverfahren haben. Kohle gehört einfach abgeschafft.",
+        "date": "2019-01-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich bin tatsächlich froh drum wen zu haben. Meine Bank ist immernoch in meinem Heimatkaff und ich habe noch keine Lust gehabt zu wechseln. Wenn ich also Kohle rumschieben muss (Sparkonto, Giro etc) ruf ich den Herrn der Bank an (kennt mich mittlerweile) und der macht solche Sachen dann für mich.",
+        "date": "2019-01-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Da bekommste keine einzige Schule mit saniert, weil Du die 400 Millionen nie sehen wirst.\n\nSo wirds dann in der Praxis laufen, ja. Trotzdem ist es eben kein \"Kleinkram\" den man ignorieren sollte. Ich finde bei \"Neunstellig\" kann man ruhig ab und an mal schauen für was die Kohle da ausgegeben wird.\n\n&gt; Oder soll der lästige Ausländer jetzt auch noch mehr Steuern zahlen?\n\nQuatsch, wieso?",
+        "date": "2019-01-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Für Verwunderung sorgt zudem der Umstand, dass nur die deutschen Unternehmen BASF und Uniper Post bekommen haben. Dabei gibt es mit dem britisch-niederländischen Energiekonzern Shell, Engie aus Frankreich und der österreichischen OMV drei weitere Investoren, die allesamt jeweils 950 Millionen Euro von den 9,5 Milliarden Euro Gesamtkosten aufbringen. Eine entsprechende Anfrage der F.A.Z. ließ ein Sprecher der amerikanischen Botschaft unbeantwortet. Stattdessen hieß es nur knapp, der Brief sei mit Washington abgestimmt und sei keine Drohung, sondern „eine klare Botschaft“.\n&gt;\n&gt;Vermutet wird, dass dies mit dem amerikanischen Interesse zusammenhängt, mehr Flüssiggas (Liquified Natural Gas, LNG) zu exportieren. Dagegen wenden Branchenvertreter ein, dass es mit dem bevorstehenden Wegfall der Niederlande als Gasversorger und der Abkehr vom Kohle- und Atomstrom alle Quellen brauche. Nord Stream 2, das wie die zu mehr als 90 Prozent ausgelastete Pipeline Nord Stream 1 rund 55 Milliarden Kubikmeter Gas nach Europa bringen soll, verhindere demnach keineswegs die Einfuhr von LNG.\n&gt;\n&gt;Im Gegenteil: Angesichts dieses Mehrbedarfs an Gas würde in den kommenden Jahren auch über die Ukraine nach Westeuropa strömendes Pipelinegas dringend gebraucht, heißt es etwa bei Shell.\n\nhttps://www.faz.net/aktuell/wirtschaft/drohung-der-usa-gegen-nord-stream-2-sorgt-fuer-raetselraten-15988470.html",
+        "date": "2019-01-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "/u/alfix8 hat dir ja schon teilweise gesagt warum das Blödsinn ist. Dazu möchte ich noch hinzufügen: Kraftwerke verbrennen sehr viel effektiver und damit sauberer, zusätzlich werden sie auch noch wesentlich besser gefiltert, als Autos.\n\nAußerdem blasen Kraftwerke selten ihre Abgase in Innenstädte auf Füßgängerhöhe.\n\nAlso Elektroautos sind nicht nur sehr viel effektiver, unser Strommix hat nicht nur sehr viel regenerative Ernergie, du kannst selbst Kohle für den Strom verbrennen und bist immernoch besser dran.",
+        "date": "2019-01-15",
+        "sentiment": "positive"
+    }
+]

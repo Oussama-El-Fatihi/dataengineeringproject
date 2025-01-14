@@ -1,0 +1,603 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "ValarM_",
+            "author_created_utc": 1453937822,
+            "author_flair_background_color": null,
+            "author_flair_css_class": "AACHN",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Aachen"
+                }
+            ],
+            "author_flair_template_id": "b2e3bb7c-3867-11e5-b76a-0e8ad82823eb",
+            "author_flair_text": "Aachen",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_u68zq",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1654664522,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "m.faz.net",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "v7hefv",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#ae9e00",
+            "link_flair_css_class": "category economy",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wirtschaft"
+                }
+            ],
+            "link_flair_template_id": "9a45e4b8-cfe9-11e5-903a-0e6186a3132f",
+            "link_flair_text": "Wirtschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_v7hefv",
+            "no_follow": true,
+            "num_comments": 1,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/v7hefv/bundesregierung_will_abstandsregeln_zur_windkraft/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": "moderator",
+            "retrieved_on": 1657154385,
+            "retrieved_utc": 1657154385,
+            "score": 1,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 647644,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": 140,
+            "thumbnail_width": 140,
+            "title": "Bundesregierung will Abstandsregeln zur Windkraft außer Kraft setzen",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://m.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/regierung-will-wind-abstandsregeln-der-laender-aushebeln-18087632.html",
+            "url_overridden_by_dest": "https://m.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/regierung-will-wind-abstandsregeln-der-laender-aushebeln-18087632.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "ValarM_",
+            "author_created_utc": 1453937822,
+            "author_flair_background_color": null,
+            "author_flair_css_class": "AACHN",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Aachen"
+                }
+            ],
+            "author_flair_template_id": "b2e3bb7c-3867-11e5-b76a-0e8ad82823eb",
+            "author_flair_text": "Aachen",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_u68zq",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1654664993,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "v7hj3l",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ae9e00",
+            "link_flair_css_class": "category economy",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wirtschaft"
+                }
+            ],
+            "link_flair_template_id": "9a45e4b8-cfe9-11e5-903a-0e6186a3132f",
+            "link_flair_text": "Wirtschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_v7hj3l",
+            "no_follow": true,
+            "num_comments": 1,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/v7hj3l/bundesregierung_will_abstandsregeln_zur_windkraft/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": "moderator",
+            "retrieved_on": 1657154367,
+            "retrieved_utc": 1657154367,
+            "score": 1,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "[removed]",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 647644,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Bundesregierung will Abstandsregeln zur Windkraft teilweise außer Kraft setzen",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "https://www.reddit.com/r/de/comments/v7hj3l/bundesregierung_will_abstandsregeln_zur_windkraft/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Shows the Silver Award... and that's it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "icon_width": 512,
+                    "id": "gid_1",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Silver",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": true,
+            "archived": false,
+            "author": "ValarM_",
+            "author_created_utc": 1453937822,
+            "author_flair_background_color": null,
+            "author_flair_css_class": "AACHN",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Aachen"
+                }
+            ],
+            "author_flair_template_id": "b2e3bb7c-3867-11e5-b76a-0e8ad82823eb",
+            "author_flair_text": "Aachen",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_u68zq",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1654665216,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "faz.net",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {
+                "gid_1": 1
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "v7hlf4",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#ae9e00",
+            "link_flair_css_class": "category economy",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wirtschaft"
+                }
+            ],
+            "link_flair_template_id": "9a45e4b8-cfe9-11e5-903a-0e6186a3132f",
+            "link_flair_text": "Wirtschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_v7hlf4",
+            "no_follow": false,
+            "num_comments": 309,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/v7hlf4/bundesregierung_will_abstandsregeln_zur_windkraft/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "fNyx237aw8ZX0mHdeX6e6HwHii6lG6rnayGsX90beMo",
+                        "resolutions": [
+                            {
+                                "height": 56,
+                                "url": "https://external-preview.redd.it/AfQiIhK8xWWKivIetUDzgxvNboehK6WjsZ0Ki1xpBBI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=c9a5e1e6963d8faa71a699581aacc84c7978c523",
+                                "width": 108
+                            },
+                            {
+                                "height": 112,
+                                "url": "https://external-preview.redd.it/AfQiIhK8xWWKivIetUDzgxvNboehK6WjsZ0Ki1xpBBI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5992867b63d34067628cf85ccd94f903950ed118",
+                                "width": 216
+                            },
+                            {
+                                "height": 167,
+                                "url": "https://external-preview.redd.it/AfQiIhK8xWWKivIetUDzgxvNboehK6WjsZ0Ki1xpBBI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0ed1c4b8cf5c2d39f8cc3e84353b66feecc17b26",
+                                "width": 320
+                            },
+                            {
+                                "height": 334,
+                                "url": "https://external-preview.redd.it/AfQiIhK8xWWKivIetUDzgxvNboehK6WjsZ0Ki1xpBBI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52f166762f97763200e5db72bb608faa89db1722",
+                                "width": 640
+                            },
+                            {
+                                "height": 501,
+                                "url": "https://external-preview.redd.it/AfQiIhK8xWWKivIetUDzgxvNboehK6WjsZ0Ki1xpBBI.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=0ccce5c422d3eba803a673d05db7bd309d3926fe",
+                                "width": 960
+                            },
+                            {
+                                "height": 564,
+                                "url": "https://external-preview.redd.it/AfQiIhK8xWWKivIetUDzgxvNboehK6WjsZ0Ki1xpBBI.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=41fdec3947526c3063ce63343ebcd542565fec43",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 627,
+                            "url": "https://external-preview.redd.it/AfQiIhK8xWWKivIetUDzgxvNboehK6WjsZ0Ki1xpBBI.jpg?auto=webp&amp;s=81d349541f9116cacc34c2614a7c8129496460ce",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1657154359,
+            "retrieved_utc": 1657154359,
+            "score": 1433,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 647644,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://a.thumbs.redditmedia.com/Sa7p8eHwKI790AYf_3XUKjzFVW9I8zJduORw3iiZvI0.jpg",
+            "thumbnail_height": 73,
+            "thumbnail_width": 140,
+            "title": "Bundesregierung will Abstandsregeln zur Windkraft teilweise außer Kraft setzen",
+            "top_awarded_type": null,
+            "total_awards_received": 1,
+            "treatment_tags": [],
+            "upvote_ratio": 0.98,
+            "url": "https://faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/regierung-will-wind-abstandsregeln-der-laender-aushebeln-18087632.html",
+            "url_overridden_by_dest": "https://faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/regierung-will-wind-abstandsregeln-der-laender-aushebeln-18087632.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Dazzling_Corgi_3190",
+            "author_created_utc": 1607086464,
+            "author_flair_background_color": null,
+            "author_flair_css_class": "DUISBURG",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Duisburg"
+                }
+            ],
+            "author_flair_template_id": "701ecbba-9b7b-11e6-8af9-0e512230b266",
+            "author_flair_text": "Duisburg",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_95wvolcl",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1655305512,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "zeit.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "vcwlar",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#036c85",
+            "link_flair_css_class": "category politics",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Politik"
+                }
+            ],
+            "link_flair_template_id": "27453a40-7ecd-11e4-a392-22000b3a0037",
+            "link_flair_text": "Politik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_vcwlar",
+            "no_follow": false,
+            "num_comments": 52,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/vcwlar/windkraft_bald_verbindlich_und_mit/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "1lSydCz5aH9GVgaC5tgx2i_9xjW_fAWKRbE8ZsWXfi8",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/W9uGu0cDKaiYJKjIxgSKAj_O8v76sKtNNYjgoY7zWto.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=71dbffdaa9b1feb6ca838dd3c632c8a602e21c81",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/W9uGu0cDKaiYJKjIxgSKAj_O8v76sKtNNYjgoY7zWto.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3a322cd035bf17a04e07bbf1a6f2c2068efebf76",
+                                "width": 216
+                            },
+                            {
+                                "height": 179,
+                                "url": "https://external-preview.redd.it/W9uGu0cDKaiYJKjIxgSKAj_O8v76sKtNNYjgoY7zWto.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5593809111748ecbf979dbcd62bc58248525b5e4",
+                                "width": 320
+                            },
+                            {
+                                "height": 359,
+                                "url": "https://external-preview.redd.it/W9uGu0cDKaiYJKjIxgSKAj_O8v76sKtNNYjgoY7zWto.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=425ac3cb6fd75e3c33236c44262442bae2110c05",
+                                "width": 640
+                            },
+                            {
+                                "height": 539,
+                                "url": "https://external-preview.redd.it/W9uGu0cDKaiYJKjIxgSKAj_O8v76sKtNNYjgoY7zWto.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=72bb261aaedbbbf56604231a43fc51558cf691fe",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/W9uGu0cDKaiYJKjIxgSKAj_O8v76sKtNNYjgoY7zWto.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=85f646ba5a0cebbcec7737b8f685e58e6563e2d7",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 731,
+                            "url": "https://external-preview.redd.it/W9uGu0cDKaiYJKjIxgSKAj_O8v76sKtNNYjgoY7zWto.jpg?auto=webp&amp;s=0963850c15336030478e976441ab2fc634599fe0",
+                            "width": 1300
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1657127926,
+            "retrieved_utc": 1657127926,
+            "score": 341,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 647445,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/ieznqL6uDRBvzIWNgQUOwZaJdBp5bLb8wCbxGRvjlKE.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Windkraft bald verbindlich und mit Bürgerbeteiligung",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.95,
+            "url": "https://www.zeit.de/video/2022-06/6307765806112/robert-habeck-windkraft-bald-verbindlich-und-mit-buergerbeteiligung",
+            "url_overridden_by_dest": "https://www.zeit.de/video/2022-06/6307765806112/robert-habeck-windkraft-bald-verbindlich-und-mit-buergerbeteiligung",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 189,
+        "op_b": 228,
+        "total": 424
+    },
+    "error": null
+}

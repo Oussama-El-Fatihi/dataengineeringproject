@@ -1,0 +1,1321 @@
+{
+    "data": [
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 125,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "When you come across a feel-good thing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "icon_width": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Wholesome",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": true,
+            "archived": false,
+            "author": "erran_morad",
+            "author_created_utc": 1532199817,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_1tpw7rsz",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1638739273,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1638783831.0,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "r9pqr1",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": true,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#cd0000",
+            "link_flair_css_class": "category rant",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "TIRADE"
+                }
+            ],
+            "link_flair_template_id": "0902ecac-6f4d-11e8-80ce-0e814e0b1ec0",
+            "link_flair_text": "TIRADE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_r9pqr1",
+            "no_follow": false,
+            "num_comments": 152,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/r9pqr1/ich_will_in_ein_anderes_land_flüchten_um_eine/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1656079923,
+            "retrieved_utc": 1656079923,
+            "score": 358,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Ende Juli. Mittwoch ist die Klausur zur theoretischen Elektrodynamik, das vielleicht schwerste Modul, dass meinen Studiengang beschmückt. Der Professor (den ich einfach mal Helmut Kohl nennen werde) ist innerhalb der Fakultät berüchtigt für seine gnadenlos komplizierten Klausuren. Ein gutes Gefühl habe ich nicht, aber was soll's, bis jetzt habe ich ja alles auf Anhieb bestanden, außerdem habe ich das Semester durch die Übungen konsequent bearbeitet. Beim Durchlesen der Klausur fluche ich innerlich. Mal wieder hat Professor Kohl unsere Erwartungen übertroffen. Ich verstehe gerade mal was von mir verlangt wird. Na gut, ich gebe mein Bestes und gebe die Klausur ab. Ich habe schließlich noch eine Prüfung am Freitag. Diese läuft auch recht Scheiße, aber hey, bestanden ist bestanden. \n\nEin Paar Wochen später, lädt der werte Professor Kohl einen mysteriösen Graphen auf die Website seiner Vorlesung hoch. Der Graph trägt die Note der Klausur gegen den Prozentsatz der erfolgreich bearbeiteten Übungen auf. Kohl, Sie Affe. Sie können nicht einfach 58% der Studenten durch Ihre verfickte Klausur fallen lassen, und ihnen dann in die Nase reiben, dass \"SiE jA dIe ÜbUnGsBlÄtTeR hÄtTeN bEaRbEiTeN sOlLeN\", vor allem, wenn viele (wie ich) einfach keine Lust hatten, die Übungen hochzuladen, und dadurch Ihren lächerlichen Graphen verschönern. Es geht echt auf den Sack, diese Übungen nicht hochgeladen zu haben, denn ich hätte dem Graphen einen ganz heftigen Ausreißer verpasst.\n\nEnde August. Ich arbeite von Acht bis Sechs an meiner Bachelorarbeit, und wenn ich heimkomme, arbeite ich die Elektrodynamik-Übungsblätter ein drittes mal durch während meine Nudeln kochen, ich will die Zweitklausur im Oktober schließlich bestehen. Aber das sollte ja klappen. Ich werde ja wohl nicht durch diese letzte Scheissklausur fallen, ich habe ja einen recht guten Schnitt, so ungeeignet für das Studium bin ich doch nicht. \n\nOktober. Zwei Monate habe ich jetzt quasi gar nichs gemacht, außer Kohls Vorlesungen nochmal online abzurufen, Kohls Übungsblätter zu bearbeiten, und an meiner Arbeit zu werkeln. Ich setze mich in den Hörsaal. Ich lese die Klausur. Was. Zum. Fick. Mir war klar, dass die Zweitklausur nicht leichter, und auch nicht genau so schwer, wie die Erstklausur sein würde. Aber die Wunder der Elektrodynamik die vor meinen Augen tanzen, die hatte ich nicht erwartet. Ich bearbeite das, das ich bearbeiten kann, und gebe ab. Am Ende der Klausur lächelt Prof. Kohl noch, und meint, dass er versuchen wird, die Klausur zügig zu korrigieren, aber, da das Semester ja losginge, könne das eine Weile dauern. Ich höre nur halb zu. Ich frage mich, was für Ego-Probleme Professoren haben können, so schwere Klausuren zu verfassen. In den ersten Semestern wird in meinem Studiengang gehörig ausgemistet, Viele hören mitten im Semester auf, Viele geben sich noch die erste Klausurephase, Andere überleben bis ins erste Praktikum, und geben erst auf, wenn ihnen zum fünften mal gesagt wird, dass die Kurve, die sie gezeichnet haben, unphysikalisch sei. Es gibt das Bedürfnis, die Faulen rauszuschmeissen, nicht mehr. Diejenigen, die noch dabei sind, sind hochmotivierte Menschen, keiner studiert nur weiter, um Bafoeg abzusahnen, und einen hedonistisches Studentenleben zu genießen. Für so was studiert man was anderes. Das mag sich wie wenig eloquentes Jammern klingen, und das ist es womöglich auch, aber meine Motivation hat wegen solchen Profs deutlich abgenommen, und der ominöse Graph der ersten Klausur triebt mich langsam in den Wahnsinn, also lasse man mich bitte jammer, da es das Einzige ist, das mir übrig bleibt.\n\nMitte November. Wo sind die Ergebnisse? Ich weiß es nicht. Der werte Professor Kohl hat wohl noch nicht die Zeit gefunden, die 30 Klausuren durchzulesen. Wie schaffen das Profs in Studienfächern, die 400 Studierende beherbergen, und womöglich auch noch Aufsäze korrigieren müssen, die tatsächlich durchlgelesen werden müssen? Ich weiß es nicht. Vielleicht ist es ja schwerer als ich denke Gleichungen durchzulesen die mit ein Paar verzweifelten, gebrochenen Sätzen ergänzt sind. Ich lese meine Bachelorarbeit  zum zehnten mal durch, und gehe zu einem Shop um sie binden zu lassen. Mal schauen, ob das schneller geht, als mit Elektrodynamik.\n\nEnde November. Langsam wird es merkwürdig. Wo sind die Klausuren? Keine Ahnung. Ich überlege, ob denn ein Auslandssemester mir vielleicht meine Leidenschaft für mein Studienfach zurückgeben wird. Ich rede mit dem Professor, der sich um Erasmus an meiner Uni kümmert (ich werde ihn einfach Justin Trudeau nennen). Er fragt, wann ich denn meinen Bachelor abschliessen werde. Weiss ich nicht, erwidere ich. Der Professor lässt sich Zeit mit Elektrodynamik. Wenn ich nochmal durchgefallen bin, kriege ich meinen Bachelor erst frühestens im August 2022. Professor Trudeau sagt, theoretisch könnte ich die Klausur auch im Ausland schreiben. Lol, sage ich. Mit mir ist ein Freund, der beim Professor Kohl seine Arbeit schreibt. Er meint zu mir, der Kohl antworte ihm seine Fragen zur Arbeit nicht. Lol, sage ich.\n\nErster Dezember. Ich habe meine Arbeit schon abgegeben. Beim Wandern durch die Uni treffe ich einen Freund. Er habe den Kohl gefragt, was denn mit den Zweitklausuren sei. Eine Hälfte habe er schon korrigiert, erwiderte er. Eine Hälfte. Ja, mein Gott. Eine Hälfte ist ja immerhin etwas. Und über Weinachten wird wohl Niemand von ihm erwarten, Klausuren zu korrigieren. Und danach sind ja schon fast wieder andere Klausuren da, die er korrigieren muss. Schließlich ist die Anmeldefrist für die nächste Elektrodznamik Klausur erst im Juli oder so. Er hat ja Zeit. Bloß keine Eile und so. Mitte Februar muss ich mich entscheiden, ob ich mich für ein Auslandssemester bewerben will. Professor Trudeau meinte zwar, dass ich auch ohne Elektrodynamik gute Chancen hätte, für ein Semester genommen zu werden, aber will ich das? Ich weiss es nicht. Ich weiß nicht ein mal, ob ich eine verfickte Nachklausur auf die Reihe kriege. \n\nVielleicht ist Elektrodynamik auf Schwedisch ja auch interessant.\n\nEdit: in der PO steht nichts bezüglich Fristen für Klausurkorrekturen, weder in der allgemeinen PO, noch in der Fachspezifischen",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 641514,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Ich will in ein anderes Land flüchten, um eine bestimmte Klausur endlich zu bestehen",
+            "top_awarded_type": null,
+            "total_awards_received": 1,
+            "treatment_tags": [],
+            "upvote_ratio": 0.9,
+            "url": "https://www.reddit.com/r/de/comments/r9pqr1/ich_will_in_ein_anderes_land_flüchten_um_eine/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Shows the Silver Award... and that's it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "icon_width": 512,
+                    "id": "gid_1",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Silver",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "musake",
+            "author_created_utc": 1500122876,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_768ysct",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1639128362,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {
+                "gid_1": 1
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "rd4x6r",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ff8206",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Diskussion/Frage"
+                }
+            ],
+            "link_flair_template_id": "829665e0-25c9-11e7-9fe9-0eb196278378",
+            "link_flair_text": "Diskussion/Frage",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_rd4x6r",
+            "no_follow": false,
+            "num_comments": 85,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/rd4x6r/jobs_um_von_zuhause_am_pc_geld_zu_verdienen/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1656075687,
+            "retrieved_utc": 1656075687,
+            "score": 14,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Hey, ich arbeite produktionsbedingt immer nur bis Mitte Dezember und starte mit der neuen Produktion erst immer Mitte Januar.\n\nHeißt,ich habe ca. 6 Wochen (halbwegs) freie Zeit ,die ich gerne zum Geld verdienen nutzen möchte.\n\nDa ich zwei kinder habe ,hab ich quasi für die Zeit die Erziehungsaufgabe und der Haushalt ist auch dann mein Gebiet deswegen würde ein Nebenjob außerhalb der Wohnung nicht wirklich funktioniert.\n\nKennt jemand zufällig eine Möglichkeit, am besten am Rechner,Kohle zu verdienen?\n\nIch weiss ,ohne gewisse Qualifikationen wird es natürlich eher eingeschränkt,aber vielleicht gibt es ja hier im Schwarm Ideen für ein paar Extrakröten ;-) \n\nMit programmieren und Fotos bearbeiten bzw Filme schneiden hab ich mich auseinandergesetzt befinde mich aber in allen Bereichen im Laienbereich.\n\nDanke schonmal im Vorraus!",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 641488,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Jobs um von Zuhause am PC Geld zu verdienen",
+            "top_awarded_type": null,
+            "total_awards_received": 1,
+            "treatment_tags": [],
+            "upvote_ratio": 0.66,
+            "url": "https://www.reddit.com/r/de/comments/rd4x6r/jobs_um_von_zuhause_am_pc_geld_zu_verdienen/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "dirksn",
+            "author_created_utc": 1546768184,
+            "author_flair_background_color": "",
+            "author_flair_css_class": "HAMWAPP",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "ja moin ey"
+                }
+            ],
+            "author_flair_template_id": null,
+            "author_flair_text": "ja moin ey",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_2xpnkki2",
+            "author_patreon_flair": false,
+            "author_premium": true,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1639497411,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "tagesschau.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "rgahwe",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#0b3b0b",
+            "link_flair_css_class": "category environment",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Umwelt"
+                }
+            ],
+            "link_flair_template_id": "b96aef02-25bd-11e7-bfe3-0ece441d4918",
+            "link_flair_text": "Umwelt",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_rgahwe",
+            "no_follow": false,
+            "num_comments": 49,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/rgahwe/der_anteil_erneuerbarer_energien_an_der/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "qRjHS-MWKh-hGk-UGJqbZzxTIV106Jb6jFIS5hfpeiE",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d011067d47181f3dae975356240cbdd00ea083a0",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5293cfed04294c3ea784a9fdb9dae759e1aa7d6b",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=072688f26e61196bb808b198878430fc3abf88c8",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f93ceedf0ed152408b82e73f206b3625cbbd2852",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=f7e4a34ff72e82e2fb567b48ee36e2beb75e28d3",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=34c5c2f3967af04cf15c424573626effb3536099",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 1080,
+                            "url": "https://external-preview.redd.it/6HsvCB0G_H0IWWjiIHqiK_7ag8abxDlxOFInGah0fkA.jpg?auto=webp&amp;s=2cec16169c35f7092e59d8555c017f57b7736e55",
+                            "width": 1920
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1656071607,
+            "retrieved_utc": 1656071607,
+            "score": 129,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 641466,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://a.thumbs.redditmedia.com/RlsNJdteI_gjZ1otc-DQRcifsR9HGLn0lYo1p-I7Ho4.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Der Anteil erneuerbarer Energien an der Stromerzeugung ist zwischen Juli und September weiter gesunken. Auch Erdgas verlor an Bedeutung. Wichtigster Energieträger der Stromerzeugung war Kohle.",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.95,
+            "url": "https://www.tagesschau.de/wirtschaft/technologie/energiepolitik-stromerzeugung-kohle-erdgas-101.html",
+            "url_overridden_by_dest": "https://www.tagesschau.de/wirtschaft/technologie/energiepolitik-stromerzeugung-kohle-erdgas-101.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "LawyerUpMan",
+            "author_created_utc": 1630432993,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_e9a45y12",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1640067306,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1640079586.0,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "rl80zf",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#036c85",
+            "link_flair_css_class": "category politics",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Politik"
+                }
+            ],
+            "link_flair_template_id": "27453a40-7ecd-11e4-a392-22000b3a0037",
+            "link_flair_text": "Politik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_rl80zf",
+            "no_follow": false,
+            "num_comments": 79,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/rl80zf/was_bleibt_von_der_merkelära/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1656063219,
+            "retrieved_utc": 1656063219,
+            "score": 27,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Was wird von der Merkelära bleiben?\n\nAdenauer hatte die Westbindung, Erhard die soziale Marktwirtschaft (wenn auch vor allem als Wirtschaftsminister), Kiesinger war nur kurz dabei aber ich erinnere mich trotzdem an die Notstandgesetze. Dann kam Brandt mit der neuen Ostpolitik, Schmidt schuf gemeinsam mit Giscard das Europäische Währungssystem, aus dem der Euro wurde. Kohls Kanzerschaft ist durch die Wiedervereinigung geprägt, Schröders durch die Agenda 2010.\n\nAber was hat Merkel mit ihren 16 Jahren gemacht? Wenn ich an ihre Zeit zurückdenke kommen mir nur diverse Krisen (Finanz-, Staatsschulden-, Euro-, Krim-, Flüchtlings- und Coronakrise) in den Sinn. Also immer nur Situationen, in denen sie reagiert hat. Daneben wurden sicher auch einige Gesetze verabschiedet, dies war aber gefühlt meistens eher Kleinkram und ging oft auf die Kappe des Koalitionspartners (Mindestlohn, Ehe für alle etc.)\n\nGibt es eurer Meinung nach auch wichtige Projekte, bei denen sie proaktiv und gestaltend von sich aus tätig wurde? Hat sie die Möglichkeiten, die 16 Jahre an der Macht mit sich bringen gut genutzt?\n\nEdit: Das soll kein Merkelbashing sein. Immer wenn ich mich in den letzten 16 Jahren über deutsche Politik aufgeregt habe genügte ein Blick in die Welt, um zu sehen, dass wir mit Merkel eine der besten Regierungschefinnen haben. Ich habe einfach nur gestern Abend mit meiner Freundin darüber geredet, was Merkel eigentlich in ihrer Kanzlerschaft so erreicht hat und uns fiel nur ihr (im Vergleich mit anderen sehr kompetentes) Krisenmanagement ein. Aber neben Krisenmanagement sollte ein Regierungschef ja auch gestaltend tätig sein und sein Land in die Zukunft steuern.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 641422,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Was bleibt von der Merkel-Ära",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.69,
+            "url": "https://www.reddit.com/r/de/comments/rl80zf/was_bleibt_von_der_merkelära/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 500,
+                    "coin_reward": 100,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Thank you stranger. Gives %{coin_symbol}100 Coins to both the author and the community.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": "APNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_512.png",
+                    "icon_width": 2048,
+                    "id": "award_2ae56630-cfe0-424e-b810-4945b9145358",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful (Pro)",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=57278b329d19fd1d345888bfff68a51528777538",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=db7b3f20402a8a6820a4ffebf35160d2557986e2",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=0100d8da8f4dae0dc81d430733aa622d752c268c",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=1029c080a179f45b6d83a51ed79dfd57997ae266",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=50e7f8a870f79df7bc38bedb8a12e01137df5a77",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 100,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "PREMIUM",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 75,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Add my power to yours.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": "APNG",
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/TakeMyPower_512.png",
+                    "icon_width": 512,
+                    "id": "award_92cb6518-a71a-4217-9f8f-7ecbd7ab12ba",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Take My Power",
+                    "penny_donate": null,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/TakeMyPower_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/TakeMyPower_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/TakeMyPower_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/TakeMyPower_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/TakeMyPower_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/qpi61q5o98361_TakeMyPowerElf.png?width=16&amp;height=16&amp;auto=webp&amp;s=14d5429e1f630eaba283d73cb4890c861859b645",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/qpi61q5o98361_TakeMyPowerElf.png?width=32&amp;height=32&amp;auto=webp&amp;s=397444282c113a335f31da0c1d38a1e8cec75f05",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/qpi61q5o98361_TakeMyPowerElf.png?width=48&amp;height=48&amp;auto=webp&amp;s=9897e3f134eb759aba6b7afecb5fb2c75bbf9dc9",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/qpi61q5o98361_TakeMyPowerElf.png?width=64&amp;height=64&amp;auto=webp&amp;s=2de1c239b9226cfebdfbee28fba56bc534dc87b6",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/qpi61q5o98361_TakeMyPowerElf.png?width=128&amp;height=128&amp;auto=webp&amp;s=7e08340ce7c4bc4b865820ed418734396b32b814",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/qpi61q5o98361_TakeMyPowerElf.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "MODERATOR",
+                    "award_type": "moderator",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 1800,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 31,
+                    "days_of_premium": 31,
+                    "description": "Gives 1 month of ads-free browsing, r/lounge access, and %{coin_symbol}700 Coins a month.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 851,
+                    "icon_url": "https://i.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg",
+                    "icon_width": 851,
+                    "id": "award_87c33baf-3a12-4b57-ab82-01686dbd6861",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Liebling der Mods",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=16&amp;height=16&amp;auto=webp&amp;s=6f1ef61579f3a1e913531f7a0c50f520d14ba0a6",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=32&amp;height=32&amp;auto=webp&amp;s=a2cf5ee0f415b84679ade4fc13c918dc875f6e3b",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=48&amp;height=48&amp;auto=webp&amp;s=490f5b077a130b9488505500140175ceee0789d5",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=64&amp;height=64&amp;auto=webp&amp;s=56076fbaffae844e83605bd8c543828f3c6283fc",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=128&amp;height=128&amp;auto=webp&amp;s=0545105a932896a221c5954641132d280ea8c5f7",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=16&amp;height=16&amp;auto=webp&amp;s=6f1ef61579f3a1e913531f7a0c50f520d14ba0a6",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=32&amp;height=32&amp;auto=webp&amp;s=a2cf5ee0f415b84679ade4fc13c918dc875f6e3b",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=48&amp;height=48&amp;auto=webp&amp;s=490f5b077a130b9488505500140175ceee0789d5",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=64&amp;height=64&amp;auto=webp&amp;s=56076fbaffae844e83605bd8c543828f3c6283fc",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg?width=128&amp;height=128&amp;auto=webp&amp;s=0545105a932896a221c5954641132d280ea8c5f7",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 851,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22i0/nclgywqiy5841_LieblingderMods.jpg",
+                    "static_icon_width": 851,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": "t5_22i0",
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 9,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Shows the Silver Award... and that's it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "icon_width": 512,
+                    "id": "gid_1",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Silver",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 500,
+                    "coin_reward": 100,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": 7,
+                    "description": "Gives 100 Reddit Coins and a week of r/lounge access and ad-free browsing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                    "icon_width": 512,
+                    "id": "gid_2",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Gold",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 12,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Thank you stranger. Shows the award.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "icon_width": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 125,
+                    "coin_reward": 0,
+                    "count": 9,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "When you come across a feel-good thing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "icon_width": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Wholesome",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "basti_fm",
+            "author_created_utc": 1478467899,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_12n38l",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1640625631,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1640865323.0,
+            "gilded": 1,
+            "gildings": {
+                "gid_1": 9,
+                "gid_2": 1
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "rpsa3s",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#a2273a",
+            "link_flair_css_class": "category sports",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Sport"
+                }
+            ],
+            "link_flair_template_id": "30c39446-5ae0-11e5-9507-0e50aeb590ad",
+            "link_flair_text": "Sport",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_rpsa3s",
+            "no_follow": false,
+            "num_comments": 275,
+            "num_crossposts": 1,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/rpsa3s/der_große_wie_werde_ich_fit_und_nehme_ab/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1656055867,
+            "retrieved_utc": 1656055867,
+            "score": 932,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Hallo zusammen, \n\nJetzt zwischen den Jahren drängt sich bei vielen der Gedanke auf, dass das mal wieder zu viel Essen war und man ja was tun müsste. Das neue Jahr steht vor der Tür und warum nicht den Klassiker „Nächstes Jahr werde ich fit und nehme ab“ probieren? An euch richtet sich dieser Faden.\n\n**Vorwort:**\n\nDieser Faden richtet sich an all diejenigen, die bislang nur wenig Berührungspunkte mit Sport und Fitness im Allgemeinen hatten. Es soll hier darum gehen aufzuzeigen, wie man starten kann, was für Möglichkeiten es gibt und wie man in die ganze Thematik reinkommt. Darum wird hier vieles bewusst einfach gehalten oder vereinfacht beschrieben. Wer etwas gerne genauer wissen will, kann gerne Fragen.\n\nWer schon 100kg auf der Hantelbank drückt und seine Makros und Mikros aufs Gramm genau berechnet hat ist hier falsch. Hinweise, Korrekturen und Ergänzungen sind gerne gesehen, bedenkt aber, dass es hier um Anfänger geht. Kommentare wie „Ohne Squatrack geht gar nichts“ oder „Du musst mindestens 9 mal die Woche ins Fitness, mach am besten einen Splitplan mit XYZ“ sind für dieses Niveau nicht hilfreich.\n\nDisclaimer: Ich bin kein Fitnesscoach, Sportmediziner oder ähnliches, sondern nur jemand der sich seit 10 Jahren mit dem Thema auseinandersetzt. Mein Ziel dabei ist für meine Hobbies fit zu sein und einen Ausgleich zum Bürojob zu haben. Ob ihr mir glaubt oder nicht, liegt an euch. Kommt euch etwas komisch vor mit eurem Körper, geht zum Arzt!\n\nSo, jetzt geht’s los.\n\n**Grundsätzliches:**\n\nIch lege hier den Fokus auf Gewichtsreduktion und Steigerung der Grundfitness. Meiner Meinung nach gehört beides zusammen um den bestmöglichen Effekt zu haben. Wer nur das eine oder das andere haben will ignoriere bitte das jeweils andere Thema. Wer es eilig hat, liest nur den „Grundsätzliches“ Teil, in den anderen Teilen gehe ich nur detaillierter auf manche Aspekte ein.\n\n***Wie nimmt man ab?***\n\nUnser Körper benötigt um zu funktionieren Energie, diese nehmen wir mit der Nahrung auf. Wichtig ist der Grundumsatz, d.h. das was wir verbrauchen, wenn wir nichts aktiv tun und welcher unsere Körperfunktionen aufrechterhält (Denken, Verdauen, Atmen, Körpertemperatur regulieren, Immunsystem, Kreislaufsystem etc. etc.). Dazu kommt noch ein gewisser Anteil für die alltägliche Bewegung, dies ergibt dann den Gesamtumsatz (Sport betrachten wir später separat, siehe \"Was ist mit Sport?\", der zählt wenn man ihn macht dann in den Gesamtumsatz mit rein). (Danke an u/couch_raccoon für die Präzisierung)\n\nWenn wir genau so viel Energie durch Nahrung zu uns nehmen wie unser Gesamtumsatz verbraucht, nehmen wir weder zu, noch ab. Nehmen wir mehr zu uns, nehmen wir zu, die überschüssige Energie wird als Fett gespeichert; bei weniger nehmen wir entsprechend ab (vereinfacht, denn der Körper kann den Gesamtumsatz auch nach unten regulieren, der Schlingel). Dieses Prinzip wird oft mit CICO (Calories in / Calories out) bezeichnet.\n\nD.h. durch die passende Ernährung können wir unser Gewicht beeinflussen. Wo der Gesamtumsatz liegt ist sehr individuell, als Anhaltspunkt gibt es sehr viele Onlinerechner, die geben meist eine gute Orientierung. Wer es genau wissen will, kann diesen auch bei einem Sportmediziner ermitteln lassen.\n\nWer jetzt also abnehmen will, muss gucken, dass er über einen längeren Zeitraum unter seinem Gesamtumsatz liegt, gängige Werte sind so 10%-15% des Gesamtunsatzes bis 30% des Gesamtunsatzes unterhalb des Gesamtumsatzes pro Tag. Während 10% sehr einfach einzuhalten sind, sind 30% richtig hart. Ich persönlich würde so 300kcal -  500kcal anpeilen bei meinem Gesamtumsatz von knapp 2000kcal, das bringt merkliche Effekte und ist noch zu machen für mich als Durchschnittsmann. Als Grenzwert sollte man 30% des Gesamtumsatzes nehmen, wenn dieser nicht unter den Grundumsatz fällt. \nDurch Sport erzielte Defizite könnt ihr für diese Tage mit einrechnen, so dass ihr immer denselben Kalorienwert einspart, ihr dürft entsprechend mehr essen. \n\nBeispiel: Jemand dessen Gesamtumsatz bei 2000kcal liegt, sollte also zwischen 1800kcal (10%) und 1400kcal (30%) zu sich nehmen.\nMacht diese Person an einem Tag Sport und \"verbrennt\" dabei 300 kcal, so darf sie an diesem Tag im ersten Fall (10%) 2100kcal zu sich nehmen und im zweiten Fall (30%) 1700kcal.\n\n\nAls grobe Faustformel sagt man, dass 7000kcal in etwa einem Kilo Fett entsprechen, d.h. jemand der 500kcal am Tag einspart, sollte nach 2 Wochen 1 Kilo weniger wiegen (leider ist es etwas komplizierter, aber die Richtung stimmt.)\n\nEs ist leider auch nicht möglich gezielt an bestimmten Körperstellen Fett abzubauen. Wo, wie viel eingelagert wird ist genetisch bedingt. Und während manche gleichmäßig abnehmen, verlieren manche erst am Hintern und dann am Bauch oder umgekehrt. Langfristig aber sollten alle Fettpolster schmelzen. (Hier ein Hinweis: solltet ihr das Gefühl haben irgendwo unverhältnismäßig viel Fett zu haben, lasst euch vom Arzt auf ein Lipödem checken). \n\nMehr bei „Ernährung“\n\n***Was ist mit Sport?***\n\nWer sich bewegt, benötigt dafür Energie. D.h. zum oben beschriebenen Gesamtumsatz kommt noch der Leistungsumsatz dazu, der Gesamtumsatz erhöht sich also.  Sport kann also helfen, das Kaloriendefizit leichter zu erreichen. Allerdings hat sich unser Körper im laufe der Evolution zu einer sehr effizienten Maschine entwickelt und holt aus den Kalorien wirklich alles raus was geht. Man „verbrennt“ durch Sport leider sehr viel weniger Kalorien als man oftmals annimmt. Dies ist ein gängiger Irrtum, dem Anfänger erliegen, der Leistungsumsatz wird überschätzt und die Energiezufuhr durch Nahrung unterschätzt. Die halbe Stunde joggen wird gerne mal mit einem Schokoriegel „belohnt“. Allerdings hat man während dieser halben Stunde gar nicht so viel verbrannt, wie dieser Riegel zurückgibt. In Summe hat man also leider einen „negativen“ Effekt, bezogen auf die Kalorienbilanz. Fürs Herz-Kreislaufsystem ist joggen natürlich gut. \n\n\nHier könnt ihr für eure Sportart gerne mal googlen, das typische Leistungsumsätze sind.\n\n***Warum dann Sport machen?***\n\nAuch wenn der Kampf um die Kilos in der Küche entschieden wird, ist Sport trotzdem sinnvoll.\n\nIch sagte ja bereits, dass unser Körper eine effiziente Maschine ist. Was macht er also, wenn Energie fehlt? Zum einen werden die Fettreserven angezapft (Juhu!), zum anderen aber auch die Verbraucher, sprich Muskeln abgebaut (Buh!). Denn alles was unseren Steinzeitkörper unnötig Energie kostet ist für diesen natürlich gefährlich. Wer also nur knallhart Kalorien einspart und seine Muskeln nicht aktiviert, riskiert auch Muskelmasse abzubauen, das sieht auf der Waage gut aus, ist für die Fitness aber nicht toll. Personen die dies betreiben werden abwertend als „skinny fat“ bezeichnet. Irgendwie schlank aber trotzdem nicht fit und eher undefiniert.\n\nDamit uns dies nicht passiert, sollten wir Sport treiben. Denn wenn der Körper merkt, dass die Muskeln noch gebraucht werden, baut er diese auch nicht so schnell ab.\n\nEin weiterer Effekt ist der, dass wir durch Muskelaufbau unseren Grundumsatz erhöhen können, was uns langfristig wieder dabei hilft, Fett zu verbrennen.\n\nUnd ein starker Körper hilft uns dabei, lange Mobil, beweglich und fit zu bleiben und kann helfen die Zivilisationsleiden (Rückenschmerzen etc.) im Zaum zu halten.\n\nVerschiedene Möglichkeiten unten im Kapitel „Training“\n\n***Was ist also ein sinnvolles Vorgehen?***\n\nZunächst einmal sollte ein Gewicht erreicht werden, bei dem Sport und Bewegung verletzungsfrei möglich sind. Wer wirklich stark übergewichtig ist, geht bitte erstmal zum Arzt! Es hilft nichts, wenn ihr euch in den ersten Wochen die Gelenke kaputtmacht, weil ihr euren noch zu schweren Körper ohne Vorbereitung malträtiert.\n\n*Schritt eins:*\n\nAnalyse der Ernährung. Fangt an Kalorien zu zählen, beschafft euch eine Küchenwaage und wiegt ab, ihr werdet überrascht sein, wie oft ihr falsch liegt mit eurer Einschätzung. Lernt, welche Nahrungsmittel besonders energiereich sind und welche nicht. Führt Tagebuch in das ihr ehrlich eintragt, wann und wie viel ihr gegessen habt um ein Gefühl für eure Kalorienzufuhr zu bekommen (hierfür gibt es eine Menge Apps, mit entsprechenden Datenbanken und hinterlegten Lebensmitteln). Auf dieser Datenbasis nehmt ihr dann Anpassungen vor um auf die von euch anvisierte Kalorienzufuhr zu kommen. Passt dann nach und nach eure Ernährung an bis ihr im gewünschten Defizit seid und haltet das dann.\n\nDas klingt einfach, ist aber der härteste Schritt von allen. Macht euch da keine Illusionen, insbesondere über Jahre antrainierte Verhaltensweisen werden euch Rückschläge verpassen. Bleibt am Ball. Bestraft euch nicht, wenn ihr mal über die Stränge schlagt, sondern macht am nächsten Tag dann normal weiter mit eurem Plan (bitte esst dann nicht einen Tag nichts um das Defizit aufzuholen, das macht euch nur unglücklich). Das wichtigste ist hier neue Gewohnheiten zu setzen, das kann dauern und benötigt Ausdauer.\n\n*Schritt zwei:*\n\nKommt in Bewegung. So wie im vorigen Kapitel, tastet euch langsam ran. Beginnt mit einem Spaziergang. Das ist besser als keine Bewegung. Schaut dass ihr auch hier eine Routine entwickelt, geht z.b. jeden Abend nach der Arbeit eine halbe Stunde um den Block. Routine ist das wichtigste und hilft euch langfristig „automatisch“ etwas zu tun.\n\n*Schritt drei:*\n\nSo, nehmen wir mal an das Gewicht ist etwas runter, ihr habt keine körperlichen Beschwerden und fühlt euch so, dass ihr bereit seid für Sport. Jetzt kann das Thema ernsthafter angegangen werden.\n\nSucht euch jetzt einen Sport, von dem ihr glaubt, er könne euch Spaß machen und legt los. Hier gilt, jeder Sport ist besser als kein Sport. Das Fitnessstudio ist die effizienteste Möglichkeit um Sport zu treiben und individuelle Ziele zu erreichen, aber wenn euch das nicht taugt und ihr dann nicht hingeht, habt ihr auch nichts gewonnen. Wenn ihr einen Mannschaftssport machen wollt, macht den. Wenn ihr Zuhause „Beat Saber“ oder „Dance Revolution“ oder „Ring fit adventures“ spielen wollt, macht das. Jede Bewegung die euch ins schwitzen bringt, ist besser als keine. Seid euch aber bewusst, dass nicht alles gleich effizient ist und ihr nicht von allen Aktivitäten dieselben Resultate erwarten könnt.\n\nDas oben sind jetzt die Schritte, die ich vorschlage. Es spricht nichts dagegen direkt an Tag eins mit der Ernährung anzufangen und sich direkt im Fitnessstudio anzumelden. Aber nehmt euch nicht zu viel auf einmal vor. Die Ernährungsumstellung ist eine nicht zu unterschätzende, ziemlich harte Nummer.\n\nMehr dazu um Kapitel „Training“\n\n***Wie messe ich meinen Erfolg?***\n\nJetzt wirds nochmal kurz knifflig. Die Waage ist oftmals nur ein sehr ungeeignetes Mittel um euren Erfolg zu messen und kann manchmal auch frustrieren. Hängt euch nicht zu sehr an der angezeigten Zahl auf. Dies liegt auch daran, dass Muskeln dichter sind als Fett und wer viele Muskeln aufbaut womöglich gar nicht so viel an Gewicht verliert, aber trotzdem fitter ist und deutlich definierter aussieht.\n\nNehmt euch lieber ein Maßband und messt euren Bauchumfang/Oberschenkelumfang und/oder macht Fotos. Achtet darauf, dass ihr die Fotos immer in derselben Bekleidung bei derselben Beleuchtung macht um auch wirklich vergleichen zu können.\n\nGrundsätzlich würde ich euch raten, die Messungen nur so alle 4 Wochen zu machen, dann seht ihr auch Erfolge und werdet nicht von Tagesschwankungen frustriert. In erster Linie sollte es um euch und euere Gesundheit gehen und nicht darum, welche Zahl auf der Waage angezeigt wird oder wie der Bauchumfang ist.\n\nSo, das war der allgemeine Crashkurs, jetzt folgen noch ein paar Details zu Sport und Ernährung, diese müsst ihr nicht jetzt lesen um zu starten, dürft ihr aber natürlich gerne trotzdem.\n\n**Ernährung:**\n\nVorab, Ernährung ist ein extrem kontroverses Thema, das von vielen fast schon religiös verfolgt wird. Nehmt also das folgende als Hinweise, nicht als absolute Wahrheit. Zu jedem Beispiel gibt es mindestens eine Person, bei der es ganz anders viel besser funktioniert hat.\n\nNehmt euch Zeit für eure Ernährungsumstellung, Gewohnheiten zu ändern dauert sehr lang und setzt euch kein zu ambitioniertes Ziel. Wenn ihr eine Woche jeden Tag 800kcal einspart, habt ihr zwar schnell Erfolg, aber auch sehr schnell schlechte Laune und keinen Bock mehr. Fangt locker mit 200kcal - 300kcal Einsparung an und tastet euch an einen Wert mit dem ihr euch gut fühlt, bleibt aber immer innerhalb der 30% des Gesamtumsatzes. Dauert dann vielleicht ein paar Wochen länger, ist aber nachhaltiger.\n\n***Was sollte ich essen?***\n\nUnd schon geht’s los.\n\nIss das, was dir schmeckt, es bringt nichts, dir irgendwas reinzuzwängen das dir nicht schmeckt, nicht in deinen Tagesablauf passt oder du nicht zubereiten kannst und dann frustriert zur Tiefkühlpizza greifst.\n\nWichtig ist, dass du auf die Kalorienbilanz achtest. D.h. mache dich mit deinen Lebensmitteln vertraut, wiege sie ab und verinnerliche, welches Lebensmittel eine hohe Kaloriendichte hat und welches nicht um ein Gefühl dafür zu bekommen was gut ist und was nicht. Führe gerne auch ein Tagebuch z.b. via App (myfitnesspal wird oft genannt)\n\n***Ja, aber was sollte ich essen?***\n\nErnähre dich ausgewogen.\n\nGemüse und Salat helfen dir dabei, satt zu werden, ohne viele Kalorien zu dir zu nehmen. Zudem sind Vitamine und co. nie verkehrt. Also hau dir damit ruhig den Bauch voll.\n\nProteine sind gut für deine Muskeln und machen lange satt. Sie helfen dir bei der Regeneration und dem Muskelaufbau. Außerdem liefern sie auch sehr lange Energie. \n\nAls „normaler“ Erwachsener solltest du ca. 0,8 Gramm Eiweiß je Kilogramm Körpergewicht zu dir nehmen, sportlich aktive entsprechend mehr und wer wirklich intensiv Muskelaufbau oder Leistungssport betreiben will, sollte gucken, dass er mindestens 1,5g – 2g Eiweiß je Kilogramm Körpergewicht zu sich nimmt. Für uns ist so 1,2g/kg ein guter Wert.\n\nSuper kurzer und oberflächlicher Einschub Muskelaufbau:\n\nWer Muskeln aufbauen will, sollte mindestens bei den 1,5g sein und einen Kalorienüberschuss von 200-500kcal am Tag anstreben. Nur dann baut der Körper ordentlich Muskeln auf, aber auch wieder etwas Fett, das dann später wieder runter muss, aber um diese Zielgruppe geht es hier nicht. Gewicht verlieren und Muskeln aufbauen ist extrem schwierig, funktioniert bei untrainierten Personen zu beginn ihres Trainings aber noch sehr gut.\n\nFür euch ist wichtig, esst viel Proteine und wenn ihr trainiert werden da auch Muskeln bei rumkommen, wenn auch nicht ganz so super effektiv.\n\nEs gibt zahlreiche Listen mit proteinreichen Lebensmitteln, sucht euch da die raus, die euch schmecken und sucht euch dann entsprechende Rezepte. (persönliche Anmerkung: Bitte verzichtet auf das 1€/Kilo Putenfleisch, euch und den Tieren zuliebe)\n\n***Was ist mit Fetten und Kohlenhydraten?***\n\nJetzt wird es sehr vereinfacht und kontrovers. Wenn ihr auf die Kalorien achtet, guckt dass ihr genug Proteine zu euch nehmt und viel Gemüse zu euch nehmt, kommt ihr automatisch in einen Bereich in dem ihr nicht allzu viele Kohlenhydrate und Fette zu euch nehmt, weil das Kalorienbudget euch hier automatisch begrenzt und Proteine und proteinreiche Lebensmittel auch schon einiges an Kalorien mitbringen können. Aus meiner Sicht solltet ihr euch darum also keinen allzu großen Kopf machen.\n\nMan sollte Fette und Kohlenhydrate nicht verteufeln. Beides braucht unser Körper und mit einer angepassten Ernährung ist das auch kein Thema. Manche Vitamine sind fettlöslich und Kohlenhydrate geben uns Energie für unseren Sport. In Maßen ist also beides absolut vertretbar und auch nötig.\n\nDennoch, befasst euch ein bisschen damit, insbesondere bei den Kohlenhydraten gibt es eine große Spanne was darunter fällt, wovon manches natürlich besser ist als anderes (z.b. Vollkorn gegenüber Weißmehl). Aber macht euch nicht verrückt.\n\n***Was ist mit Diäten?***\n\nGrundsätzlich ist oben beschriebenes ja schon eine Diät, die in Richtung „Low Carb“ geht, wenn auch nicht so streng.\n\nEs spricht nichts dagegen, verschiedene Ernährungsweisen zu testen und zu schauen was für einen taugt. Wichtig ist, dass diese aber nach wie vor abwechslungsreich sind und euch mit allem versorgen was ihr braucht.\n\nVon „Die große 6 Tage Kohlsuppen“-Diät und ähnlichen Scherzen halte ich nichts, da verliert ihr kurzfristig Wasser, Muskeln und etwas Fett (siehe weiter oben), aber gewinnt langfristig nichts außer einem Hass auf Kohl. Lasst von sowas die Finger. Ändert lieber eure Ernährung wie beschrieben in grundsätzlicher Weise, das bewahrt euch auch vor dem Jojo-Effekt.\n\n***Ich habe mein Ziel erreicht, was mache ich jetzt?***\n\nJetzt nicht schleifen lassen, macht weiter Sport und passt eure Ernährung so an, dass ihr im Bereich des alltäglichen Gesamtumsatzes (plus Leistungsumsatz für Sport) bleibt. Macht nicht den Fehler jetzt ordentlich reinzuhauen, nur weil ihr euer Ziel erreicht habt. Habt ihr euch aber an oben gezeichneten Weg gehalten, solltet ihr dafür schon ein gutes Gefühl haben.\n\n**Training:**\n\nAuch hier gibt es viele Meinungen und Wahrheiten, darum werde ich nur einige gängige Methoden erwähnen, das Thema an sich ist unendlich groß.\n\nHinweis: Tut euch etwas weh, seid ihr euch nicht sicher ob ihr mit Rückenschmerzen, fehlenden Kniescheiben oder drei Beinen Sport machen könnt, klärt das mit einem Arzt ab. Auch wenn während des Sports Schmerzen auftreten. Trainiert nicht, wenn ihr krank seid! Kuriert euch aus und macht dann weiter. Wie bei der Ernährung gilt, sucht euch etwas das ihr gerne macht und wo ihr eine Routine aufbauen könnt. Eine Heimroutine die ihr regelmäßig macht bringt sehr viel mehr als ein Alibibesuch im Fitnessstudio alle zwei Wochen. Consistency is key!\n\nr/Fitness\n\n***Fitnessstudio:***\n\nDer Klassiker. Das Fitnessstudio bietet alles was man braucht um seinen Körper in die gewünschte Form zu bringen. Hier könnt ihr euren Körper am effizientesten trainieren und habt das beste „vergossener Schweiß“ zu Ergebnis Verhältnis.\n\n*Aber wie funktioniert das?*\n\nWer noch nie in einem Studio war, macht folgendes: Ruft an/geht vorbei und vereinbart ein Probetraining. Schreibt euch vorab alle Fragen auf, die euch so einfallen.\n\nSeid ihr dann dort, ist der Ablauf grob wie folgt: Der Trainer wird sich mit euch zusammensetzen und nach euren Zielen fragen. Keine Sorge, die haben schon alles gehört und wahrscheinlich wird eure Antwort dieselbe wo von tausenden vor euch sein: „Abnehmen und fitter werden.“ \n\nEr wird euch hoffentlich noch nach körperlichen Einschränkungen o.Ä. fragen und dann einen Plan zusammenstellen. Der wird sehr wahrscheinlich ein Ganzkörpertrainingsplan sein, den ihr so ca 3mal die Woche machen sollt. Dann führt er euch durchs Studio, zeigt euch die Geräte die er für den Plan vorgesehen hat, zeigt euch die Einstellungen und führt mit euch eine Runde (genannt Satz) durch. Seid ihr einmal durch mit den Übungen könnt ihr vermutlich noch die Runde 2 und 3 machen, Unklarheiten klären und das wars auch schon. Je nachdem ob ihr euch schon vorher direkt anmelden wollt oder erst später kann die Reihenfolge der Abläufe etwas variieren.\n\nDen Trainingsplan bearbeitet ihr die ersten 4-6 Wochen und dann meldet ihr euch wieder bei eurem Trainer zwecks Anpassungen. Das wird er euch aber sagen. Und so geht’s dann immer weiter.\n\nEin paar Hinweise:\n\n1. Sucht euch ein Studio in dem ihr euch wohl fühlt. Der Plan ist, dass ihr dort ca. dreimal die Woche seid, wenn es euch da nicht gefällt, dann geht ihr da eher ungern hin. Kriterien können sein: Sauberkeit, Klientel, Anzahl der Geräte, wie voll ist es, etc.\n\n2. Jeder im Fitnessstudio ist mit sich selbst und seinem Körper beschäftigt. Die meisten interessiert es null, ob ihr dick/dünn/whatever seid. Die sind für sich selbst da und nicht um andere Menschen anzugucken und zu bewerten. Ihr auch nicht, also gafft niemanden an.\n\n3. Seid nett zu den Anderen, aber haltet euch zurück, es sei denn ihr kennt die Leute schon ein bisschen. Die meisten wollen einfach nur in Ruhe trainieren und nicht quatschen (Männer: bitte labert die Frauen nicht dumm voll).\n\n4. Räumt eure Gewichte weg, macht die Maschinen sauber und blockiert nichts. „Handtuchreservierer“ sind nicht gerne gesehen. Bleibt auch nicht 10 Minuten auf einer Maschine sitzen um Insta zu checken und Selfies zu machen. Macht ihr eure 90 Sekunden Pause zwischen den Sätzen ist das okay, aber blockiert andere nicht unnötig.\n\n5. Fragt um Hilfe. Bevor ihr euch verletzt, fragt lieber nochmal den Trainer wie eine Übung geht. Ihr könnt auch andere Mitglieder fragen, die meisten sind super nett und hilfsbereit, insbesondere die superbreiten Schränke in den lila Spanndexhosen freuen sich wenn sie helfen können.\n\n***Functional / Bodyweight Training:***\n\nNach dem Fitnessstudio ein weiterer guter Weg um zu trainieren, zwar nicht ganz so effektiv, aber dennoch kann man hier sehr weit kommen. Insbesondere braucht es hier teilweise sehr wenig Equipment und man kann zuhause, bzw. zu jeder Zeit ungestört trainieren. Benötigt natürlich die Disziplin das auch zu machen.\n\n(Alle die jetzt sagen wollen: Aber Beine kann man nicht machen! Wir sprechen hier von Anfängern, bis die bei den Pistolsquats angekommen sind, werden die selber gemerkt haben was geht und was nicht. Chillt.)\n\nDie größte Anlaufstelle auf Reddit ist hierbei r/Bodyweightfitness\n\nHierhin würde ich verweisen, weil da einfach schon alles steht. Geht dort ins Wiki und schaut euch die „Recommendet Routine (RR)“ an. Für jedes Leistungsniveau gibt es dort Übungen und sehr viele Hinweise was Equipment angeht. Es gibt auch eine verkürzte Einstiegsroutine.\n\nIhr könnt mit diesem Trainingsplan durchaus eine beachtliche Fitness und einen sehr trainierten Körper erreichen, lasst euch da nicht täuschen!\n\nWichtig für Einsteiger, holt euch jemanden der eure Form kontrollieren kann, dass ihr euch keine Verletzungen einhandelt. Es spricht nichts dagegen mit dem eigenen Körpergewicht zu trainieren, aber man muss schon auf seinen Körper hören und wissen wie die Bewegungsabläufe sein sollten. Diese Problematik habt ihr im Fitnessstudio weniger, da hier durch die Maschinen, bzw. Trainer eine bessere Kontrolle gegeben ist.\n\n***Calisthenics, Freeletics, Crossfit:***\n\nDas sind je nach Programm, Mischungen aus Training mit dem Körpergewicht, Zirkeltraining, dem was Turnvater Jahn schon predigte und App Unterstützung (insbesondere in der Routine aus r/bodyweightfitness sind viele Calisthenics Übungen). Macht euch definitiv auch fit, ist zum Teil in einer Gruppe (Crossfit) und kann eine nette Abwechslung sein. Bringt euch eine gute Grundfitness, ist aber weniger gezielt als z.b. Fitnessstudio oder ausgewählte Bodyweightübungen. \n\nIch trainiere momentan mit Freeletics, soll jetzt keine Werbung sein, aber für meinen Alltag passt das momentan am besten. Alle drei setzen aber schon eine gewissen Kenntnis des eigenen Körpers und der Bewegungsabläufe voraus um nichts „falsch“ zu machen.\n\n***Laufen/Joggen:***\n\nWer Spaß am Laufen hat, kann sich das C25k Programm anschauen. Der Name „Couch to 5 Km“ ist Programm. Hier habt ihr einen guten Trainingsplan, wie ihr von der Couch zu 5km konstantem Joggen kommt.  r/C25K\n\nSo, das wars erstmal mit der absoluten Basis, ich hoffe ich konnte manchen helfen und hoffe, dass in einem Jahr der eine oder andere dann etwas für sich ändern konnte. Fragen, Korrekturen und Ergänzungen gerne in die Kommentare.\n\nWichtige Hinweise:\n\nEs kamen gute und wichtige Hinweise zu den kcal Angaben, diese sind inzwischen durch entsprechende Prozentwerte ersetzt worden, hier war ich mit falschen Werten unterwegs. (Danke an u/couch_raccoon)\n\nWeiter ist Kalorienzählen zwar eine sehr effektive Methode, viel wichtiger dabei ist aber, dass ihr ein Gefühl dafür bekommt welche Nahrungsmittel euch beim Abnehmen helfen können und welche nicht. Sobald ihr ein Gefühl für eure Nahrung habt, solltet ihr wirklich nur noch bei unbekannten Lebensmitteln abwiegen, dies kann je nach Veranlagung sonst in eine Essstörung führen. Sobald ihr merkt, dass die Kalorien euren Alltag unverhältnismäßig bestimmen, sucht euch bitte professionelle Hilfe.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 641378,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Der Große „Wie werde ich fit und nehme ab“ Leitfaden – Faden",
+            "top_awarded_type": null,
+            "total_awards_received": 34,
+            "treatment_tags": [],
+            "upvote_ratio": 0.95,
+            "url": "https://www.reddit.com/r/de/comments/rpsa3s/der_große_wie_werde_ich_fit_und_nehme_ab/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 559,
+        "op_b": 238,
+        "total": 805
+    },
+    "error": null
+}

@@ -1,0 +1,97 @@
+[
+    {
+        "text": "&gt; Wie kommst du darauf? Gerade beim Thema Klima ist die FDP doch vorne dabei. \n\nHaha, nicht dein ernst, oder? Die wollen sowohl des EEG abschaffen, als auch die Abstandregeln für Windkraft noch weiter [erhöhen](https://www.fdp.de/forderung/abstandregelungen-fuer-windkraftanlagen-erhoehen). Bei den Jamika Verhandlungen haben sie auch nach möglichst wenig Kohleabschaltung geschrien.\n\nIhr einziges Konzept is doch das aktuelle Fiasko an Emissionshandel auszubauen und sich dann zurückzulehnen, weil der Markt macht ja alles. Das ist doch naiv.\n\n&gt; Die SPD möchte Azubis auch weiterhin vom Mindestlohn ausnehmen. \n\nDie SPD will nen Azubi Mindestlohn einführen.",
+        "date": "2019-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Haha, nicht dein ernst, oder? Die wollen sowohl des EEG abschaffen, als auch die Abstandregeln für Windkraft noch weiter erhöhen. Bei den Jamika Verhandlungen haben sie auch nach möglichst wenig Kohleabschaltung geschrien.\n\nNicht das EEG abschaffen, sondern die EEG-Einspeisevergütung. Das ist etwas vollkommen anderes und beispielsweise identisch mit den Piraten, die nun nicht unbedingt als umweltfeindlich gelten. \n\nAbstandsregeln sind doof, ja.\n\nBei Jamaika hieß es \"so viel zu möglich\" von der FDP, wobei man abweichende Positionen über die Möglichkeiten hatte. \n\n&gt; Ihr einziges Konzept is doch das aktuelle Fiasko an Emissionshandel auszubauen und sich dann zurückzulehnen, weil der Markt macht ja alles. \n\nDer Emissionshandel ist bei weitem kein Fiasko, sondern sehr effizient. Er hat noch seine Mängel, insbesondere der geringe Ausbaustand. \n\nUnd nein, das ist nicht alles - beispielsweise will die FDP staatliche CO2-Senken etablieren, zum Beispiel in Form von Regenwaldreservaten.\n\n&gt; Die SPD will nen Azubi Mindestlohn einführen.\n\nUnd der soll bei 3,50 Euro pro Stunde liegen. Wow. Das ist weiterhin eine ziemlich heftige Ausnahme vom Mindestlohn.\n\n",
+        "date": "2019-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Original-Tweets:\n\nhttps://twitter.com/StBrandner/status/1105118608961818624\n\nhttps://twitter.com/Joerg_Nobis_AfD/status/1105139326890004480\n\nVia\n\nhttps://twitter.com/littlewisehen/status/1105484390732349440\n\nJörg Nobis hat noch nachgelegt:\n\n&gt;Ich bin an der Küste aufgewachsen. Woher kam der ganze Wind, als die Windräder da noch nicht standen 🤔\n\nhttps://twitter.com/Tanja1887/status/1105416017520590849\n\n&gt;Früher war ja nicht so viel Wind. Die Korrelation mit dem Ausbau der Windkraft ist da leider eindeutig. Wer nicht hüpft, der ist für Windkraft.\n\nhttps://twitter.com/Joerg_Nobis_AfD/status/1105417190403125248",
+        "date": "2019-03-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Also ganz im Ernst, das ist ja nun wirklich völlig eindeutig als Witz gemeint. Allein „Wer nicht hüpft, der ist für Windkraft“ und „woher kam der ganze Wind als die Windräder noch nicht da standen“ zieht das Ganze doch selbst in‘s Lächerliche.",
+        "date": "2019-03-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das die Windkraftanlagen den Wind an den Küsten erzeugen ist Quatsch, und wie andere bereits geschrieben haben wohl als Scherz aufzufassen. Der Post hat mich aber dazu gebracht ein Wenig auf der Wikipedia zu dem Thema Windkraft zu recherchieren, und bin dabei auf eine Frage gestossen.\n\nVieleicht kann mir jemand der mehr Ahnung von der Elektrotechnik hat mir dabei helfen den Punkt besser zu verstehen:\n\nIch weiss, dass die in Windkraftanlagen verbauten Generatoren können auch dazu verwendet werden, um die den Rotor in Bewegung zu setzen, um die Haftreibung/Trägheit zu überwinden. \nWerden die Windkraftanlagen eigentlich auch einmal als Verbraucher eingesetzt, um die Netzfrequenz konstant zu halten?\nDie Menge des erzeugten Stroms muss gleich dem Verbrauch sein, damit die Netzfrequenz stabil gehalten werden kann. \n\nIm Artikel zur [Netzfrequenz](https://de.wikipedia.org/wiki/Netzfrequenz#Prim%C3%A4rregelung) in der Wikipedia sind Generatoren beschrieben, die zur Regelung der Netzfrequenz verwendet werden. Bei Überfrequenz agieren diese als Verbraucher und wandeln die Energie in Rotationsenergie um. Bei Unterfrequenz erzeugen die Generatoren Energie. Leider ist der Absatz recht allgemein gehalten, und es wird nicht erwähnt, um welche Art von Generatoren es sich handelt. \n\nIst hier vielleicht die Rede von Windkraftanlagen?",
+        "date": "2019-03-13",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Das erinnert mich dann doch stark an ein [Wellenkraftwerk](https://de.wikipedia.org/wiki/Wellenkraftwerk), zwar keine schlechte Idee aber nicht wirklich zukunftsfähig. Für Grundlast interessant, aber leider zu teuer. Herkömmliche Windkraftanlagen gehen ohnehin schon mit der 3. Potenz der Windgeschwindigkeit. Wer nicht weiß was das heißt: Eine Verdopplung der Windgeschwindigkeit bedeutet eine **Verachtfachung** der Leistung eines Windrades. Oder andersrum gesagt: Wenn kein Wind weht lohnt sich Windkraft eh nicht. Da hilft auch keine Bauweise ohne bewegliche Teile; das ist eine physikalische Grenze. \n\nDann braucht wasn grundlegend anderes, z.B. Solar (klappt nur wenn die Sonne scheint), Atomkraft (schlechte Idee weil schlechtes Regelungsverhalten und zu hohe Fixkosten), Kohle (muss ich dazu was sagen?), Gezeiten/Pumpspeicherkraftwerke (unrealistisch weil zu wenig Leistung möglich) oder halt Gasturbinen (die super fantastische Lösung schlechthin ohne Nachteile überhaupt). &gt;!Ja das  war übertrieben; nein, ich arbeite (noch) nicht in dem Bereich)!&lt;",
+        "date": "2019-03-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dein Narrativ, dass, wenn die Lösung einfach wäre, es sie schon gäbe.\n\nNiemand sagt dass es einfach ist. Du widerum sagst wir sollten garnicht erst versuchen Thorium zu implementieren, willst du mich verarschen?\n\nLieber windkraft was 500 mal teurer ist für denselben effekt und nicht einmap ansatzweise so konstant, was mehr leute tötet und mehr lebensraum zerstört oder wie?\n\n\"Ham wa nich\" gibts nicht. Deine Devise ist \"Wir können es nicht bauen also warum versuchen die Probleme zu lösen\". Ich bin fertig hier, beinsowas wie dir krieg ich Kopfschmerzen. ",
+        "date": "2019-03-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Ein schneller Kohleausstieg wäre auch ohne AKW möglich. Beides miteinander zu verknüpfen ist in der Debatte eher kontraproduktiv.\n\nSehe ich ein. Ich will auch nicht sagen das es nötig ist. Aber wenn es nötig wäre, würde ich die Kernkraft der Kohle vorziehen. Sollte man mal betrachten oder ich sollte mal raussuchen, wo das jemand betrachtet hat. \n\n&gt; Und ein paar alte Kernkraftwerke weiter zu betreiben rettet das Klima auch nicht.\n\nAuf jeden fall. Was uns rettet sind erneuerbare und hoffentlich Neue energieformen. Und irgendwas, damit die Bauren aus Dorf XYZ nicht immer über windkraft fluchen. \n\nVorallem sollten wir Geld in die Suche und Umsetzung neuer Energiequellen umsetzen. Fusion wäre da ein punkt. Effizientere windkraftanlagen und bessere energiespeicher für Solar- und Wind. Sowas. \n",
+        "date": "2019-03-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ah, da haben wir ein bisschen an einander Vorbeigeredet. Das mit den Turbinen müsstest du mal erklären. Es ging mir nicht so sehr um die Kurzzeitschwankungen, sondern um die Problematik in Wetterzeiten wie jetzt, Solarenergie nada, Windkraft zwar einiges, aber bei den Sturmböen der letzten Tage werden die aus Sicherheitsgründen abgeschaltet. \n\n&amp;#x200B;\n\nDas größte Problem ist halt die Grundlast im Zusammenhang zur Speichermöglichkeit, die Salzwärmespeicher funktionieren zwar, sind aber nicht global einsetzbar. \n\n&amp;#x200B;\n\nEin anderer Weg wäre, den wir aber leider wohl nie hier bekommen, neue Atomkraftwerke die aufgrund ihrer technischen Gegebenheiten keine Kernschmelze ermöglichen (da gibt's schon Versuchsreaktoren) in Kombination mit Aufbereitungsanlagen um den Atomabfall wieder nutzbar zu machen, bis die Strahlung der Brennstäbe nicht mehr tödlich ist.",
+        "date": "2019-03-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "In meinem Bayerischen Freundeskreis habe ich einige CDU/CSUler. Die regen sich über den letzten Scheiß auf (Bspw.: Der darsteller im neuen Pokemon ist scwarz das geht so ja nicht. Black Panther hat nur Oscars gewonnen weil da schwarze dabei waren. Was soll denn jetzt der Unsinn mit dem dritten Geschlecht. Gleichgeschlechtliche Ehe geht ja gar nicht weil das ja gegen ihre Religiösen Vorstellungen geht. Das Kreuz auf der Amtsstube hat zu bleiben weil Tradition. Und Deutschland ist nicht und war noch nie ein säkularer Staat.) \n\nIm Allgemeinen habe ich festgestellt, dass diese Leute immer nur auf ihren Vorteil aus sind. Es ist ihnen egal wie es anderen Leuten geht oder wie man deren Leben verbessern könnte. Hauptsache ihnen geht es gut. Einige von ihnen sind für das Tempolimit von 130 weil ihnen \"die scheiß Raser\" auf die Nerven gehen. Andere sind sind dagegen weil sie schnell fahren wollen. Und deren Meinungen ändern sich auf ganz schnell wenn ein neues Auto da ist. \n\nViele sind auch gegen Windkraft \"weil es die Landschaft verunstaltet und evtl. das Haus vom Papa dann weniger wert sind könnte\". Einige wollen auch Atomkraft wieder, bei den riesigen heißt es dann \"da wird denen schon was einfallen/ ist ja nicht mein Problem\".",
+        "date": "2019-03-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das Hauptargument ist hier mWn. dass Atomkraft Erneuerbare vom Netzt drängt und Investitionen hemmt. Wenn man jetzt aber Atomkraftwerke statt Kohle laufen lässt ändert sich ja an der Menge erzeugtem Strom nichts. Das Investitionsproblem muss die Bundesregierung natürlich auch angehen, kostet eben. Wobei Windkraft auch schon günstiger als Kernkraft ist.\n\nKlar wär es schöner wenn in 30 Jahren 100% des Bedarfs ökologisch erzeugt werden, aber wie willst Du da hinkommen? Wenn man jetzt konkret massive Mengen an Emissionen sparen kann ist das doch gut.",
+        "date": "2019-03-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Solar, Geothermal, Windkraft, Wasserkraft - auch die produzieren ein regulierbares Output. \n\nNuklearenergie hat die dumme Angewohnheit unregulierbares Output zu produzieren. Aber die sind doch sicher! Die explodieren nur alle 10.000 Jahre!\n\nGut, Rechenaufgabe, bei 1.000 AKWs (weltweit), wieviele explodieren da statistisch in 10 Jahren?\n\nAh, sehr gut, in Mathe aufgepasst. Three Miles Island, Tchernobyl, Fukushima - um nur die grösseren Ereignisse aufzuzählen.",
+        "date": "2019-03-23",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Solar und Windkraft haben einen regulierbaren Output? Wäre mir neu.\n\nDie sind immer noch von Sonnenstunden und Wetter abhängig.\n\nGeothermal ist in Deutschland nicht wirklich möglich, zumindest nicht in der Größenordnung wie manes bräuchte.\n\n\nBei Wasserkraft hast du vollkommen recht, aber da kommt halt wieder mal der gemeine NIMBY und der Naturschutz ins Spiel. \n\nUnd deine Beispiele sind jetzt auch nicht das gelbe vom Ei.\n\nDas sind drei große Atomare Unfälle in der Energieversorgung in den letzten 40 Jahren. \n\nZwei davon gehen auf menschliches Versagen zurück, dass in der Form heute vermieden werden kann und Fukkushima ist eine Kombination aus einer Naturkatastrophe wie sie in Europa außerhalb Italiens und Griechenland nicht möglich ist und kriminellen Aktivitäten von Seiten  des Betreibers. ",
+        "date": "2019-03-23",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Solar und Windkraft haben einen regulierbaren Output? Wäre mir neu.\n\nStellwinkel zur Sonne/Wind. Wow. Physik auch nicht aufgepasst? Schätze mal... Wirtschaftswissenschaften? Bingo!",
+        "date": "2019-03-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Solar und Windkraft haben einen regulierbaren Output? Wäre mir neu.\n\nAber selbstverständlich. Der aktuelle Input begrenzt natürlich den Output nach oben, aber Abregeln bei Bedarf ist problemlos möglich. Bei Windkraft und größeren PV-Anlagen ist diese Möglichkeit längst verpflichtend und [wird von den Netzbetreibern auch genutzt](https://www.ewe-netz.de/einspeiser/strom/einspeisemanagement), zur Vermeidung von Netzüberlastung und zukünftig auch zur Anpassung an den Verbrauch.",
+        "date": "2019-03-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Meinst du das ernst? \n\nFalls ja: Katzen z.B. töten um mehrere Größenordnung mehr Vögel. Das ist also ein lächerliches Argument gegen Windkraft.",
+        "date": "2019-03-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nicht alles was hinkt, ist ein Vergleich.\n\nDie durch Windkraft getöteten Vögel haben keinen nennenswerten Einfluss auf das Ökosystem. Die durch Windkraft vermieden Emissionen hingegen haben einen sehr positiven Einfluss auf das Ökosystem.",
+        "date": "2019-03-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Vögel fressen jedes Jahr mehrere MILLIONEN Tonnen. Der Artikel ist also völliger Schwachsinn bzw. maximal irrelevant.\n\nIst aber auch kein Wunder, da einer der Autoren der Studie der Meinung ist, dass Photovoltaik allein die Energieerzeugung der Zukunft ist. Da muss halt mal schnell irgendwas gegen Windkraft zusammengesponnen werden.",
+        "date": "2019-03-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Siehe meinen weiter unten verlinkten Artikel. Windkraft ist was Vögel angeht absolut unbedenklich und auch anderen Arten der Energieerzeugung überlegen.\n\nFür Fledermäuse gibt es in Deutschland übrigens spezielle Schutzmaßnahmen. Wenn ein Windrad in einem Gebiet mit Fledermäuse steht, muss es zu bestimmten Uhrzeiten, Temperaturen und Windgeschwindigkeiten abgeschaltet werden, um die Tiere zu schützen.",
+        "date": "2019-03-25",
+        "sentiment": "negative"
+    }
+]

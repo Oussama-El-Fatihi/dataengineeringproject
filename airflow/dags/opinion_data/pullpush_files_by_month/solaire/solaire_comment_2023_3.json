@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Je ne crois pas qu'il faille se résigner à avoir affaire à des gens irrationnels. Je pense qu'il faut surtout trouver des arguments vraiment convaincants.\n\nLa vitesse des phénomènes est le meilleur **argument pour les convaincre**. Car la plupart des phénomènes naturels se déroulent sur des échelles de temps bien plus longues.\n\nDeux exceptions cependant : les éruptions solaires, et les éruptions volcaniques.\n\n* Pour les éruptions solaires il faudrait quantifier leur impact et démontrer qu'elles ne peuvent être seules responsables.\n* Pour les éruptions volcaniques il faudrait rappeler les millions d'animaux que ça a exterminé.",
+        "date": "2023-03-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Après si on en croit wikipédia https://en.m.wikipedia.org/wiki/Energy_in_Australia la part du solaire dans l'électricité en Australie était de 10,4% en 2020-2021. J'ai du mal à croire que ça soit passé au dessus des 50% en si peu de temps.\n\nEt on parle ici que du mix électrique qui n'est pas la première source d'énergie en Australie.\n\nEdit : je pense qu'ils veulent dire qu'à midi quand le soleil est au top le solaire sera la première source d'électricité en Australie. Genre le gaz à 25%, le charbon à 30% et le solaire à 31%.",
+        "date": "2023-03-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Principalement :\n\n- la décorrelation entre croissance et consolidation des ressources\n\n- la mécompréhension des mécanismes d'innovation et d'adoption\n\nIl a une vision du monde à ressources constante et sous-estime la capacité de l'économie à s'adapter à un monde aux ressources limitées.\n\nIl sous-estime également l'efficacité redoutable de l'économie à développer et optimiser des technologies adaptées aux contraintes. Par exemple il utilise souvent des chiffres obsolètes pour évoquer la consommation en métaux des énergies solaires et éoliennes, et ignore le foisonnement technologique autour des batteries de nouvelles générations.",
+        "date": "2023-03-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "commentaire d'un australien qui bosse dans le solaire (mitra ardon)\"And  \n for an idea of how fast this has changed, the 2MW that our team put on   \n2000 residential roofs in 2007-2008 made us the fastest growing, and   \nmaybe the biggest residential solar company in Australia ! I think   \nresidential solar over those two years was of the   \norder of 10MW  - because it was tied to a specific rebate program, and   \nnow you've got 20GW of rooftop (which includes commercial). 10000x in 14  \n years is faster than Moore's law.\"",
+        "date": "2023-03-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Alors oui le solaire en Australie augmente et c'est une très bonne chose. On le voit très bien d'ailleurs sur le tableau wikipédia où le solaire passe de 0,1% à 10% et fait un x100 en terme de kWh produit.\n\nJe remets juste en perspective le titre qui semble bien trop optimiste.",
+        "date": "2023-03-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Cette personne utilise des panneaux solaires et de l’éolien, ce qui fait justement partie des « fausses autonomies » désignées par V. Mignerot dans la vidéo.",
+        "date": "2023-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Cette personne utilise des panneaux solaires et de l’éolien, ce qui fait justement partie des « fausses autonomies » désignées par V. Mignerot dans ma vidéo.\n\nQu'est-ce est-il considéré comme une vraie \"autonomie\" selon ce monsieur ?",
+        "date": "2023-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mouais, c'est pas fameux tout ça.\n\nIl a raison sur certains points, par exemple effectivement pour l'instant on n'observe pas de transition énergétique au niveau mondial mais les justications qu'il donne ensuite ne sont pas très solides.\nDéjà d'un point de vue technique, même si ça relève presque de l'anecdotique :\n[Comment ce puissant four solaire va fondre de l’acier pour l’industrie](https://www.revolution-energetique.com/comment-ce-puissant-four-solaire-va-fondre-de-lacier-pour-lindustrie/)\n\nDonc si le problème principal c'était de pouvoir fondre du métal il est déjà résolu.\n\nMais surtout au niveau du raisonnement qu'il y a un problème. Qui a dit que l'objectif de la transition c'était d'utiliser exclusivement telle ou telle technologie ?\n\nLe but c'est de passer de sociétés qui reposent sur l'exploitation massive d'énergies fossiles à des sociétés neutres en carbone. C'est ça qu'on appelle transition.\n\nIl y a aussi de grosses approximations concernant le capitalisme. Dire \"olala vouloir expliquer le dérèglement climatique par le capitalisme c'est simpliste\" c'est à peu près aussi intelligent que de dire \"olala vouloir expliquer la gravité par la relativité générale c'est simpliste\". \n\nLe \"capitalisme\" c'est le nom qu'on donne à un système économique et social avec une approche historique, c'est s'intéresser aux mécaniques de fonctionnement de la societé... Alors je sais bien que souvent même du côté des anticapitalistes la notion est mal utilisée et que ça devient un grand mot fourre-tout, mais quand même quand on est chercheur le minimum c'est de se renseigner.\n\nSurtout si c'est pour sortir après des platitudes comme \"on vote avec son argent\". Misère...",
+        "date": "2023-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Donc si le problème principal c'était de pouvoir fondre du métal il est déjà résolu.\n\nLe problème principal serait de pouvoir faire fondre du métal en *amont* du convertisseur (pour ne pas que la fabrication des convertisseurs dépende de l'existence des convertisseurs eux-mêmes).\n\nChose que ces fours solaires ne font pas (on ne fait pas fondre du métal avec le soleil, mais avec un convertisseur soleil --&gt; chaleur, qui aura lui même demandé du métal).\n\n&amp;#x200B;\n\n&gt;Le but c'est de passer de sociétés qui reposent sur l'exploitation massive d'énergies fossiles à des sociétés neutres en carbone. C'est ça qu'on appelle transition.\n\nEt donc comment fais-tu cela ?\n\nDe plus, il ne parle pas juste de *transition*, mais de *transition énergétique*. A comprendre : transitionner d'une techno énergétique à une autre (ou à plusieurs autres).\n\nS'il s'agit simplement de décroitre en abandonnant les fossiles, sans rien mettre à la place, je pense que Mignerot serait globalement d'accord. Mais ce n'est pas ça qu'il nomme \"transition\" ici.",
+        "date": "2023-03-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le but est de critiquer l'idée largement adoptée que les gens ont de \"l'autonomie énergétique\", et qui n'est pas du tout le type d'autonomie dont tu parles ici (peuples indigènes sans machines ni appareils).\n\nIl suffit de voir le message qui a ouvert tout ce fil de discussion : quelqu'un qui parle d'autonomie en électricité, à base de panneaux solaires et d'éoliennes.\n\nEt c'est ce dont 99,9% des gens parlent quand ils disent \"autonomie énergétique\". Pour le coup, c'est toi qui pars dans les extremes en amenant le débat sur le 0,1% restant.",
+        "date": "2023-03-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Le problème principal serait de pouvoir faire fondre du métal en   \n&gt;  \n&gt;amont  \n&gt;  \n&gt; du convertisseur (pour ne pas que la fabrication des convertisseurs dépende de l'existence des convertisseurs eux-mêmes).\n\nLe problème ne se pose qu'une seule fois, et une fois que tu disposes des moyens de produire ce dont tu as besoin à partir d'énergie solaire (comme le four précédemment mentionné) ou électrique (comme [l'électrolyse](https://www.usinenouvelle.com/editorial/pourquoi-ne-pense-t-on-que-maintenant-a-produire-de-l-acier-par-electrolyse.N1803522) déjà utilisée pour l'aluminium) il n'y a plus besoin de réintroduire des énergies fossiles dans les cycles de fabrication.\n\nCela représente un chantier immense puisqu'il faut adapter toutes les filières. Mais rien d'impossible d'un strict point de vue technique.\n\n&amp;#x200B;\n\n&gt;De plus, il ne parle pas juste de transition, mais de transition énergétique. A comprendre : transitionner d'une techno énergétique à une autre (ou à plusieurs autres).\n\nJe parle de transition énergétique aussi, et autant je veux bien que pour chaque notion on puisse accepter plusieurs définitions, autant celle sur laquelle Mignorot semble se baser est excessivement restrictive et utilisée par à peu près personne d'autre. Et c'est donc une des limites de la démonstration, si on prend une définition plus classique (voir par exemple [ici](https://transition-energetique.eco/definition/)) sa conclusion n'a plus beaucoup de sens.",
+        "date": "2023-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Il suffit de voir le message qui a ouvert tout ce fil de discussion : quelqu'un qui parle d'autonomie en électricité, à base de panneaux solaires et d'éoliennes.\n\n&gt;Et c'est ce dont 99,9% des gens parlent quand ils disent \"autonomie énergétique\". Pour le coup, c'est toi qui pars dans les extremes en amenant le débat sur le 0,1% restant.\n\nMais cela est de l'autonomie énergétique !! Comme j'ai écrit l'autonomie énergétique n'est pas binaire,  \nsoit poussé à l'extrême comme dans le vidéo soit rien.\n\nQuelq'un avec des panneaux photovoltaïques est autonome parce qu'il ne **dépend pas totalement** du réseau électrique pour consommation d'électricité. S'il en a une faille dans le réseau électrique la personne a moins de chances d'être affectée. La personne n'est pas non plus **dépendante des prix du marché d'énergie électrique**. Cette indépendance peut être plus ou moins importante dépendant de la quantité d'énergie qu'elle produit chez soi en si en plus des panneaux photovoltaïques la personne stocke l'énergie chez soi (batteries).\n\nBien évidemment, avoir des panneaux photovoltaïques implique des dépendances sur d'autres choses, notamment **dépendante du fabricant des panneaux photovoltaïques**... En cas de problème c'est le fabricant qui viendra faire la réparation, sauf si la personne a l'expertise nécessaire pour entretenir et réparer les panneaux photovoltaïques (ce qui n'est pas impossible).\n\nMais au final ce qu'importe est le niveau d'autonomie et d'indépendance qu'une installation énergétique peut fournir et si cela couvre les inconvénients de les avoir.",
+        "date": "2023-03-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Mais sinon je suis d'accord avec lui, l'autonomie eolien/solaire est un mirage : la durée de vie des équipements est de 7-10 ans au pire, 30-40 ans au mieux\n\nD'où sorts-tu ces chiffres ?\n\nPS: Attention, \"solaire\" est souvent utilisé pour désigner les panneaux solaires chauffe eau. Si c'est production d'électricité par moyen photoélectrique alors c'est du \"photovoltaïque\".",
+        "date": "2023-03-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ca serait \"solaire thermique\" pour ça, \"solaire\" seul est un fourre-tout vague mais tu as raison la précision est importante !\n\n7 ans de durée de vie estimée une batterie au plomb (vu que pour être autonome il faut obligatoirement une batterie pour lisser entre la production et consommation sinon ton réseau s'effondre en permanence) mais probablement 10-12 ans si on ne compte pas trop sur sa capacité réelle vers la fin (et forcément selon la bonne gestion des cycles et des conditions de stockage)\n\nEt 30-40 ans ça serait la durée de vie moyenne et optimiste d'un panneau photovoltaïque avant que la production ne s'effondre trop (les fabricants garantissent -15% à 25 ans en général) ou qu'une infiltration d'eau ou que la grêle (ou autre cause mécanique) ait raison de lui. J'ai un champ solaire qui a 15-20 ans vers chez moi, il commence un peu à ressembler à une mosaique avec les ptet \\~5% (à vue d'oeil) de panneaux déjà remplacés au fil des années. Mais je suppose que tu peux considérer que sur un champ solaire, statistiquement, il restera toujours une petite partie fonctionnelle même après 50 ans.\n\nEntre les deux, les onduleurs sont estimés à 10-20 ans de durée de vie et une batterie Lithium (en fer-phosphate) à 10-15 ans (qui doit tirer à 20 ans dans les mêmes conditions que le plomb). Les micro-onduleurs sont donnés pour une durée de vie bien plus longue (25 ans de garantie) mais la seule source c'est le fabricant qui dit \"crois moi frère, tkt j'aurais pas fait faillite d'ici là pour ta garantie\" \n\nEn solaire thermique la durée de vie des équipements sera probablement plus grande si on considère que la gestion des fuites d'eau est de l'entretien courant.\n\nMais en autonomie électrique cela semblerait miraculeux de dépasser 20 ans sans changer de pièce majeure (ou de revoir sa consommation à la baisse pour s'adapter à la perte de matériel). Mais comme le matériel évolue vite et donc que les retours d'expérience sont sur du matos obsolète il faudra attendre 10-15 ans pour savoir ce que le matériel moderne vaut réellement.\n\nEt source ça serait les nombreuses lectures/forums/échanges avec des utilisateurs ou professionnels du secteur.",
+        "date": "2023-03-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Pas forcément, et c'est pour ça que je pense que c'est bien s'il y a un débat sérieux entre les deux clans.\n\nPar exemple, il est probable qu'il y ait assez de lithium et autres matériaux rares pour que le solaire + batterie devienne notre principale source d'énergie, et les batteries au sodium arrivent.",
+        "date": "2023-03-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le pétrole aussi, dans l’absolu.\nMais au vu de ta réponse, je pense que tu perds le fil du débat.\n\nLes énergies carbonées (bois, charbon, pétrole…) sont mises du côté des sources.\nLa critique se porte sur le reste (solaire, éolien, nucléaire…) : les énergies dites de substitution.",
+        "date": "2023-03-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ouais enfin ouin ouin les ressources (ce qui est partiellement faux) pareil si les riches vont en Italie plutôt qu'en France.\n\nEt après ouin ouin mes 35 heures. Ouin ouin ma sécu et ma retraite, ouin ouin mon bio, mes panneaux solaires faits en Chine, mon commerce équitable...\n\nBon, je pense qu'on a déjà dépassé la durée utile de conversation, bon week-end.",
+        "date": "2023-03-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;L'uranium est issu de l'exploitation minière, qui n'est sûrement pas neutre en terme de carbone. Puis le conditionnement de la matière radioactive, son acheminement, son stockage, son \"retraitement\", la gestion des déchets... etc, tout cela consomme énormément d'énergie. De même pour la construction des infrastructures. Construire une centrale a un coût énergétique qui doit être loin d'être négligeable (tout comme la déconstruire également). Au final, même si le bilan carbone du nucléaire est avantageux par rapport à d'autres sources d'énergie, ça me paraît fallacieux de répéter que c'est de l'énergie zéro carbone.\n\nAucune énergie n'est strictement zero carbone, c'est juste que le nucléaire est le plus bas par kwh produit (même comparé à l'éolien et au solaire) et que le montant par rapport aux fossiles est négligeable. (6g par kwh pour le nucléaire, 1000 pour le charbon. On est sur une différence d'un facteur 1000)\n\n&amp;#x200B;\n\n[https://www.sfen.org/rgn/les-emissions-carbone-du-nucleaire-francais-37g-de-co2-le-kwh/](https://www.sfen.org/rgn/les-emissions-carbone-du-nucleaire-francais-37g-de-co2-le-kwh/)\n\n&amp;#x200B;\n\nEt faut bien se rendre compte d'un truc lorsqu'on parle d'extraction d'uranium par rapport à l'extraction des autres ressources, c'est la densité énergétique:\n\n[https://xkcd.com/1162/](https://xkcd.com/1162/)\n\n&amp;#x200B;\n\n&amp;#x200B;\n\n&gt;Pour le fond du sujet, je suis plutôt hostile au nucléaire, mais dans les décennies à venir, avec les pays du golfe qui vont faire de la merde jusqu'à la fin de leurs réserves et la Russie en roue libre, il paraît raisonnable de relancer les programmes. Tout en ne perdant pas de vue qu'il faut déjà préparer l'après nucléaire, car de l'uranium il n'y en a pas pour des millénaires (j'ai lu quelque part qu'on estimait que les réserves mondiales d'uranium devrait couvrir nos besoins pour 150 à 200 ans uniquement).\n\nCa c'est un peu la même histoire que le pétrole, ça fait 50 ans qu'il en reste que pour 50 ans (bon on commence enfin peut être à en voir la limite dans le cas du pétrole). Sauf que bon avec les avancés technos, les nouvelles prospections, et quand les prix montent un peu les nouveaux gisements un peu moins concentré ou plus dur d'accès qui deviennent rentable, bah les reserves elles sont pas fixes. Surtout que le prix de l'uranium est assez bas.\n\nIl faut rajouter que l'uranium n'est qu'une solution transitoire, les réacteurs nouvelles générations qui sont actuellement au stade de prototypes (mais qui seront surement fonctionnel bien avant la fin du siècle et la disparition de l'uranium si on arrête pas leurs développement comme on l'a fait avec un certain superphenix sous la pression des verts) peuvent fonctionner avec du Thorium et ou une partie de nos \"déchets nucléaires\" et là on en a pour des milliers/millions d'années vraisemblablement.\n\n&amp;#x200B;\n\n&gt;Et autre problème majeur (mais vraiment) : après 30 ans de libéralisme acharné, et de privatisation dans le secteur, la France est tout simplement incapable de construire une centrale sûre et fonctionnelle (l'EPR de Flamanville c'est une dépassement budgétaire de 500% et 12 ans - oui, 12 ! - de retard).\n\nLe principal problème c'est surtout je pense la perte de compétence et de savoir faire parce qu'on a arrêté de construire des centrales pendant pas mal de temps.",
+        "date": "2023-03-13",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Il me semble que la fabrication et l'entretient sont pris en compte. Comme une centrale nucléaire produit beaucoup beaucoup beaucoup plus d'élecricité que les éoliènes, la polution émise lors de sa construction est \"compensé\" par la quantité d'éléctricité produite, alors que pour les éoliènes, le rendement est légèrement moins bon (mais reste beaucoup mieux que tout le reste) et il faut donc construire pas mal d'éoliènes pour égaler une centrale. C'est la même chose pour l'energie solaire, absente du tableau, qui polue un peu plus plus que le nucléaire.",
+        "date": "2023-03-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je ne suis pas sûr...\n\nL'avantage de l'hydrogène dans un bateau (de cargaison par exemple) c'est que tu pourrais installer des panneaux solaires et éoliennes sur le bateau, utiliser une partie de cette énergie directement dans une propulsion à moteur électrique et le restant la stocker dans des réservoirs. Puis quand il n'a pas assez de soleil ou de vent, utiliser une pile à combustible pour convertir l'hydrogène en électricité.\n\nLe même pourrait être fait avec batteries lithium au lieu de l'hydrogène bien sûr, mais cela utiliserait beaucoup trop de lithium et aurait un impact sévère sur le poids du bateau et volume de la batterie comparé au stockage de hydrogène.",
+        "date": "2023-03-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Pour ma part je ne me suis jamais penché sur le traffic navale, et à y penser 10 min j'ai plein de questions.\n\nJe pense que c'est surtout là et le transport routier que l'hydrogène sera crucial.\n\nEn premier parce que les ports ou les points de redistribution (routière) peuvent être équipés de points de remplissage de hydrogène. Aujourd'hui ils sont déjà équipés de pompes à carburant spécifique pour le navale. C'est un réseau franchement plus petit qu'un réseau comme les stations d'essence pour les voitures.... 😐\n\nEn plus imaginons combien de temps un bateau aurait besoin pour recharger une batterie lithium capable d'une voyage transatlantique..... Ce n'est pas rentable d'avoir un bateau qui passe la moitié de sa vie en train de recharger les piles. L'hydrogène, bah, est livré comme un carburant, il se remplit comme un carburant.\n\nPuis il a la question que l'hydrogène comme tu dis c'est aussi un vecteur énergétique, donc un bateau cargo à pile d' hydrogène peut très bien être équipé de panneaux solaires et éoliennes tourelle et convertir l'excès d'énergie en hydrogène et le stocker à bord.\n\nIl reste le secteur de l'aviation, mais ... Peut-être il sera comme Jaconvici avait dit - *L'aviation est née avec les combustibles fossiles et meura avec les combustibles fossiles.*",
+        "date": "2023-03-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Il me semble que c’est le gaz qui régule au plus près le solaire et l’éolien. \n\nPour ce qui est du stockage de l’électricité, pourquoi nous n’utilisons pas les batteries des véhicules électriques stationnés comme tampons pour absorber les fluctuations?",
+        "date": "2023-03-21",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Je sais pas si c'est comme ça que ça marche, ils ne font pas  d'analyse de cycle de vie  et font des catégories binaires du type \"renouvelable/ pas renouvelable\" alors que oui en effet  après ACV il y a une émission de CO2 pour chaque production d'électricité  même l'éolien et le solaire.  \n\n\nCette obsession  pour faire des catégories binaires \"bon/mauvais\"  sur des sujets complexes  comme la comptabilité carbone s'est déjà vue  dans l'autre décision européenne débile d'interdire  les moteurs à combustion interne pour 2035. En ignorant totalement qu'il  de gros efforts de R&amp;D en Europe même pour améliorer les biocarburant et surtout les carburants de synthèse neutres CO2. Les types ont pris la décision et 1 an plus tard  (avec l'inertie administrative) les industriels qui ont investi et produit des résultats tentent de faire révoquer la décision. Vraiment ça donne l'impression que les parlementaire Européen sont des guignols qui ne lisent pas les \"executive reports\" que leur écrivent les experts et votent à l'émotion et à la consigne électorale. Sérieusement, tant que c'est pas concentré en pollution dans des centre urbains, ont devrait admettre que ça soit pratique  d'avoir des poids lourds et engins fonctionnant avec des carburants de synthèse,   car vu le prix actuel des piles à combustibles le débat est encore ouvert pour savoir qui sera le plus efficace entre moteur à combustion interne  avec carburant de synthèse neutre en CO2 et des piles à combustible tournant au dihydrogène renouvelable.",
+        "date": "2023-03-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le nucléaire fission semble pourtant être l’énergie la plus propre que l’on puisse produire en masse à notre période actuelle; l’éolien et le solaire ayant un rendement trop limité pour une utilisation massive (et le solaire rejette plus de CO2 que le nucléaire si je ne me trompe pas (je me trompe peut être), et a besoin d’énormément de terres rares pour sa construction)\n\nLes déchets nucléaires peuvent être retraités puis enterrés et confinés (les murs massifs de béton arrêtant les rayonnements) sans causer de sérieux dégâts à la nature\n\nAvant de savoir manipuler la fusion nucléaire, la plus propre et puissante des énergies, il est judicieux de se contenter de la fission et de prier que les résultats des scientifiques soient concluants (et que les états investissent dans cette recherche)",
+        "date": "2023-03-24",
+        "sentiment": "positive"
+    },
+    {
+        "text": "le nucleaire est l'énergie la plus gourmande en eau, et c'est bien connu, l'eau y en a plus...  \noui une tartine de dechets le matin au p'tit déj pour partir du bon pied...avec petite douche de rayonnements ionisants de radionucleides pour garder la forme...  \n\n\nle solaire c'est du silicium et de l'aluminium, matieres abondantes.  \nfaut arreter la vision franco-française manipulée par la propagande atomique à OUTRANCE  \n\n\ntu veux continuer le nucleaire? commence par militer pour la paix en ukraine.",
+        "date": "2023-03-24",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Il y a une théorie qu'un mécanisme de contrôle de la température terrestre est l'absorbtion du dioxide de carbone par les roches. En effet, il y a eu à la fois des températures plus élevées qu'aujourd'hui sur Terre (liées à l'activité solaire), et des taux de CO2 plus élevé (à cause de grosses éruptions volcaniques), et la Terre est toujours 'retombée sur ses pattes' en terme de climat.\n\nLa théorie, c'est que quand il fait plus chaud, les glaces fondent, ce qui fait plus de surface de roche au contact de l'atmosphere, ce qui réduit le taux de CO2.\n\nInversement, quand on est en aire glaciaire, la surface de roche au contact de l'atmosphere est réduite, et il y a moins de CO2 absorbé.\n\nDonc peut-être que le pompage du CO2 en profondeur peut accélérer ce genre de mécanismes naturels.",
+        "date": "2023-03-24",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Pour commencer, je ne comprends pas le dernier argument. Quel rapport avec la guerre ? Et surtout, malheureusement on ne peut pas arreter la guerre contre un dirigeant autoritaire, fou et sanguinaire juste en voulant la paix; les ukrainiens sur le champ de bataille l’ont bien compris.\n\nEnsuite, je vais me permettre de répondre à tes arguments un par un :\n\n- Le problème de l’eau peut-être recevable, bien qu’il soit grandement exagéré dans votre message\n\n- Les centrales nucléaires n’ont pas été construites pour réduire la population françaises; elles ont été construites avec des normes de sécurité en tête, de manière à justement ne pas ioniser n’importe qui ! Il ne faut pas se dire centrale nucléaire = rien à foutre des règles de sécurité. Justement, la sécurité est souvent respectée un maximum pour que tout aille tranquillement et ne prendre aucun risque.\n\n- Je suis aller vérifier et en effet, seul une partie des panneaux solaires demandent autre chose que du Silicium / Aliminium / Acier. Mais, cela change t il au fait qu’ils produisent plus de CO2 durant leur fonctionnement + installation que nos centrales nucléaires ?\n\nJe serai curieuse d’avoir votre avis sur comment peut on alimenter un pays tout entier comme la France sans énergies fossiles + énergie nucléaire…",
+        "date": "2023-03-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "-Le refroidissement des centrales nucléaires n’est pas particulièrement plus gourmand que celui de toute autre centrale thermique. Il faut évaporer (1-rendement)*énergie produite pour tous ces cycles thermodynamiques.\n\n-La plupart des centrales du futur sont installées proches de la mer pour éviter tout problème de manque d’approvisionnement en eau.\n\n-Le solaire et le photovoltaïque ça n’est pas que du silicium et de l’aluminium, loin de là. On commence à voir un goulot d’étranglement sur le cuivre, qui est nécessaire pour raccorder les panneaux solaires comme photovoltaïques au réseau. \n\n-La radioprotection est un sujet pris très au sérieux et très bien contrôlé, tout comme les déchets. L’hystérie collective à ce sujet est tout à fait déplacée.",
+        "date": "2023-03-24",
+        "sentiment": "neutral"
+    }
+]

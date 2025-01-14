@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Bah même en 30 tu pourras pas. C'est pas le temps le problème, c'est que c'est pas possible de capter l'énergie du soleil sans passer par des trucs qu'on doit sortir de mines, transformer et deplacer en grosse quantité. \n\nPareil avec l'hydraulique, pareil avec l'éolien. Le nucléaire aussi. A priori on peut pas se passer de l'énergie fossile. Faut juste l'utiliser que pour ce qui est nécessaire et c'est tout. \n\nEt ce qui est pas nécéssaire ça represente 99% des trucs qui touchent les gens. Le 1% restant il est invisible et tout le monde prend pour acquis.",
+        "date": "2024-11-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Titre trompeur, ce moteur ne fonctionne pas \"à l'eau\" mais grâce à l'énergie hydraulique, donc l'énergie cinétique provoquée par le déplacement de l'eau.\n\nAlors oui, c'est une invention remarquable, mais qui n'aura pas d'autre utilité que d'amener de l'eau à un point plus élevé et éloigné. C'est bien pour irriguer des petites exploitations, cela dit.",
+        "date": "2024-11-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Titre trompeur, ce moteur ne fonctionne pas \"à l'eau\" mais grâce à l'énergie hydraulique, donc l'énergie cinétique provoquée par le déplacement de l'eau.\n\nEt curieusement L'OP ne mentionne pas le plus grand défaut de ce système.. La décharge d'eau (qui est en revanche indiqué dans l'image) qui implique forcément une déperdition d'eau..\n\nLe réservoir se videra fur et à mesure que la pompe fonctionne, et le débit de déperdition est directement proportionnel à la puissance de ce moteur. Le plus puissant est le moteur le plus de volume d'eau aura besoin de bouger (augmentant sa énergétique cinétique).",
+        "date": "2024-11-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ah, le bélier hydraulique, comme remplir une cuve d'1M3 en 3 semaines à partir d'une rivière :')",
+        "date": "2024-11-22",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Vos objections ne sont pas pertinentes.\n\nD'une part, que signifie « hydraulique », sinon « à eau » ?\n\nL'eau a souvent été utilisée dans notre Histoire pour produire du travail mécanique et du mouvement. Je pense notamment aux moulins à eau et aux moteurs des horloges à eau, qu'on appelle également moulins hydrauliques et horloges hydrauliques, mais **pour lesquels personne n'a jamais contesté le terme « à eau »**.\n\nCe n'est pas parce qu'on ne brûle pas d'eau dans le moteur présenté ici que le terme « moteur à eau » serait inapproprié. \n\nDu reste, s'il fallait chipoter comme vous le faites, alors il faudrait tout autant objecter qu'un moteur à essence ne fonctionne pas « à l'essence », mais grâce à l'énergie thermique, dont l'augmentation de pression provoque le déplacement de pistons et d'un vilebrequin. Le fait est qu'un moteur « à essence » est bien un moteur thermique, tout comme un moteur « à eau » est un moteur hydraulique.\n\nD'autre part, le dispositif décrit permet bien de produire du travail mécanique (il s'agit donc bien d'un moteur), lequel est finalement récupéré sous la forme d'un supplément d'énergie potentielle dans le réservoir supérieur. Mais si ce type de moteur n'a jusque maintenant été utilisé que pour irriguer des exploitations, d'autres usages de l'énergie mécanique produire sont envisageables. \n\nPar exemple on pourrait simplement utiliser l'ensemble du dispositif décrit pour remplit le réservoir d'un réseau d'alimentation en eau potable, en lieu et place des pompes électriques actuelles. On pourrait également utiliser directement le coup de bélier pour mouvoir des machines-outil (forgeage, emboutissage, ...) ou pour produire de la chaleur en des lieux précis.\n\nLes principaux avantages de ce moteur sont sa simplicité, sa faible technicité, et sa consommation d'énergie totalement renouvelable et décarbonée.",
+        "date": "2024-11-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Les voitures électriques sont équipés de freinage à régénération. C'est-à-dire que le moteur électrique peut s'occuper du freinage pour générer de l'électricité, tout ça sans utiliser le système de freinage hydraulique (celui qui crée les particules fines).\n\n\nAlors oui une voiture électrique est plus lourde qu'une voiture thermique équivalente. Mais si on prend en compte le freinage à régénération, elles émettent moins de particules fines.\n\n\n Source: https://www.sciencedirect.com/science/article/pii/S0269749123014021",
+        "date": "2024-11-30",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Tu as déjà conduit une électrique ?\n\nTu peux accélérer très fort et après laisser couler en regen. T’es pas obliger d’accélérer jusqu’à la dernière seconde puis piler. Donc tu peux le faire sans le frein hydraulique. \n\nAh oui c’est pas efficient, mais ça n’empêche pas de le faire !",
+        "date": "2024-11-30",
+        "sentiment": "negative"
+    }
+]

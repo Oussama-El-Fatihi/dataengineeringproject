@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Pourquoi n'utilise-t-on pas des miroirs solaires pour produire de l'énergie électrique ? Ou simplement améliorer nos panneaux solaires / photovoltaïque ? | Bonjour,\n\nTout est dans le titre. \n\nSi vous voyez pas trop de quoi cela parle voici une courte vidéo : [https://www.youtube.com/watch?v=AzHAoGCSXMY](https://www.youtube.com/watch?v=AzHAoGCSXMY)\n\nAlors je ne vois ce qui cloche. Est ce qu'un ingénieur, un passionné ou un spécialiste peut m'aider à comprendre pourquoi ce n'est pas utilisé pour de la production électrique ?\n\nJ'imagine qu'avec une simple machine à vapeur on peut avoir des résultats intéressants pour une production électrique. \n\nOu sinon en la combinant avec du voltaïque en envoyant la focale sur les panneaux. A y regarder de loin on a l'impression que c'est peu onéreux et plutôt neutre en carbone.\n\nBref pourquoi ce n'est pas utilisé ?",
+        "date": "2024-08-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Infos Energie : hausse du prix de l'eau, investissements dans le solaire, projets d'hydrogène à grande échelle, etc. | [No body]",
+        "date": "2024-08-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Électricité de base | Sérieusement. Les personnes utilisant le terme production électrique de base ne savent même pas ce que cela signifie. La charge de base n’est que cela, la charge minimale qu’un opérateur de réseau devra servir à ses clients à tout moment au cours d’une année. Mais avec l’énergie solaire distribuée, les clients du réseau génèrent souvent, les jours ensoleillés, plus d’énergie que tous les utilisateurs du réseau n’en ont besoin. Il arrive parfois que l'exploitant n'ait pas besoin de faire fonctionner un seul réacteur ou une seule turbine à gaz. Dans les réseaux modernes, la valeur de charge de base est nulle. Il arrive littéralement que le service public n’ait pas besoin de produire un seul watt de puissance.\n\nEt oui, vous entendrez encore des gens citer la « charge de base » comme raison de la construction de nouveaux réacteurs nucléaires, comme si le concept même n'avait pas été rendu obsolète.",
+        "date": "2024-08-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ce chauffe-eau solaire ultra compact peut être installé par n'importe quel bricoleur | [No body]",
+        "date": "2024-08-20",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bientôt la \"plus grande\" centrale solaire du monde en Australie avec 6GW ?  | [No body]",
+        "date": "2024-08-22",
+        "sentiment": "positive"
+    },
+    {
+        "text": "L’Inde ajoute 14,9 GW d’énergie solaire au premier semestre  | Avec un facteur de capacité moyen pour l'énergie solaire photovoltaïque en Inde de ~0,176, cela représente 2,6 GW d'énergie.\n\nEn d’autres termes, imaginez construire un réacteur nucléaire avancé tous les trois mois mais pour la moitié du coût.",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    }
+]

@@ -1,0 +1,287 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "MrWorldwideExcellent",
+            "author_created_utc": 1572637843,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_4xb13bpg",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1665305772,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "heise.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "xzgtwl",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#f7d358",
+            "link_flair_css_class": "category society",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Gesellschaft"
+                }
+            ],
+            "link_flair_template_id": "1e099388-25bd-11e7-8be1-0e1591e2c470",
+            "link_flair_text": "Gesellschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_xzgtwl",
+            "no_follow": false,
+            "num_comments": 177,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/xzgtwl/kommentar_zum_fachkräftemangel_weniger_blabla/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "pR5qnZOb2axV-J_dndMyxFNQccyHhLiB1QkQX9Vq9k8",
+                        "resolutions": [
+                            {
+                                "height": 61,
+                                "url": "https://external-preview.redd.it/9IUbeVrJ4hEyImcC-0xFVeWHFizxtPbTacE0QtcNrUs.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=85f99080278cdb19e4578e3361e7d6611adc649a",
+                                "width": 108
+                            },
+                            {
+                                "height": 122,
+                                "url": "https://external-preview.redd.it/9IUbeVrJ4hEyImcC-0xFVeWHFizxtPbTacE0QtcNrUs.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=187840223122fc4167057c4d64ec3316c6b6ed14",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/9IUbeVrJ4hEyImcC-0xFVeWHFizxtPbTacE0QtcNrUs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=327dd445539fcaad03816d78e33caa3514896b58",
+                                "width": 320
+                            },
+                            {
+                                "height": 361,
+                                "url": "https://external-preview.redd.it/9IUbeVrJ4hEyImcC-0xFVeWHFizxtPbTacE0QtcNrUs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9a9f2f842450aecdaf7e0a3685fdccd9220ba78",
+                                "width": 640
+                            },
+                            {
+                                "height": 542,
+                                "url": "https://external-preview.redd.it/9IUbeVrJ4hEyImcC-0xFVeWHFizxtPbTacE0QtcNrUs.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=71c94335379fee47e76099a77e23e769c4051906",
+                                "width": 960
+                            },
+                            {
+                                "height": 610,
+                                "url": "https://external-preview.redd.it/9IUbeVrJ4hEyImcC-0xFVeWHFizxtPbTacE0QtcNrUs.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=62c42fd395836ecc856c8918d007e8b9ada27aea",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 678,
+                            "url": "https://external-preview.redd.it/9IUbeVrJ4hEyImcC-0xFVeWHFizxtPbTacE0QtcNrUs.jpg?auto=webp&amp;s=ac552a0a6e49114c485bd2defbb5c1731e2d0ef7",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1668040284,
+            "score": 766,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 725287,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/i3i_ij3-hCQCe9vqGPyZbv8Ui1lnWAbWtR5x6-xa4qs.jpg",
+            "thumbnail_height": 79,
+            "thumbnail_width": 140,
+            "title": "Kommentar zum Fachkräftemangel: Weniger Blabla, mehr Kohle!",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.98,
+            "url": "https://www.heise.de/meinung/Kommentar-zum-Fachkraeftemangel-weniger-Blabla-mehr-Kohle-7287460.html",
+            "url_overridden_by_dest": "https://www.heise.de/meinung/Kommentar-zum-Fachkraeftemangel-weniger-Blabla-mehr-Kohle-7287460.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": true,
+            "archived": false,
+            "author": "Vor7ex-",
+            "author_created_utc": 1551010949,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_2ib5mxae",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1666028721,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "y6hiqv",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#8002a3",
+            "link_flair_css_class": "category energy",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Energie"
+                }
+            ],
+            "link_flair_template_id": "be46c868-3906-11ed-8fc4-520ae2713eb8",
+            "link_flair_text": "Energie",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_y6hiqv",
+            "no_follow": false,
+            "num_comments": 27,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/y6hiqv/eli5_wie_soll_atomstrom_den_strompreis_senken/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "snX910Zb3Rj6aOsiAwYPSCpt6uXjDnE4Y79rNdUlcMk",
+                        "resolutions": [
+                            {
+                                "height": 68,
+                                "url": "https://external-preview.redd.it/Zar_-XXZ2M3DyJqX7oE37gh3rH8XGVfW2o4Qn66yRzI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=046fd3b16b9983199b95be52f140ee72c1b13d23",
+                                "width": 108
+                            },
+                            {
+                                "height": 136,
+                                "url": "https://external-preview.redd.it/Zar_-XXZ2M3DyJqX7oE37gh3rH8XGVfW2o4Qn66yRzI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=64a6de96d7f42d36f044a6719bbf2857d76da519",
+                                "width": 216
+                            },
+                            {
+                                "height": 201,
+                                "url": "https://external-preview.redd.it/Zar_-XXZ2M3DyJqX7oE37gh3rH8XGVfW2o4Qn66yRzI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bc4fea9d587620d5657a5854e9cd29a3fcbc7750",
+                                "width": 320
+                            },
+                            {
+                                "height": 403,
+                                "url": "https://external-preview.redd.it/Zar_-XXZ2M3DyJqX7oE37gh3rH8XGVfW2o4Qn66yRzI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=233b84a5ad24f577ec4268b24a2b326356e2656e",
+                                "width": 640
+                            }
+                        ],
+                        "source": {
+                            "height": 525,
+                            "url": "https://external-preview.redd.it/Zar_-XXZ2M3DyJqX7oE37gh3rH8XGVfW2o4Qn66yRzI.jpg?auto=webp&amp;s=a20112a86f98b2c89d883fac942436b71734fa07",
+                            "width": 832
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1668031349,
+            "score": 1,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Bisschen tiefergreifender als ein ELI5. \n\nKlar, Atomstrom ist deutlich günstiger als Kohle oder Gasstrom aktuell. Da gibts nix mehr zu erklären.\n\nJetzt zum eigentlichen Thema: \n\nAm Strommarkt gilt das [Merit-Order](https://de.wikipedia.org/wiki/Merit-Order) System. Das heißt, der Strompreis am Großmarkt wird durch den teuersten Erzeuger bestimmt. Der ist aktuell das teure Gas. Damit könnten in der Theorie 99% EEG herstellt werden, für sehr günstige Preise, wenn aber das letzte 1% aus Gas gewonnen wird, gilt der teure Preis. \n\nDiesen Preis zahlen dann die Netzbetreiber an die Hersteller und müssen wiederum den teuren Preis an die Kunden weitergeben.\n\nHinzu kommt, dass Hersteller von günstigen Atom- und Ökostrom aktuell mega Gewinne einfahren, da sie extrem hohe Margen durch den hohen Gaspreis haben.\n\n&amp;#x200B;\n\nKurzum, die Forderung AKWs zu verlängern um den Strompreis zu senken, ist doch wirtschaftlich einfach nicht möglich oder nicht?",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 725197,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "ELI5: Wie soll Atomstrom den Strompreis senken?",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.52,
+            "url": "https://www.reddit.com/r/de/comments/y6hiqv/eli5_wie_soll_atomstrom_den_strompreis_senken/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 185,
+        "op_b": 173,
+        "total": 364
+    },
+    "error": null
+}

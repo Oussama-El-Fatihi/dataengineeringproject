@@ -1,0 +1,132 @@
+[
+    {
+        "text": "Je sais que les panneaux solaires portatifs existent, on en a au travail qui font fonctionner des ventilateurs de récup' pour cet été. \nN'oublies pas que l'énergie solaire dépend de la météo. Sinon, tu pourrais utiliser une sorte de grosse batterie. \n\nPour l'eau, si tu récupères l'eau de pluie, elle n'est pas forcément potable mais tu pourrais l'utiliser pour les toilettes par exemple. Sauf si tu as des toilettes sèches? Sinon certains installent une sorte de lave mains au dessus du réservoir des toilettes pour réutiliser l'eau.",
+        "date": "2023-07-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Bon, je vais mentionner au passage qu'il y a des tas de problèmes légaux à prendre en compte, mais je n'y connais pas grand-chose ; en gros, fais tout ça en douce. Interdiction de se faire attraper, quoi.\n\nPour l'éléctricité, il te faudrait une grande surface de panneaux solaires pour alimenter toute la maison, et puisque tu dois te contenter de systèmes portables, tu pourras recharger ton téléphone, peut-être un ordinateur portable, quelques lampes à LED.\n\nEn plus, pour convertir l'éléctricité des panneaux solaires en éléctricité pour la maison, il faut un appareil appelé \"onduleur\" qui perd beaucoup d'énergie dans la conversion, à moins d'en acheter un très bon... Très cher. Et y'a moyen de se faire arnaquer.\n\nMais tu peux économiser ce que tu consommes ; un gros gourmand, c'est le frigo. Dès qu'on ouvre la porte, l'air froid s'en va parce qu'il est plus lourd et il est remplacé par de l'air plus chaud : ne le laisse pas ouvert et aussi veille à ce qu'il ne soit pas trop près du mur. Éteins les lumières quand tu sors de la pièce, ne laisse pas les appareils en veille (il y a des prises avec des interrupteurs), raccourcis les douches... Enfin il y a tout un tas de trucs à savoir, fais des recherches.\n\nPour l'eau, tu peux récupérer l'eau de pluie, mais il faut faire attention car il peut y avoir de la poussière qui tombe dedans et des moustiques qui peuvent s'y installer ; de plus on ne peut pas la boire directement parce qu'elle ne contient pas de sels minéraux. Mais tu peux t'en servir pour arroser les plantes ou tirer la chasse d'eau : tu remplis un seau et tu verses dans la cuvette ; un chasse d'eau, c'est une dizaine de litres d'eau potable qui va à l'égoût à chaque fois !\n\nLà aussi tu peux économiser, en ne laissant pas couler le robinet, en écourtant les douches, en faisant la chasse aux fuites (le proprio a l'obligation de réparer) en installant des \"mousseurs\". Tu peux remplir une bassine d'eau, y mettre un peu de liquide vaisselle, tout laver puis rincer dans une bassine d'eau pure.\n\nLà aussi, fais des recherches.\n\nBonnes économies !",
+        "date": "2023-07-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Et si j achète de bons panneaux solaires portatifs ne pourrais je pas recharger tout ça sans problème ? Si j bien compris je dois acheter une batterie de toute façon pour stocker l'électricité du panneau. L'onduleur je ne connaissais pas Et j du mal à comprendre son fonctionnement.\n\nSinon j compte me débarrasser de mon frigo et de mon congèle. Je n'ai besoin d'electricité que pour les lumières, la télévision, la box, le téléphone et la machine à laver.\n\nPour l'eau : je ne cuisine pas donc pas de vaisselle. je ne tire la chasse d'eau qu'une à deux fois par jour.  en revanche je ne peux pas me lasser de longues douches chaudes. et je n'ai pas de plantes. Alors le récupérateur n'auras d'utilité que s'il est filtré. et raccordé a la maison",
+        "date": "2023-07-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Hum, dans les réponses il y a un point important qui n'est pas abordé : l'autonomie personnelle décrite ici n'est pas vraiment écologique (pas d'inquiétude, la mutualisation l'est).\n\nIl vaut mieux avoir un seul gros moyen de production pour x habitations que x moyens de productions pour chaque habitation. En terme de bilan co2 d'un cycle de vie complet, c'est physiquement impossible de faire mieux avec de multiples moyens de productions, qu'avec une seule grosse. C'est principalement dû au principe d’[efficacité énergétique et au rendement](https://fr.wikipedia.org/wiki/Efficacit%C3%A9_%C3%A9nerg%C3%A9tique_(thermodynamique)) issue de la [deuxième loi de la thermodynamique](https://fr.wikipedia.org/wiki/Deuxi%C3%A8me_principe_de_la_thermodynamique). \n\nDit autrement, vous serez plus écologique dans votre consommation électrique de vous brancher directement au réseau nationale nucléaire que de tenter vous même une productions à coups de panneaux solaires ou de petites éoliennes personnelles.\n\nCe principe est identique pour votre filtration d'eau (grosse usine de traitement des eaux vs filtre chez soi).\n\nLa vraie possibilité de faire baisser votre emprunte, c'est la sobriété.",
+        "date": "2023-07-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\\&gt;  j'ai appris que chaque mois je payais 30 euros d'abonnement pour l'électricité et le gaz !! Peut-être même l'eau.\n\nBah oui il faut bien entretenir les tuyaux et le réseau électrique, l'usure de tout ça ne dépend pas de la consommation.\n\nEn ce qui concerne les panneaux solaires, attention : pour les gros panneaux de 400W à mettre sur le toit, l'énergie qu'il a fallu pour construire le panneau est \"remboursée\" par ce qu'il produit en quelques années... à condition d'utiliser toute l'énergie que le panneau produit.\n\nC'est tout le problème : si tu n'utilises que la moitié de la production, il faudra deux fois plus longtemps pour que le panneau \"rende\" l'énergie qui a servi à le fabriquer, et ainsi de suite.\n\nC'est une façon de produire de l'énergie qui n'est pas adaptée à l'usage que nous en faisons, qui consiste à consommer quand on en a besoin, et pas quand la production est maximum.\n\nOn peut avoir une image un peu idyllique d'une cabane autonome dans la montagne qui produit son électricité, mais ce n'est qu'une image : les sites autonomes sont les pires au niveau utilisation des panneaux. Parce qu'il faut en mettre assez pour avoir du jus l'hiver, donc en été ils sont sous-utilisés, et quand tu rajoutes les 200 kilos de batteries au lithium...\n\nEn gros, pour l'électricité, le mieux, c'est encore le nucléaire.\n\nLe solaire c'est relativement compliqué à la fois au niveau technique et réglementation, cher, il faut avoir les compétences requises, et on manipule des tensions mortelles. Bon je te dis ça et j'en ai mis plein sur mon toit, mais dans mon cas c'est pour la clim, la voiture électrique, et c'est aussi un hedge contre la hausse des tarifs du kWh. Donc si t'as des questions là dessus, tu peux envoyer.\n\nBon bref, tu as envie de faire quelque chose, c'est bien, mais j'ai l'impression que tu pars dans tous les sens et que tu n'as pas trop la notion des ordres de grandeur.\n\nInjecter de l'eau de pluie dans le réseau d'eau potable est dangereux pour la santé et interdit. Mais si tu habites dans une maison, un bon truc c'est le récupérateur d'eau de pluie pour arroser le jardin. C'est une cuve et un tuyau, c'est simple et low tech, facile à installer soi-même.\n\nRégler ta chasse d'eau ne coûte rien.\n\nEn gros, il faut que tu tries tes idées en fonction du rapport coût et effort versus bénéfice, c'est-à-dire un calcul de rentabilité.\n\nEn général, ce qui arrive en haut du classement, c'est l'isolation : je viens de passer deux de mes locations du DPE E à C, c'est un peu d'huile de coude mais rien d'insurmontable.",
+        "date": "2023-07-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Alors il faut entrer un peu dans les détails techniques : on reçoit une certaine quantité d'énergie du soleil, qui se mesure en fonction de la surface ; par chance, ça tombe juste, c'est un kilo-watt (mille watts) par mètre carré. Seulement, les panneaux solaires ne sont capables de convertir qu'une partie de cette énergie en éléctricité utilisable : en sortie, ton panneau solaire d'un mètre carré ne donnera plus que 200 ou 300 watts. Et bien sûr, pas tout le temps, moins quand il y des nuages, par exemple.\n\nJ'ai mentionné les watts, c'est la mesure de la puissance, un peu comme la force  : il faut plus de force pour soulever une grosse pierre qu'un petit caillou. Les appareils en ont besoin d'une quantité variable, tout comme les avions ont besoin de plus de carburant que les scooters. C'est écrit sur les appareils, souvent en dessous sous la forme \"12 V 15 W\", par exemple, avec un symbole, soit une petite vague, soit deux lignes parallèles, dont une continue et l'autre en pointillé. Regarde les trucs écrits sur un chargeur de téléphone, par exemple.\n\nEnsuite, il y a deux sortes d'éléctricité ; une qui \"va toujours dans le même sens\", c'est le courant continu, souvent noté \"DC\", et une qui \"change de sens\", c'est le courant alternatif, noté AC. On a choisi de transporter le courant en AC parce que c'était pratique, et bien des appareils s'en contentent, mais pas tous. Ta box, ton téléphone, par exemple fonctionnent en courant continu ; la box est le plus souvent branchée à la prise murale par un petit boitier. On appelle ça une alimentation, son rôle est de changer le courant alternatif du réseau en courant continu.\n\nIl y a encore autre chose, la *tension.* Ça se mesure en volts ; la tension du courant qui sort de la prise est de 230 volts, mais certains appareils, comme ta box, n'en ont besoin que de 12, ou autre, c'est ce qui est écrit sur l'alim : \"12 V 15 W\" signifie que l'appareil à besoin de recevoir une tension de 12 volts, avec une puissance d'au moins 15 watts ; si tu branchais dessus un alimentation de 10 watts, elle pourrait se mettre à chauffer, mais une de 30 watts, pas de problème. Par contre, il faut la même tension, le \"même nombre de volts\" ; avec moins, ça ne marchera pas, avec plus, tu risque de griller l'appareil.\n\nEt l'onduleur, dans tout ça ? Le panneau solaire, comme les piles et les batteries, fournit du courant continu... Et les alimentations(comme celle de la box) transforment l'alternatif en continu, tandis que les frigos, les aspirateurs, les machines à laver demandent de l'alternatif.\n\nAlors on se retrouve à transformer du continu en alternatif pour, dans certains cas, le retransformer en continu. Et oui, c'est absurde, surtout qu'il y de la perte d'énergie à chaque opération, un peu comme il y a moins de poids de patates quand on les a épluchées. Surtout qu'un onduleur, surtout bon marché, perd énormément.\n\nIl y a heureusement des chargeurs pour panneau solaire qui chargent tes batteries grâce aux panneaux ou au courant de la maison et ont des sorties USB qui permettent de charger un tel. Aussi, les box peuvent parfois être alimentées via la batterie, quand les deux sont en 12 volts ; mais c'est expérimental, si tu essaies et que tu grilles ta box, ton opérateur te la fera payer, beaucoup trop cher en général.\n\nIl y a des tas de trucs à vérifier. Un conseil : achète un [multimètre](https://duckduckgo.com/?t=ftsa&amp;q=multim%C3%A8tre&amp;iax=images&amp;ia=images) à 10 € et apprends à t'en servir, il y a des tutos sur Youtube. Fais bien attention, l'éléctricité c'est dangereux si on fait n'importe quoi, surtout le courant de la maison. Suis bien les conseils des tutos !",
+        "date": "2023-07-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Contrairement à ce que beaucoup de personnes pensent, vivre en \"autonomie\" n'est pas vraiment écologique ni économique.\n\nLa mise en réseau du système électrique permet de faire des économies d'échelles massives et d'équilibrer en permanence la production avec la consommation. \n\nDes panneaux solaires déconnectés du réseau avec des batteries auront sur la durée de vie totale un impact écologique / carbone significativement plus important que l'électricité d'EDF (qui est déjà très décarbonnée). Il te faudra aussi des décennies pour rentabiliser cet investissement. Beaucoup moins si tu te passes de batteries, te connecte au réseau et revend le surplus à EDF.\n\nUn autre exemple : si chaque famille faisait chacun son pain de manière artisanale le matin. Il faudrait environ 10 (!) Centrales nucléaires supplémentaires pour alimenter cette surconsommation.\n\nLa mutualisation / industrialisation permet de faire des économies significatives en ressources.\n\nLa seule chose qu'on peut / doit faire au niveau individuel c'est réduire notre consommation (élec, eau).",
+        "date": "2023-07-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ça sent le parti pris quand même et de la redite par rapport à https://jancovici.com/transition-energetique/renouvelables/100-renouvelable-pour-pas-plus-cher-fastoche/\n\nNe pourrais pas accorder des mérites aux deux et de prendre en compte le solaire.",
+        "date": "2023-07-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le solaire c’est que de 11h à 16h et pourtant en Juillet/Aout. (J’ai 6 panneaux). Le site de RTE le confirme :)",
+        "date": "2023-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ce que tu veux c'est ce type d'installation : https://www.backmarket.fr/fr-fr/p/panneau-et-chargeur-solaire-ksix-500/9a733364-f67c-4f9a-b394-086bed6414a1#l=12\n\nUn (deux) panneau solaire de camping (attention à la taille, ça tient environ un mètre de long sur 80cm de large) + le générateur/accumulateur avec une ou deux prises dessus (multiprise déconseillée mais pas impossible pour les petits appareils). \n\nTu peux dans ce cas résilier ton abonnement élec. \n\nJ'ai personnellement passé plusieurs vacances (plusieurs semaines) sur un seul de ces grands panneaux de camping et un accu en utilisant du wifi + ordi. L'accu arrive à tenir la plupart de la soirée et si le panneau est bien orienté, ça recharge le matin au réveil... bon ça marchera pas pour le chauffe-eau hein... dans ce cas tu peux faire douchette de camping à pressurisateur + 1 casserole d'eau chaude (comme tu as du gaz).\n\nLe reste de ton éclairage peut être sur des barres led rechargeables éventuellement, si tu te sens l'âme d'une campeuse... mais bon, à voir au niveau du confort, selon l'appartement, la luminosité naturelle, etc. \n\nSimple suggestion de campeur, ça marche.\n\nDernier conseil pour la wifi : ne pas s'abonner avec une «box» (gros modem très consommateur) lorsqu'un modem 4/5G portable avec un abonnement mobile/internet de base à 10€/mois suffit amplement à la plupart des usages (et en plus tu emmènes Internet avec toi)... comme celui-ci : https://www.ebay.fr/itm/185935725846?hash=item2b4aa20516:g:BYIAAOSwULVjPAM~&amp;amdata=enc%3AAQAIAAAA4N0mERf3Ul%2FqYYU533uuALt7KOzRwYQSSOsvwLZSXUH7qOM8t%2Bce7n%2FraEecO7XguBe2Hg82m8EL2zNMBnrEBBlSl29ll1IrqRydN2rM%2Bb36O6hl%2BV4U4LLbAfUNuWePce1bayOAwMr30uUq2l7DR1IlsXMJGLamCfp46KHh8xc0m499pSC1l4DpBFtLLBbWCfR0v9Bk44kH5wPaw7RNAAzXJXiUORD0qqmnlmSxFgIlvIvtEH4N0bC6cKYCr5gHu7OvWUQWF6Kt%2BUV6HYLKdsi67bqP86drJ59tSpUIsnP8%7Ctkp%3ABk9SR47p5cujYg\n\n------\n\nConcernant l'eau, il y a une conception française qui est très efficace et qui couvrira au minimum ton eau de boisson quotidienne : https://www.heliowater.fr/ avec une installation minimale. Attention ça ne fonctionne qu'avec un approvisionnement en eau (types divers d'eaux grises ou salées acceptées et purifiées/rendues potables dans ce système, ce qui permet techniquement de boire son «urine» par exemple).\n\nMais, là encore, qui dit indépendance, dit impossibilité de le raccorder simplement sur ton système d'arrivée d'eau d'immeuble... \n\nLe mieux étant, pour appliquer facilement ces technologies, d'habiter une ferme ou habitat ancien/rustique relativement à l'écart d'un centre urbain...\n\nPour la machine à laver étudie l'option laverie automatique locale : commune (donc gain de rendement total), baisse de la facture d'eau et d'élec pour toi éventuellement. \n\nLe (vrai) savon de Marseille est une très bonne option quotidienne (pour tout, depuis les mains jusqu'au sol en passant par les vêtements et le jardinage...). Attention il n'y a que 4 marques qui produisent le véritable Marseille (Marius Fabre, Fer à cheval, Corvette et Le Sérail). C'est juste une question d'habitudes à prendre au début ;)",
+        "date": "2023-07-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; 200 kilos de batteries au lithium...\n\n??? \n\nJe connais justement une installation complètement autonome (pas d'eau/pas d'élec. sur un champ) et je n'ai jamais vu plus d'une batterie dans la cabane, reliée au panneau solaire. Ça suffit amplement pour 2 personnes raisonnables à la journée.",
+        "date": "2023-07-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le problème c’est de prendre un mot anglais et lui donner un écho négatif. \nC’est des lobbyistes qui ont imposé l’éolien et le solaire, des labels de viande éthique ou de bio ! \n\nLes lobbyistes sont des portes paroles d’une ou de regroupement d’entreprises. Rien de mal",
+        "date": "2023-07-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; \"Il faut le prendre avec humour, parce que symboliquement, mettre des couvertures de survie à ses fenêtres, c'est pas rien\"\n\nAlors là je suis abasourdi !\n\nDepuis quand bloquer le rayonnement solaire vers l'intérieur des immeubles est-il symbolique !? Ce n'est pas que pour l'esthétique que les maisons au Sud sont historiquement équipées de volets battants hein !\n\nMes parents qui habitent dans le Sud ont une clim chez eux (aussi utilisée pour le chauffage) et ils ne l'allument que quelques heures par jour pendant les semaines entre juillet et août parce que le reste du temps ouvrir et fermer les volets suivant l'exposition solaire est suffisant pour maintenir la maison fraîche !\n\nDonc ouais, ce n'est pas rien et ce n'est pas surtout un truc symbolique !",
+        "date": "2023-07-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ce qui m'agace ici, c'est le fait qu'on est une région qui pourrait tirer énormément des capacités de l'énergie solaire mais je le voit à peine sur quelques pavillons. En plus de modifier les façades pour refléter les rayons du soleil, on pourrait aussi l'utiliser bien qu'on soit alimenter par le nucléaire. Ce serait une adaptation tout à fait faisable pour le pourtour méditerranéen.",
+        "date": "2023-07-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Bon ici j'ai des persiennes donc c'est bien pour aérer la nuit sans se faire cambrioler et il ne fait pas 60°C derrière comme entre un volet roulant et la fenêtre. Les panneaux solaires produisent largement de quoi faire tourner la clim à fond, et il fait 22°C dans mon bureau. Tralala.\n\nJe passe devant les immeubles neufs qui viennent de se finir dans le coin : pas de brise soleil, pas de persiennes ni de volets, juste des volets roulants sur les fenêtres plein sud. C'est n'importe quoi. \n\n\\&gt;  Je trouve fascinant que les gens construisent des appartements dans le Sud sans volets\n\nDans mes locations, impossible de mettre des persiennes ni des volets, parce que ABF, réglements d'urbanisme à la con, etc. Un téméraire avait mis des stores extérieurs pour empêcher le soleil de rentrer : ils l'ont forcé à les enlever.",
+        "date": "2023-07-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Dans ce cas-là, j'imagine que des panneaux solaires adaptés pourraient être développés? Peut-être avec une coloration différente du noir et un système de refroidissement couplé au panneau solaire. J'avais assisté à une journée technique sur la REUT et une entreprise de panneau solaire avait présenté un système de toit végétalisé avec des panneaux solaires. La condensation sur le panneau solaire lors de la rosée du matin et des systèmes de récupération d'eaux pluviales suffisait à maintenir la température du panneau.",
+        "date": "2023-07-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Quand les panneaux solaires ne sont pas destiné a être habité par un vrai Corse, ils les construisent pas......",
+        "date": "2023-07-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Beaucoup de vent aussi, mais je doute que ce soit accepté d’installer des éoliennes sur l’île de beauté. Ceci étant il y en a quelques unes vers Calvi. \nLa problématique c’est aussi l’afflux de touristes en été (et donc pic consommation électricité). C’est plus simple de faire du thermique adaptable à la demande que du renouvelable surdimensionné pour répondre à la demande l’été. \nEt à date, les panneaux solaires résistants aux coups de chevrotine n’ont pas encore été inventés 😅",
+        "date": "2023-07-13",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Oui, et j'imagine que cet ingrédient important des coquilles est le carbonate de calcium, qui en plus d'être blanc (parce qu'il reflète un spectre assez large de fréquences visibles) il reflète aussi une partie importante du infrarouge solaire dans toutes directions.\n\nPS: Si cette peinture est utilisée dans les toitures alors une partie de la radiation solaire reflétée arrivera à traverser l'atmosphère de retour en direction à l'espace. C'est de l'énergie \"perdue\" et qui ne participera pas au réchauffement de la planète.",
+        "date": "2023-07-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Il y a énormément d'énergie solaire (5000 km2 de panneaux solaires suffisent à tous les besoins énergétiques de la France), le nucléaire a une capacité quasi-infinie avec la surgeneration (arrêtée à cause des écolos dans les années 90 pour de mauvaises raisons) et le thorium.\n\nEt les industries minières améliorent sans cesse leurs capacités d'extraction (surtout pour le cuivre qui n'est pas rare). Je ne suis pas inquiet.",
+        "date": "2023-07-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Il faut aussi m'expliquer comment vous aller miner aussi profondément sans énergie pour alimenter les machines...\n\nOn a en pratique une infinité d'énergie solaire (en tout cas beaucoup plus  que nécessaire), et les opérations de minage peuvent se contenter de sources intermittentes.",
+        "date": "2023-07-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;ans pour autant les croire aveuglément nous savons d'ores et déjà que vivant dans un monde \"fini\" (càd que nous ne pouvons avoir plus de ressources sur notre planete que celles qui y sont, sauf importation spatiale) arrivera un jour ou il n'y aura plus de ressources...\n\nOui, la Terre est finie, mais la question intéressante, c'est \"y-a-t-il assez de ressources pour permettre aux 10 milliards d'habitants d'avoir une vie moderne dans des conditions respectueuses de l'environnement ?\".\n\nEt c'est là que souvent, le discours écologique habituel se plante très souvent à mon avis. \n\nPour ne prendre qu'un seul exemple, toute l'énergie dont la France a besoin aujourd'hui, c'est a peu près je crois 2000 à 3000 km.2 de panneaux solaires, ce qui est peu, à la fois en terme d'espace (un tiers d'un département désert du sud du massif central ou des Alpes) et même de coût ou de matériaux si l'on compare par exemple à l'ensemble des habitations françaises.\n\nEt je ne mentionne même pas le nucléaire, où en utilisant des technologies existantes ou faciles à mettre au point (surgénération et thorium), on a suffisamment de combustible connu pour des centaines ou des milliers d'année d'énergie. Et je ne parle pas de fusion dont on ignore si elle marchera un jour.\n\nEt puis, on confond souvent les ressources 'connues aujourd'hui', c'est à dire les endroits qu'on a exploré et rentables avec le prix de marché actuel et les technologies d'extraction du moment, avec les matériaux présents au total dans la croute terrestre. j'avait fait un calcul sur un coin de table sur le cuivre, et le rapport entre les deux est de 1 à 10.000. D'ailleurs, quand un matériau devient plus demandé par l'industrie, souvent, les ressources connues augmentent simplement parce que l'on cherche plus et de façon plus intelligente.",
+        "date": "2023-07-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Locaux de bureau, plein de gros projecteurs, pointés vers des murs pour y faire bouger des jolies formes géométriques.   \nMais bon, on a des panneaux solaires c'est bien la preuve qu'on est ecolos.",
+        "date": "2023-07-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ce film d'isolation fonctionne aussi pendant l'été mais pour empêcher la chaleur ambiante extérieure de traverser la vitre, ça ne fait rien à la chaleur portée par le rayonnement solaire qui traverse la vitre. Pour cela il faut une obstruction ou réflexion du rayonnement. Pour l'obstruction les volets sont très efficaces mais ton idée ce n'est pas mal non plus si ça tient dans le temps. Pour la réflexion il existe des films semi transparents qu'on colle côté intérieur de la vitre et qui augmente le taux de réflexion de la vitre (ça fait effet miroir quand on regarde l'intérieur depuis l'extérieur), certains films sont optimisés pour être plus efficaces dans le spectre de l'infrarouge.",
+        "date": "2023-07-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Oui c'est clair que question durabilité, ça ne tiendra pas plus d'un été. \n\nJe viens de voir que tu peux aussi acheter des stores extérieurs pour vélux qui protègent en partie du rayonnement solaire, mais ça s'installe, donc c'est au proprio de décider s'il veut le faire. Et ça coûte un peu (une centaine d'euros au minimum)",
+        "date": "2023-07-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ah mais l'hydrogène est globalement une farce mentale, digne du çavanousauvétisme.\nJe te rejoins totalement également sur le transport.\n\n\nSi on remplace des chaudières gaz c'est par un système : \n- à base de pulls\n- de la biomasse, géothermie \n- de la PAC\n- solaire à fluide/gaz (et on se heurte aux règlements d'urbanisme)\n\nEt je dois en oublier...",
+        "date": "2023-07-31",
+        "sentiment": "neutral"
+    }
+]

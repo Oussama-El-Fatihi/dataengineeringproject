@@ -1,0 +1,502 @@
+[
+    {
+        "text": "Ich dachte, du wolltest die 20 Mrd für das Umrüsten der Gaskraftwerke nutzen. Aber du hast Recht, das wäre wirklich etwas viel.\n\nDem zweiten Teil deiner Antwort aber muss ich leider widersprechen.\nDen Energiebedarf decken wir derzeit eben nicht rein aus PV +Wind. Wir nutzen dazu etwa 42% nicht regenerative Formen der Stromerzeugung. Und die Überproduktion \"speichern\" wir derzeit schon: Im Europäischen Verbundsystem.\nWenn Deutschland zu viel PV + Wind hat, verkaufen wir den Strom an andere Länder, die daraufhin weniger Kohle, Gas oder Atomstrom produzieren müssen.\n\nUnd wenn Deutschland nicht genutzt Strom hat, kaufen wir den Strom im Ausland, zb. den Atomstrom aus Frankreich oder Wasserkraftstrom aus Norwegen.\n\nEine Überproduktion an PV + Wind in ganz Europa, so dass alle anderen Kraftwerke abgeschaltet werden könnten / müssten hat es bisher noch nie gegeben, und wird es nach derzeitigen Plänen auch nicht so bald geben.\n\nWenn Deutschland also anfängt, seine Überproduktion an PV + Wind in Wasserstoff zu speichern, bedeutet das, dass in Deutschland mit miesem Wirkungsgrad gespeichert wird, während anderswo in Europa mit miesem Wirkungsgrad Strom aus nicht regenerativer Quelle erzeugt wird.\n\nDas sieht in Australien natürlich anders aus, da Australien überflüssigen Strom nicht exportieren kann. Deswegen ergeben die Speicher in Australien auch Sinn, da dort wirklich überflüssiger Strom anfällt. Hier bei uns hingegen dauert das noch etwas.",
+        "date": "2023-11-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Meiner Erfahrung nach wehren sich die Fluggesellschaften gegen Entschädigungsansprüche, bis es nicht mehr geht, selbst wenn die Sachlage eindeutig ist. Erst wird abgelehnt, dann wird ein Kulanzangebot gemacht, dann wird die Entschädigungssumme gezahlt und mit Klageeinreichung dann auch die entstandenen Anwaltskosten  (so bei mir). \n\nDie versuchen es einfach. Auf jeder Stufe springen ein paar Leute ab oder geben sich mit den Krümeln zufrieden. Das spart Kohle!",
+        "date": "2023-12-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Kommt darauf an welche Information man möchte. \n\nDiesen Kontext liefert mmn der etwas reißerische Titel \"Wer rettet die Welt?\". Durch Zubau von 100 GW Kohle und 60 GW Solar rette ich nicht die Welt, auch wenn ich damit Spitze in \"Reduktion des Anteils fossiler Energieträger\" bin. \n\nWorum es bei der \"Rettung der Welt\" geht ist die *absolute* Menge an fossilen Brennstoffen zu reduzieren, das ist die relevante Metrik und die sollte auch gechartet werden. Oder einen anderen Titel wählen.",
+        "date": "2023-12-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Primärenergie ist das Gesamte... und besteht zu 80% aus Industrie, Transport und Heizen. Die restlichen 20% sind Strom.\n\nIch bin da kein Experte, aber [bei Wikipedia](https://de.wikipedia.org/wiki/Prim%C3%A4renergie) habe ich das irgendwie anders rausgelesen.\n\n\"Primärenergie ist in der Energiewirtschaft die in noch nicht weiterverarbeiteten Energieträgern enthaltene Energie.\"\n\nDemnach wäre der Verbrauch von Erdöl, -gas, und Kohle Primärenergie, aber alles was weiterverarbeitete Produkte verwendet (Kraftstoffe, Strom, Fernwärme) nicht.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Demnach wäre der Verbrauch von Erdöl, -gas, und Kohle Primärenergie, aber alles was weiterverarbeitete Produkte verwendet (Kraftstoffe, Strom, Fernwärme) nicht.\n\nJa und nein. Das sind einfach zwei Seiten der selben Medaille. Endenergie ist die nutzbare Form, hier etwa dein Kraftstoff. Primärenergie ist das Erdöl, das dafür aufgewendet wird.\n\nPrimärenergie ist daher \"das Gesamte\". Endenergie ist der Anteil der Primärenergie, den wir nach Umwandlungsverlusten nutzen.\n\nAussgen wie \"Primärenergieverbrauch besteht zu 20% aus Strom\" o.Ä. sind dabei natürlich nicht ganz richtig. \"20% der Primärenergie werden in der Stromproduktion genutzt\" wäre da eher die passende Antwort (ohne die Zahl zu prüfen). Und weil der Wirkungsgrad in der Stromproduktion schlechter ist als im Wärmebereich, entspricht das dann 15% unseres Endenergieverbrauchs (beispielhafte Zahl).",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Artikel lesen. Habeks Plan war die 25 GW Gas-Kraftwerke als BackUp zu benutzen, wenn die EE nichts liefern. Und daran hängt auch der Kohle-Ausstieg.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Aktuell wird auch Kohle zur Genüge importiert, Steinkohle zu 100%. Und Kohle ist 2 bis 3 mal dreckiger als Gas. Der Plan ist außerdem, das Gas mittelfristig durch grünen H2 zu ersetzen (wers glaubt..).",
+        "date": "2023-12-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "In Anbetracht der globalen Shitshow und der IMHO etwas sinnlosen Idee in der Lausitz z.B. Gaskraftwerke mehr oder weniger temporär zu bauen wäre es wohl am besten Kohle einfach auslaufen zu lassen bis es genug alternativen gibt. Ist aber wohl bzgl. CO2 Bilanz nicht so ideal aber auch nicht so komplett absurd. Das ist alles da und abgeschrieben ob das nun noch 10 Jahre länger läuft ist auch nicht so wild. Wenn jemand die genauen CO2 Bilanzen kennt lass ich mich aber gerne umstimmen. Mir war so als ob das sehr viel Geld, sehr viel Risiko für Effektiv wenig Effekt wäre.",
+        "date": "2023-12-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Das würde aber heißen, dass man die Stromproduktion aus Kohle subventionieren müsste, wegen der steigenden Kosten für die CO2-Zertifikate. Klingt nach politischem und EU-Selbstmord.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Na, das Backup muss schon noch da sein. Heute liefert uns der Wind nur ganze 3GW von 66GW installierter Leistung.\n\nhttps://app.electricitymaps.com/zone/DE\n\nSoviel Windkraft kannst du gar nicht zu bauen, um an solch schlechten Tagen wie heute, (oder gestern, oder laut Vorhersage auch morgen) die Versorgungssicherheit ohne Backup zu überleben. Da hilft auch kein Import, aktuell ist es überall in Europa schwierig. Das Uk läuft z.b. aktuell fast komplett mit Gas.\n\n25GW finde ich sogar etwas knapp. Aktuell nutzen wir 28GW Kohle und 15GW Gas, und importieren noch 8GW. Gefüllt brauchen wir 60GW Wasserstoff kompatible Gas Kapazität. Und entsprechend viel Vorrat von dem Zeug, Lager ist ja immerhin weniger ein Problem.",
+        "date": "2023-12-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Oh ja, völlig vergessen - dann ist das ne doofe Idee. Vermutlich haben sich eh schon alle darauf eingerichtet, dass pünktlich aufgehört wird - zudem ist's vermutlich für Polen, Tschechien und alle anderen in der EU die noch massiv Kohle nutzen besser wenn sie nicht sagen können, aber Deutschland!1!",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wir sind übrigens seit [gestern in einer saisonalen EE](https://www.smard.de/page/home/marktdaten/78?marketDataAttributes=%7B%22resolution%22:%22hour%22,%22from%22:1701298800000,%22to%22:1701471599999,%22moduleIds%22:%5B5000410,6000411,2005097,1001226,1004067,1001225,1004068,1001228,1004070%5D,%22selectedCategory%22:null,%22activeChart%22:true,%22style%22:%22color%22,%22categoriesModuleOrder%22:%7B%221%22:%5B1001226,1004067,1001225,1004068,1001228,1001224,1001223,1004069,1004071,1004066,1004070,1001227%5D%7D,%22region%22:%22DE%22%7D)-Dunkelflaute. Gerade feuern wir aus allen Kohle-Schloten.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Interessante, weiterführende Informationen zu dem Thema sind zum einen die neue [Wasserstoffstrategie](https://www.bundesregierung.de/breg-de/schwerpunkte/klimaschutz/wasserstoff-technologie-1732248#:~:text=Die%20Nationale%20Wasserstoffstrategie%20zeichnet%20ein,seinen%20Derivaten%20in%20allen%20Bereichen.) und der [Bericht zum Monitoring der Versorgungssicherheit Elektrizität](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2023/02/20230201-sichere-versorgung-mit-strom-bis-ende-des-jahrzehnts-gewahrleistet.html). Die andere wichtige Publikation, die zu diesem Thema noch aussteht,  ist die [Importstrategie für grünen Wasserstoff](https://bmdv.bund.de/SharedDocs/DE/Artikel/K/markthochlauf-wasserstoff-beschleunigen.html). Generell finde ich, in Deutschland werden viel zu sehr die Ausbauergebnisse von Wind und Solar gefeiert, ohne auf die schwierigen letzten zwanzig Prozent zu achten, die nur unter hohen Kosten machbar sein werden. Wie aus dem Artikel ja auch hervorgeht, kommen mit der Verzögerung dieser Kraftwerksstrategie sowohl der Kohleausstieg 2030 als auch die Dekarbonisierungsziele in Gefahr. Wenn wir weit über 2030 hinaus noch an Erdgas und Kohle mit teuren CO2-Zertifikaten hängen, aber trotzdem über die Stromrechnungen Milliardensubventionen an Kraftwerksbetreiber leisten müssen, wäre das ein wirtschaftlicher Genickschuss. \n\nDer große, unbekannte Punkt bleibt in meinen Augen die tatsächliche Realität des globalen Marktes für grünen Wasserstoff im Jahr 2030 und darüber hinaus. Es gibt mittlerweile viele Verträge und Willenserklärungen zwischen Deutschland und potentiellen Produktionsländern überall in der Welt, aber bei vielen dieser Abkommen klingt doch deutlich durch, dass andere Länder noch nicht bereit sind, in diesem Sektor Pioniere zu sein und Risiken einzugehen. [In diesem Artikel kann man mal die Rhetorik von Trudeau und Scholz vergleichen. Da tun sich deutliche Unterschiede auf.](https://www.dw.com/en/germany-and-canada-sign-hydrogen-deal/a-62899992) Auch der Wirtschaftsminister selbst bleibt bei Prognosen optimistisch, aber sehr vage. [Habeck geht davon aus, dass der Preis sinkt, wenn die Importe sich erhöhen. Wann der Kipp-Punkt eintreten wird, wollte er am Mittwoch nicht spekulieren. Aber: \"Es geht viel schneller, als alle gedacht haben.\"](https://www.zdf.de/nachrichten/politik/wasserstoffstrategie-habeck-greenpeace-100.html)\n\nGleichzeitig funktioniert ein Markt nur, wenn es auch viele und diverse Abnehmer gibt. Wenn Deutschland der einzige Kunde bleibt, der nicht nur einen großen Schwerindustriesektor, sondern auch noch seine Energieversorgung so bald schon mit importiertem grünem Wasserstoff versorgen möchte, entsteht eventuell nicht die Nachfrage, die notwendig ist, um einen globalen Markt großzuziehen. Wir sollten von der OPEC gelernt haben, dass Länder, die eine signifikante Menge von einer gewissen Rohstoffproduktion besitzen, bereit sind, ihre Marktmacht zu schützen und auszubauen. \n\nAußerdem werden die Öl und Gas fördernden Länder ein großes Interesse daran haben, diese Entwicklung zu blockieren und zu stören.\n\nDes Weiteren sind zwei Länder, mit denen Kooperationen weit fortgeschritten sind, Namibia und Chile. Beide Länder sind heute schon von Trockenheit bedroht, welche durch den Klimawandel bedeutend schlimmer wird, was die dortige Bevölkerung, welche zu signifikanten Teilen von Landwirtschaft abhängig ist, schwer treffen wird. Wie sicher sind dort Anlagen, die quasi kostenlosen Strom und Süßwasser produzieren? \n\nBilliger, grüner Wasserstoff muss klappen, sonst steht Deutschland in wenigen Jahren inmitten teurer, moderner Infrastruktur, die keinen Nutzen hat. Aber die Welt handelt nach den Gesetzen des freien Marktes und zahlreichen politischen Vorstellungen von skrupellosen Ländern mit tiefen Taschen, nicht nur Deutschlands Hoffnungen.",
+        "date": "2023-12-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Aktuell wird auch Kohle zur Genüge importiert, Steinkohle zu 100%.\n\nDer Großteil der Importe sind Erneuerbare Energien..\n\nAußerdem haben wir im November sogar wieder mehr exportiert als importiert.",
+        "date": "2023-12-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wir haben im November diesen Jahres 27% weniger Kohle verbraucht als im November 2022.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es geht um Importe von Kohle nicht von Kohlestrom",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Und Kohle ist 2 bis 3 mal dreckiger als Gas\n\nNö, so groß sind die Abstände bei weitem nicht. Gas kommt auf unglaublich schlechte Bilanzen durch die massenhaften Emissionen bei Förderung und Transport. Erdgas ist nur minimal besser als Steinkohle.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Leute, wenn euch das doch so stört, dann verdient doch einfach mehr Kohle?\n\nMuss man halt was für tun.",
+        "date": "2023-12-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Meine Mama hat auch so eine Nachricht bekommen. Das auch zu einer Zeit, in der ich arbeitslos war und demnach durchaus finanzielle Not hatte.\nSie hat dann halt trotzdem erst mal genauer hingeschaut. Warum sollte ich ihr von einer Fremden Nummer schreiben, dass sie mir bitte Geld auf ein fremdes Konto überweist? Keinen zwanni sondern einige Tausend Euro?\n\nIch verstehe, dass diese minusmenschen genau auf so etwas abzielen. “Kind in Not” ist da ein sehr naheliegendes, da emotionales setup. \nAber wie man da alle Warnzeichen ignorieren und ein paar tausend Euro in den Wind pusten kann, werde ich nie verstehen. Ein bisschen medienkompetenz sollte doch jeder Internetnutzer mitbringen, bin ich der Meinung. Nicht böse gemeint, bin nur jedes Mal verwundert wie leicht es teilweise ist, Menschen um ihre Kohle zu bringen.\n\nBitte klärt eure Eltern über solche Tricks auf.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "In der Regel erfährt der Urheber es ja nicht sofort. Und zu glauben, jemand warte mit der Rechtsverfolgung in der Hoffnung auf “mehr Kohle” ist lebensfremd - der Rechteinhaber will erst mal Unterlassung, außerdem ist es immer ein Risiko, ob der Rechtsverletzer überhaupt zahlungsfähig ist.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Energiesicherheit ist nicht in Gefahr.\n\nEs geht hier um Kraftwerke, die zusätzlich gebaut werden sollen (sollten?), damit ein Ausstieg aus der Kohleverstromung möglich wird.\n\nWenn das mit diesen 25 GW neuen Wasserstoff- und Erdgaskraftwerken nicht kommt, dann bleibt eben die Kohle. Die Energiesicherheit bleibt davon unberührt.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Kaffee gibt's sonst idr. Auf Station halt auch. Nur halt eben nicht die geilen Bohnen, mit Milch und pipapo, sondern die günstigen.\n\nWahlleistungsstationen sind so ausgestattet wie sie es sind weil die Kostenträger es vorgeben. \nKeiner hat Lust jedes am Band fürs essen mal das gute Geschirr für die Wahlleistung herzurichten und den extra Pudding von Marke XY. Aber was willste machen, gibt Kohle und die Kohle bezahlt Gehalt.\n\nSame für die Kafeemaschine, steht da in der Form weil irgendwer sagt\" sonst gibt's weniger Kohle\"",
+        "date": "2023-12-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Unser Gesundheitssystem ist auch schon lange krank.\nKassenpatienten sind oft Patienten zweiter Wahl und haben meistens auch nur die Krankheiten, die sie sich leisten können.\n\nUnd Privatpatienten wird für solche Selbstverständlichkeiten die Kohle aus der Tasche gezogen....wenn man nicht gerade damit beschäftigt ist die letzte CT und das halbe duzend andere Untersuchungen mit dem Chefarzt zu besprechen.",
+        "date": "2023-12-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wir haben im Versicherungsvertrag meiner Frau die Chefarztwahl nach entsprechenden Erfahrungen gestrichen. Du willst nicht vom schlechtgelauntesten Arzt auf Station, der noch dazu oft wenig Praxis macht behandelt werden. Die besten Erfahrungen machen wir tatsächlich i.d.R. mit jungen Assistenz- und frischgebackenen Fachärzten.\n\nNebenher: Ich bin gesetzlich krankenversichert. Abgesehen von definitiv längeren Wartezeiten bei der Terminvergabe vieler Fachärzte (Radiologie z.B.) habe ich da bislang noch nicht festgestellt oder gespürt, dass ich irgendwie schlechter behandelt würde. Im Gegenteil isses oft so, dass meine Frau noch viel unnötigen Kram mitmachen muss, der aber Kohle bringt - während sich bei mir um die tatsächlichen Probleme gekümmert wird. Das i.d.R. sehr kompetent und zügig.\n\nSo vergingen als ich im letzten Jahr in eine akute psychische Krise geschliddert bin (damals: Burnoutverdacht) nur wenige Tage, bis ich bei zwei Psychiatern und einer Therapeutin war, die alle helfen wollten und konnten. Ich hatte nach 3 Wochen passende Medikamente und binnen 5 Monaten einen Fahrplan, Termine zur ADHS-Diagnostik usw. Nach inzwischen ~12 Monaten bin ich in Therapie, medikamentös eingestellt und muss nicht mehr machen, als gelegentlich nen Brief vom Therapeuten zur Post tragen, damit die GKV weiterhin die Kosten übernimmt.",
+        "date": "2023-12-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Na dann definiere mal zu selten: es kommt jedes Jahr mehrmals vor. Letztes Jahr über eine Woche am Stück im Dezember . Möchtest du dann in diesen Phasen keinen Strom haben? Das wäre nämlich die gegenwärtige Alternative zur dreckigen Kohle. Deswegen kann die KW-Strategie nicht warten.",
+        "date": "2023-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "1. Werde \"Klimakanzlerin\" (16 Jahre an der Macht)\n2. Atomkraft nein nein\n3. Mehr Kohle als Übergang!\n4. Blockier jedes bisschen Windkraft (böser Infraschall!!1!)\n5. \\*Glückliche Markus Söder Geräusche\\*\n6. Verkauf Solarindustrie nach China\n7. Die Energiewende ist gescheitert!\n8. ???",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Wenn das mit diesen 25 GW neuen Wasserstoff- und Erdgaskraftwerken nicht kommt, dann bleibt eben die Kohle. Die Energiesicherheit bleibt davon unberührt.\n\nEs wird mit kommenden ETS reformen und steigenden CO2 Preisen halt nur sehr, sehr teuer. Das Problem sehen wir ja jetzt schon, entweder stellt die Energieintensive Industrie hier die Produktion ein und wandert ab, oder muss mit Industriestrompreis oder CO2 Steuer Erstattung subventioniert werden.",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "War es dumm Atom vor Kohle abzustellen? Ja.\n\nist es zu spät für Atom? Ja.\n\nWas brauchen wir? Günstige Netzspeicher.",
+        "date": "2023-12-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Du zeigst ja den Widerspruch selbst auf. \n\n\"dann bleibt eben die Kohle\" - das wird eine politische Shitshow.\n\nUnter der Prämisse, dass wir vollständig aus der Kohle rausgehen, ist die Energiesicherheit durchaus gefährdet, wenn kein Gas dazugebaut wird. Es wird noch am angeblichen vorgezogenen Ausstieg festgehalten.\n\nIm europäischen Verbund könnten wir noch zukaufen, aber das wird immer teurer, da unser Angebot immer stärker invers zum Bedarf liegt.\n\nAuch wettbewerbsfähige Preise würde ich als Energiesicherheit bezeichnen.",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die ganze Welt realisiert wieder, dass Kernenergie eine rosige Zukunft hat als komplementäre Energie die als Baseload Energie und Brückenenergie die erneuerbaren begleiten wird.\n\nDie ganze Welt? Nein, ein kleines Deutschland ist sich ganz sicher, dass man gleichzeitig aus der Kohle und der Kernenergie aussteigen kann und die hohen Energiepreise keine Probleme machen.\n\nDeutsche jetzt: Surprised Pikachu face",
+        "date": "2023-12-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die ernsthafte Antwort ist: Manchmal ist es halt günstiger in Deutschland Strom zu produzieren (wenn Wind und Sonne geht), manchmal ist es günstiger Strom zu importieren als selber Kohle zu verbrennen. \n\nDas passiert jeden Tag und ist total unspektakulär...\n\nEs gibt genügend fossile Kraftwerke in Deutschland um immer alle Nachfrage zu decken. Das ist eben nur teurer als Import.",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wird umgesetzt, nicht ist umgesetzt, der User meint sicher die hohen Wachstumsraten von Renewables im Vergleich zu den anderen Energieträgern\n\nAKWs stagnieren ja eher, da wird gerade mal durch China, Indien und paar andere Staaten der langsame Abgang anderswo ausgeglichen. Öl und Kohle fallen im globalen Marktanteil stärker, Gas bin ich mir nicht sicher \n\nSelbst wenn die Welt AKW-kritischer wird, blieben die sicher noch bis min. 2050 relevant, sind halt riesige Kapazitäten in jedem einzelnen AKW-Projekt",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Grünen, die SPD und auch einige Frauen aus der CDU. Typisch woke Leute halt. /s\n\n„Erst 1983 musste sich der Bundestag mit dem Thema auseinandersetzen, weil Grüne und SPD, beide in der Opposition, forderten, [im Paragraphen zur Vergewaltigung] das Wort ‚außerehelich‘ endlich zu streichen.“\n\n1996 hat dann die Regierung aus CDU und FDP endlich das Wort außerehelich gestrichen, nachdem eine Studie gezeigt hat, dass die meisten Vergewaltigungen zuhause stattfinden. Den Widerspruchsparagraphen gab es aber noch.\n\n„[SPD-Abgeordnete Ulla] Schmidt organisierte gemeinsam mit den Grünen einen überparteilichen Gruppenantrag zur Neufassung des Paragrafen 177. Sein Wortlaut entsprach genau dem im Bundesrat gescheiterten Gesetzentwurf – nur die Passage zur Widerspruchsklausel war gestrichen.“\n\nEs folgte Druck von konservativen Frauenverbänden, woraufhin Helmut Kohl dann 1997 eine Abstimmung dazu ohne Fraktionszwang zuließ.\n\nhttps://www.deutschlandfunk.de/gesetz-strafbarkeit-vergewaltigung-ehe-100.html",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Kenne das auch aus Ruhrpott-Geschichten meiner Eltern.\n\nEin Student hat im Innenhof des Studentenwohnheims VW Busse repariert und dann nach Griechenland verkauft.\n\nEs gab diverse Deals mit dem Hausmeister des Wohnheims. \n\nDie Leute, die ein Auto hatten (sehr wenige) haben sich Kohle dazu verdient in dem sie Getränke eingekauft und weiterverkauft haben.\n\nIrgendwelche Gartenlauben wo man Audio-Equipment kaufen konnte etc.",
+        "date": "2023-12-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "und Helmut Kohl als Kaiser, der alles konnte und sein Wort war Gesetz. Daran erinnert sich keiner mehr.",
+        "date": "2023-12-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Richtig! Und mit dieser gottenschlechten Energiepolitik haben wir in den letzten 10 Jahren gerade einmal 70 TWh Kohle kompensiert nebst weiteren 70 TWh der abgeschalteten AKW. Und haben dieses Jahr mehr als 1 EPR an Energiegeneration ins Land gestellt.\n\nUnd das trotz der erfolgreichen Sabotage unter Gabriel und Altmeier.",
+        "date": "2023-12-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wann ist die Frage. Das war ~2008 als unsere Solarenergie gekillt wurde wenn ichs richtig in Erinnerung habe.   \nDer Staat hätte ja auch so tolle Sachen machen können wie die MwSt für Solaranlagen streichen und eine   bessere Förderung für EU produzierte Anlagen einführen. Zum Beispiel.\n    \nAber nein, wir subventionieren lieber Kohle....",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Wirtschaftlich galt Deutschland als \"der kranke Mann Europas\". Dieses Urteil des damaligen Ifo-Präsidenten Hans-Werner Sinn stammt zwar aus dem Jahr 2003, als Helmut Kohl schon seit fünf Jahren nicht mehr im Amt war. Sinn bezog sich aber ausdrücklich auf die Zeit seit 1995, als deutlich wurde, dass die 1990 für Ostdeutschland versprochenen \"blühenden Landschaften\" noch etwas auf sich warten lassen würden.\n\n\nLOL. Das ist entweder komplette Unwissenheit oder Rosinenpickerei. Sich Herrn Sinn rauszunehmen wenn der Begriff in 98 durch Holger Schmieding (wieder) bekannt wurde (nach dem osmanischen, dem russischen und später den britischen Reich) und komplett etwas anderes meinte ist schon bizarr. [Um etwas aus der Zeit zu zitieren:](https://www.economist.com/special/1999/06/03/the-sick-man-of-the-euro)\n\n&gt; Mr Schmieding thinks that Germany's high costs relative to what it produces help to explain why unemployment has risen from cycle to cycle since the 1960s. German workers may be productive, but not enough to justify costs that are running at 50% above levels in any other G7 country. Getting rid of workers is costly too. Severance pay is typically a month's salary per year worked, plus generous retirement pay-offs for older workers. “The jobs market doesn't really deserve to be called a market,” says one disgruntled company manager.\n\n&gt; This has not, however, stopped many German companies from shedding workers by the thousand, at home and abroad, as they restructure in response to globalisation. This has created an irony: corporate Germany has gone from strength to strength even as the economy, beleaguered by high costs and rigidities, has faltered. Companies such as DaimlerChrysler and Hoechst have set the pace of change in their industries. Even sleeping giants such as Siemens are shaking themselves up.\n\n&gt; Why has such industrial success not fed through to the economy at large? One answer is the way in which German firms have learnt to deal with their country's rigidities: by shifting operations abroad. Last year they invested some DM150 billion in other countries (by contrast, Germany attracted a mere DM35 billion in foreign direct investment). Many big companies now make more than half their profits abroad. But smaller firms that make up the backbone of Germany's famous Mittelstand have also been packing up and moving abroad, especially into lower-cost and more flexible countries to Germany's east. Some 20,000 such firms have invested in Central and Eastern Europe, largely to escape steep wage bills at home.\n\nWenn man dem Begriff nun eben als hohe Löhne + hohe Steuern/Abgaben für die Unternehmen auslegt weswegen die lieber auswanderten passt es nicht ganz in die 90er auch scheiße für den Bürger Narrative (außer man war arbeitslos). Gelöst durch die Gewerkschaften welche auf Jahre beim Thema Löhne dann nachgaben. \n\nIn Zeiten wo die Investitionen nicht einmal mehr für die Bestandssicherung reichen und gerade im Wohnungsbau absolute Ebbe herrscht würde man sich wohl über Schulden als Multiplikator freuen. Ist ein Blick in die 90er wohl auch nicht so verkehrt...",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das gleiche wie Deutschland jetzt? Kohle und Gas verstromen während man in Frankreich Atomstrom einkauft obwohl man sich im Sommer noch darüber lustig gemacht hat.",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wäre eine gute Argumentation vor 10+ Jahren gewesen. \n\nDer Zug Kernenergie ist jetzt aber abgefahren. Zu teuer, zu langsam. \n\nGut wäre gewesen in den 90er weiter AKWs zu bauen anstelle die Kohle weiter hochzuhalten. Die Erneuerbaren werden grade so billig das nach und nach alle anderen Nachteile kompensierbar werden.",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Immernoch um einiges besser als Kohle... wenn da nicht die Sache mit dem Atommüll wäre 😬 Aber ich denke es ist richtig, dass der Weg aus der Kohle so schnell nur durch Wind- und Wasserenergie schlichtweg nicht möglich ist.",
+        "date": "2023-12-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wind und Solar funktionieren aber nur mit Backup Kraftwerken oder Speicher Systemen. Auf dem COP28 zweifelt glaube niemand daran, dass Erneuerbare den Hauptteil unserer Energie herstellen werden, der Sinn von Atomkraft ist, das Einspringen von Kohle und Gas zu ersetzen.",
+        "date": "2023-12-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Der Nachteil von erneuerbaren ist dagegen, dass es immer schwerer wird Prozentpunkte zu erreichen je mehr man hat. Von 50% auf 55% wird wesentlich leichter gehen als von 90% auf 95%. Für die oberen Prozentpunkte braucht man dann riesige Speichersysteme um die Backup Kohle und Gaskraftwerke zu ersetzen.  \nDas ist dann die Stelle an der man froh über 10% Atomkraft ist.",
+        "date": "2023-12-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Richtig! Und mit dieser gottenschlechten Energiepolitik haben wir in den letzten 10 Jahren gerade einmal 70 TWh Kohle kompensiert nebst weiteren 70 TWh der abgeschalteten AKW.\n\nDer Trick bei der Kompensation ist, dass die Energieintensive Industrie einfach abwandert, wir mit Energiesparmaßnahmen ein bisschen weniger Strom brauchen und mehr importieren. Spürbar mehr CO2 freien Strom haben wir produziert im Vergleich zu vor 10 Jahren. Die Produktionsmenge ist einfach gesunken.\n\nIm Jahr 2013 haben wir 241 tWh CO2 armen/freien Strom produziert.\n\nhttps://www.energy-charts.info/charts/energy\\_pie/chart.htm?l=de&amp;c=DE&amp;interval=year&amp;year=2013\n\nIm Jahr 2023 waren es bisher 244 tWh.\n\n[https://www.energy-charts.info/charts/energy\\_pie/chart.htm?l=de&amp;c=DE&amp;interval=year&amp;year=2023](https://www.energy-charts.info/charts/energy_pie/chart.htm?l=de&amp;c=DE&amp;interval=year&amp;year=2023)\n\nLetztes Jahr waren es insgesamt 242 tWh ohne die Kernkraft.\n\n[https://www.energy-charts.info/charts/energy\\_pie/chart.htm?l=de&amp;c=DE&amp;interval=year&amp;year=2022](https://www.energy-charts.info/charts/energy_pie/chart.htm?l=de&amp;c=DE&amp;interval=year&amp;year=2022)\n\nEs ist nicht so als hätten wir irgendwas besonders geiles gemacht. Wir haben Atomkraft durch EE ersetzt, nicht mehr und nicht weniger, während parallel der Stromverbrauch insgesamt leicht gesunken ist.",
+        "date": "2023-12-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die beiden Themen haben genau nichts miteinander zu tun\n\n\nAber wenn man sie schon verbinden will, dann bitte mit der Berücksichtigung, dass Bayern bis 1989 von der Kohle aus dem Pott fett gefüttert wurde und komischerweise seit sie Geberland so tun als sei der Finanzausgleich ungerecht",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Helmut Kohl hat es mit dieser Strategie auf 16 Jahre Kanzlerschaft gebracht (\"Blackouts\" während der Anhörungen zur Flick Spendenaffäre).",
+        "date": "2023-12-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wobei man auch sagen muss, dass die Kanzlerschaft Kohls eher als 2x8  Jahre zu charakterisieren ist. Die Kombination aus Mauerfall und Kanzlerkandidat Lafontaine hat seinerzeit die Meinungswende herbeigeführt, ansonsten wäre es mit Kohl nach der zweiten Amtszeit vorbei gewesen.",
+        "date": "2023-12-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Der Nachteil von erneuerbaren ist dagegen,\n\nFrankreich hat auch einen Sockel von 10% Gas und das hat auch seinen Grund. Und die mussten deren Stromnetz auch für die bisherige Integration der großen KKW-Flotte darauf auslegen und anpassen. Wenn man Systeme, die auf Kohle, Gas und Öl angewiesen waren, umstellt bleibt das nicht aus.",
+        "date": "2023-12-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Wenn die Kohleverstromung um 70TWh sinkt dann sind diese 70 TWh durch irgendwas ersetzt worden.\n\nNö eben nicht. Die Gesamtproduktion ist gesunken. Wir haben im Prinzip in den letzten 10 bis 15 Jahren AKWs durch Kohle ersetzt und ein bisschen weniger Strom insgesamt produziert. Die Menge an CO2 freiem Strom, der produziert wurde (EE + Atom), ist mehr oder weniger konstant geblieben. Deswegen ist es ja auch eher nichtssagend wenn sich hier einige auf den EE Anteil versteifen. Ein Teil wurde durch Energieeffizienz gespart, ein Teil durch sinkende Exporte und ein guter Teil durch Abwanderung Energieintensiver Industrie.",
+        "date": "2023-12-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Bäm!!- Baby! Da ist die Kohle! 😄👍/s",
+        "date": "2023-12-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Zu spät.\n\nGas und Kohle werden uns noch eine Weile begleiten. Solange wir keine Fusionsenergie haben (und das wird noch 20+ Jahre dauern), wird es nicht ohne Gas, Kohle oder Atomstrom gehen.",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Waren Kohls Blackouts in den Anhörungen nicht nach seiner Kanzlerschaft? Also klar das macht die Tat nicht besser aber das war keine Taktik und Täuschung während seiner Kanzlerschaft.",
+        "date": "2023-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Atomstrom ist abgesehen von Wasser der günstigste CO2 arme Strom. In DE waren die AKW die günstigsten Erzeuger, noch günstiger als Kohle.",
+        "date": "2023-12-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;CDU und SPD werden immer dazu neigen, deren Hauptwählergruppe gut zu versorgen, und das sind nunmal die Rentner.\n\nGenau das. Ich verstehe nicht, warum Leute denken, dass das Geld automatisch sinnvoll investiert werden würde.\n\nDieselben Wähler, die uns heute schon die meiste Kohle kosten, werden ja nicht einfach verschwinden: Die werden das Geld haben wollen.",
+        "date": "2023-12-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Deutschland hatte aber mal unter Strauss ähnliche Pläne, vielleicht liegt davon noch etwas irgendwo im KIT im Keller. \n\nAußerdem darbt nebenan die Force de Frappe dahin und könnte politischen Willen und Bedrohungslage vorausgesetzt mit EU-Kohle auch EU-weit abschrecken.",
+        "date": "2023-12-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Fast alle Kohlekraftwerke weltweit könnten bis 2030 durch eine Kombination aus Fotovoltaik, Windkraft und Batteriespeicher ersetzt werden. Auch finanziell würde sich der Umstieg lohnen, so das Ergebnis einer neuen Energie-Studie.\n\n&gt; Um die Stromproduktion der Kohlekraftwerke zu ersetzen, sollten möglichst an gleicher Stelle Fotovoltaik- und Windkraftanlagen sowie Stromspeicher errichtet werden. Somit könnten die bestehenden Anschlüsse an das Stromnetz weiter genutzt werden, wodurch Planung und Bau schneller und billiger würden. Die benötigten Batteriespeicher wurden für die Berechnungen so konzipiert, dass sie die Schwankungen bei Sonnenschein und Wind ausgleichen könnten.\n\nLet's go?\n\nOh moment, was ist das? Ach, die Bürgerbewegung \"Infraschall und Schattenwurf\". Tja, Leute, kann man nichts machen. Lassen wir die Kohle einfach weiter laufen.",
+        "date": "2023-12-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Um Volker Pispers dazu zu zitieren, als Kohl schon alt war und zunehmend abbaute:\n\n\"Der Helmut Kohl hält dicht... zumindest an der Stelle.\"",
+        "date": "2023-12-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Du meinst wohl Kohle und Gas richtig?\n\nUnser Strommix kostet uns 80 Milliarden an CO2 Kosten jedes Jahr.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "netzspeicher fördern.\n\nSolar auf Dächern bei Neubauten/Restaurierungen\n\nWieder Aufforstung\n\nOcean farming\n\nCo2 Abscheidung bei Kohle",
+        "date": "2023-12-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wenn du jahrelang auf ein AKW warten willst, dass die Kosten nicht reinbringt und wir auch fast keine Endlager mehr haben, bin ich mal gespannt, wie man die Kosten für die Beseitigung tragen möchte. Schießen wir dann die Brennstäbe ins All? Dann wird AKW, gefolgt von Kohle, Gas und Öl das teuerste Erzeugnis sein, bei dem selbst Reiche sich lieber dann EE holen, weil es günstiger ist.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der ÖR ist jetzt auch nicht wirklich auf Klickzahlen angewiesen, die Kohle kommt ja nicht durch Werbung rein",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die 90er haben angerufen und wollen ihr Talkshow-Thema wieder haben.  \n\n\nIm Ernst, ich bin alt genug, um mich an die jahrelange Arbeitslosengeld bzw. Sozialhilfe-Diskussion zu erinnern. Auch da wurde schon der große Hit \"Arbeiten gehen lohnt sich nicht!\" jeden Tag über BILD und diese ganzen Trash-Talkshows bei den Privaten geträllert.  \n\n\nDann kam - natütlich nicht unter der Kohl-Regierung, sondern durch Rot-Grün die Agenda 2010 und in diesem Zusammenhang das \"unmenschliche\" Hartz IV-System, bei dem man von 2005 bis 2022 (!) die Bezüge nur sehr geringfügig erhöht hat. All die vielen Jahre galt Hartz IV als der Inbegriff der Armut. Dann hat man den Namen in \"Bürgergeld\" geändert und die Bezüge aufgrund eines Gerichtsurteils um 61 Euro erhöhen müssen und schon kommt der alte Schlager  \"Arbeiten gehen lohnt sich nicht!\" wieder aus der Mottenkiste. Natürlich nur als Gaslighting, denn die ganzen anderen Probleme in Deutschland wie Bürokratie, Klimaschutz, Bildung, Infrastruktur, Digitalisierung usw. bleiben weiterhin in  voller Blüte bestehen.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das ist sehr irreführend.\n\nMerkel war pro Atomkraft, ist aus dem Atomausstieg mit der Verlängerung \"ausgestiegen\". Der letzte Ausstieg mit Fukuschima hatte nichts mit Merkel zu tun. Da waren halt kurzzeitig alle für den Ausstieg und dann wurde er beschlossen. Das hätte mit jeder Koalition stattgefunden.\n\nMehr Kohle als Übergang ist auch falsch weil der Plan Gas als Übergang war. Kohle lief normal weiter aber Gas + Erneuerbare war der Plan. Deswegen auch Nordstream 2 etc.\n\nDas mit der Windkraftblockade wird zwar oft wiederholt aber ist trotzdem falsch. Windkraft und Solar wurden massiv gefördert und das war ein absoluter Erfolg: Es wurden Kapazitäten ausgebaut, dadurch sanken die Preise und die Wirkungsgrade wurden besser. Die deutdche Windkraft- und Solarförderung war ein weltweiter Vorreiter und hat maßgeblich dazu beigetragen, dass sie konkurrenzfähig werden.\n\nDas Abwandern der Solarindustrie nach China ist keine bewusste Sache oder in irgendeiner Form durch Merkel verursacht.. Das passiert halt, weil die billiger produzieren. China produziert alles, nicht nur PV.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich denke deine Rechnung stimmt so ungefähr, aber es macht glaub ich mehr Sinn wenn man Strommengen pro Jahr nimmt, anstatt mittlere Leistung zu vergleichen. Letztes Jahr wurden 170TWh Kohlestrom produziert, 120TWh kamen aus Wind und 50TWh aus solar. Wir bräuchten also ungefähr eine Verdopplung der erneuerbaren um die Kohle abzuschalten.\n\nhttps://www.destatis.de/DE/Presse/Pressemitteilungen/2023/03/PD23_090_43312.html",
+        "date": "2023-12-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dir ist aber schon klar, dass man bei den legalen Methoden über Stiftungen etc auch keine freie Verfügung über die Kohle hat? \n\nGanz so  einfach verarscht man die Steuerbehörden dann doch nicht",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja zwangsumsiedeln bedeutet halt auch nur, dass die qm Anzahl die das Amt bezahlt massiv sinkt bzw. halt nur noch Wohnungen bezahlt werden, die preislich halt um einiges niedriger anzusiedeln sind wegen Lage und/oder Zustand.\n\nDie Laberei von wegen massiven Eingriffen in das Vermögen führt halt auch nur dazu, dass keine Sau mehr irgendwo Wohnraum schafft. Das waren halt die Vollärsche größtenteils, die noch neugebaut haben um eben Kohle zu verdienen.\n\nWer baut denn sonst noch Wohnungen?\n\nDer Staat, der dank Schuldenbremse eh schon wieder kein Geld für nix hat?",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Solange wir Kohle für Waffen geben sind wir natürlich best friends.\n\nSollte die Ukraine in die EU kommen und  Deutschland die herrschende Korruption und Verschwendung des Landes ansprechen, werden wir wieder gehasst. \n\nSo läuft das",
+        "date": "2023-12-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Gaskraftwerke erzeugen im Vergleich zu Braunkohle mindestens 70 Prozent weniger CO2 pro Kilowattstunde (kWh), Steinkohlekraftwerke etwa 25 Prozent weniger. Beide Kraftwerkarten stehen in Deutschland und anderen EU-Ländern aber häufig still, Gaskraftwerke besonders oft.\n\nJoa, dann los, lassen wir genug Gaskraftwerke stehen, damit wir Reserve haben und hauen die scheiß Kohle raus.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Aber es ist wohl das einzige Mal, dass es mit so absurd langer Vorankündigung passiert. Dass wir aus der Kohle aussteigen müssen, wussten wir, noch bevor die Leute, die da jetzt arbeiten, überhaupt fertig waren mit der Ausbildung.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wir müssen die nicht stehen lassen, sondern neue bauen wenn wir Kohle abschalten. Das ist ja das Problem.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja, und die Planung wurde gerade aufs Eis gelegt.\n\nFinde das Interview mit dem RWE CEO interessant.\n\n[https://www.rwe.com/presse/interviews/entscheidend-ist-die-dynamik/](https://www.rwe.com/presse/interviews/entscheidend-ist-die-dynamik/)\n\nMarkus Krebber: Wenn Gaskraftwerke nicht schnell genug gebaut werden, muss die Kohle länger im System bleiben.\n\nWirtschaftsWoche: Für Sie ist das doch komfortabel. Ob Gas oder weiter Kohle: RWE verdient in jedem Fall.\n\nMarkus Krebber: Für uns ist 2030 in jedem Fall Schluss. Wenn die Kohle länger gebraucht wird, muss der Bund die Kraftwerke in die Reserve nehmen. So ist es im Vertrag zum vorgezogenen Ausstieg 2030 geregelt. Das geht dann nicht mehr auf unsere Rechnung. Sie werden mit diesen Kraftwerken im Jahr 2030 auch kein wesentliches Geld mehr verdienen, weil die Auslastung deutlich sinkt.",
+        "date": "2023-12-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "und der entscheidende Satz fehlt. Wie Gaskraftwerke finanziert werden, die quasi nie laufen, muss jetzt geregelt werden, nicht in einem oder 2 Jahren. Wenn das nicht jetzt geregelt wird ist der Kohleausstieg 2030 nicht möglich.\n\n&gt;Spätestens im ersten Quartal 2024 muss ausgeschrieben werden. Wenn Gaskraftwerke nicht schnell genug gebaut werden, muss die Kohle länger im System bleiben.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;. Wir bräuchten also ungefähr eine Verdopplung der erneuerbaren um die Kohle abzuschalten.\n\nNein brauchen wir nicht. Wir brauchen deutlich mehr. Das Problem ist ja dass der Strom nicht immer dann produziert wird wenn er grade gebraucht wird. Das bedeutet du brauchst Speicher und Speicher haben Verluste. Ein Speicher der PV Strom am Tag speichert und nachts abgibt ist relativ unproblematisch. Das kannst du mit Batterien machen. Die werden häufig ge- und entladen und das wird absehbar wirtschaftlich funktionieren. Der Worst Case wäre, dass 1-2 Wochen im Winter kein Wind weht. Um das auszugleichen bräuchtest du zig tWh an Speichern, die nicht mal jedes Jahr genutzt werden. Das ist mit Batterien nicht machbar.  Das soll langfristig mit Wasserstoffbetriebenen Gaskraftwerken geschehen, was aber eher in die Richtung \"Vision 2050\" fällt als irgendwann zeitnahe greifbar ist. Jedes Kohlekraftwerk was abgeschaltet wird muss 1 zu 1 durch ein neues Gaskraftwerk ersetzt werden, sonst geht irgendwann das Licht aus.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Genau, ob es jetzt Tag oder Nacht ist, die Photovoltaik hat 400 Watt pro Panel, ist doch egal mit wieviel die jetzt wirklich läuft wenn das kohle Kraftwerk mit 20GW ballert",
+        "date": "2023-12-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ja,als Angestellter muss man leider einen Haufen seiner Kohle an ein ineffizientes Rentensystem in der Hand von Finanzanalphabeten abdrücken und ist deren Karotte vor der Nase Politik dann ziemlich ausgeliefert.Für mich und alle in meinem Umfeld ist daher seit Jahren klar,selber vorzusorgen und Geld zu sparen,um später nicht mit 800€ im Monat vollverarscht aus der Wäsche zu gucken.Es gibt meiner Ansicht nach keine Alternative zur Selbstvorsorge,wenn man im Alter finanziell Spielraum haben möchte.Und daran zu appellieren,dass für die Rente ja der Staat verantwortlich sei,macht einen nur zu dessen Opfer.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich persönlich halte ja die 16 Jahre unter Kohl für schlimmer als die 16 unter Merkel.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das sind Ausnahmen und in aller Regel auch eher schwarz unter der Hand oder über Bande. Vereinzelt gibt es Kohle, aber selbst in Landes oder Verbandsligen spielen Leute noch für umme.",
+        "date": "2023-12-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Die Kohle für Atomwaffen sollte man lieber in konventionelle Aufrüstung stecken. Deutschland schießt keine Rakete nach Moskau, weil die das Baltikum besetzen. Es ist immer nur die ultima ratio wenn sonst eine totale Niederlage droht. Wenn man die Russen aber konventionell aufhalten kann, ist deutlich mehr gewonnen und es gibt viel mehr Handlungsspielraum",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die CDU-Schwarzgeldaffäre kam weit nach der Flick-Affäre. Letztere konnte Kohl trotz Erinnerungslücken gut wegstecken, da a) Flick alle Parteien im Bundestag mit Spenden bedachte und es dementsprechend überall Erinnerungslücken gab und b) die Flick-Spenden in die Zeit einer SPD-FDP-Regierung fielen als Kohl, anders als andere Spendenempfänger, kein Regierungsamt bekleidete.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wieso?\n\nDie Kraftwerke sind angeschrieben, der Verbrauch von Kohle praktisch Null, wo sollen die „massiven Kosten“ herkommen?",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dein [Beitrag](https://www.reddit.com/r/de/comments/189ydh5/correctiv_alles_für_die_kohle_wie_ein_konzern/) wurde automatisch entfernt, da er zusätzlichen Text enthält, siehe hierzu unser [Regelwerk](https://www.reddit.com/r/de/wiki/regeln_textposts/).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/de) if you have any questions or concerns.*",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja sind wir ehrlich, das macht wenig aus. Wir haben eine 6-Stellige Anzahl an Flügen weltweit jeden Tag. Da machen selbst 1.000 Flüge mehr wenig aus. Das Problem ist da auch eher die Vielzahl an Flügen, die man tatsächlich vermeiden kann. Seien es innereuropäische Strecken, die durch ein gutes europäisches Schienennetz unnütz wären oder Strecken in den USA, wo man bspw im Nordosten einige Flüge vermeiden könnte.\n\nMal davon abgesehen wäre wohl ein konsequenter Klimagipfel durchaus im der Lage, mit einem guten Plan so viel CO2-Ausstoß zu vermeiden, dass die Flüge deutlich mehrfach kompensiert wären.\n\nIch will hier den CO2-Ausstoß nicht klein reden, den solche Veranstaltungen haben, aber es gibt da doch ganz andere Baustellen. Ölindustrie, Gasverbrauch, Kohle, Autoindustrie usw.\nMal davon abgesehen gehören zu solchen Konferenzen ja auch oft solche Treffen wie gemeinsame Abendessen zwischen Angestellten verschiedener Länder dazu, die dann auch zwischenmenschlich einiges erreichen können, was digital nicht geht.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Wirklich, Digga?\n\nEntweder bist du noch sehr jung oder du hast keine Ahnung wovon du redest. \n\nGeneration Praktikum war schon vor 2003 ein Thema oder denkst du die ganze Ideologie hinter den Agenda 2010 Maßnahmen ist aus dem nichts geboren? Kann mich noch daran erinnern, dass man fucking Helmut Kohl hinterher trauerte. \n\nDein Punkt war das Agenda 2010 den Trend abgeflacht hat, weil du denkst die ganzen Folgen der Maßnahmen sind innerhalb von 6 Monate sichtbar, während deine eigene Grafik zeigt, dass der Trend durch die ganzen Gesetze wieder nach oben ging-&gt; riesiger Niedriglohnsektor oder sind 25% ein Witz für dich?\n\n&gt;Und Zeitarbeit ist etwas anderes als Niedriglohnarbeit \n\nlol...\n&gt;Zwei Drittel der Leiharbeitnehmer arbeiten in Niedriglohn-Berufen\n\nhttps://rp-online.de/wirtschaft/zwei-drittel-der-leiharbeitnehmer-arbeiten-in-niedriglohn-berufen_aid-56732373\n\nDas ist von 2019. Das war damals noch um einiges schlimmer.\n\nDie ganzen Lohnskandale waren oft in den Leiharbeitsfirmen später dann Werksverträge.\n\nArbeitest du als Personaler in der Zeitarbeitsindustrie oder woher hast du diese exklusiv meinung?",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;[https://de.statista.com/statistik/daten/studie/36306/umfrage/entwicklung-der-verguetung-nach-dem-eeg-seit-2000/](https://de.statista.com/statistik/daten/studie/36306/umfrage/entwicklung-der-verguetung-nach-dem-eeg-seit-2000/)[https://de.statista.com/statistik/daten/studie/618705/umfrage/eeg-differenzkosten-in-deutschland/#:\\~:text=Energiewende%20%2D%20EEG%2DDifferenzkosten%20in%20Deutschland%20bis%202020&amp;text=Die%20EEG%2DDifferenzkosten%20ergeben%20sich,rund%2028%2C4%20Milliarden%20Euro](https://de.statista.com/statistik/daten/studie/618705/umfrage/eeg-differenzkosten-in-deutschland/#:~:text=Energiewende%20%2D%20EEG%2DDifferenzkosten%20in%20Deutschland%20bis%202020&amp;text=Die%20EEG%2DDifferenzkosten%20ergeben%20sich,rund%2028%2C4%20Milliarden%20Euro).\n\nPaywall\n\nDie Differenzkosten sind aber eh nicht geeignet die Kosten zu beurteilen, das sie die Differenz zwischen Vergütung und Börsenstrompreis abbilden, der Börsenstrompreis ist durch die EE aber niedriger, da die EE wesentlich günstiger erzeugen als Kohle oder Atom, ohne EE wäre der Börsenpreis also höher gewesen. Ob wegen des EEG überhaupt mehr bezahlt wurde ist dadurch noch nicht mal klar.\n\n&gt;Wer bitte wollte in Deutschland Atomkraftwerke bauen?\n\nCDU/FDP haben den ersten Versuch die AKWs abzuschalten gestoppt und dabei nicht nur die Solarindustrie sondern den ganzen EE Ausbau abgewürgt. Wäre das nicht passiert hätten wir schon viel mehr EE.\n\n&gt;Und zudem, wie gesagt, als globales Konzept funktioniert es nicht. Hätten auch alle Nachbarländer Deutschlands so viel EE gebaut, dann hätte Europa ein riesiges Problem, denn Deutschland dumpt regelmäßig seinen Strom im Ausland ab. Das würde aber nicht mehr gehen, wenn die selbst ihren Strom irgendwo dumpen müssten.\n\nUnd im Gegenzug Kauf Deutschland wieder EE Strom. Das liegt daran, dass das Wetter nicht in ganz Europa gleich ist. Bei genug Überproduktion lohnt sich dann auch der Einstieg in die Wasserstoffwirtschaft. Natürlich funktioniert das.\n\n&gt; sehr günstige Speichertechnologien funktioniert es nun mal nicht als globales Konzept. Und diese Technologien müssten so billig sein, dass es kaum vorstellbar ist, dass das erreichbar sein soll. Batterien bestehen nun mal aus Rohstoffen, und die kosten Geld. Aktuell machen Rohstoffkosten ca. 40-50% der Batteriekosten aus. Um also auf eine Reduktion um 90% zu kommen, müsstest du alle anderen Kostenarten quasi eliminieren, und dann gleichzeitig auch den Rohstoffbedarf noch um 80% senken.\n\nEs gibt gerade neue Untersuchungen, dass es sich schon heute lohnt Kohlekraftwerke durch EE und Batteriespeicher zu ersetzen. Aber Akkus sind auch nicht die alleinige Lösung, denn neben Strom braucht es auch noch Wärme und Prozessenergie und dafür eignet sich z.B. Wasserstoff.\n\n&gt;Mit Wasser, und bevor du mit sinkenden Flusspegeln kommst: Die Stromproduktion zu drosseln ist eine rein ökonomische Entscheidung, keine technische. Man kann Kühltürme bauen, die das Wasser hinreichend abkühlen. Das ist aber wie gesagt eine ökonomische Frage, ob es sich lohnt einen Kühlturm zu bauen, oder ob man die Produktion eben drosselt und dann eben weniger verkauft. In Frankreich wird im Sommer weniger Strom gebraucht, deswegen drosseln viele AKWs lieber ihre Produktion, anstatt einen Kühlturm zu bauen.\n\nDu weißt wie Kühltürme funktionieren? Mit Verdunstung, deswegen auch die großen weißen Wolken mit Wasserdampf. Wie willst du denn das Kühlwasser wieder auf vertretbare Temperaturen bringen? Was kostet das? Die Flusspegel sinken im Sommer auch schon ohne Kühltürme, wo soll denn das Wasser dafür herkommen?\n\n\n&gt;Abgesehen davon ist es natürlich interessant zu sagen, für die sehr platzeffiziente AKWs wäre kein Platz in Deutschland, für die ultra-platzintensiven EE aber schon.\n\nDie Leute wollen schon keine EE in ihrer Nähe, was glaubst du wie viele ein AKW in der Nachbarschaft haben wollen? \n\n\n&gt;In Frankreich hat die Umstellung auf Atomstrom wunderbar geklappt vor ca. 45 Jahren. Das Land hat seit Jahrzehnten sauberen Strom und das übrigens auch deutlich günstiger, als Deutschland. In Deutschland zahlt man die mitunter höchsten Strompreise der Welt, hat schmutzigen Strom, und nun wird noch aus dem Steuertopf der Industriestrom subventioniert, weil man so langsam merkt, dass teurer Strom die Industrie vertreibt.\n\n\nDer französische Energiekonzern ist praktisch pleite weil sie gezwungen werden ihren Atomstrom unter Preis zu verkaufen und die Instandhaltung der AKWs wird Unsummen verschlingen. Der Atomstrom in Frankreich ist so billig, weil er massiv staatlich subventioniert wird. \n\n&gt;Atommüll hat, im Gegensatz zu dem ganzen Müll, der mit EE anfällt, bereits fertige Konzepte, wie es auch für Jahrmillionen den Müll sicher aufbewahren kann. Atommüll dürfte auch so ziemlich die einzige Müllart sein, die der Mensch komplett sicher aufbewahrt.Uran ist so ein unbedeutender Kostenfaktor, dass du es auch aus Meerwasser gewinnen könntest. Das hätte einen vernachlässigbaren Effekt auf den Endstrompreis.\n\nWo ist denn dann das deutsche Endlager? Warum weigern sich insbesondere die Bundesländer mir CDU/CSU Regierung, die sich gerne als Atomstrom-Fans aufspielen sich an der Endlagersuche zu beteiligen? Wo sind denn die fertigen Konzepte? Wo wird denn Atommüll sicher aufbewahrt? \n\nUran ist unbedeutend? Warum haben dann alle Atomstrom-Länder eine Abhängigkeit von Russland und Rosatom? Warum gewinnt denn niemand Uran aus Meerwasser?\n\nDu nimmst in deiner \"Argumentation\" immer den best case und noch nicht existierende Fortschritte bei Atomenergie an und immer den worst case bei EE. Das ist bei dir alles reines Wunschdenken und hat überhaupt nichts mit der Realität zu tun, noch nichtmal bei den Pro-Atom Ländern.)",
+        "date": "2023-12-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wo kostet das kg Kartoffeln außerhalb der Erntezeit 50 Cent? Ich bezahle glaube ich mittlerweile stabil um die 2 Euro für Kartoffeln? Wo ist Tee nahrhafte Nahrung? Auch Kohl ist nichtmal ansatzweise außerhalb der Erntezeit so billig.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Wo ist denn dann das deutsche Endlager? Warum weigern sich insbesondere die Bundesländer mir CDU/CSU Regierung, die sich gerne als Atomstrom-Fans aufspielen sich an der Endlagersuche zu beteiligen?\n\nEs ist ein sehr leichtes für die Fossilrohstoff-Lobby die Endlagersuche zu sabotieren und so ein leicht lösbares Problem nicht zu lösen. In den USA gibt es dafür genug dokumentierte Fälle.\n\nEs ist Politik, Politiker lügen. In Deutschland gibt es keine Pro-Atom Politiker. Deutschland schaltet mitten in einer Energiekrise AKWs ab, und hier soll es Pro-Atom-Politiker geben, lol.\n\n&gt;Uran ist unbedeutend? Warum haben dann alle Atomstrom-Länder eine Abhängigkeit von Russland und Rosatom? Warum gewinnt denn niemand Uran aus Meerwasser?\n\nEs haben nicht alle Länder eine Abhängigkeit von Russland. Weil es bei aktuellem Verbrauch mehr als genug Uran gibt.\n\n&gt;Du nimmst in deiner \"Argumentation\" immer den best case und noch nicht existierende Fortschritte bei Atomenergie an und immer den worst case bei EE. Das ist bei dir alles reines Wunschdenken und hat überhaupt nichts mit der Realität zu tun, noch nichtmal bei den Pro-Atom Ländern.)\n\nNein, ich gehe ausschließlich von in der Realität verfügbaren und auch über Jahrzehnte demonstrierte Lösungen an (Frankreich) aus, während du...\n\n&gt;Und im Gegenzug Kauf Deutschland wieder EE Strom. Das liegt daran, dass das Wetter nicht in ganz Europa gleich ist. Bei genug Überproduktion lohnt sich dann auch der Einstieg in die Wasserstoffwirtschaft. Natürlich funktioniert das.\n\n...buchstäbliche Schönwetter-Politik betreibst. In diesem Konzept müsste jedes europäische Land gigantische Überproduktionen bereitstellen, um das Nachbarland im Notfall mitversorgen zu können. Also bspw. 100.000 Windräder in Deutschland um den deutschen Bedarf zu decken, und dann nochmal so viele um Frankreich mitzuversorgen, wenn es dort gerade nicht windet, plus noch gigantische Stromnetze, um auch den gesamten Strom nach Frankreich zu bringen. Das ist natürlich Blödsinn und hat auch niemand vor. EE steht und fällt damit, dass es extrem günstige Speicher geben wird, alles andere ist Schönwetter-Politik.\n\n&gt;Der französische Energiekonzern ist praktisch pleite weil sie gezwungen werden ihren Atomstrom unter Preis zu verkaufen und die Instandhaltung der AKWs wird Unsummen verschlingen. Der Atomstrom in Frankreich ist so billig, weil er massiv staatlich subventioniert wird.\n\nDas ist schlicht und ergreifend falsch. EDF hat in jedem Jahr, außer 2022 Profite gemacht, die größtenteils der französische Staat erhält. 2022 hat Macron eine Strompreisbremse erlassen, ohne EDF zu kompensieren dafür, dass sie ihren Strom mit Verlust verkaufen müssen. Deswegen hat der Konzern in einem Jahr Verlust gemacht. Aber selbst da sehen die Zahlen so aus, dass EDF ohne Strompreisbremse günstigeren Strom angeboten hätte, als man in Deutschland normalerweise bekommt (EDF wollte den Strom für 25ct/kWh verkaufen, der Staat hat 20ct festgelegt. In Deutschland war auch schon vor der Krise 30ct normal, während der Krise über 60ct). Aufgrund dieser Zahlen übrigens, weil Frankreich immer noch günstigen Strom hat, ist die Inflation dort auch viel niedriger.\n\n&gt;Die Leute wollen schon keine EE in ihrer Nähe, was glaubst du wie viele ein AKW in der Nachbarschaft haben wollen?\n\nDa nur ca. 40 Reaktoren verteilt auf vielleicht 10-20 Standorte nötig wären, wären auf jeden Fall deutlich weniger Menschen davon betroffen in der Nähe eines AKWs zu leben.\n\n&gt;Es gibt gerade neue Untersuchungen, dass es sich schon heute lohnt Kohlekraftwerke durch EE und Batteriespeicher zu ersetzen. Aber Akkus sind auch nicht die alleinige Lösung, denn neben Strom braucht es auch noch Wärme und Prozessenergie und dafür eignet sich z.B. Wasserstoff.\n\nDa geht es immer ausschließlich um Tagesfluktuationen und kleine Speicher, um Flauten abzufangen bräuchte man so gigantische Speicher (ca. um den Faktor 1000 größer als die Speicherkapazitäten, die heutzutage installiert werden), deren Baukosten unter optimistischen Bedingungen den Bau der EE selbst um das ca. 10-fache übersteigen. Ich hab eine PV-Anlage auf dem Dach und eine Batterie im Keller, ich habe mal spaßeshalber geguckt, wie teuer es wäre Batterien zu kaufen, mit denen meine Wärmepumpe 1 Woche laufen könnte. Es hätte mehr gekostet, als das Haus selbst.\n\n&gt;Die Differenzkosten sind aber eh nicht geeignet die Kosten zu beurteilen, das sie die Differenz zwischen Vergütung und Börsenstrompreis abbilden, der Börsenstrompreis ist durch die EE aber niedriger, da die EE wesentlich günstiger erzeugen als Kohle oder Atom, ohne EE wäre der Börsenpreis also höher gewesen. Ob wegen des EEG überhaupt mehr bezahlt wurde ist dadurch noch nicht mal klar.\n\nDie Differenzkosten ergeben sich daraus, dass die Umlage die zusätzlichen EE-Kosten nicht decken, dass EE den rekordträchtigen deutschen Strompreis angeblich senken ist eine Spinnerei der EE-Lobby, die anscheinend deine einzige Infoquelle ist.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dabei gibt es sooo viele andere Möglichkeiten Kohle einzusparen, allein CumEX hat schätzungsweise 10 Milliarden Euro gekostet. \n\nAber am schlimmsten ist doch, seien wir ehrlich, dass so Typen wie Merz gewählt werden.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Achja, der staatlich alimentierte Spitzenverdiener Söder mit konservativ geschätzten 20k Bezügen/Monat erzählt Handwerker Horst mit 1,6 Netto, dass dieser doch gefälligst auf Bürgergeldbezieher Boris sauer sein sollte,\n\nKeine Sorge, der Markus ist nur das \"kleine Hausfrauchen mit 540€ Job\". Die fette Kohle bringt seine Frau als Erbin eines soliden Mittelständlers mit 3-stelligem Millionenumsatz nach Hause.",
+        "date": "2023-12-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Weil wir ja soviel besser sind.\n\nWir (Bundesregierung DE) waren drauf und dran Gas als nachhaltig einzustufen. Methan!\n\nUnserer Regierung hat scharlatanhafte Gesetze und Verordnungen geschaffen um Solarausbau zu verhindern. Unsere Regierung hat für das Abwandern der Solarproduktion gesorgt. Wofür? Für Kohle und Gas? \n\nWie sollen wir GasGerd einschätzen? Nützlicher Idiot, das ein Land so einseitig abhängig wird? Wie sollen wir Angela Raute einschätzen dass sie Deutschland ohne Plan B so abhängig gemacht hat? Also wirklich ohne Plan B? Sodass die nächste Regierung es herausfinden musste?\n\nWie schön das nur die anderen korrupt sind und einige unserer Politiker nicht korrupt/dumm sind, sondern unglücklicherweise nur Positionen vertritt die gerade dem Gegner helfen.",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Und dir ist schon bewusst wie viel die Abgaben des Einzelhandels dem Staat einbringen?\n\nRentnern Kohle in den Arsch blasen, um einen Bruchteil davon am Ende wieder als Steuereinnahmen wiederzubekommen! Klasse Sache.\n\n&gt; zu Lasten der schwächsten der Gesellschaft\n\nBruder von welchen Schwachen redest du. Den meisten Rentnern geht es so gut wie nie. Die Renten und Pensionen sind hoch. Es folgt eine Erhöhung der nächsten. Das reale Renteneintrittsalter ist lächerlich niedrig. Die Lebenserwartung ist hoch. Du kannst 6k steuerfrei dazuverdienen und unbegrenzt versteuert dazuverdienen.\nViele haben einiges an Vermögen angehäuft und kaum Ausgaben. Es gibt einen Haufen an Zusatzleistungen.",
+        "date": "2023-12-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Wenn dein Argument das Einkommen der Arbeiter ist, warum unterstützen wir nicht das Arbeiter bei ihrem Einkommen? Warum über 5 Ecken durch Kohle Subventionen? Könnte es vielleicht sein, dass Arbeitsplätze nur ein vorgeschobenes Argument ist um die Industrie zu subventieren?",
+        "date": "2023-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das Problem ist ja, dass sich aus Gründen immer nur auf den Westen Deutschlands konzentriert hat. Die östlichen Reviere haben sich ins Fäustchen gelacht, dass sie weiter machen dürfen. \n\nUnd jetzt wird natürlich verständlicherweise gemeckert, wenn der Osten jetzt doch eher aufhören soll mit der Kohle. Die Unternehmen haben sich halt ausgeruht in dem Glauben, noch länger weitermachen zu können und entsprechend nicht vorgesorgt",
+        "date": "2023-12-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Heute frei. Wurde schon mehrfach angezählt doch bitte endlich Stunden abzubauen. Jetzt sitze ich bei Scheisswetter und kann eigentlich nix zu hause daraus machen, weil miene wichtigsten \"Projekte\" alle draussen sein würden. \n\nAber Gott beware ich will mal im Sommer ein bisschen Stunden abbummeln - wo ich was schaffen könnte... \n\nAusserdem: HAMAS hat wohl wieder Kohle springen lassen, in den sozialen Medien krieg ich seit gestern Abend (auffällig punktuell) vermehrt Propagandavideos eingespült",
+        "date": "2023-12-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Al Gore ist (zusammen mit Arnold Schwarzenegger) eines der besten Beispiele, dass die Behauptung \"Die Politik kann einfach nichts machen\"  vorne und hinten nicht stimmt. Die Politik kann sehr wohl etwas machen, und die Ansage was die Situation ist und was man tun muss um ein Problem zu bewältigen ist doch gerade eine kernaufgabe von politischer Führung.\n\nUnd es kann auch niemand sagen, dass die Regierungen in Deutschland nicht gut genug Bescheid wussten über die drohende Gefahr: [Hans-Joachim Schellnhuber hat seit 1994 mit der Gründing des Potsdam Instituts für Klimaforschung die damalige Bundesumweltministerin Dr. Angela Merkel unter der Regierung von einem gewissem Helmut Kohl direkt, aus erster Hand, beraten](https://de.wikipedia.org/wiki/Hans_Joachim_Schellnhuber#Beratung_von_Wissenschaft,_Politik_und_Wirtschaft).",
+        "date": "2023-12-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Meine Zähne gehen mir weiterhin tierisch auf'n Sack. Beim letzten Zahnarztbesuch wurde mir schon ins Gewissen geredet, dass ich mehr Zahnseide nutzen muss. Das hab ich jetzt auch wirklich ein halbes Jahr durchgehalten, jeden einzelnen Tag. Aber jetzt am WE plötzlich Schmerzen hinten links, Kiefer/Wange, und offenbar ein Loch im Zahnfleisch. Mittlerweile tut's fast gar nicht mehr weh, aber am Mittwoch hab ich nen Termin zum abklären. \n\nOn the bright side, Sohnemann, bald 4 Monate, entwickelt sich prächtig. Kann sich mittlerweile selbst vom Rücken auf dem Bauch drehen. Und jammert dann, weil er nicht zurückkommt :-)\n\nUnd das Wetter ist mir egal, ich muss ja nicht ausm Haus. Letzte Woche kam das Ergebnis der ersten Einkommenssteuererklärung seit der Hochzeit letztes Jahr, und von der ganzen Kohle erstmal ne neue GPU und ne Meta Quest 3 gegönnt. Kommt diese Woche an. Bin sehr gespannt.",
+        "date": "2023-12-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich denke, dein aktueller gemütszustand verklärt dir den Blick auf das Wesentliche. Das ist zwar nachvollziehbar, aber auch ein großes problem.\n\nNehme die Tatsachen besser war. Du -hast- ein Studium erfolgreich abgeschlossen. Das ist eine wertvolle Tatsache, die du nicht unter den Teppich kehren darfst. Du hast damit etwas bewiesen. Wäre es dir um \"Fette Kohle vom Start weg\" gegangen, hättest du etwas anderes studieren müssen. Und selbst dann wäre der Wunsch wahrscheinlich nicht so wirklich schnell in Erfüllung gegangen.\n\nDu hast sehr viel Anstrengung unter schwierigen Bedingungen hinter dir. Es ist nachvollziehbar, dass du gern belohnt werden möchtest. Versuch, aus dem sprint raus zu kommen. Versteh dein Leben mehr wie eine Expedition. Versuch zu lernen, dich zu erholen, bevor du die nächste Etappe angehst. Steck dir erfüllbare Ziele. Geh es ruhig an. Besinn dich auf das, was du hast. Plane. Mach den nächsten Schritt.\n\nManche Dinge können nicht konstruiert werden. Es dauert seine Zeit, sein Leben zu formen. Versuch, dich und deine motivation kurzschrittiger aufzubauen.",
+        "date": "2023-12-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Es lohnt nicht jedes Studium gleich viel, sagen wir es mal so hart.\nWenn es beim Studium darum geht, Kohle zu verdienen und einen Job zu finden, dann gibt's Studiengänge in denen das Recht einfach ist, und dann gibt's die Studiengänge die man eher aus Überzeugung wählt, da darf man dann aber auch nicht zu enttäuscht sein, wenn der Einstieg ins Berufsleben etwas länger dauert und härter wird. \n\nMeistens sind die Überzeugungstäter allerdings schneller glücklich mit ihrer Arbeit wenn sie denn eine finden.",
+        "date": "2023-12-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Deine Einstellung ist das Problem. Gelegenheiten ergeben sich von selbst. Ich habe nen Arbeitskollegen der in der Industrie arbeitet, unter der Woche zusätzlich in ner Pizzeria und parallel schreibt er Ernährungspläne und gibt hin und wieder den Fitnesstrainer. Der Dude hat schon so viel Kohle das er sich ne Wohnung fast bar kaufen könnte.  \n\nEs liegt am Ende nur an dir, was du aus dir machst. Nimm einen Job mit Mindestlohn an, geh ins Gym und schreib parallel Bewerbungen\nDer Rest kommt von selbst. Aber hör mit der Mitleidskacke auf.",
+        "date": "2023-12-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Für den Fall, dass OP kein Troll der Fotzenfritz-Sagt-Bürgergeld-Muss-Weg-Brigade ist: \n\nJeder Rechtswissenschaftler fängt nach dem 1. StX als Referendar mit der genannten oder weniger Kohle an plus der ungewissen Aussicht, 2 Jahre später ein 2. StX schreiben zu dürfen, dessen Ausgang keine Wohlfühlnoten kennt und das dann über Hop oder Top entscheidet.\n\nAlso: Weitermachen, das Beste hoffen.",
+        "date": "2023-12-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja die Grünen waren ja auch konsequent für einen massiven Ausbau der Erneuerbaren\n\nDer Plan war nie böses Nuklear weg und Yolo, sondern Nuklear,Kohle,Öl reduzieren während man Erneuerbare hochfährt und als Zwischenlösung so viel Gas wie nötig\n\nDas kann man auch kritisieren, aber es ist nicht der energiepolitische Fail, denn Schwarz+Rot/Gelb in 16J Merkel fabriziert haben",
+        "date": "2023-12-04",
+        "sentiment": "negative"
+    }
+]

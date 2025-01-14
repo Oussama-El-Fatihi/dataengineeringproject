@@ -1,0 +1,1000 @@
+{
+    "data": [
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 500,
+                    "coin_reward": 100,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": 7,
+                    "description": "Gives 100 Reddit Coins and a week of r/lounge access and ad-free browsing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                    "icon_width": 512,
+                    "id": "gid_2",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Gold",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 400,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "An amazing showing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": "APNG",
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_512.png",
+                    "icon_width": 512,
+                    "id": "award_84276b1e-cc8f-484f-a19c-be6c09adc1a5",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Bravo!",
+                    "penny_donate": null,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=064dd1e3f123762ac79f238c385df8995abc6a3c",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=d2aeea10a3157b365ddac6a6597fe30c76b52e66",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=13623024a765dba94dc5fed0412104f8fbf14579",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=ed05be2bef0bc40c8b19e9cb73bafa317d48f25c",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=8ad6bd15243ed2d5a0c007f850e36d6b49a5a332",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 50,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Listen, get educated, and get involved.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png",
+                    "icon_width": 2048,
+                    "id": "award_69c94eb4-d6a3-48e7-9cf2-0f39fed8b87c",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Ally",
+                    "penny_donate": null,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=12f18f484af14d4a593c0eeca2ddf0104fcafbea",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=a86cd430c009186819c61a9f12cc6010529da93a",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=5acf096034215626ed92aba3219a3e02a5270013",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=8ae29304ad7bd8f005a2a6baf2268dc4e721f59a",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=d258ce2dd4a244a34f9a37bcf05ecc0a7dbd9e8f",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=12f18f484af14d4a593c0eeca2ddf0104fcafbea",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=a86cd430c009186819c61a9f12cc6010529da93a",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=5acf096034215626ed92aba3219a3e02a5270013",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=8ae29304ad7bd8f005a2a6baf2268dc4e721f59a",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=d258ce2dd4a244a34f9a37bcf05ecc0a7dbd9e8f",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5nswjpyy44551_Ally.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": true,
+            "archived": false,
+            "author": "Radorarid",
+            "author_created_utc": 1518626016,
+            "author_flair_background_color": null,
+            "author_flair_css_class": "BONN",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Bonn"
+                }
+            ],
+            "author_flair_template_id": "d0ce3820-3866-11e5-8fa9-0e93edfed695",
+            "author_flair_text": "Bonn",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_rmnhdwj",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1677699392,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 1,
+            "gildings": {
+                "gid_2": 1
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "11fel40",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#cd0000",
+            "link_flair_css_class": "category rant",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "TIRADE"
+                }
+            ],
+            "link_flair_template_id": "0902ecac-6f4d-11e8-80ce-0e814e0b1ec0",
+            "link_flair_text": "TIRADE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_11fel40",
+            "no_follow": false,
+            "num_comments": 824,
+            "num_crossposts": 1,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/11fel40/steckt_euch_eure_flachen_hierarchien_in_den_arsch/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1681024220,
+            "score": 3138,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Ich muss das jetzt mal loswerden, weil es mich tierisch aufregt.\n\n&amp;#x200B;\n\nIch bin Student, bald im letzten Semester und schreibe dann meinen Bachelor. Wenn alles gut geht habe ich den im Oktober diesen Jahres im Sack und kann in die große weite Arbeitswelt gehen. Juhu.\n\nEin wenig ängstlich wie ich bin wegen der Zukunft schaue ich also auf Bewerbungsplattformen meiner Wahl nach, LinkedIn, Stepstone und wie der ganze Scheiß heißt.\n\nUnd jedes verfickte Mal springen mir die selben, beschissenen Anzeigen ins Auge, wo alle auf total modern, jung und hipp tun! Weil das ja auch bei der Generation 2000 so gut fruchtet, voll geilo alder!\n\n\"Wir sind ein junges, modernes Unternehmen mit flacher Hierarchie, es gibt einen Obstkorb und Team-Events....\" jajaja, bla bla bla. Also scrollt man sich durch diese Cringe-Scheiße, die sogar der Katze meiner Schwester zu dumm wäre und hofft auf nur einen Satz. \"Dein Einsteigsgehalt beträgt \\[hier Summe einfügen\\]\".\n\nABER NIX! NADA! NIENTE! KEIN VERFICKTES UNTERNEHMEN AUF DIESEN DRECKS-PLATTFORMEN WILL SEIN VERSCHISSENES EINSTIEGSGEHALT FÜR MICH ALS EINSTEIGER IN DEN BERUFSMARKT ANGEBEN!!! Und das bei so gut wie JEDEM. FUCKING. UNTERNEHMEN!\n\n\"Oh, aber dass wollen die jungen Leute doch von heute nicht sehen oder hören. Die wollen eine gute Atmosphäre im Arbeitsteam, damit sie auch lange bleiben.\" NEIN HELMUT, ICH WILL NICHT NUR EINE GUTE ATMOSPHÄRE AUF DER ARBEIT, ICH WILL GEHELD! DER SCHEIß, DEN MAN BENÖTIGT, UM ZU ÜBERLEBEN! ICH SCHLEPPE MICH NICHT WEGEN DER TOLLEN ATMOSPHÄRE, DEM OBSTKORB ODER DEN FUCKING FLACHEN HIERARCHIEN UM ACHT UHR FRÜH ALS LOHNSKLAVE INS BÜRO. SONDERN FÜR MEIN GEHALT!\n\nIch will nur wissen, wie mein Gehalt aussieht, damit ich mit meinem Leben planen kann und weiß, wo ich sparen kann und ob ich mir ne Miete für ne vernünftige Wohnung leisten kann! MICH INTERESSIERT DEINE FLACHE HIERARCHIE IM OBSTKORB MIT DEM ABGERANZTEN APFEL VON PENNY NICHT! SONDERN MEINE KOHLE!\n\nUnd dann nach Fachkräftemangel schreien und sich beschweren, dass die jungen Leute von heute ja nicht mehr arbeiten wollen. Ne, Helmut, die bewerben sich einfach nicht, weil du nicht angibst, was du ihnen zahlen willst!\n\nIch habe fertig. Wahrscheinlich mache ich doch einfach Duales Studium, da weiß ich zumindest, was ich verdiene.",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 1093802,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Steckt euch eure flachen Hierarchien in den Arsch!",
+            "top_awarded_type": null,
+            "total_awards_received": 3,
+            "treatment_tags": [],
+            "upvote_ratio": 0.9,
+            "url": "https://www.reddit.com/r/de/comments/11fel40/steckt_euch_eure_flachen_hierarchien_in_den_arsch/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "dragon_irl",
+            "author_cakeday": true,
+            "author_created_utc": 1554740075,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_3kcliyz4",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1678448091,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "tagesschau.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "11nmpgz",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#3c58be",
+            "link_flair_css_class": "category newsde",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Nachrichten DE"
+                }
+            ],
+            "link_flair_template_id": "1186c958-7c5c-11e4-b6d1-12313d1494bc",
+            "link_flair_text": "Nachrichten DE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_11nmpgz",
+            "no_follow": false,
+            "num_comments": 59,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/11nmpgz/stromerzeugung_aus_kohle_mehr_als_ein_dutzend/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "BRqeYPC-uBeUy-MLvfKBRTS9PPrpN28cI7q0B7Ggs9Q",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/Q09F-Gn6zdBBNEGAg-YoYlzAbKfOLB_mUN_xr8rbcV0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=2a35039f86a7fd9506da8560c6821b834254b3e3",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/Q09F-Gn6zdBBNEGAg-YoYlzAbKfOLB_mUN_xr8rbcV0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=310a5f0fdd80194b228b0c1f3a9ecd1974f50a9b",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/Q09F-Gn6zdBBNEGAg-YoYlzAbKfOLB_mUN_xr8rbcV0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=6a4e87dd65f435f3a2cdb5c7f9b4e9c66b993562",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/Q09F-Gn6zdBBNEGAg-YoYlzAbKfOLB_mUN_xr8rbcV0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=f8face3b80e4f48b7f561cf817d59eb1fcd05729",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/Q09F-Gn6zdBBNEGAg-YoYlzAbKfOLB_mUN_xr8rbcV0.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=b3d6676651faccb233b4a2867953e0f081cc3dd3",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/Q09F-Gn6zdBBNEGAg-YoYlzAbKfOLB_mUN_xr8rbcV0.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=feaec43e2bf9078f5491647ce9a9bdbd8b976157",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 1080,
+                            "url": "https://external-preview.redd.it/Q09F-Gn6zdBBNEGAg-YoYlzAbKfOLB_mUN_xr8rbcV0.jpg?auto=webp&amp;v=enabled&amp;s=3e895e182a083996b15b52231d0ee59d57d8d4b9",
+                            "width": 1920
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1681013951,
+            "score": 38,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 1093740,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/6Cl0D2s92tt7IRzdTIIixYYEkcQIzfFU7JbC7nGwW0E.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Stromerzeugung aus Kohle: Mehr als ein Dutzend reaktivierte Kraftwerke",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.8,
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/steinkohlekraftwerke-gaskrise-101.html",
+            "url_overridden_by_dest": "https://www.tagesschau.de/wirtschaft/unternehmen/steinkohlekraftwerke-gaskrise-101.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "GirasoleDE",
+            "author_created_utc": 1417641623,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_js5a5",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1678902851,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "sueddeutsche.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "11s3tuq",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#00301b",
+            "link_flair_css_class": "category science",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wissenschaft&amp;Technik"
+                }
+            ],
+            "link_flair_template_id": "b861e6c8-607f-11e6-9f02-0ea60a88c57b",
+            "link_flair_text": "Wissenschaft&amp;Technik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_11s3tuq",
+            "no_follow": true,
+            "num_comments": 8,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/11s3tuq/her_mit_der_kohle_mehr_geld_macht_nicht_glücklich/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "bNSiggcIkPu1h2to4lSo6Qi0tD_IZDK6xZJmKMlThOM",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/WVj8N9AHKF7qaHQc7l-ohEjCI3nM7W3crzI_SoomNRA.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=e8ce18795b058907f11f1974a59aa1e59c685d65",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/WVj8N9AHKF7qaHQc7l-ohEjCI3nM7W3crzI_SoomNRA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=2ba4f992122481749676cfa2142b056299baeb75",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/WVj8N9AHKF7qaHQc7l-ohEjCI3nM7W3crzI_SoomNRA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=60e0986d2afc2594de9cea25e3a9299e2fe5a002",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/WVj8N9AHKF7qaHQc7l-ohEjCI3nM7W3crzI_SoomNRA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=2e79d3a32a12fac4ef99843c618c4d42f08d47d9",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/WVj8N9AHKF7qaHQc7l-ohEjCI3nM7W3crzI_SoomNRA.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=2ff93577572f8b022620f74ac762832f68413159",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/WVj8N9AHKF7qaHQc7l-ohEjCI3nM7W3crzI_SoomNRA.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=9849b42961828cc828ac6325f5ae9a2ea36ed459",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 675,
+                            "url": "https://external-preview.redd.it/WVj8N9AHKF7qaHQc7l-ohEjCI3nM7W3crzI_SoomNRA.jpg?auto=webp&amp;v=enabled&amp;s=4a4104e93cd385d8552fff1ccb92450445bec20e",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1681007811,
+            "score": 0,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 1093721,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/ehbLdoFYYIbk6oFCCntoCGGuVqMp0wTgYrmz1x2GXzI.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Her mit der Kohle | Mehr Geld macht nicht glücklich? Der populäre Glaubenssatz wurde jetzt erneut wissenschaftlich analysiert. Mit erstaunlichen Ergebnissen.",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.38,
+            "url": "https://www.sueddeutsche.de/wissen/psychologie-her-mit-der-kohle-1.5769511",
+            "url_overridden_by_dest": "https://www.sueddeutsche.de/wissen/psychologie-her-mit-der-kohle-1.5769511",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "stensz",
+            "author_created_utc": 1606154521,
+            "author_flair_background_color": null,
+            "author_flair_css_class": "TEXT",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Außenminister Klaus Kinski"
+                }
+            ],
+            "author_flair_template_id": "e9e71cc8-7d3b-11e4-9eb1-22000bc148da",
+            "author_flair_text": "Außenminister Klaus Kinski",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_90f5ta55",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1678958234,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "gabyweber.com",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "11soy9q",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#036c85",
+            "link_flair_css_class": "category politics",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Politik"
+                }
+            ],
+            "link_flair_template_id": "27453a40-7ecd-11e4-a392-22000b3a0037",
+            "link_flair_text": "Politik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_11soy9q",
+            "no_follow": true,
+            "num_comments": 1,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/11soy9q/klageerzwingung_und_klage_auf_herausgabe_der/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": "moderator",
+            "retrieved_on": 1681006998,
+            "score": 6,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 1093716,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Klageerzwingung und Klage auf Herausgabe der Akten des Ex-Bundeskanzlers Helmut Kohl",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.72,
+            "url": "https://www.gabyweber.com/index.php/de/prozesse-de/110-kohl-akten",
+            "url_overridden_by_dest": "https://www.gabyweber.com/index.php/de/prozesse-de/110-kohl-akten",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": false,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1679248843,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "11vsboz",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#3c58be",
+            "link_flair_css_class": "category newsde",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Nachrichten DE"
+                }
+            ],
+            "link_flair_template_id": "1186c958-7c5c-11e4-b6d1-12313d1494bc",
+            "link_flair_text": "Nachrichten DE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_11vsboz",
+            "no_follow": true,
+            "num_comments": 0,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/11vsboz/suche_leute_die_ebayy_klein_haben_und_kohle/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": "deleted",
+            "retrieved_on": 1681002730,
+            "score": 1,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "[removed]",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 1093676,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Suche Leute die ebayy klein. Haben und Kohle machen wollen",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 1.0,
+            "url": "",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": true,
+            "archived": false,
+            "author": "HorrorBrot",
+            "author_created_utc": 1420152048,
+            "author_flair_background_color": "",
+            "author_flair_css_class": "MAGDEB",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Machdeburch"
+                }
+            ],
+            "author_flair_template_id": null,
+            "author_flair_text": "Machdeburch",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_kg40w",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1680164921,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "spiegel.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "126gm3l",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#036c85",
+            "link_flair_css_class": "category politics",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Politik"
+                }
+            ],
+            "link_flair_template_id": "27453a40-7ecd-11e4-a392-22000b3a0037",
+            "link_flair_text": "Politik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_126gm3l",
+            "no_follow": false,
+            "num_comments": 52,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/126gm3l/leipzig_klage_auf_herausgabe_von_akten_von/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "sXM9S_wkigp-YEoagFbzYdSCbItumaDqqYOeXjZ0VXE",
+                        "resolutions": [
+                            {
+                                "height": 61,
+                                "url": "https://external-preview.redd.it/WolhKlxliQOZrAQ0bx_Qn0zDGYY6K74QeOiiici619I.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=d840ae0d2eda336b91b70481ef43c7f0105554b5",
+                                "width": 108
+                            },
+                            {
+                                "height": 122,
+                                "url": "https://external-preview.redd.it/WolhKlxliQOZrAQ0bx_Qn0zDGYY6K74QeOiiici619I.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=b6f73e47b684b2f6ad82452e59d2beeb91d86518",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/WolhKlxliQOZrAQ0bx_Qn0zDGYY6K74QeOiiici619I.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=919f4f9ea448aa3c82001b50b0f745f6e2613101",
+                                "width": 320
+                            },
+                            {
+                                "height": 361,
+                                "url": "https://external-preview.redd.it/WolhKlxliQOZrAQ0bx_Qn0zDGYY6K74QeOiiici619I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=943d5ee63f72320c32a382a6094a0cc175f964ba",
+                                "width": 640
+                            },
+                            {
+                                "height": 542,
+                                "url": "https://external-preview.redd.it/WolhKlxliQOZrAQ0bx_Qn0zDGYY6K74QeOiiici619I.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=1876fcbedc5aec16af861d9aac5bf91d9a880e65",
+                                "width": 960
+                            },
+                            {
+                                "height": 610,
+                                "url": "https://external-preview.redd.it/WolhKlxliQOZrAQ0bx_Qn0zDGYY6K74QeOiiici619I.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=6ef83bb477958b0acbad4f1921f7556510c1d400",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 723,
+                            "url": "https://external-preview.redd.it/WolhKlxliQOZrAQ0bx_Qn0zDGYY6K74QeOiiici619I.jpg?auto=webp&amp;v=enabled&amp;s=64aeefa75f9648c5dbef65c78ccdba9421939b8a",
+                            "width": 1280
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1680988727,
+            "score": 163,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 1093404,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/y3qFqgkW76aOLHA7Qf_u3r_4e845tsUaOKXkCIs97Fc.jpg",
+            "thumbnail_height": 79,
+            "thumbnail_width": 140,
+            "title": "Leipzig: Klage auf Herausgabe von Akten von Ex-Bundeskanzler Helmut Kohl gescheitert",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.96,
+            "url": "https://www.spiegel.de/politik/deutschland/leipzig-klage-auf-herausgabe-von-akten-von-ex-bundeskanzler-helmut-kohl-gescheitert-a-ee6af03c-6f1b-4998-a86f-f66c7293be6a",
+            "url_overridden_by_dest": "https://www.spiegel.de/politik/deutschland/leipzig-klage-auf-herausgabe-von-akten-von-ex-bundeskanzler-helmut-kohl-gescheitert-a-ee6af03c-6f1b-4998-a86f-f66c7293be6a",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 239,
+        "op_b": 169,
+        "total": 420
+    },
+    "error": null
+}

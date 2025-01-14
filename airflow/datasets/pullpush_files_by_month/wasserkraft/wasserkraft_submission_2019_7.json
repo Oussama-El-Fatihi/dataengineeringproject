@@ -1,0 +1,127 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "EnteDiePennte",
+            "author_created_utc": 1551678442,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_3bnmf8xb",
+            "author_patreon_flair": false,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1564401552,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "golem.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "id": "cjaa6l",
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#00301b",
+            "link_flair_css_class": "category science",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wissenschaft&amp;Technik"
+                }
+            ],
+            "link_flair_template_id": "b861e6c8-607f-11e6-9f02-0ea60a88c57b",
+            "link_flair_text": "Wissenschaft&amp;Technik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "no_follow": false,
+            "num_comments": 5,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/cjaa6l/brennstoffzellenauto_wasserstoff_aus_wasserkraft/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "VTqO1cnC91f-vumyBwMLcSWBTvSgwNlumQw9CwWP4qs",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/acSQisvVKOVVS_F1ysDTv-NiuzYKG-eaF8l1_8BcD5g.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=34d6c5c0df967b44129f27d516a269474618b5a6",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/acSQisvVKOVVS_F1ysDTv-NiuzYKG-eaF8l1_8BcD5g.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=67c6a23df3421e7cb2caaead5bcb5b70da2f0425",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/acSQisvVKOVVS_F1ysDTv-NiuzYKG-eaF8l1_8BcD5g.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=74ba8096b5d556090949df2f96ed64d586ca2857",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 234,
+                            "url": "https://external-preview.redd.it/acSQisvVKOVVS_F1ysDTv-NiuzYKG-eaF8l1_8BcD5g.jpg?auto=webp&amp;s=ff7c691bf61b1fcf7d80eac0c082136b10bf61bb",
+                            "width": 416
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removal_reason": null,
+            "retrieved_on": 1567052893,
+            "score": 2,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 203992,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/ASdHwP5F9Y02ox_hqAx6wswk0qa1PZS_6UE14ZOhYLg.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Brennstoffzellenauto: Wasserstoff aus Wasserkraft",
+            "total_awards_received": 0,
+            "url": "https://www.golem.de/news/brennstoffzellenauto-wasserstoff-aus-wasserkraft-1907-142836.html",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 224,
+        "op_b": 245,
+        "total": 484
+    },
+    "error": null
+}

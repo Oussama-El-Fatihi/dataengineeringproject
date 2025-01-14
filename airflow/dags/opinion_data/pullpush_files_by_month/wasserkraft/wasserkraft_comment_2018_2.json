@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Scheint ein Münchner Phänomen zu sein. In Salzburg hatte ich noch nie das Gefühl, dass es in öffentlichen Verkehrsmitteln zu warm ist. Eher im Gegenteil. Wenn die Tür 30 Sekunden offen ist, ist es im Bus saukalt. Dabei schadet das Heizen hier nicht der Umwelt, weil alle Stadtbusse mit Strom aus 100% Wasserkraft fahren :)",
+        "date": "2018-02-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Offshore in Verbindung mit den HGÜ nach Norwegen ist eigentlich keine schlechte Sache. Zusammen mit der Wasserkraft dort hat man eine ziemlich flexible Stromerzeugung. Und mit Südlink kombiniert sich das wiederum ganz gut mit Photovoltaik aus Süddeutschland.",
+        "date": "2018-02-10",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Man sollte anmerken, dass sich die von den Wiener Grünen durchgesetzte Reduktion von 450€ auf 365€ im Jahr 2013 beinahe selber getragen hat, dadurch, dass sich die Kundenanzahl sehr stark gesteigert hat. Nominell war es sogar ein Gewinn, aber natürlich haben sich die Betriebskosten durch die höhere Taktung etc. erhöht, was damals gesamt als ca. 50 Millionen Euro extra Subventionen zu Buche geschlagen hat. \n\nUnd Folgekosten für Individualverkehr wie Infrastrukturerhaltung, Umweltkosten, CO2-Einsparungen sind da natürlich gar nicht gegengerechnet. (was in Österreich einen großen Unterschied macht, da Strom relativ sauber zu einem großen Teil aus Wasserkraft stammt)",
+        "date": "2018-02-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Du hast Gas vergessen.\n\nhttp://faktenfinder.tagesschau.de/inland/faktencheck-kohlestrom-101.html\n\nNochmal nachgeguckt: Gestern hatten wir durchgängig 10-20% aus Windenergie, tagsüber bis zu 18% aus Solarenergie. Und das im Winter. Aktuell **exportieren** wir 7500 MW ins Ausland - das ist ein Viertel unserer Kohleproduktion. Sogar Österreich und Schweden, die mit Wasserkraft ziemlich gut versorgt sind, importieren lieber den deutschen Kohlestrom, weil der billiger ist. Letzte Nacht hat Österreich 2500 MW (ein Zwölftel unserer Kohleproduktion) aus Deutschland importiert, um die eigenen Pumpspeicher zu füllen, die tagsüber abgelassen werden. Da stimmt doch was nicht.",
+        "date": "2018-02-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Tatsächlich ist Atomkraft keine Alternative für Kohle. Atomkraft kann nur die Grundversorgung decken, weil man die Kraftwerke nicht so schnell hoch und runter fahren kann, um damit Bedarfsspitzen zu decken. Die Alternative zu Kohle wären Gaskraftwerke oder Wasserkraft. Sonnenenergie und Windenergie sind zu stark von der Umwelt abhängig um allein als Alternative benutzt werden zu können, solange es keine Speichermöglichkeiten gibt.",
+        "date": "2018-02-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Womit würden denn die Fernverkehrszüge versorgt werden? Reichen die 11% Wasserkraft, die ich der Liste entnehmen kann denn dafür aus?",
+        "date": "2018-02-23",
+        "sentiment": "neutral"
+    }
+]

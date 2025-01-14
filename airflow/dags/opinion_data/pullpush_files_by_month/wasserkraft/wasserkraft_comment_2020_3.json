@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Deutschland hat halt aus geografischen Gründen nicht soviel Wasserkraft wie die beiden.",
+        "date": "2020-03-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Was genau ist deine Kritik?  \n\n&gt;\"Weltweit dürften fürs Streamen bereits rund 200 Milliarden Kilowattstunden (kWh) Strom pro Jahr anfallen, Tendenz steigend\", erklärt Victoria Ossadnik, Vorsitzende der Geschäftsführung der E.ON Energie Deutschland. \"Um diesen Energiebedarf zu decken, wären umgerechnet alle deutschen Wind-, Solar-, Wasserkraft- und Biomasseanlagen nötig, die 2018 eine ähnliche Strommenge erzeugt haben.\" Zum Vergleich: Die Energie könnte sämtliche Privathaushalte in Deutschland, Italien und Polen zusammen für ein Jahr versorgen.\n\n&gt;Warum verbraucht Streaming immer mehr Strom?\n\n&gt;Die gewaltigen Daten- und auch Energiemengen ergeben sich zum einen durch die immer höhere Auflösung der Filme und Serien in HD und 4K, zum anderen durch die immer größere Menge an Videos.\n\n\nhttps://www.strom-magazin.de/strommarkt/so-viel-strom-verbraucht-streaming-weltweit_219295.html",
+        "date": "2020-03-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Unten in BaWü, wo viele Steinkohlekraftwerke stehen, sind diese durchaus noch relevant. Da sieht's mau aus mit Wasserkraft und Windenergie, ja sogar Solarkraftwerke gibt's nicht ausreichend. Und den ganzen Windstrom aus dem Norden können wir leider auch heute noch nicht gen Süden bringen.\n\nJetzt denk mal an 2005 oder 2010 zurück. Damals hätten die EE niemals gereicht für den industriellen Süden. Aber wir haben trotzdem die AKWs wie Obrigheim abgeschaltet... und die Steinkohlekraftwerke laufen bis heute. Da hätten wir Millionen Tonnen CO2 einsparen können. Du musst schon die geographische Verteilung der EE-Erzeugung und die Übertragungsschwierigkeiten berücksichtigen und kannst nicht einfach so Pauschalurteile fällen.",
+        "date": "2020-03-04",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Generell hat die Förderung von Erneuerbaren Energien (Windkraftanlagen, Solaranlagen) , Elektroautos, Wärmepumpen den effekt das Diese nicht nur für Deutschland sondern für die Gesamte Welt billiger werden. \n\nDarüberhinaus sehe ich das Problem mit China nicht. \n\nChina baut noch immer Kernkraftwerke und Dämme. Diese werden 80+ Jahre halten. \n\nAb dem nächsten Jahrzehnt wird die Bevölkerung Chinas  jedoch unausweichlich sinken was auch einen Rückgang des Stromkonsums bedeutet.  \n\nDies bedeutet das die kraftwerke mit den Höchsten operationskosten (Kohle, Gaskraftwerke) abgeschaltet werden und die mit den niedriegsten (Wasserkraft, solarkraft, Windkraft, Kernkraft) weiterlaufen werden. \n\nAbgesehen davon unternimmt China viel mehr im Bereich Elektroautos als es Deutschland tut.",
+        "date": "2020-03-07",
+        "sentiment": "negative"
+    }
+]

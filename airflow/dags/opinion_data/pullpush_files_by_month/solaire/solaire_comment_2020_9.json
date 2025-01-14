@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Personnellement je ne mange plus ou presque plus de viande. J'évite acheter des aliments issus de l'agriculture industrielle. J'utilise mon vélo électrique quand je peux pour les déplacements et sinon j'ai une voiture hybride qui consomme environ 4.8L/100km. J'achète que des vêtements de qualité que j'estime garder longtemps et j'évite les matières synthétiques à base de plastiques. Chez moi tous les appareils numériques (box wifi, téléphone fixe, même le micro-ondes) s'éteignent automatiquement la nuit et quand je sors de chez moi. Je recycle l'eau de la pluie et de mon évier de la cuisine pour arroser les plantes. J'ai que des pompes à chaleur chez moi.\n\nJe souhaiterais acheter des panneaux solaires, installer une batterie dans la maison et stocker l'électricité et acheter et une voiture électrique..",
+        "date": "2020-09-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Côté cuisine, J'évite le plus possible les produits très transformés, je préfère cuisiner des produits bruts et en grande quantité, ce qui me permet notamment de réduire l'utilisation de ma plaque de cuisson. J'essaye le plus possible de décongeler mes produits au soleil.\n\nComme je travaille à la maison, je prends ma douche 3 à 4 fois par semaine. J'urine dans ma douche quand c'est possible, et j'urine dans mon arrosoir (1L d'utine pour 10L d'eau) pour arroser mes plantes. Cela permet de réduire la consommation d'eau, comme je n'ai pas de système de récupération d'eau en circuit fermé.\n\nJe préfère utiliser mes jambes ou mon vélo pour faire mes courses ; même si cela m'oblige à y aller plus souvent (en même temps, cela me permet de faire mon sport).\n\nMon plus grand \"impact\" concerne la consommation d'électricité qui provient d'on-ne-sait-où, due à mon activité qui m'oblige à travailler avec deux ordinateurs (portables) qui exécutent notamment des simulations numériques (donc conso max). Quand j'aurai le le budget, Je projette tout simplement d'installer un système solaire 100 ou 300W, et d'utiliser un ordinateur ARM monocarte (type Raspberry Pi ou Odroid) branché sur un écran 15' récupéré d'un vieux laptop pour effectuer les tâches de base (mail, navigation, développement informatique basique, divertissement (streaming aie aie aie)).",
+        "date": "2020-09-12",
+        "sentiment": "positive"
+    }
+]

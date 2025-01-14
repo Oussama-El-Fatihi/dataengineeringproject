@@ -1,0 +1,167 @@
+[
+    {
+        "text": "Doch, wohl, aus zwei Gründen.   \nZum einen hat man immer Transportverluste, egal ob das jetzt eine Stromleitung oder eine Pipeline ist. Die belasten auch das Klima.  \nZum anderen geht es ja nicht nur um Fossile Brennstoffe, sondern auch um andere Energieformen.  \nAuch abseits von einer Sahara voll von Solarzellen gibt es da Möglichkeiten, wie zB in\nIsland, die mit Geothermie als Energiequelle das weltgrößte Aluminiumwerk aufgebaut haben.  \nSchweden und Norwegen könnten das mit Wasserkraft machen, und die Küstenstaaten der EU mit Offshore Windkraft.  \nEs gäbe schon Alternativen zu Pipelinegas oder LNG, und wie oft geschrieben, brauchen wir das auch bald.",
+        "date": "2022-04-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Den ersten Satz könnte ich so kopieren und \"Atomkraftwerke\" mit \"Wasserkraft\" ersetzen (außer \"Diebstahl von radioaktivem Material\"). - Edit: Bitte nicht falsch verstehen: ich habe kein Problem mit Wasserkraft. Ich denke dort ist der größte Kritikpunkt den Einfluss den sie auf das lokale Ökosystem haben.\n\n&gt; Sollte man alles in Betracht ziehen, macht aber zunächst mal Atomkraftwerke teurer und damit unwirtschaftlich, sofern denn nicht Risiken oder Kosten dem Staat oder der Allgemeinheit aufgebürdet werden.\n\nDie ganzen fossilen Energieträger haben eben ihre Kosten externalisiert und die werden einfach so an die Gesellschaft weitergegeben. Die Folgen dürften allen bekannt sein und die verursachten Schäden sind immens und dürften weit, weit über dem liegen was Atomstrom jemals gekostet hat. Da diese Effekte aber sehr schwierig zu quantifizieren sind werden sie einfach komplett in diesen Rechnungen ignoriert. https://www.theguardian.com/environment/2021/feb/09/fossil-fuels-pollution-deaths-research",
+        "date": "2022-04-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Zu den Risiken von Atomkraftwerken gehören unter anderem auch Krieg,\n\nIch denke, das kann man den fossilen genauso zurechnen, immerhin wurden diverse Kriege schon um Öl und Gas geführt. Wasserkraft in Afrika birgt auch ein hohes Kriegspotential.",
+        "date": "2022-04-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Solar- und Windenergie haben ein winziges Potential irgendwelche Todesopfer zu fordern, eines das mehr oder weniger durch \"Arbeitsunfall\" abdeckbar ist.\n\nEben, und die sind nicht selten. Ist jetzt keine saugefährliche Technologie aber dadurch dass tausende Installationen existieren oder aufgebaut werden müssen fällt halt schon mal der eine oder andere vom Dach. Das wird aber quasi nie der Technologie zugerechnet.\n\n&gt;Fukushima zeigen, dass diese Potentiale eben nicht \"imaginiert\" sind. Ja, es ist unfassbar unwahrscheinlich, dass es zum GAU kommt - Wenn es passiert sind wir aber halt trotzdem im Arsch. \n\nDas stimmt überhaupt nicht. Fukushima war sehr schwerwiegend, aber Japan ist nicht \"im Arsch\". Ja, es sind da 600 Leute am Stress der Evakuierung gestorben, aber zur selben Zeit sind da 16000 am Tsunami gestorben, um das mal in's Verhältnis zu setzen. Ich finde die Bilanz für das AKW eigentlich ziemlich beeindruckend. Erst ein Beben, dann ein Tsunami, alles weit außerhalb der Auslegungsgrenze und wir haben eben keine \"weiten Landstriche\" die unbewohnbar sind. Tatsächlich können seit 2015 Anwohner wieder in große Bereiche der Zone zurückkehren, grade mal 370 km^2 [sind derzeit noch gesperrt](https://www.britannica.com/story/nuclear-exclusion-zones). Um das mal wieder in's Verhältnis zu setzen: angeblich sind in Deutschland [300km^2 mit Solarzellen bepflanzt](https://www.wochenblatt-dlv.de/politik/solarenergie-30000-ha-freiflaechenanlagen-ueberbaut-568270), das ist auch Gegend die nicht genutzt, bewohnt, renaturiert ist.\n\n&gt;\"RBMK-Reaktoren können nicht explodieren\"\n\nIch mein... Als die in Ignalina die Designschwäche entdeckt haben, haben sie die an alle RBMK gemeldet und bei einigen wurden die Graphit-Spitzen ausgetauscht. Nicht in Chernoby. Das spricht Bände über die UdSSR.\n\n&gt;Und nach wie vor ignorierst du gekonnt den verdammten Atommüll der jetzt schon unsere Böden verseucht weil wir gedacht haben das Zeug in irgendeine alte Mine schmeißen funktioniert schon\n\nDas war ja auch eine blöde Idee, sowas in einem Salzstock zu verklappen. Insbesondere weil es nicht ordentlich gelagert wurde. Aber derzeit baut Finnland ein Endlager in Granit. Und weil dort keine so dermaßen irrationale Panik geschürt wurde, gibt es auch keinen rasenden Widerstand.\n\nIn Deutschland haben regenerative [einen Anteil von 15% am Primärenergieverbrauch](https://de.wikipedia.org/wiki/Erneuerbare_Energien_in_Deutschland). Um decarbonisieren zu wollen muss das auf 100% steigen, also um das 6,7 fache. Ich halte das für Traumtänzerei weil die ganzen guten Flächen schon weg sind. Und selbst wenn, dann sind danach alleine für Photovoltaik mindestens 5 Fukushima-Ausschlusszonen weg. Da Biogas und Wasserkraft kaum noch wachsen, und man Reserven braucht für Flauten/Nebel eher mehr. Aber sowas wird in Deutschland wieder komplett unter den Tisch fallen gelassen.",
+        "date": "2022-04-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich denke halt an die Schwierigkeiten, die der Ausbau jetzt schon hat. Und man muss durchaus anerkennen, dass Deutschland schlechtere Voraussetzungen für EE hat als Länder, die sich für Wasserkraft in großem Maße eignen oder deutlich mehr Sonne haben.\n\nIch lasse mich aber gerne positiv überraschen. \n\nÖl könnte unabhängig von Energiefragen aber weiterhin nötig sein. Mir ist zumindest nicht bekannt, dass es schon Verfahren gibt, die in der Lage wären Öl als Grundstoff für Kunststoffe zu ersetzen. Aber auch da ist es möglich, dass ich nicht auf dem neusten Stand bin.",
+        "date": "2022-04-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Norwegen ist schon ewig hauptsächlich Wasserkraft.",
+        "date": "2022-04-04",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Elektrizität sind so 550TWh, ca. 45% bzw. 250TWh im Jahresmittel aus Erneuerbareren, Wind hat den größten Anteil, gefolgt von PV und mit etwas Abstand Biogas und Wasserkraft (Wimre).\n\nGesamter Primärenergiebedarf liegt bei 3500 TWh, bei Umstellung auf Strom würde durch die besser Effizienz alle Prozesse mit Verbrennung nur etwa 30% brauchen, daher käme man wahrscheinlich mit 2500TWh aus.\n\nEin modernes Kernkraftwerk hat so knapp 1,6GW  und schafft so knapp 7000 Volllaststunden (90%) - etwa 12 TWh .\n\n\n\nhttps://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/2_abb_primaerenergieverbrauch_2022-01-17.png\n\nEdit: GW, nicht MW.",
+        "date": "2022-04-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Österreich ist auch so bei gut 2/3 Wasserkraft... zumindest in der Erzeugung. De facto wird aber viel davon zu Spitzenzeiten nach Deutschland exportiert und dafür günstig Grundlast eingekauft.",
+        "date": "2022-04-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "In Norwegen ist Wasserkraft aber auch free real estate. Du hast Hochebenen und Gebirge, die Niederschlag sammeln, der zur Küste fließen muss, also eine riesige Höhendifferenz, und sehr viel unbewohntes felsiges Land, wo man Stauseen bauen kann.",
+        "date": "2022-04-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Außerdem ist Wasserkraft gar nicht so Öko, wie man denkt.",
+        "date": "2022-04-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Kombination ist wichtig, auf jeden Fall. Deswegen kam ja eben mein Hinweis, dass man sich nicht nur auf Wind versteifen sollte (und das sage ich als Projektingenieur im Windbereich, Schande über mein Haupt). Sämtliche Erzeugungsarten sind wichtig. \n\nAuf deiner Skala fehlt übrigens noch Wasserkraft und andere, die vermutlich in Bayern eine starke Rolle spielen.",
+        "date": "2022-04-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bayern hat viel Wasserkraft, das sind quasi Altlasten (oder Altboni), die nichts mit der Herausforderung der Energiewende zu tun haben. Da darf man sich nicht drauf ausruhen.\n\nEin Fokus auf Solar ist in Deutschland auch nicht zielführend, weil Solar eine eklatante Winterlücke hat. Es führt einfach nichts an einem massiven Ausbau der Windenergie vorbei.",
+        "date": "2022-04-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wenn man aber Brandenburg alleine nimmt, dann sieht Bayern halt schlecht aus. Wenn man Importe und Exporte nimmt sieht es noch düsterer aus. Selbst wenn Berlin da mit reinpackt. Ich finde Brandenburg als größten Stromexporteur und noch großen Braunkohlenutzer da eh etwas schwierig, als Vergleich.\n\nSchleswig-Holstein hat die gleiche Einwohnerzahl pro km², wäre hier der Vergleich nicht noch besser und einfacher.\n\n\nBayern steht gut bei Wasserkraft da und bei Solar.\n\nJedoch ist Wasserkraft sind selten neue Bauwerke und wesentlich standort abhänger als Wind und Solar.\n\nWind und Solar sind deswegen hier eher das Thema, wenn es um große Entscheidungen der Letzten Jahre geht.\n\nSelbst auf Fläche kommt Bayern da gar nicht gut weg.\n\nhttps://energy-charts.info/charts/installed_power/chart.htm?l=de&amp;c=DE&amp;stacking=sorted&amp;chartColumnSorting=default&amp;expansion=p_inst_states_area&amp;year=2021\n\nEinige Bundesländern haben ihre Energiepolitik arg an die Wand gefahren und Bayern muss sich eingestehen, dass es dazu gehört.\n\nObwohl es nicht Kohle ausrede hat und auch noch viel Atomstrom abschaltet. Auch ist Wind bei installierte Leistung wesentlich produktiver als Solar. Was das nochmal allen nen Hut aufsetzt.",
+        "date": "2022-04-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Daten sind von den Stastikämtern Bayern. Berlin-Brandenburg und Nord\nDaten 2019, weil ich von Brandenburg keine 2020 Daten finde.\n\nBayer 2019:\n\n12 TWh Solar\n\n11,9 TWh Wasserkraft\n\n9,2 TWh Biomasse\n\n5 TWh Wind\n\n0,5 TWh sonstige\n\ninsgesamt erneuerbar: 38,6 TWh\n\nAustauschsaldo: 9 TWh\n\nEinwohner: 13,1 Mio (ca. 5x von Brandenburg, ca 4,5x von S-H )\n\nFläche: 70.541 km² (ca 2x von Brandenburg, ca. 4,5 von S-H )\n\nBrandenburg 2019:\n\nSolar: 3,6 TWh\n\nWindkraft 12,5 TWh\n\nnicht angeben erneuerbar(wahrscheinlich Biomasse): ca. 3,7 TWh\n\ninsgesamt erneuerbar : 19,8 TWh \n\nAustauschsaldo: 32,3 TWh\n\nEinwohner 2,5 Mio\n\nFläche: 29.654 km²\n\n\nJa, Bayern kann mit seiner Wasserkraftpunkten, wenn es um Flächen verlgeich geht. \n\nDas ist aber eine Errungenschaft von vor 50 Jahren. Ohne Wasserkraft was Brandenburg einfach nicht geographisch verfügbar hat ist Bayern, aber dort schlechter.\n\nAuch steht Bayern ohne Massiven Ausbau schlechter da.\n\nWenn wir uns mal die andere Seite angucken\n\nBayern Strom rest 2019:\n\n2,5 TWh Steinkohle\n\n9,8 TWh Erdgas\n\n22 TWh Kernenergie\n\n1,3 TWh sonstige\n\nBis ende dieses Jahres muss Bayern seine komplette Kernernergie ersetzten.\n\nBrandenburg Fossil:\n\nBraunkohle: 26,6 TWh\n\nandere Fossile 6,8 TWh\n\nBedeutet was. Brandenburg kann rein rechnerisch sich bald mit Erneuerbaren decken, Bayern kann das nicht. Der Atomaustieg wird Deutschland vor Bayerische Probleme stellen. Biomasse und Wasserkraft sind am stagnieren in Bayern und Deutschland.\n\nAber klar Bayern NR.1 \n\nWir können uns gerne 2025 die Daten von 2023 angucken.\n\nAber da du so verseseen auf Einwohnerdichte bist. Nehmen wir Schleswig-Holstein dazu. Gleiche Einwohnerdichte wie Bayern und war früher das Bundesland mit der höchsten prozentualen Stromproduktion aus Atomkraft.\n\nSchleswig-Holstein 2019:\n\n1,3 TWh Solar\n\n12,2 TWh Onshore Wind\n\n7,1 TWh Offshore Wind\n\n2,6 TWh Biomasse\n\n0,3 sonstige Erneuerbare\n\ninsgesamt erneuerbar: 23,7 TWh\n\nAustauschsaldo: nicht angeben\nEigenverbrauch anstelle: 14,4 TWh\n\nEinwohner: 2,9 Mio\n\nFläche:  15.799 km²\n\nNehme wir die anderen Ernergie Erzeuge dazu:\n\n1,6 Twh Steinkohle\n\n1,6 TWh Erdgas\n\n10,2 TWh Kernenergie\n\n\nFazit: Brandenburg Versorgung mit Erneuerbaren ist besser. Fläche ist Brandenburg schlechter, wenn man Bayerische Wasserkraft einbezieht, da Brandenburg null vorteile in Bereich Standortfaktoren Erneuerbare hat. Wenn man Schleswig-Holstein anguckt, merkt man das Einwohnerdichte kein Argument ist. (Bremen wäre da Nr.1)",
+        "date": "2022-04-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Laut Artikel verlieren aus ökologischen Gründen kleine Anlagen die Förderung, diese machen 10% des Stroms aus Wasserkraft aus.",
+        "date": "2022-04-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Richtig so. \nWenn man schon low head Wasserkraft nutzen will, dann wenigstens mit Wasserrädern!\n\nEffizienter, wartungärmer, langlebiger und vorallem Fisch freundlich.",
+        "date": "2022-04-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "10% des Stroms aus Wasserkraft. Nicht überhaupt.\n\nWasserkraft machte 2021 3,4% des Bruttostroms in Deutschland aus.\n\nEs geht also um ~0,34% des Bruttostroms\n\nBloß mal angemerkt, bevor hier gleich in den Kommentaren hyperventiliert wird.",
+        "date": "2022-04-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das klingt erstmal logisch. Mal abgesehen davon, wie schwer die Umweltschäden durch diese kleinen Wasserkraftwerke wirklich sind (der Artikel präsentiert ja hier 2 etwas gegensätzliche Meinungen) - Wasserkraft insgesamt ist ziemlich unbedeutend für die Energie in Deutschland. Diese kleinen Wasserkraftwerke steuern laut dem Artikel etwa 500 Megawatt bei, deutlich weniger als 1% des Gesamtverbrauchs. Wenn sie also nicht zur Energiesicherheit beitragen, und ohne Förderung nicht profitabel sind, sehe ich eigentlich keine Gründe, warum man sie weiterhin fördern sollte.",
+        "date": "2022-04-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Kurze Antwort: Jein\n\nLange Antwort:\n\nWie in den meisten Ländern hängt die Energieproduktion in Österreich von den verfügbaren Ressourcen ab. Die klassischen Energieträger (Kohle, Öl und Gas) des zwanzigsten Jahrhunderts sind in Österreich irgendwo zwischen extrem rar und nicht vorhanden. Als Konsequenz dessen war das Interesse an Alternativen schon immer gegeben und durch die politischen Realitäten war Atomkraft keine Option.\n\nWas Österreich jeddoch hat ist viel Niederschlag und keine 2 Quadratmeter ohne Höhenunterschied ... aka optimale Bedinungen für Wasserkraft. Dadurch war der wechsel zu erneurbaren Energien in Ö schon großteils abgeschlossen als dieser in anderen Ländern begann. \n\n100% des Stroms aus erneurbaren zu gewinnen ist in diesem Zeitraum technisch auch sehr schwierig, bis unmöglich. Das wohl am besten bekannte Problem ist wie man Schwankungen ausgleicht.\n\nBis hier hin kann man durchaus sagen dass der gleichbleibende Anteil der erneuerbaren über die Jahre als positiv zu sehen ist.\n\nDie Zukunft bringt jeddoch neue Herrausforderungen mit sich. Die Dekarbonisierung von Transport und Industrie wird zu einem extremen Anstieg des Strombedarfs führen. Um diesen mit erneurbaren Energien zu decken ist entschlossenes handeln von nöten. Ob das passieren wird steht leider noch in den Sternen.",
+        "date": "2022-04-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Das wohl am besten bekannte Problem ist wie man Schwankungen ausgleicht.\n\nMit PSKW, die sich bei der österreichischen Geographie anbieten dürften, seit Jahrzehnten technisch kein Problem - sowohl für Primär, als auch Sekundärregelleistung.\n\nSaisonale Schwankungen lassen sich durch Kombination von PV und Windenergie glätten. Langzeitspeicher dürften trotzdem notwendig sein in Anbetracht des Anteils Erneuerbarer, sollte aber durch den hohen Anteil Wasserkraft und des entsoe-Verbundnetzes in wirtschaftlich vertretbarem Rahmen bleiben.",
+        "date": "2022-04-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Kurzfristig? Gar nicht.\n\nLangfristig, ganz einfach mit Erneuerbaren. EFH's kann man Selbstversorgen wenn man Photovoltaik hat, gleiches gilt für MFH's mit bis zu 3-4 Parteien je nachdem wie groß die Dachfläche ist.\n\nFür's Heizen braucht man auch kein (L)NG.\n\nBleiben also große MFH's mit mehr als 4 Parteien bzw. Wohnblöcke und die Industrie sowie Bürogebäude.\n\nAuch hier kann man den benötigten nicht selbst produzierten Anteil deutlich verringern. \n\nInteressant das wir hier bis dato nur Photovoltaik haben und noch kein Wind oder Biomasse sowie Wasserkraft aus Pumpspeichern. Ja die Industrie wird wahrscheinlich weiterhin noch auf Fossilen bleiben aber auch hier kann man früher oder später umsteigen, natürlich nicht mit den aktuellen Vorraussetzungen und auch nicht 2030, aber es ist mit genügend Investition und Willen möglich",
+        "date": "2022-04-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Langfristig, ganz einfach mit Erneuerbaren. EFH's kann man Selbstversorgen wenn man Photovoltaik hat, gleiches gilt für MFH's mit bis zu 3-4 Parteien je nachdem wie groß die Dachfläche ist.  \n&gt;  \n&gt;Für's Heizen braucht man auch kein (L)NG.\n\nWie lang denkst du dauert es, um 99,9999% Verfügbarkeit des Stromnetzes mit EE herzustellen und jedes Wohngebäude auf Wärmepumpen umzurüsten? Das ist bis 2050 absolut nicht umsetzbar!\n\n&amp;#x200B;\n\n&gt;Interessant das wir hier bis dato nur Photovoltaik haben und noch kein Wind oder Biomasse sowie Wasserkraft aus Pumpspeichern. Ja die Industrie wird wahrscheinlich weiterhin noch auf Fossilen bleiben aber auch hier kann man früher oder später umsteigen, natürlich nicht mit den aktuellen Vorraussetzungen und auch nicht 2030, aber es ist mit genügend Investition und Willen möglich\n\nBitte komm in die Realität zurück. Ich gebe dir mal einen kurzen Realitätscheck über deiner Ideen. Wir wollen zeitnah unser CO2-Output reduzieren und dabei die Verfügbarkeit unseres Stromnetzes beibehalten.\n\nPhotovoltaik: Deutschland liegt geografisch nicht optimal für Photovoltaik, außerdem erzeugen die Module nachts keine Energie und bei Wolken deutlich weniger. Das ist \"nice to have\", aber kann nicht mal ansatzweise fossile Brennstoffe ersetzen.\n\nWindenergie: Lohnt sich bzgl. der Verfügbarkeit eigentlich nur offshore. Um die Energie zu nutzen brauchen wir viel mehr Stromleitungen, welche durch immer neue Regulierungen immer schwerer und langwieriger zu planen/genehmigen sind. Aktuell brauchen wir so ca. 3-6 Jahre nur für die Genehmigung.\n\nBiomasse: Ist finanziell unsinnig und nutzt \"Nahrung\" zur Energiegewinnung, das ist also auch gesellschaftlich Quatsch. Das funktioniert nur mit Subventionen und sollte nicht weiter verfolgt werden.\n\nPumpspeicherkraftwerke: Tolle Technik, aber lässt sich in Deutschland durch Regulierungen/Widerstand nicht bauen. EnBW hat 2017 nach etlichen Jahren die Planung für das letzte neue Pumpspeicherkraftwerk eingestellt.\n\n&amp;#x200B;\n\nWir stellen uns leider zu oft selbst das Bein, in der Hoffnung damit irgendjemanden oder irgendetwas zu befriedigen.",
+        "date": "2022-04-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ernsthaft? Anteil Wasserkraft 2021 Deutschland 4%. Das kannst du gerade unter Schöndenkerei verbuchen.",
+        "date": "2022-04-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Meine Grafikkarte ist 8 Jahre alt und nimmt maximal 145 Watt auf. Lass das mit Bildschirm, CPU und allem 333W sein, macht ne Kilowattstunde an einem Abend. Wenn ich 100% Braunkohlestrom hätte, wären das [1150g CO2](https://www.tech-for-future.de/co2-kwh-strom/), das sind [keine 10km mit dem Auto](https://www.polarstern-energie.de/magazin/artikel/co2-vergleich-verkehrsmittel/). Also worst case vs. average case. Hab aber hauptsächlich Wasserkraft im Strommix, also von daher sind's eher 24g, oder 170 Meter mit dem Auto. In beiden Fällen ist das nur der \"Verbrauch\", aber ich bin mal so dreist anzunehmen, dass eine Grafikkarte bei der Herstellung weniger Energie braucht, als ein Auto.",
+        "date": "2022-04-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Beim Vergleich zwischen Ländern muss man aber wesentlich mehr Faktoren beachten als die Wohngebiete, zB auch die Zusammensetzung der Industrie und die Stromgewinnung. Gerade Japan (und dann können wir auch gleich Taiwan dazunehmen) sind beim Thema Erneuerbare Energien sehr schwach unterwegs, und legen als Inseln auch noch Versorgungssicherheit vor Umweltschutz. Können die von stabilen Partnern Kohle oder Öl beschaffen, werden sie das tun\n\nAber ich sehe es ansonsten ähnlich wie du, ich habe deswegen extra auch von Speckgürtel geredet. Wenn wir uns die Schweiz anschauen, ist die Bevölkerungsdichte etwas geringer als bei uns (ca 210 statt ca 230/qkm), aber die Leute leben konzentriert in einem relativ kleinen Teil des Landes: Vom Genfer See über das Mittelland zum Zürcher Raum und der Ostschweiz, dazu das Rhonetal und in Tessin die flacheren Bereiche um die Seen. Gerade im großen relativ flachen Areal vom Bodensee- bis Genfersee wird eher dichter konzentriert als bei uns.\n\nIch denke, da müssen wir auch hinkommen. Bei uns wandern die Leute ja auch nicht nur nach München City und Frankfurt, sondern das ganze Münchner Land verdichtet sich, Rhein-Main usw. Gerade wie Rhein-Main und Stuttgart/Rhein-Neckar zusammenwachsen (und das ins Obere Rheintal und Oberschwaben ausstrahlt), und wie München zunehmend Augsburg in seinen Ballungsraum schluckt, ist alles ähnlich wie die Achse Zürich-Bern\n\nDie Schweizer haben den Umstand halt aktiv verwaltet statt zu jammern. Die Leute können statt Platte in München auch gerne MFH am Rand von Erding haben, aber Zwiesel im bayrischen Wald wird niemals alle Annehmlichkeiten der Agglo besitzen...\n\nÖsterreich ist auch ähnlich. Viel dünn besiedelter Raum, die Masse wohnt im Rheintal, Inntal, Achse Wien-Linz-Passau, Tallandschaft Graz bis Klagenfurt, dazu die Salzburger Agglo\n\nMega-Metropolen wie Seoul-Incheon und Greater Tokyo bekommen wir eh in Jahrzehnten nicht. Aber die Planung einzelner Hochhaus-Wohnviertel inkl nachhaltigem Modalsplit, kommunalen Dienstleistungen und Shopping vor Ort usw kann man da schon abschauen mMn. So wie Singapur heute Viertel plant, ist alles aus einem Guss, da ist die Stadt dann auch nicht von Verkehr überrumpelt, wenn die Leute unerklärlicherweise zu einer Mall oder Innenstadtzone wollen, die keine gute Öffianbindung zu den Wohnflächen hat\n\nEdit: Wenn ich mir [Co2 per capita](https://www.worldometers.info/co2-emissions/co2-emissions-per-capita/) anschaue, ist Japan ja ganz nah bei uns. Neben dünner besiedelten Ländern wie Frankreich ist auch Hong Kong und Singapur unter uns, aber Estland weit drüber. Ich denke, die Statistik wird sehr stark durch die Art der Stromgewinnung dominiert. Würde die Ölstaaten, Estland und Taiwan (beide viel Kohle) erklären. Schweiz und Österreich setzen schon lange auf Wasserkraft, Schweiz hat auch AKW\n\nGerade Hong Kong und Singapur wären ja eher die Gegenthese, von der Größe auch besser vergleichbar mit unseren Metropolen/Agglos wie Berlin,Hamburg,München. Nur das Ruhrgebiet passt nicht rein, ist aber funktional nicht so dicht miteinander verwoben wie Greater Tokyo mit Toyko proper",
+        "date": "2022-04-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ja, aber nicht im Supermarkt oder bei der Stromrechnung. Ich hab seit Jahren Ökostrom (Wasserkraft aus der Schweiz vertrieben durch die Pfalzwerke unter dem ALDI Grünstrom Label), da hat sich nix am Preis geändert (ist immer noch 28ct, Preis bei Neuabschluss wäre aber auch 48ct hab ich gerade gesehen).\n\nBeim Lebensmitteleinkauf ist mir die Teuerung noch nicht wirklich aufgefallen. Ich bin aber auch in der Glücklichen Situation, dass es mir finanziell jetzt nicht weh tut, wenn der Wocheneinkauf 5-10eur mehr kostet. Ich kaufe halt immer schon im Discounter ein und achte schon seit Jahren nicht mehr auf die Preise der Standardartikel. Bei ~4k Netto (nach BAV Abzügen) ohne Familie oder Kinder kommt das halt auf nen Euro mehr oder weniger auch nicht mehr an. Ist ne dekadente Einstellung, ich weiß, aber ist halt so. Nur beim Sonnenblumenöl für 4,99eur hab ich letztens kurz gestutzt. Aber wenn ichs gebraucht hätte (Flasche in der Küche ist noch halb voll, plus die volle im Vorrat für wenn die leer ist), hätte ichs auch ohne zu zögern bezahlt.\n\nWo ichs gemerkt habe ist beim Tanken. Das war mit dem 3.2l VR6 Audi A3 nie ganz günstig (Durchschnittsverbrauch laut Audi bei 9,9l, meiner ist eher so 11,5-12l). Aber bei über 2eur/l bin ich dann doch mal etwas sparsamer gefahren (mit dann 8-9l). Macht nicht so viel Spaß wie mir 200-250km/h abends über die leere A3 oder A31 ballern, aber ok.\n\nWo ich es extrem merke sind Munitionspreise. Ich bin Jäger und Sportschütze und schieße sehr aktiv (3-4x pro Woche, das machen andere im Monat) und auch viele Disziplinen die munitionsintensiv sind (BDS Mehrdistanz und Fallplatte, IPSC usw.). Da gehen bei nem 2-3h Trainingsabend gerne mal 200-500 Schuss durch. Vor Corona gabs 9x19mm mit Staffelpreis bei Abnahme mehrerer tausend Schuss schon ab unter 9eur/50. Aktuell ist ca. das doppelte üblich, wenn man denn überhaupt was bekommt (viele gängige Kaliber sind teils einfach nicht mehr verfügbar). Im Schnitt haben sich die Munitionspreise über alle Kaliber um 50-100% erhöht seit Anfang 2020.\n\nErst haben die Amis wie bescheuert alles weggekauft was es am Markt gab (man muss ja die Viren erschießen können!), dann gabs Lieferprobleme wegen Produktionsausfällen entlang der gesamten Wertschöpfungskette wegen 'rona und dann, als es sich gerade anfing zu entspannen, gings los mit Russlands Angriffskrieg und alle Länder kaufen wie bescheuert Munition für ihre Militärs und die Hersteller stellen um auf Behördenproduktion (5,56x45 statt .223 Remington, 7,62x51 statt .308 etc). Plus wer kann (Amis, Schweizer, viele Osteuropäer), kauft halt auch privat um den Keller vollzumachen, falls der Russe doch noch weitermarschiert.\n\nDas hat dazu geführt, dass ich das Training etwas umgestellt habe. Hab die Kleinkaliber Wechselsysteme für die USP und die 1911 mal wieder abgestaubt und trainiere jetzt mehr damit (da liegen die Preise immer noch bei &lt;4eur/50). Und 30er Magdumps mit der \"MP5\" oder Saiga SR-1 sind auch weniger geworden 😅",
+        "date": "2022-04-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "müsste dann wasserkraft sein oder?",
+        "date": "2022-04-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ökostrom kommt in Deutschland überwiegend aus Wasserkraft ([Beispiel EWS Schönau](https://www.ews-schoenau.de/export/sites/ews/ews/energiedienstleistungen/.files/stromherkunft-kraftwerke-ews-oekostrom-2020.pdf)). Die Kraftwerksbetreiber verschenken den Strom aber nicht, sondern wollen ihn auch zum Höchstpreis verkaufen.\n\nStrom aus Wasserkraft mit hohen Speicherbecken ist aber nicht nur Ökostrom, sondern auch sehr gut als Regelenergie brauchbar, und die steht in direkter Konkurrenz zur Regelenergie aus Gaskraftwerken.",
+        "date": "2022-04-22",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Das mit dem E-Autos, E-Roller und E-Bullshit ist einer der besten Erfindungen des Kapitalismus der letzten Jahren. \n\nDas ist eine Pauschalisierung, die nicht allgemeingültig ist. Es kommt im wesentlichen darauf an, wie der Strom erzeugt wird. Und das variiert von Land zu Land enorm. In Norwegen macht der Wechsel zu E-Autos total Sinn, da man Strom aus Wasserkraft im Überfluss hat. In Polen dagegen, würde man die Emmissionen nur verlagern, weil dort Strom hauptsächlich aus Kohle erzeugt wird.\n\nWobei auch eine Verlagerung der Emissionen schon sinnvoll sein kann. Zwar nicht für den Klimaschutz, aber um die Städte sauberer zu machen. Autoabgase sind nun mal ungesund und in wenigen Jahrzehnten wird man sich darüber wundern, dass wir so lange Verbrenner durch dicht bebautes Gebiet fahren haben lassen.\n\nWenn es übrigens nur nach dem Kapitalismus gegangen wäre, wären wir mit der E-Mobilität noch lange nicht so weit. Der Staat hat massiv Druck ausgeübt und greift über Förderungen lenkend ein. Auf dem freien Markt könnten sich E-Autos sonst nicht durchsetzen. Die Marktwirtschaft wird hier als Werkzeug genutzt, anstatt sich selbst überlassen. Und genau so soll es auch sein.\n\nDass die Produktion von E-Autos ressourcenintensiv ist, stimmt natürlich. Andererseits stecken in einem E-Auto auch viel weniger Einzel- und Verschleißteile. Am Beginn eines neuen Zeitalters gibt es immer auch Schattenseiten einer Technologie. Man wird die Probleme in den Griff bekommen. Es wird z.B. intensiv an neuen Akku-Technologien geforscht. Mittlerweile gibt es auch erste Autos, die weitgehend CO2-neutral produziert werden und auf recycelte Materialien setzen.\n\nWir befinden uns gerade in einer Umbruchphase. Da ist es ok, wenn nicht alles glatt läuft. Wir können nicht ewig auf der Stelle treten und keinen Fortschritt mehr zulassen, weil kurzfristig kein großer Unterschied erkennbar ist. Der moderne Dieselmotor ist in Punkto Emissionsvermeidung eine herausragende Ingenieursleistung. Das möchte ich gar nicht in Abrede stellen. Aber wir müssen mittel- bis langfristig trotzdem weg davon, fossile Energieträger zu verbrennen. Und wann sollen wir damit anfangen, wenn nicht jetzt?",
+        "date": "2022-04-23",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Wen man alle Kernkraftwerke abschalten will muss halt t die Landschaft dran glauben.\n\nFür die Kernkraft glaubt auch die Landschaft dran. Bloß dass die  Uranium Miene nicht in Deutschland ist und wir hier die (Lohn-) Sklaven die dort arbeiten, nicht sehen können.  \n\n\n&gt;Windräder will ja auch keiner \n\nQuatsch, das will nur eine sehr laute Minderheit nicht. Und Solarstrom und Wasserkraft gibt's ja auch noch.",
+        "date": "2022-04-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Lange bremst die strenge 10H-Abstandsregel den Ausbau der Windkraft in Bayern aus. Nun stimmt jedoch auch die CSU für eine Lockerung. Ministerpräsident Söder erwartet nun mehrere Hundert neue Windräder in Bayern. Auch bei der Wasserkraft soll es bald voran gehen.\n\nHm - Danke, Putin?",
+        "date": "2022-04-28",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Tatsächlich macht Wasserkraft etwa 15 Prozentpunkte aus. Aber selbst wenn sie diese verlieren würden, würde nur Hessen sie überholen. Und ich finde es etwas unehrlich, weil man genauso argumentieren könnte, dass die Küstenländer halt Offshore nutzen könnten.",
+        "date": "2022-04-28",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wasserkraft wird halt auch schon sehr lange im Vergleich zu offshore zur Stromerzeugung genutzt. Hier gabs ein paar Repowering-Maßnahmen und Anpassungen bzgl. Wehren etc und das wars. Man musste da in den letzten Jahrzehnten nicht wirklich groß was erschließen.",
+        "date": "2022-04-28",
+        "sentiment": "positive"
+    }
+]

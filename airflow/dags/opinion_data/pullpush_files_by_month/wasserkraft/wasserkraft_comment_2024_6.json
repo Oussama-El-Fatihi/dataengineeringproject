@@ -1,0 +1,87 @@
+[
+    {
+        "text": "Bayern setzt einfach nur statt Windkraft auf natürliche Wasserkraft /s",
+        "date": "2024-06-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\"Alle jammern immer über die böse Atomkraft, aber hier sieht man doch mal wie umnweltschädlich und gefährlich auch die Wasserkraft sein kann!\"",
+        "date": "2024-06-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wir sind mit unseren Einsparungen seit 1990 halt auch sehr gut (Platz 37 weltweit). Obwohl wir die Atomkraft in den Sand gesetzt haben, kaum Möglichkeiten für Wasserkraft und wenig Sonne und Wind haben.",
+        "date": "2024-06-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Naja, wir sind halt ziemlich gut. Gibt nur etwas über 30 Länder die ihren CO2 Fußabdruck seit 1990 so sehr reduziert haben wie wir. Und das trotz Atomausstieg und wenig potential für Wasserkraft.\n\nUnter den Voraussetzungen macht es kaum einer besser als wir.",
+        "date": "2024-06-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ah danke für die Hintergrundinfos. Kommt ohne die halt sehr seltsam rüber. Bayern bekommt ein Stromproblem und Naturkatastrophen und schon setzt sich der Aiwanger verstärkt für Windkraft ein und Söder interessiert sich für Wasserkraft.",
+        "date": "2024-06-13",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Prima Sache und so, klar, aber... so war das doch immer schon geplant, bzw. es war doch immer schon klar dass für einen wirklichen Siegeszug der Erneuerbaren dann die Speicherleistung massiv ausgebaut werden muss? Macht man mit Pumpspeicherwerken auf Wasserkraft bezogen ja auch schon ewig.\n\nIrgendwie kommt der Artikel bei mir komisch an, es wird ein ziemlich grundlegendes Konzept so erklärt, als wär das eine revolutionäre Sache.",
+        "date": "2024-06-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Du hast einen Punkt, aber leider macht es mein Argument nicht schwächer, es bedarf nur etwas mehr Schreibarbeit:\n\n1. Nachts liegt der Stromverbrauch bei knapp 40 GW, Tagsüber bei knapp 60 GW\n2. Das \"Grundrauschen\", also Pumpspeicher, Wasserkraft, Biogas und sonstige erneuerbare schafften 2023 eine Gesamtmenge von 64.6 TWH, bzw. zu jedem Zeitpunkt knappe 6.5 GW\n3. Pumpspeicher bringen die konstant \"sauberen\" Energien auf bis zu 12 GW. Die Peaks treten allerdings zwischen 15-19 Uhr auf und können daher nicht für die Nachtleistung herangezogen werden, da Pumpspeicher erstmal wieder über Nacht gefüllt werden müssen\n\nZusammengefasst:\n\n* Für eine typische Nacht brauchen wir zu jedem Zeitpunkt mindestens 40 GW, also über 8h knapp 320 GWH\n* Die konstant erneuerbaren liefern hier 6.5x8=52GWH\n* Es bleiben 320-52=268GWH an Speicherbedarf\n   * Deutschland hat aktuell (Laut Artikel) 14GWH an Speicher\n* Kosten würde das knapp 265 Milliarden\n\nAuf Papier ist es damit zwar \"billiger\", die Dimensionen der Kosten sind jedoch nach wie vor in einer unvorstellbaren Höhe, die ich bislang noch nirgendwo ehrlich und nüchtern dargelegt wurde.\n\nDeutschland müsste die aktuellen Kapazitäten in ein paar Jahren um das 19 fache steigern und nein, durch effizientere Technologie wird das nicht weniger, sondern man produziert nämlich einfach mehr, bei gleichem Verbrauch (Ist seit den frühen 90ern genau so geschehen und es gibt keinen Grund zur Annahme, dass sich dies ändern würde)\n\nIch bin daher bei der Verkündung von neuen \"Megaspeichern\" immer etwas skeptisch, da selbst ein riesiger Speicher von 1 GWH nur ein Tropfen auf den heißen Stein darstellt.",
+        "date": "2024-06-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Warum ist das verkorkst ? Deutschland befindet sich gerade im Wandel und hat vor kurzem erst die akws abgeschaltet. \nDas das nicht von jetzt auf gleich ausgeglichen werden kann sollte niemanden überraschen und wäre auch nicht schlau, da die export Strompreise anderer Länder ebenso regelmäßig im negativen bereich liegen. Ergo es ist einfach sehr günstig Strom zu kaufen als ihn selbst zu produzieren. Wir könnten diesen Verbrauch (Rund 80GW) auch weiterhin selbst stemmen anhand vorhandener Anlagen.\nhttps://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html.\n\nWährend es richtig ist das es sogenannte Dunkelflauten gibt, in denen weder Wind noch Solar Energie liefern. Daher gibt es die Nationale Wasserstoff-Strategie dessen Ziel es ist einen Energiespeicher bereitzustellen. https://www.bmbf.de/bmbf/de/forschung/energiewende-und-nachhaltiges-wirtschaften/nationale-wasserstoffstrategie/nationale-wasserstoffstrategie_node.html\n\nDein Erwähnter \"Artikel\" ist in wirklichkeit nur eine Meinung, Meinungen beim WSJ waren schon immer sehr konservativ. Wenn man sich die Fakten anschaut und räpresentative Umfragen nimmt wird die Energiewende positiv gesehen https://www.handelsblatt.com/politik/deutschland/klimawandel-so-denkt-die-welt-ueber-den-klimaschutz-in-deutschland/27734878.html\n\n\nLustig das du genau Frankreich als Beispiel nimmst, die uns gerade schön zeigen warum wir keine AKW's brauchen.\nDiesen fehlte im Sommer das entsprechend kühle Wasser um diese überhaupt betreiben zu können. \nhttps://www.tagesschau.de/ausland/europa/frankreich-atomkraft-natur-101.html\n\nDazu kommt das nicht nur Frankreich sondern auch Spanien immer öfter ihre AKW's wieder abschalten muss weil sie das exakt selbe Problem haben wie wir.\n\nAm vergangenen Wochenende mussten sechs Kernkraftwerke in Frankreich aus dem Betrieb genommen werden, da der Strompreis negativ wurde.\nhttps://www.cleanthinking.de/frankreichs-strompreise-negativ-atomkraft/\n\nIn Spanien genau dasselbe dort musste die Produktion des Kernkraftwerkes Asco westlich von Barcelona im Frühjahr mehrmals gedrosselt werden, weil vor allem der Solar-Sektor des Landes mittlerweile Strom in Mengen liefert, die lange als undenkbar galten.\nhttps://www.focus.de/earth/analyse/neue-konkurrenz-der-irre-grund-aus-dem-frankreich-und-spanien-jetzt-ihre-akws-abschalten_id_260057969.html\n\nWir importieren unsern Strom übrigens kaum aus Frankreich, denen liefern wir mehr Strom als wir importieren, der Großteil kommt aus Skandinavien, dessen Strom wiederum vorwiegend aus Wasserkraft und Windenergie kommt.",
+        "date": "2024-06-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nur bei Windrädern bekommt die CSU psychische Probleme. Bundesweit ist Bayern im Bereich Solar führend. Wasserkraft (wenig überraschend) auch.",
+        "date": "2024-06-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; eutschland setzt dagegen auf **100% Solar &amp; Wind** und will genügend speichern, dass es auch für den Winter reicht, was viel ambitionierter ist (und teurer).\n\n&gt;zu einer nachhaltigen und treibhausgasneutralen Stromversorgung, die vollständig auf erneuerbaren Energien beruht.\n\nDu verkürzt das mal ebenzu Wind &amp; Solar, wenn \"100 % erneuerbare Energie\" deutlich mehr umfasst als nur das. Wasserkraft, Erdwärme, Gezeitenkraftwerke, Biogas... fällt alles genauso drunter wie Wind und Sonne.",
+        "date": "2024-06-20",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Batterien sind nicht die einzige Speichermöglichkeit. Power2Gas, Wasserkraft etc. eignen sich problemlos für Langzeitspeicherung. \n\nJeder der ein Haus mit PV + Batterie hat weiß, dass es in der Regel ganz gut möglich ist das Jahr über autark Strom zu produzieren. \n\nDer Windkraftausbau ist zudem noch nicht da wo er sein sollte um die Versorgung abzudecken. Neue Höhenwindränder haben auch einen besseren Ertrag unabhängig von Wetter. \n\nAtomkraftwerke sind scheiß teuer, unflexibel, wartungsintensiv und abhängig von importierten Brennstoffen. Zudem der Müll. Es ergibt gar keinen Sinn diese Schiene weiterzufahren. \n\nBei den erneuerbaren ist noch einiges zu holen. Wann kommt die Dachnutzungspflicht für PV? Doppelnutzung von Landwirtschaftlichen Flächen? Wann wird die Bürokratie für Windkraft abgebaut? Wann wird endlich die verdammte Nord-Süd Trasse gebaut? Zudem regelmäßig technische Fortschritte.",
+        "date": "2024-06-20",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Batterien sind nicht die einzige Speichermöglichkeit. Power2Gas, Wasserkraft etc. eignen sich problemlos für Langzeitspeicherung.\n\nProblemlos ist gut, jede Umwandlung und Speicherung kostet Leistung und Geld, direkt verwenden ist hier viel günstiger. Bei Power2Gas sind wir aktuell bei 50% Wirkungsgrad, mit Zielen von 70% (aber bisher nur konzeptionell, also Zukunftstechnologie die nicht erprobt ist, besonders in dem Ausmaß).\n\n&gt; Jeder der ein Haus mit PV + Batterie hat weiß, dass es in der Regel ganz gut möglich ist das Jahr über autark Strom zu produzieren.\n\nDann weißt du auch, wie oft man so eine Batterie auswechseln muss. Wallboxen haben ne Lebensdauer von 4-5 Jahren und werden dabei nur relativ selten beansprucht.\n\n&gt; Atomkraftwerke sind scheiß teuer, unflexibel, wartungsintensiv und abhängig von importierten Brennstoffen. Zudem der Müll. Es ergibt gar keinen Sinn diese Schiene weiterzufahren.\n\nAtomkraftwerke sind beim Bau teuer, nicht im Unterhalt. So wahnsinnig wartungsintensiv sind sie auch nicht, man muss halt auch dann ein AKW mit einer Äquivalenten Menge an Windrändern/Solaranalgen + Speicher vergleichen.\n\nDie Menge des importierten Brennstoff ist verschwindend gering und halt auch extrem gut lagerbar. Da kann man sehr gut in Zukunft vorplanen, es gäbe genügend Ausweichmöglichkeiten wie Kanada oder Australien die auch Uran liefern könnten.  \n\nMüll ist ein politisches Thema, außer Deutschland finden andere Länder dafür Lösungen die auch von der Bevölkerung akzeptiert werden.\n\n&gt; Zudem regelmäßig technische Fortschritte\n\nMit dem Argument kommen halt beide Seiten, die Zukunftstechnologie XYZ wird den Atommüll reduzieren, Solaranlagen effizienter machen, etc. Mit sowas kann und sollte man nicht rechen, das ist wie Fusionsenergie \"Fusion is always 30 years away\".",
+        "date": "2024-06-20",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wenn man mal in Bereich tätig war oder sich informiert hat, fallen die anderen halt weitestgehend flach.  \n\nWir sind schon relativ am Maximum an Wasserkraft, da ist kaum mehr große Steigerung möglich (ohne riesige Eingriffe in die Natur).  \n\nAnalog Erdwärme und Gezeitenkraftwerke, da ist ein Potential in Deutschland sehr begrenzt, da kriegt man halt einfach nicht die Mengen an Storm her die wir ersetzen müssen.  \n\nBiogas ist halt ein sehr zwiespältiges Thema, da hast du halt trotzdem deinen Ausstoß an Treibhausgasen und skaliert halt auch nicht sehr gut.  \n\nDie einzigen beiden Bereiche wo wir wirklich noch Wachstumspotential haben (was halt auch Sinn macht), sind Solar + Wind.",
+        "date": "2024-06-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Richtig, aber gibt halt genug Kleinstädte (Grüße gehen raus ins Ahrtal) wo das eben nicht möglich ist. Denn da hat man die Flussläufe kanalisiert eben um dort Häuser zu bauen, während man in München \"nur\" für Wasserkraft kanalisiert hat.",
+        "date": "2024-06-21",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Aber Deutschland hat doch den höchsten Anteil erneuerbarer Energien weltweit oder? Solar und Windkraft erzeugen ja spotgünstig.\n\nWasserkraft ist nur sehr zufällig nutzbar, also fällt das als Vergleich raus. Atomkraft ist teurer wenn man es nicht krass subventioniert. Und Kohle ist auch teurer.\n\nWieso haben andere Länder trotzdem günstigeren Strom, wenn nicht durch subventionen? Weil sie Gas an der Quelle abfackeln oder Erdöl en masse?\n\nDas gute ist nur, dass so Selbstverbraucher Solar immer beliebter wird.",
+        "date": "2024-06-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Deutschland hat nicht den höchsten Anteil an erneuerbaren Energien weltweit? Es gibt Länder die schon heute fast 100% ihrer Energie aus erneuerbaren bezieht, Deutschland ist bei ~50%. \n\nÜbrigens ist Wasserkraft absolut nicht zufällig, sondern im Gegenteil extrem konstant, außer es gibt lange Trockenperioden. Aber im Vergleich zu Solar oder Windkraft ist es wesentlich konstanter (hat dafür andere Nachteile).",
+        "date": "2024-06-23",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Es ist zufällig in dem Sinne dass es einfach extrem zufällig ist ob man es machen kann. Wenn man keine Gewässer hat die sich dafür eignen dann kann man es nicht machen. Daher bringe ich das nicht in die Betrachtung rein, es ist einfach ein sinnloser Vergleich wenn ich z.B. den Wasserkraftanteil von Österreich mit Deutschland vergleiche weil die einfach viel mehr Wasserkraftkapzität haben.\n\nBei Wind und Solar gibt es diese gewissermaßen auch, gibt ja windreichere und sonnenreichere Gegenden. Aber bei Wasserkraft ist das viel entscheidender, wenn du nicht die hohen Gewässer hast, dann kannst du da noch so viel Wille haben. Wind und Solar lohnt fast überall, selbst in den Gebieten mit weniger Ertrag.",
+        "date": "2024-06-23",
+        "sentiment": "negative"
+    }
+]

@@ -1,0 +1,701 @@
+{
+  "annotations": {
+    "list": [
+      {
+        "builtIn": 1,
+        "datasource": {
+          "type": "grafana",
+          "uid": "-- Grafana --"
+        },
+        "enable": true,
+        "hide": true,
+        "iconColor": "rgba(0, 211, 255, 1)",
+        "name": "Annotations & Alerts",
+        "type": "dashboard"
+      }
+    ]
+  },
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 0,
+  "id": 2,
+  "links": [],
+  "panels": [
+    {
+      "datasource": {
+        "type": "postgres"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisBorderShow": true,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "Production of electricity (TWh)",
+            "axisPlacement": "auto",
+            "barAlignment": 0,
+            "barWidthFactor": 0.6,
+            "drawStyle": "line",
+            "fillOpacity": 0,
+            "gradientMode": "none",
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            },
+            "insertNulls": false,
+            "lineInterpolation": "linear",
+            "lineWidth": 1.5,
+            "pointSize": 5,
+            "scaleDistribution": {
+              "type": "linear"
+            },
+            "showPoints": "auto",
+            "spanNulls": false,
+            "stacking": {
+              "group": "A",
+              "mode": "none"
+            },
+            "thresholdsStyle": {
+              "mode": "off"
+            }
+          },
+          "mappings": [
+            {
+              "options": {
+                "A": {
+                  "index": 0,
+                  "text": "solar"
+                }
+              },
+              "type": "value"
+            }
+          ],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 0,
+        "y": 0
+      },
+      "id": 1,
+      "options": {
+        "legend": {
+          "calcs": [],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "single",
+          "sort": "none"
+        }
+      },
+      "pluginVersion": "11.4.0",
+      "targets": [
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_production) AS \"Wind\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Wind'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "A",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_production) AS \"Solar\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Solar'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "B",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_production) AS \"Nuclear\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Nuclear'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "C",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_production) AS \"Hydraulic\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Hydraulic'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "D",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_production) AS \"Fossile\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Fossile'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "E",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        }
+      ],
+      "title": "Evolution of energy production in ${country}",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "postgres"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisBorderShow": true,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "CO2 Emissions (Mt)",
+            "axisPlacement": "left",
+            "barAlignment": 0,
+            "barWidthFactor": 0.6,
+            "drawStyle": "line",
+            "fillOpacity": 0,
+            "gradientMode": "none",
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            },
+            "insertNulls": false,
+            "lineInterpolation": "linear",
+            "lineWidth": 1.5,
+            "pointSize": 5,
+            "scaleDistribution": {
+              "log": 2,
+              "type": "symlog"
+            },
+            "showPoints": "auto",
+            "spanNulls": false,
+            "stacking": {
+              "group": "A",
+              "mode": "none"
+            },
+            "thresholdsStyle": {
+              "mode": "off"
+            }
+          },
+          "mappings": [
+            {
+              "options": {
+                "A": {
+                  "index": 0,
+                  "text": "solar"
+                }
+              },
+              "type": "value"
+            }
+          ],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 12,
+        "y": 0
+      },
+      "id": 4,
+      "options": {
+        "legend": {
+          "calcs": [],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "single",
+          "sort": "none"
+        }
+      },
+      "pluginVersion": "11.4.0",
+      "targets": [
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_emission) AS \"Wind\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Wind'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "A",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_emission) AS \"Solar\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Solar'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "B",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_emission) AS \"Nuclear\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Nuclear'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "C",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_emission) AS \"Hydraulic\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Hydraulic'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "D",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.energy_emission) AS \"Fossile\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\n    JOIN Energy_Type_Dim ed ON e.energy_type_id = ed.energy_type_id\nWHERE\n    ed.type_name = 'Fossile'\n    AND e.country_id = $country \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "E",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        }
+      ],
+      "title": "Evolution of CO2 emissions linked to electricity production in ${country}",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "postgres"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisBorderShow": true,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "barAlignment": 0,
+            "barWidthFactor": 0.6,
+            "drawStyle": "line",
+            "fillOpacity": 0,
+            "gradientMode": "none",
+            "hideFrom": {
+              "legend": false,
+              "tooltip": false,
+              "viz": false
+            },
+            "insertNulls": false,
+            "lineInterpolation": "linear",
+            "lineWidth": 1.5,
+            "pointSize": 5,
+            "scaleDistribution": {
+              "type": "linear"
+            },
+            "showPoints": "auto",
+            "spanNulls": false,
+            "stacking": {
+              "group": "A",
+              "mode": "none"
+            },
+            "thresholdsStyle": {
+              "mode": "off"
+            }
+          },
+          "mappings": [
+            {
+              "options": {
+                "A": {
+                  "index": 0,
+                  "text": "solar"
+                }
+              },
+              "type": "value"
+            }
+          ],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 0,
+        "y": 8
+      },
+      "id": 5,
+      "options": {
+        "legend": {
+          "calcs": [],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "single",
+          "sort": "none"
+        }
+      },
+      "pluginVersion": "11.4.0",
+      "targets": [
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.positive_opinion) AS \"Positive sentiment\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\nWHERE\n    e.country_id = $country \n    AND e.energy_type_id = $energy \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "A",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.neutral_opinion) AS \"Neutral sentiment\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\nWHERE\n    e.country_id = $country \n    AND e.energy_type_id = $energy \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "B",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        },
+        {
+          "datasource": {
+            "type": "postgres"
+          },
+          "editorMode": "code",
+          "format": "table",
+          "hide": false,
+          "rawQuery": true,
+          "rawSql": "SELECT\n    TO_DATE(t.year || '-' || LPAD(t.month::TEXT, 2, '0'), 'YYYY-MM') AS \"time\",\n    SUM(e.negative_opinion) AS \"Negative sentiment\"\nFROM\n    Energy_Impact e\n    JOIN Time_Dim t ON e.time_id = t.time_id\nWHERE\n    e.country_id = $country \n    AND e.energy_type_id = $energy \nGROUP BY\n    t.year, t.month\nORDER BY\n    t.year, t.month",
+          "refId": "C",
+          "sql": {
+            "columns": [
+              {
+                "parameters": [],
+                "type": "function"
+              }
+            ],
+            "groupBy": [
+              {
+                "property": {
+                  "type": "string"
+                },
+                "type": "groupBy"
+              }
+            ],
+            "limit": 50
+          }
+        }
+      ],
+      "title": "Evolution of the public opinion in ${country} about ${energy}",
+      "type": "timeseries"
+    }
+  ],
+  "preload": false,
+  "schemaVersion": 40,
+  "tags": [],
+  "templating": {
+    "list": [
+      {
+        "current": {
+          "text": "Solar",
+          "value": "5"
+        },
+        "definition": "SELECT DISTINCT type_name AS __text, energy_type_id AS __value FROM Energy_Type_Dim",
+        "description": "",
+        "name": "energy",
+        "options": [],
+        "query": "SELECT DISTINCT type_name AS __text, energy_type_id AS __value FROM Energy_Type_Dim",
+        "refresh": 1,
+        "regex": "",
+        "type": "query"
+      },
+      {
+        "current": {
+          "text": "Germany",
+          "value": "2"
+        },
+        "definition": "SELECT DISTINCT country_name AS __text, country_id AS __value FROM Country_Dim",
+        "name": "country",
+        "options": [],
+        "query": "SELECT DISTINCT country_name AS __text, country_id AS __value FROM Country_Dim",
+        "refresh": 1,
+        "regex": "",
+        "type": "query"
+      }
+    ]
+  },
+  "time": {
+    "from": "2015-12-31T12:00:00.000Z",
+    "to": "2025-01-01T12:00:00.000Z"
+  },
+  "timepicker": {},
+  "timezone": "browser",
+  "title": "Energy Dashboard overview",
+  "uid": "sdfsefsf",
+  "version": 1,
+  "weekStart": ""
+}

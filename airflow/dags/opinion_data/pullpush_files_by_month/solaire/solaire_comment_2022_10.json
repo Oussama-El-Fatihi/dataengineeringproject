@@ -1,0 +1,72 @@
+[
+    {
+        "text": "Mais ça ne change rien, si c'est 50%, ça fait énormément d'intermittence à gérer. il arrive que vent + solaire soit à 10% de la capacité nominale, voire moins. Donc il faut quand même pallier l'intermittence.\n\nMoi je vois renouvelable+gas comme une solution temporaire en attendant d'avoir suffisamment de nucléaire+géothermique (ou une solution de stockage long terme, mais j'ai du mal à voir, et ça ne résout pas le problème des quantités astronomiques de matériaux dont on a besoin).\n\n&gt; il ne serait pas insurmontable en théorie (diversifications des sources, stockage, intermittence de la production).\n\nC'est vite dit, mais en pratique ça a l'air bien difficile.",
+        "date": "2022-10-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Ben je ne sais pas, je ne les connais pas, tu as un lien?\n\nYes, [c'est ici](https://www.rte-france.com/analyses-tendances-et-prospectives/bilan-previsionnel-2050-futurs-energetiques#Lesresultatsdeletude). Après en plus digeste il y a [cette vidéo](https://youtu.be/FFkSWgiGyyo) qui décortique l'étude.\n\n&gt;C'est principalement limité par la volonté politique/populaire, non? \n\nPas seulement, il y a aussi des questions de capacité. Des pièces qui n'existent que chez certains fournisseurs, des taches qui ne peuvent être accomplies que par certains spécialistes (soudures par exemple). En plus d'EDF et d'Orano il y a tout une galaxie de fournisseurs, sous traitants et prestataires qui sont impliqués. Et c'est un peu pour ça que les chantiers actuels se passent si mal, l'industrie française a pris cher ces dernières décennies, la santé financière d'EDF est fragile. Donc trouver des fournisseurs, créer de nouvelles lignes de production, former du personnel, c'est compliqué en ce moment.\n\nAlors la situation pourrait s'inverser avec de la volonté politique (et des budgets astronomiques) mais il y a des délais qui eux sont incompressibles.\n\nDu côté des ENR, les prix ont très fortement baissés en dix ans et il y a une bonne dynamique, même si la problématique s'applique aussi: on ne construit pas une usine de panneaux solaires en claquant des doigts.",
+        "date": "2022-10-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pourquoi ? Pourquoi sont-elles pire que le solaire par exemple?",
+        "date": "2022-10-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ca produit rien, c'est moche comme tout, c'est bruyant, ça balance des micro-plastiques et autres merdes dans l'air, et apparemment ça nuit aux vaches. Bon le dernier j'ai des petits doutes mais bon\n\nLe solaire c'est génial. Le photovoltaïque par contre c'est presque la même merde. Hyper polluant à la fabrication, hyper polluant au recyclage. Pour quasi rien produire dans sa durée de vie très faible.",
+        "date": "2022-10-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Qu'autres moyens de production d'énergie renouvelable sont meilleurs que le photovoltaïque et le solaire à ton avis ?",
+        "date": "2022-10-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Pour ce que j'en sais, les arbres absorbent le plus de CO2 par m² au sol ( surface de captation solaire - un jeune arbre prend moins d'un m²; un gros arbre centenaire en prend 30) quand ils ont entre 20 et 50 ans.",
+        "date": "2022-10-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Bon la réduction de conso mois à mois par rapport à l'an dernier ça serait de la triche en ayant installé du photovoltaïque.\n\nPar contre le fait de se retrouver à consommer gratis le jour (et surtout à des heures véritablement creuses quand tous les panneaux solaires de la région produisent en même temps) et de payer la nuit a poussé à faire la chasse au bruit de fond.\n\nEn upgradant un PC serveur vers un NAS (et en recyclant le PC serveur en machine de bureau pour un membre de la famille) et en changeant une vieille VMC le bruit de fond moyen est passé de 300W à 200W. On a aussi vérifié pas mal d'appareils pour se rendre compte que tous ceux en veille font bien leur job et sont sous le seuil de détection de la prise de mesure utilisée.\n\nEt à l'inverse on cuisine un peu plus en journée (et donc un peu moins entre 18 et 20h) et on fait plus de conserves pour l'hiver en été (un super moyen de stocker de l'énergie en inter-saison de la saison creuse à la saison pleine pour EDF !)",
+        "date": "2022-10-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Et à l'inverse on cuisine un peu plus en journée (et donc un peu moins entre 18 et 20h) et on fait plus de conserves pour l'hiver en été (un super moyen de stocker de l'énergie en inter-saison de la saison creuse à la saison pleine pour EDF !)\n\nAs-tu fait le calcul si ça vaut le coup, d'un point de vue financier, acheter quelques batteries 12V de bateau (parce que moins chères que batteries lithium) et un transformateur rectification/ ondulateur intégrable au tableau électrique ? Comme ça tu pourrais éventuellement [stocker juste assez d'énergie solaire pour allumer ta plaque de cuisson la nuit.](https://youtu.be/lGs0VPKM1jU)\n\nIl ne faut pas utiliser des batteries au plomb des voitures car celles-ci sont faites pour être rechargées en permanence et ne supportent pas être trop déchargées.\n\nAjout : Alternativement tu peux aussi acheter des vieilles batteries de vélo d'où tu prendras les piles qui sont encore bonnes. Il faut connaître un peu d'électronique car faudra assembler les piles de façon \"charge balancé\" en modules et les connecter à un circuit de recharge... Ça devient très économique niveau prix en faisant comme ça mais ce n'est pas à la porté de tout le monde niveau expertise.",
+        "date": "2022-10-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Mais en gros pour une maison et famille standard, avec 10kWh de batteries (= actuellement plus de 4000€+ pour du chinois clé en main) donc 7-8 kWh utiles (avec la petite réserve au cas où y'ait vraiment coupure de courant) t'as tout juste de quoi préparer un repas maison, alimenter les PC/TV/... pour la soirée et le bruit de fond de la maison la nuit jusqu'au redemarrage des panneaux le lendemain.\n\nEcologiquement c'est douteux sauf recyclage d'anciennes batteries de voitures ou autres. Mais grosses compétences de bricolo-électricien requises.\n\nFinancièrement t'es à la limite de rentrer dans tes frais sur 15 ans avec le chinois clé en main et une électricité chère. A la limite si tu montes un powerwall à la main avec des cellules lithium achetées en gros en Chine (pareil avec ton bagage de bricolo-électricien) ça passe.\n\nC'est un des gros problèmes du solaire résidentiel : le mode de vie moyen en France fais qu'il est difficile d'adapter sa consommation au mode de production.",
+        "date": "2022-10-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Aucun des 3 modèles ne prends en compte l'évolution du champs magnétiques Marsien (ou alors ca m'a échappé dans l'article.\n\nPourtant, on sait qu'il en existait un via le magnétisme résiduel de la croûte.\n\nLe champs magnétiques est le point clé qui contrôle l'échappement de l'atmosphère. L'un des modèles prend en compte cet échappement mais rien n'est précisé quant à son évolution en fonction du champs magnétiques. Ou même en fonction de l'activité solaire.\n\nEn particulier s'il s'agit d'un gaz léger comme le dihydrogène. Même sur Terre ou Venus, avec une gravité plus intense et une magnétosphère, le dihydrogène ne \"reste\" pas longtemps.\n\nL'hypothèse qui fait actuellement consensus reste donc bien plus probable selon moi.",
+        "date": "2022-10-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Y'a plusieurs choses à prendre en compte pour savoir si l'on a vraiment besoins des voitures.\n\nMais honnêtement, la réponse est oui. Cependant, pas autant que aujourd'hui.\n\nLes villages et fermes auront toujours une grande utilité à avoir des voitures. Enfin, sans qu'elles ne soient remplacées par des bus ou autre moyens.\n\nCependant c'est vrai que rouler un SUV en ville ça sers à rien. Encore moins si c'est juste pour acheter du pain à 3km.\n\nLe problème actuel est que, il est souvent moins cher d'habiter en dehors d'une ville, et d'aller travailler en ville en prenant sa voiture, au lieu d'habiter directement en ville près de son travail. Et les transports publiques et trains ne sont juste pas assez présent pour remplacer la voiture actuellement. \n\nUne chose intéressante est les villes soviétiques. Leur conception entière tournait autour du fait d'être indépendantes et sans voitures. Et ça marchait plutôt bien. Le problème c'est qu'il faut concevoir une ville autour de ça. Sauf que nous, ben, on se tape encore les vieilles infrastructures qu'on maintient.\n\nLe problème reste que, pour changer nos villes et améliorer les transports, il faut du pognon. Et l'on préfère utiliser ce pognon pour d'autre choses pour l'instant.\n\nEn soi cette pénurie est pas mal, ça fait réfléchir les gens un peu plus autour des SUV et du prix de l'essence.\n\nIl ne faut pas oublier que même si nous aurions tous des vélos, la grande partie de la pollution serait toujours présente dans les autres pays tels que la chine. Pas juste cela mais aussi au niveau de la production.\n\nPar contre nous devrions construire plus de centrales nucléaires et se servir plus de l'électricité. C'est le seul moyen utilisable à grande échelle. Nous pouvons complémenter la production avec des panneaux solaires et éoliennes, mais c'est impossible de n'avoir que cela sans batteries gigantesques. Et utiliser des batteries réduirait l'efficacité du système...\n\nIl nous est aussi impossible de recycler la fibre de verre, utilisée massivement pour les éoliennes.",
+        "date": "2022-10-20",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "As tu des arguments pour dire que ça ne l'est pas ?\nOui 100% enr c'est tout à fait possible, mais en France par exemple on a le rapport Rte qui montre les défis des différents scénarios de mix énergétique qu'on choisit. Et les scénarios 100% renouvelables présentent des risques de non réussite technologique particulièrement dans le domaine de la flexibilité, ce sont des énergies intermittentes donc pour avoir un réseau sans black-out il faut par ex déployer en masse des électrolyseur alors qu'on en a aucun pour l'instant.\nCes risques existent mais sont moins élevés pour les scénario avec du nucléaire cf rte.\nPourquoi se passer d'un confort ma foi très minimal qui est la stabilité du réseau (je rappelle que les hôpitaux dépendent de l'électricité) pour des arguments politiques et pas solide du tout contre le nucléaire ?\nMaintenant pour d'autres pays la question est totalement différente, la Norvège par exemple est bien arrosée (95% d'hydraulique donc pilotable en plus) donc le 100% renouvelable fait tout son sens.\nEt dernière chose, le rapport du groupe 3 du Giec donne les capacités encore non exploitées et économiquement viables pour différentes énergies. Et résultat : l'éolien et le solaire sont largement les plus inexploités dans le monde, Mais le nucléaire fait aussi partie des solutions importantes et économiquement viables.",
+        "date": "2022-10-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Quel est le but de ce commentaire ? 🙂\n\nEt quand je dis \" retour à la grotte\" : c'est juste une image, pas un argument... Sans technologies, pas de panneaux solaires, pas d'éoliennes, pas de...\n\nJe ne suis pas politicien, pas besoin de faire une analyse ultra poussée de chacune de mes phrases et y voir un sens caché, hin ;)",
+        "date": "2022-10-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La chaleur solaire stocké par l'arbre et si elevé que le carbone stocké sert a rien ?\nDonc faut faire des prairies par exemple à la place de routes ?",
+        "date": "2022-10-26",
+        "sentiment": "negative"
+    }
+]

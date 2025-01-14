@@ -1,0 +1,187 @@
+[
+    {
+        "text": "Trotz eines für die Windkraft schwachen Novembers und Dezembers hat Deutschland mit 50,5 % erstmals im Jahresschnitt knapp über die Hälfte seines Stroms aus erneuerbaren Energien gewonnen während es 2019 noch 45,9 % waren. \n\n\"Geholfen\" hat dabei sicher der geringere Strombedarf durch die Corona Pandemie (https://energy-charts.info/charts/energy/chart.htm?l=de&amp;c=DE&amp;interval=year&amp;year=-1) aber ihr\nWolltet Mal eine gute Nachricht lesen? Hier ist Sie :)",
+        "date": "2021-01-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Inzwischen importiert Deutschland auch mehr Strom, denke dass das auch ein Faktor ist. Erfreulicherweise dabei immer mehr Strom aus Erneuerbaren.\n\n 2020 kam unter anderem eine neue Leitung aus Norwegen dazu über die wir 100 % Strom aus Wasserkraft erhalten und auch Dänemark exportiert zu uns immer mehr Strom aus Windkraft, was unsere Bilanz sogar zusätzlich verbessert .",
+        "date": "2021-01-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Danke - sehr gut informierter Beitrag, wo hast du die ganzen Zahlen her? Ich verfolge das auf electricity-map aber da sind die Statistiken leider nur teilweise öffentlich einsehbar.\n\nDas Nordlink so wenig Beachtung bekommt wundert mich etwas. Klar, unter Volllast läuft das wohl erst im März 2021, aber dadurch, dass das Deutschland die Wasserkraftwerke in Norwegen als virtuellen Energiespeicher nutzen kann, der bei Stromüberschüssen der Windkraft in Norddeutschland die Speicherseen füllt und bei Windflaute diese Kapazitäten abrufen kann, haben wir jetzt einen neuen 1,4 GW Speicher für unser Stromnetz zur Verfügung stehen, ohne dass stark in die Umwelt eingegriffen werden musste. Für mich eindeutig eine der besten Nachrichten 2020 was den Ausbau von Erneuerbaren angeht...",
+        "date": "2021-01-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Und Schall-Emissionen wie bei Windkraft auch? Vielleicht ist der Begriff 'Erneuerbare Energien' doch nicht so übel. Erspart uns wenigstens diese Diskussion.",
+        "date": "2021-01-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dei Mudder ist nicht schlüssig. Wie soll das denn gehen? Kannst du mir das vorrechnen? Einfach nur zu sagen \"doch wohl, ich hab recht\" reicht leider nicht.\n\nDas hier ist die Stromerzeugung von KW 49 Anfang Dezember: Es gab einen Tag wo viel Wind wehte (4.Dezember) der Rest der Woche war aber windstill und leider gibt es im Winter kaum Sonne:\n\nhttps://energy-charts.info/charts/power/chart.htm?l=de&amp;c=DE&amp;week=49\n\nUm die Windstille auszugleichen wurde Gas hochgefahren. (Hier sehe ich ein großes Grundproblem: Wie wollen wir je vom Erdgas loskommen? Selbst in der Sci-fi Zukunft von 2050 werden wir deshalb mehr CO2 erzeugen als Frankreich jetzt. Man liest immer von Pumpspeicher-Kraftwerken als mögliche Lösung aber wenn man das recherchiert, dann A) verteuert das Windkraft enorm und B) gibt es nur 7 GWh installierte Leistung in Deutschland und _keinerlei_ Pläne das signifikant zu erhöhen.) Das ist jedenfalls der variable Anteil der die Lastspitzen über den Tag dynamisch ausgleicht.\n\nDarunter haben wir aber eine Grundlast, die von Kernenergie und Biomasse und Kohle gedeckt wird. Je höher der Anteil der Kernenergie sein kann, desto kleiner muss der der Kohle sein.",
+        "date": "2021-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Kommentarbereich In einer Nussschale:\n- Atomkraft ist blöd\n- Fossil ist blöd\n- Wasserkraft ist blöd\n- Windkraft ist blöd\n- Solar ist blöd\n- Biogas ist ganz cool aber reicht allein nicht",
+        "date": "2021-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nein, Biogas ist eigentlich die schlechteste erneuerbare Energieform mit dem höchsten CO2-Ausstoß und Landverbrauch und der massivste Eingriff in die Natur (riesige bewirtschaftete Monokulturen statt Wiesen und Wälder).\n\nGegen Windkraft und Photovoltaik spricht nichts und sie haben den niedrigsten negativen Einfluss auf die Umwelt, entsprechend sollte der Ausbau forciert werden.",
+        "date": "2021-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Also wir in der Schweiz speichern sehr wohl grosse mengen an Strom vom Sommer in den Winter. Pumpspeicher Kraftwerke.\n\nAusserdem gibt es im Winter saisonal mehr Windkraft. Die Herausforderung ist die \"Dunkelflaute\", Tage oder Wochen im Winter mit wenig Sonne und Wind.",
+        "date": "2021-01-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die hat noch regelmäßig unsere firma belagert im vergangenen Jahr. Dass sie die Windkraft Niederlassung angegangen haben und nicht die Kohlekraft, wie sie immer dachten, war ihnen allerdings egal.",
+        "date": "2021-01-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Die Bereitschaft, Komfort- oder finanzielle Einbußen in Kauf zu nehmen, nehme ich als sehr gering war; technischen Neuerungen wird gleichzeitig instinktiv ablehnend begegnet (\"das ham wir schon immer so gemacht\").\n\nBei der Akzeptanz von moderner Technik stimme ich dir zu, die Technikfans und modernisierer sind hier klar in der Unterzahl und gehen meistens gegen ziemliche Widerstände an - auch wenn wir grade hier im Hunsrück sehr erfolgreich in manchen Bereichen sind, zum Beispiel was den Ausbau der Windkraft angeht, der hier ohne größere Probleme stattfindet. Aber Einbussen beim finanziellen Komfort einfordern? Hier bekommen viele Leute nur Mindestlohn oder wenig mehr. Industriejobs mit Stundenlöhnen von 15€ gelten hier schon als gut bezahlt. Es gibt einfach eine große Anzahl an Landbewohnern, die keinen riesigen Spielraum haben, um jetzt noch 300€ monatlich oder mehr in irgendwelche Modernisierungsmaßnahmen zu stecken. Man kann jetzt nicht erwarten, das alles plötzlich hoppladihopp gemacht wird und die Leute ihr eh schon schmales Budget für Urlaub, Freizeit und Luxus noch deutlich schmälern. Und es ist nicht so, als ob hier nicht auch Wärmepumpen und Solaranlagen in die Häuser eingebaut werden - nur halt in dem Tempo und Umfang den die Leute leisten können.\n\nIch geb ja auch zu das es zu viele Konservative gibt und ich wünsche mir selber auch den Wandel auf dem Land - aber man muss halt auch verstehen das die Ressourcen, die in der Provinz zur Verfügung stehen, einfach nicht so üppig ausfallen wie in Ballungsräumen. Das fehlende Geld ist meiner persönlichen Erfahrung nach ein größeres Hemmnis als der Unwillen zum Wandel. Und bei knappem Budget ist das Festhalten an Billigem (Aber langfristig tödlichem) Erdöl halt verführerisch...",
+        "date": "2021-01-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es gibt halt verschiedene Ziele in der Umweltpolitik. Klimawandel ist ein Problem, aber fast genauso drängend ist es, das Artensterben aufzuhalten.\n\nFluss-Kraftwerke haben leider extrem große Auswirkungen auf Ökosysteme. Da wir mit Windkraft und PV Methoden zur Stromerzeugung haben, die deutlich weniger stark in die Umwelt eingreifen, halte ich diese für nicht mehr wirklich zeitgemäß.",
+        "date": "2021-01-07",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Sehe nicht was das Problem wäre?! Fresse halten, Windkraft und Gleise ausbauen.",
+        "date": "2021-01-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Milde Interessant: Bald geht auch [NordLink](https://de.wikipedia.org/wiki/NordLink) zum regulären Betrieb über - so können länderübergreifend Schwankungen (v.a. im Bereich Windkraft und Solar) in der Stromerzeugung besser ausgeglichen werden.",
+        "date": "2021-01-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Mars ist schon deshalb witzlos, weil wir keine einfache Möglichkeit haben, dort Energie zu erzeugen. Die Atmosphäre is zu dünn für Windkraft, Flüsse oder Meere gibt es ebensowenig wie fossile Brennstoffe oder geologische Prozesse, die für nukleare Rohstoffe wie Uran notwendig sind.\n\nSolarenergie ist eventuell die einzige Möglichkeit, die wir haben, aber die Sonne ist wesentlich weiter weg im Vergleich zu Erde, weshalb es weitaus weniger effizient ist und wochenlange oder monatelange Sandstürme sind da auch nicht gerade hilfreich.",
+        "date": "2021-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\"Windkraft ja, aber nicht in meiner Sichtweite\".",
+        "date": "2021-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Die Atmosphäre is zu dünn für Windkraft\n\nDünn, ja, aber die höheren Windgeschwindigkeiten gleichen die geringere Dichte etwas aus (die Dichte der Atmosphäre geht linear in die Energieausbeute ein, die Windgeschwindigkeit dagegen kubisch!). Als primäre Energiequelle kommt Wind zwar eher nicht in Frage, als Backup, falls andere Quellen ausfallen oder als relativ einfach mit Materialien vor Ort zu konstruierende Kraftwerke ist Windkraft aber durchaus interessant.\n\n&gt; Solarenergie ist eventuell die einzige Möglichkeit, die wir haben, aber die Sonne ist wesentlich weiter weg im Vergleich zu Erde, weshalb es weitaus weniger effizient ist und wochenlange oder monatelange Sandstürme sind da auch nicht gerade hilfreich.\n\nSo schlimm ist der Leistungsabfall nicht, auf dem Mars bekommst du immer noch grob die Hälfte der Strahlungsleistung im Vergleich zur Erde. Sandstürme sind sicher ein Problem, aber kein unlösbares. Eine Kolonie wird den Raketentreibstoff für den Rückflug vor Ort herstellen müssen und braucht dafür sehr große Energiemengen. Falls dafür Solarzellen eingesetzt werden, produzieren die weit mehr Strom, als die Siedlung abzüglich der Treibstoffproduktion benötigt. Bei einem längerem Sandsturm würde es also wahrscheinlich reichen, einfach die Treibstoffproduktion einzustellen. Im schlimmsten Fall könnte man auch den schon gewonnenen Treibstoff in Brennstoffzellen oder Gasturbinen wieder zu Strom zurückverwandeln.",
+        "date": "2021-01-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Stromtarif mit Windkraft?",
+        "date": "2021-01-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "\"Wenn der Strom nicht ins Netz gespeist werden kann, werden die Windräder gestoppt.\n \nEin enormer Verlust: Im Jahr 2017 beispielsweise betrug die Ausfallarbeit 5,5 Terawattstunden. Ausfallarbeit ist die Menge an elektrischer Energie, die nicht ins Netz gespeist werden kann. Der Großteil entfällt auf Windkraft und der Großteil davon wiederum auf Norddeutschland. Auch finanziell: Die Windanlagenbetreiber werden für die Ausfallarbeit entschädigt, und zwar über das Netzentgelt. Das bedeutet, die Stromkunden bezahlen Strom, der nicht erzeugt wird. Im vergangenen Jahr 2019 waren das 710 Millionen Euro\"\n\nIst an sich nichts neues, war schon vor 5 Jahren so als ich aus der Branche raus bin. Man hat es bisher immer noch verkackt, n gescheites Netz aufzubauen.",
+        "date": "2021-01-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Solarförderung ist nichts neues in Bayern oder bei der CSU. Es geht ja nicht darum, dass die CSU den AfD Spinnern folgt und den Klimawandel leugnet. Auch wenn Söder immer wieder Aktionen bringt, die deren Wähler ansprechen sollen. (Siehe Kreuze aufhängen und ähnliches)\n\nEin Mini-Schritt in die richtige Richtung macht seine Politik nicht grün. Erst Recht nicht, wenn er gleichzeitig an vielen anderen Stellen komplett blockiert oder sogar Rückschritte macht. Wie zum Beispiel beim Thema Windkraft.",
+        "date": "2021-01-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wir müssen eher vor ein paar Jahren als in ein paar Jahren aus den fossilen Brennstoffen raus. \n\nDie 40 Millionen Wohnungen, die aktuell in DE mit Gas heizen, kannst du aber nicht schwuppdiwupp auf Windkraft umstellen. Somit bleibt Gas faktisch noch auf Sicht relevant \n\nUnd all das hat mit der Pipeline, die, ich wiederhole, bereits gebaut ist, quasi nichts zu tun. Da ist global gesehen das US-Fracking mit anschließend transatlantischem Schiffstransport viel umweltschädlicher.",
+        "date": "2021-01-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Rückgang um 40 Prozent\n&gt; Deutschlandweit wurden 2020 rund 770 Windräder genehmigt - ein Rückgang von rund 40 Prozent gegenüber 2015. Zum Vergleich: In \"guten\" Windkraft-Jahren der vergangenen 20 Jahre wurden jeweils zwischen 1500 und 2000 Windräder bundesweit genehmigt.\n\nVergleicht doch wenigstens die installierte Leistung. Die Dinger werden immer größer und Leistungsfähiger, natürlich baut man dann weniger. Auf die gleiche Fläche, auf der früher 120meter Anlagen standen, können auch nicht gleichviele 240m Anlagen stehen. \n\nWenn die ineffizienten Anbieter vom Markt gehen, umso besser. Es sollte ja langsam ohne Subvention gehen.",
+        "date": "2021-01-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mit Windkraft an Land als großes Zugpferd braucht man wohl nicht mehr zu rechnen. Das größte Potential dürfte noch Repowering sein, auch damit kann man den Ausbau noch kräftig steigern ohne mehr Windräder zu benötigen. Ansonsten wird wohl eher die Photovoltaik und Offshore-Windkraft die entscheidenden Beiträge liefern.",
+        "date": "2021-01-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ja, die Netzschwankung war wohl nicht wegen der Energiewende aber die Braunkohlekraftwerke fahren aktuell auf Volllast, um die Stromversorgnung wegen einer \"Dunkelflaute\" (und damit Ökostromflaute) aufrecht zu erhalten:\n\n&gt;Die Kohlekraftwerke der Leag in der Lausitz und auch die Tagebaue arbeiten nach Angaben des Unternehmens seit Jahresbeginn mit voller Auslastung, um die Stromversorgung zu sichern. Hintergrund ist demnach die von der Energiewirtschaft so bezeichnete \"Dunkelflaute\" zu dieser Jahreszeit, bei der Solarstrom und Windkraft kaum einen Beitrag leisten. Die Sonne kommt nicht durch, und es gibt über einen längeren Zeitraum keinen Wind. Das sei keine unübliche Situation in der dunklen Jahreszeit, sagte Leag-Sprecher Thoralf Schirmer. \"Da sind wir drauf vorbereitet.\" Zunächst hatte die \"Lausitzer Rundschau\" darüber berichtet.\n\n[https://www.sueddeutsche.de/wirtschaft/energie-cottbus-dunkelflaute-kohlekraftwerke-arbeiten-unter-volllast-dpa.urn-newsml-dpa-com-20090101-210111-99-982331](https://www.sueddeutsche.de/wirtschaft/energie-cottbus-dunkelflaute-kohlekraftwerke-arbeiten-unter-volllast-dpa.urn-newsml-dpa-com-20090101-210111-99-982331)\n\nAuch wenn ich jeglichen Ökostrom begrüße, sehe ich die aktuelle Energiewende kritisch, wenn es nämlich nur unter Idealbedingungen funktioniert.",
+        "date": "2021-01-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wie soll er auch nicht stocken.\n\nEnergiewende ist solange toll wie das eigene Leben nicht angetastet wird. Danach gibt es Widerstand von einzelnen, die gelegentlich eine politische Relevanz entwickeln, wie zum Beispiel gegen Windkraft auf dem Hügel nebenan oder der Stromtrasse durch den Wald. Von einem Windkraftwerk hat eine Kommune oder Landkreis nichts, das zahlt keine Steuern und schafft keine Arbeitsplätze.\n\nAuch als Bundesland hat man wenig Anreiz, sich mit den Anlagen vollzubauen. Energiepolitik ist halt Bundessache und unterm Strich ist der Schaden für einen Ministerpräsidenten durch so einen Artikel oder FFF etc. viel geringer als nervige Bürgerinitiativen. Lieber \"für die Natur\" kämpfen und alles auf das böse Berlin schieben.\n\nIch glaube langsam, dass AKWs die einfachste Lösung wären. Man muss keine neuen Stromleitungen bauen, der Strom muss nicht gespeichert werden, es schafft hunderte oder tausende Arbeitsplätze, also gibt es ein politisches Interesse es irgendwo gebaut zu bekommen. Irgendwo müsste halt ein Endlager hin, aber da muss man sich nur einmal den Stress machen und nicht permanent wegen jedes fucking Windrads wegen",
+        "date": "2021-01-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Eine klare Aufteilung in Gegenden mit und ohne Windkraft soll das Dilemma auflösen. Bund und Länder sollen verbindliche Ziele festlegen und sicherstellen, dass jedes Bundesland einen \"Mindestanteil an Windstrom\" erfüllt. Alle Länder sollen entsprechende \"Vorrang- bzw. Eignungsgebiete\" ausweisen, rund zwei Prozent der Landesfläche. Im Umkehrschluss soll aber auch gelten, \"dass Vorranggebiete für Windenergie gleichzeitig den Ausschluss der Errichtung von Windenergieanlagen außerhalb dieser Flächen bedeuten\". Länder, die ihre Ziele übererfüllen, sollen belohnt werden. Wer sie nicht erreicht, würde bestraft.\n\nIst nicht optimal, aber klingt jetzt auch nicht so schlimm. Aber das mit dem Nabu ist auch eine wirklich nervige Geschichte.",
+        "date": "2021-01-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die kann man auch in groß machen, aber (logischerweise) bringen die deutlich weniger. Weniger Fläche ist bei Windkraft ja logischerweise kontraproduktiv.",
+        "date": "2021-01-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Vor 20-30 Jahren wurde auch behaupten, wenn die Windkraft  mehr als 10% erreicht, sie das Netz ruinieren. Die Alten klammern sich an das alte Geschäft, da wo Geld zu verdienen ist, werden sich Bereiche finden wo neue Technik kommt. Tesla zum Beispiel hat ja schon ein System wo powerwalls  in verschiedenen Häusern eingebaut sind, die dann als virtuelles Kraftwerk arbeiten. Sowas wird man auch problemlos auf das Auto übertragen können.",
+        "date": "2021-01-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Hast du nicht gerade behauptet das sowas nicht in wenigen Jahren geändert wird?\n\nWird es ja auch nicht, der Umbau ist ja noch im Gange.\n\n&gt;  Nun haben die Grünen ja anscheinend den Konzern relativ schnell in die passende Richtung gelenkt.\n\nNicht wirklich. Gelenkt wurde da wenig. War einfach das so ziemlich einzig sinnvolle Vorgehen.\n\n&gt; Fast alle nennenswerte Kraftwerke, bis auf ein paar Ausnahmen in Form von Pumpspeichern liegen in diesen drei Bundesländer, weil sie eben geografische Vorteile haben.\n\nUnd Norddeutschland hat dafür Windkraft wie blöd. Dass BW einen natürlichen Vorteil bezüglich Erneuerbaren hat, halte ich für fragwürdig.",
+        "date": "2021-01-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": " ,,Die Strategie dazu gab es durchaus auch vorher schon, so was wird nicht innerhalb eines Jahres geändert. \" \n\nDavor hat man sich noch auf die konventionellen Energie verlassen. Und natürlich haben die Land einen großen Einfluss auf EnBW.\n\n \n\n\"Gläser versicherte, der Städtetag und der Verband kommunaler Unternehmen wollten gerne die notwendige ordnungspolitische und energiewirtschaftliche Neuorientierung im Verbund mit den Gesellschaftern der EnBW \"konzeptionell mitgestalten\".\n\n\"Dabei ist es grundsätzlich positiv, wenn man auf Augenhöhe miteinander spricht\", betonte Gläser. Mit Villis sei dies durchaus zu machen: \"Er ist ein seriöser und cleverer Unternehmenslenker.\"\n\nGläser wandte sich gegen eine kategorische Absage einer Kapitalerhöhung durch die grün-rote Landesregierung schon zum jetzigen Zeitpunkt. \"Die EnBW muss aber vorher genau darlegen, was sie mit dem Geld vorhat.\" Wenn die programmatische Neuausrichtung unter Einschluss der Kommunen und Stadtwerke schlüssig dargelegt werde, sei der richtige Zeitpunkt gekommen sich über eine Kapitalerhöhung oder andere Formen der Kapitalbeschaffung an einen Tisch zu setzen. Die kommunale Seite müsse dazu wegen der Rückwirkungen auf die Daseinsvorsorge intensiv einbezogen werden.\"\n\n[https://www.welt.de/regionales/stuttgart/article13544095/EnBW-hat-Politik-nicht-ernst-genug-genommen.html](https://www.welt.de/regionales/stuttgart/article13544095/EnBW-hat-Politik-nicht-ernst-genug-genommen.html)\n\nBaden-Württemberg hat rund das doppelte von Sonnenstunden wie der Norden, viel Wasserkraft und inzwischen mit neuer Technik auch gute Möglichkeiten mit Windkraft wo man auch auf teilweise 300 oder mehr Volllaststunden im Jahr kommt. Der perfekte Energiemix.",
+        "date": "2021-01-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Davor hat man sich noch auf die konventionellen Energie verlassen.\n\nDavor war ja gerade auch der Atomausstieg rückgängig gemacht worden. Trotzdem hat man sich natürlich schon Gedanken gemacht, was man ohne AKWs machen würde.\n\n&gt; Baden-Württemberg hat rund das doppelte von Sonnenstunden wie der Norden, viel Wasserkraft \n\nNur ist Baden-Württemberg halt nicht sein eigenes Netzgebiet, sondern mit dem Rest von Deutschland verbunden, sodass davon auch andere Bundesländer profitieren. Außerdem hat z.B. RWE signifikante Anteile an den baden-württembergischen Pumpspeichern.  \nAlso wie soll das ein Vorteil für die EnBW sein? Deren Erneuerbaren-Portfolio verteilt sich über Deutschland, inklusive Offshore-Windparks in Nord- und Ostsee. Genauso wie auch andere Energiekonzerne Erneuerbare in BW bauen können.\n\n&gt; und inzwischen mit neuer Technik auch gute Möglichkeiten mit Windkraft wo man auch auf teilweise 300 oder mehr Volllaststunden im Jahr kommt.\n\nReicht halt trotzdem nicht, um sich damit in den Ausschreibungen gegen die noch besseren norddeutschen Standorte durchzusetzen.",
+        "date": "2021-01-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Muss ich nicht. Dafür muss ich nur schauen wie wich die Menschen bei allen möglichen Themen verhalten. \n\nWindkraft? Nicht in meinem Garten. \n\nStromtrassen? Nicht in Sichtweite meines Hauses. \n\nVerdichtung von Wohngebieten in Metropolen? Nicht in meiner Altbaustraße. \n\nErweiterung von S-Bahn-Strecken? Nicht wenn die Schienen an meinem Haus vorbei gehen. \n\nReaktivierung von Bahnstrecken auf dem Land? Ne ich hab grad eine EFH direkt neben die Schienen gebaut. \n\nSpielplätze, KiTas oder ein Bolzplatz? Bitte nicht wo ich die Kinder hören kann. \n\nTeureres Kerosin? Nein! Dann kann man ja nicht mehr 4x im Jahr für 19€ nach Malle fliegen. \n\nBrauchst du noch mehr Beispiele?",
+        "date": "2021-01-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Photovoltaik, Windkraft, Wärmepumpen, Elektromobilität, Wasserstoff, Brennstoffzellen, Lithium-Ionen-Akkus, BECCS, Gebäudedämmung. Nur um mal ein paar zu nennen. Das reicht prinzipiell auf technologischer Seite, um die IPCC-Ziele zu erfüllen. Ist wie gesagt aber auch nur ein Faktor. Gerade bei Landwirtschaft und Landnutzung sind ja nicht-technologische Lösungen gefragt, und das Schließen von Methan-Lecks würde ich auch nicht als Technologie bezeichnen.",
+        "date": "2021-01-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich bin im Westerwald aufgewachsen, meine Ma und ich waren immer angepisst, dass die dort auch immer Zeter und Mordio geschrien haben, wenn's um Windkraft vor der Haustür ging. Eigentlich die perfekte Landschaft: eh nur öde anzusehen, kaum Leute drumrum und windig wie nur was. Also feier ich Windräder erstens aus Trotz schon, zweitens weil ich die Ästhetik auch unironisch mag. So ein spannender Horizont: Windrad Windrad Hügel großes-Windrad Kirchturm Schlot Windrad, das hat doch was.",
+        "date": "2021-01-28",
+        "sentiment": "positive"
+    },
+    {
+        "text": "In der dunklen Jahreshälfte exportiert Deutschland seit Jahren Strom, denn da ist es zwar dunkel, aber eben auch windiger als im Sommer; und in Deutschland steht signifikant mehr Windkraft als Photovoltaik. [Energy Charts](https://energy-charts.info/?c=DE&amp;l=en) zeigt das ganz gut.",
+        "date": "2021-01-28",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Das ist korrekt, aber wieso kann USA das und Deutschland/EU nicht? Vielleicht weil 10 Jahre nachdem mehrere Milliarden-Unternehmen sich etabliert haben Internet immer noch \"Neuland\" ist? Es ist die CDU-Mentalität das wir einfach weiter Kohle verbrennen und Otto-Motoren bauen werden, wie in der guten alten Zeit, warum wir nicht konkurrenzfähig sind. Jetzt kommt die nächste Runde Technologien: \n\n\\- AI (längst an die Chinesen verloren, Shanghai allein investiert seit Jahren mehr als ganz Europa)\n\n\\- Windkraft (wird in Deutschland gerade politisch gewollt abgesägt)\n\n\\- Brennstoffzellen (Chancen noch da)\n\n\\- Dezentrale Technologien (Chancen noch da)\n\nWie wird Regierung und Wahlvolk reagieren?",
+        "date": "2021-01-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "In der chemischen Industrie alternativlod, und bei der Stahlerzeugung ebenfalls die beste Alternative. Langfristig wird Windkraft zu Wasserstoff mit Rückverstromung in Gas- und Dampfkraftwerken einen wesentlichen Beitrag dazu leisten, Energie zu speichern und Dunkelflauten zu überbrücken. \n\nDeshalb ist das Zeug auch viel zu wertvoll, um im PKW-Bereich zu landen.",
+        "date": "2021-01-30",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Mir wird bei der Diskussion hier halt zu oft einiges vermischt. Wenn ich E-Autos als Alternative für weniger CO2 anführe, kommt direkt danach \"aber der Flächenverbrauch und der viele Verkehr\"\n&gt; \n&gt; Ja das eine hat aber mit dem andere nichts zu tun. Ich kann (theoretisch) noch viel mehr Verkehr haben als heute der trotzdem CO2 neutral ist.\n\nE-Autos sind zwar weniger CO-2 als Verbrenner, aber niemals neutral. Dazu müsste der gesamte Fertigungsprozess der Autos (inklusive Rohstoffabbau und Transport) plus Straßenbau und Instandhaltung, Stromherstellung und Recycling CO-2 frei sein. Das ist aber nicht wirklich möglich. Der Strommix geht natürlich rasant sehr gut vorwärts in Richtung erneuerbare, aber wenn man nun über die nächsten Jahre durch einen Austausch der Verbrenner mit E-Autos auch mehr Strom braucht, ist es unwahrscheinlich dass der Strommix in den nächsten 10 15 Jahren nahezu vollständig aus erneuerbaren (defacto hauptsächlich Windkraft) kommt.\n\nE-Autos sind im CO-2 Ausstoß wesentlich besser und der richtige Weg, keine Frage, aber lange noch nicht neutral. Ob sie CO-2 \"niedrig\" genug sind ist die Frage.\nIst es für die Umwelt genug, einfach alle Verbrenner durch E-Autos zu ersetzen? Oder ist grundsätzlich der massive Individualverkehr ein Ressourcen und Umweltproblem langfristig. Da ist glaube ich für viele ein Kern der Debatte, und ich denke hier gibt es noch keinen wissenschaftlichen Konsens.",
+        "date": "2021-01-31",
+        "sentiment": "negative"
+    }
+]

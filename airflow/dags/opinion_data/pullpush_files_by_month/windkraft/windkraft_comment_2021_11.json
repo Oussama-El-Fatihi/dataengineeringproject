@@ -1,0 +1,477 @@
+[
+    {
+        "text": "Darum geht es nicht, es geht darum, dass der Strompreis keine Metrik ist die Kosten der Maßnahme zu beziffern.\n\nAtomkraft ist sau teuer, besonders im Vergleich zu Solarenergie und Windkraft und auf Grund der Zentralisierung deutlich (wenn auch nicht problematisch) unzuverlässiger.",
+        "date": "2021-11-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "klar. deswegen ist der strom in deutschland mit viel windkraft auch der teuerste der welt. In Indien wäre man also froh solch günstige preise zu zahlen.",
+        "date": "2021-11-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Diese Zwischenspeicher sollten aber dann möglichst verlustfrei sein. z.B. Redoxflow Batterien oder Flüssigsalzkraftwerke.\n\nÜberschüssige Energie in Wasserstoff zu speichern ist halt unglaublich ineffizient.\n\n&amp;#x200B;\n\nÜbrigens zum Thema Solar im Winter: Dafür gibt es ja Windkraft. Die verhält sich genau umgekehrt zu Solar. Viel im Winter, weniger im Sommer.",
+        "date": "2021-11-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;und die bestehenden &gt;1,3 Milliarden Autos co2-Neutral zu machen.\n\nWas dort einfacher durch E-Autos zu realisieren ist als Wasserstoff.\n\n&gt;ch wüsste nicht wieso es naiver wäre anzunehmen man könnte ausreichend erneuernbaren Strom produzieren als erstmal über eine Milliarde E-Autos zu bauen und den Flugverkehr und die Schifffahrt mit Batterie zu betreiben.\n\nBei der Diskussion geht ja explizit um die Autos. Flugzeuge und Schiffe sind irrelevant und da mag Wasserstoff/E-fuels eine möglichkeit sein.\n\nWasserstoff ist auch mehr als \"ich tanke jetzt einfach Wasserstoff\" oder synthetische Treibstoffe. Bis wir so weit sind hat sich ein großteil der Autos eh erneuert, wieso dann nicht direkt mit den effizienteren E-Autos?\n\n\n&gt;Ich weiß halt nicht was du mir jetzt mit der Zahl sagen möchtest.\n\nIch erkläre es dir. Nehmen wir mal deine 8cent/kwH und nehmen wir mal die frei erfunde Zahl, dass wir 1kw brauchen um 1 Stunde zu fahren, also 1kwH. Um 1,7kwH Wasserstoff herzustellen bedarf es 10kwH Strom. Für die selbe Menge könnten wir wir 5,7kwH mit einem E-Auto fahren. Und spätestens dann, muss der Wasserstoff-Autobesitzer den Wirkungsgrad auch bezahlen. Heißt dein 1,7kwh Wasserstoff kostet mindestens 80Cent. Für das selbe Geld bekommst du 3x so viel Reichweite mit einem E-Auto.\n\n\n&gt; dann baut man halt mehr Windräder lol.\n\nDie bauen sich halt nicht einfach so aus Luft und Liebe. Das Kostet Geld. Und dann wird es eine ökonomische Frage, bei der sehr wohl der Wirkungsgrad von dem ganzen Bums eine Rolle spielt, wenn man wissen will, wie viel man am Ende den für 1kwH Energie bezahlt.\n\n&gt;Abgesehn davon weiß ich nicht wieso der Wirkungsgrad in irgendeinerweise für den Autofahrer relevant sein sollte? \n\nWeil er die Verluste, wenn die Energie aus der selben Quelle kommen (Windkraft vonmir aus) bei Wasserstoff und dem E-Auto dann vom Autofahrer bezahlt werden müssen. Das Elektrolyseverfahren bekommt den Strom auch nicht günstiger als das E-Auto.\n\n&gt;Und mein ganzes Argument spricht ja noch nichtmal an dass du quasi 24/7 Strom mit Wind machen kannst, aber offensichtlicherweise die Nachfrage die meiste Zeit weit unter dem möglichem Output liegt.\n\nWas halt auch eher gegen Eletrolyse spricht, wenn es sich nur lohnt Elektrolyse zu betreiben, wenn es gerade zu viel Strom gibt, dann steht deine teure Elektrolyseanlage oft still. Entsprechend teurer wird der Wasserstoff daraus.",
+        "date": "2021-11-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Nein bei meiner Diskussion ging es mir darum das mir dein Wirkungsgradargument einfach sinnlos erscheint.\n\nDu erklärst es für sinnlos, weil du sagt \"lol bau mehr windkraft\" ohne Anzuerkennen, das man nicht einfach mehr Windkraft baut. Weil auch ein Windkraftwerk kostet, wie eine Batterie auch, Ressourcen, die mit Geld bezahlt werden wollen. Auch wenn Wind kostenlos ist, ist es nicht das Aufstellen und Betreiben einer Windkraftanlage, oder irgendeiner EE-Anlage.\n\nUnd wenn man nicht einfach annimt, dass man unendlich Energie zur Verfügung hat, sondern die Realität, das Energie eine zu managende Ressource ist, dann spielt der Fakt halt auch eine Rolle, wo wir unsere Ressource verschwenden. \n\nDeiner Argumentation zur Folge hätten wir ja auch einfach mehr Kohlekraftwerke bauen können, anstatt die LED zu erfinden.\n\n&gt;Wo kommt die Zahl her?\n\nWie gesagt, erfunden um die Wichtigkeit von Wirkungsgrad zu zeigen. Die genaue Zahl spielt keine Rolle, weil der Punkt den ich mache davon unabhängig ist. Wenn der Wirkunggrad um 17,325% ist um  Windenergie zu \"Auto rollt\" Energie umzuwandeln, braucht es halt 10kwH Windenergie und man bekommt nur 1,7325 kwH \"Auto rollt Energie\". Aber für eben die 10kwH Windenergie hätten wir bei einem E-Auto eben 5,7 kwH \"Auto rollt Energie\" erhalten. Und das was ein Autofahrer am Ende ja bezahlt ist halt die \"Auto rollt Energie\".\n\nWenn nun die Quellenergie, unsere Windkraft hier, die selbe Ressource ist, muss ja zwangsläufig der Preis für die gleiche effektive Leistung bei Wasserstoff höher liegen, als bei einem E-Auto. Die einzige Möglichkeit wie dann Wasserstoff das schlagen kann ist wenn die sonstigen Kosten die da mit Spielen bei einem E-Auto den Vorteil durch Wirkungsgrad schluckt und da sehe ich die Entwicklung halt ähnlich. \n\n&gt;Erstens würde es aus effizienzgründen dort Elektrolyse betrieben werden wo es besonders windig bzw billig ist\n\nJa, das kann man machen, musst du halt nur den Wasserstoff zum Auto bekommen, was auch nicht günstig ist.\n\n\n&gt;Auch wenn das jetzt wenig mit der Diskussion zum Effiziengrad zu tun hat aber Elektroautos kosten auch Geld/Resourcen. \n\nGenau. Wie das Windkraftwerk auch, wie die Elektrolyseanlage auch, wie der LKW zum Transport von Wasserstoff, oder die Stromleitung auch. Weswegen der Wirkungsgrad ja auch nicht alleinig zur Preisbildung beiträgt und wie du erkannt hast, gibt es noch andere Faktoren, so dass der PReis von Wasserstoff eben nicht 3x so viel ist, wie der von Strom. Dennoch spielt der Wirkungsgrad beim Bezahlen später eine Entscheidende rolle.\n\n\n&gt;wenn aufgrund der Natur von erneuerbaren Energien ohnehin viel \"verschwendete\" Energie entsteht und die Energie zu speichern nicht gut möglich ist. \n\nWie es nicht unendlich viel Energie gibt, haben wir auch nicht unendlich viel Energie übrig. Diese Peaks, die größer sind als der Energiebedarf den wir bereits über Strom abbilden ist aber nicht ansatzweise ausreichend um damit *genug* Wasserstoff herzustellen, damit man alle Autos damit tanken könnte. Das heißt es müssen Kraftwerke gebaut werden explizit dafür, dass wir genug Wasserstoff herstellen können um damit unsere Autos zu tanken. Es ist nicht ausreichend einfach den Peak zu verwerten.\n\n\nPower-to-Gas geschichten, E-Fuels oder wie auch immer sowas nennen mag macht durch aus Sinn, aber nicht zur Flächendeckenden Betankung von unseren Autos. Dafür verschwenden wir eben zu viel Energie bei der Herstellung, als das wir das *ökonomisch* sinnvoll umsetzen könnten.\n\nWenn Geld keine Rolle spielen würde, wäre das machbar. Aber das tut es ja nicht, selbst wenn Windenergie immer günstiger wird. \n\n\n&gt;und die Energie zu speichern nicht gut möglich ist. \n\nWarum sollte das nicht möglich sein? Also Batterien wurden ja erfunden. Die kann man auch ans Stromnetz hängen, damit man Flauten durch Peaks ausgleicht.\n\n\nDer Artikel verdeutlicht mein Argument nochmal deutlich:\n\n&gt;**Wie ist der Gesamtwirkungsgrad im Vergleich zu einem Batterieauto?**\n&gt;\n&gt;Entscheidend ist die Produktionskette des Energieträgers: Beim Elektroauto landet der Strom aus dem Kraftwerk oder Windrad per Ladestation direkt in der Batterie und auf der Straße. Von einer Kilowattstunde Strom kommen also etwa 70 Prozent am Rad an. Bei Brennstoffzellen-Autos nimmt der Strom einen Umweg über den künstlich hergestellten Wasserstoff. Der Wirkungsgrad liegt am Ende nur noch bei 28 Prozent. Das ist unwesentlich besser als beim Benziner, der auf etwa 26 Prozent kommt. Das heißt, fast drei Viertel des verwendeten Stroms können nicht zum Antrieb des Brennstoffzellen-Autos genutzt werden; **es benötigt also zwei- bis dreimal so viel Strom pro Kilometer als ein Elektroauto.**\n\nMehr Energie = Mehr Kosten = Teureres Endprodukt",
+        "date": "2021-11-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wetten die Leute machen die Windkraft dafür verantwortlich?\n\nEdit: Es sollte klar sein welche Leute das sind.",
+        "date": "2021-11-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Weil auch ein Windkraftwerk kostet, wie eine Batterie auch,\n\nDu brauchst Windkraft aber ohnehin. Ansonsten ist deine Batterie ja auch recht sinnlos wenn du die eh mit Kohlestrom fütterst.\n\n&gt; Wenn nun die Quellenergie, unsere Windkraft hier, die selbe Ressource ist, muss ja zwangsläufig der Preis für die gleiche effektive Leistung bei Wasserstoff höher liegen, als bei einem E-Auto.\n\nAber das stimmt halt nicht. Du ignorierst halt einfach meinen Kernpunkt dass der Strom aus der Steckdose (fürs Auto) lokal produziert werden muss, aber der Strom zur Power-to-X kann überall produziert werden wo es am besten passt. Weil das Speichern von Energie halt die zentrale Frage ist.\n\nWenn deine Logik sinn ergeben würde dann müsste Strom ja überall den selben Preis haben, was definitiv nicht stimmt.\n\n&gt; Der Artikel verdeutlicht mein Argument nochmal deutlich:\n\n&gt; es benötigt also zwei- bis dreimal so viel Strom pro Kilometer als ein Elektroauto.\n\nWenn du mir jetzt an dieser Stelle zustimmen würdest dass Strom nicht überall gleichviel kostet, hätten wir doch die Diskussion gelöst?\n\nhttps://windeurope.org/newsroom/news/onshore-wind-energy-scores-lowest-ever-price-under-new-spanish-auction-design/ \n\nStrom für 2cent/kWh in Spanien. Strompreis in Deutschland 30cent/kWh. \n\nDa kannst du auch 15 mal mehr Strom pro Kilometer benötigen und es wäre immernoch genauso effizient.\n\n&gt; Mehr Energie = Mehr Kosten = Teureres Endprodukt\n\nMehrkosten an Strom in Deutschland &gt; Mehrkosten durch höhren Verbauch bei Elektrolyse\n\nWindkraft ist halt quasi unendlich und extrem billig wenn man nur will und an den richtigen Stellen baut.",
+        "date": "2021-11-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;  Du brauchst Windkraft aber ohnehin.\n\nJa, aber du brauchst mehr Windkraft, wenn du x Autos mit Wasserstoff betreiben willst, als die selben x Autos mit Strom. \n\n&gt;Ansonsten ist deine Batterie ja auch recht sinnlos wenn du die eh mit Kohlestrom fütterst.\n\nDas ist ja auch die grundlegende Annahme bei beiden. Wir brauchen so oder so EE, von daher ist es egal.\n\n&gt;. Du ignorierst halt einfach meinen Kernpunkt dass der Strom aus der Steckdose (fürs Auto) lokal produziert werden muss, aber der Strom zur Power-to-X kann überall produziert werden wo es am besten passt. \n\nWir haben Stromleitungen erfunden. Wir können halt durch das Europäische Stromnetz rießige Mengen Energie günstiger und effektiver (= besserer Wirkungsgrad) durch ganz Europa schicken, als wir es mit Wasserstoff in nem LKW könnten.\n\n&gt;Wenn deine Logik sinn ergeben würde dann müsste Strom ja überall den selben Preis haben, was definitiv nicht stimmt.\n\nWeil die Preisbildung von einer Menge Faktoren abhängig ist. Unter anderem Personalkosten, gesetzliche Regelungen und und und.\n\nDie Logik bassiert aber darauf, dass die Quelle die selbe ist und wir schauen was wir mit dem gewonnen Strom machen. Und da sage ich: Anstatt daraus Wasserstoff zu machen, ist es günstiger direkt damit das Auto zu tanken. Also konkret Stell dir ein Windkraftwerk bei Hamburg vor und jemand möchte in Bayern sein Auto tanken. In beiden Fällen muss die Energie dahin kommen. Wenn du also die Elektrolyse bei Hamburg machst, dann ist halt der Weg des Wasserstoffs länger. \n\nNun ist die Geschichte natürlich komplizierter, weil wir ein dezentrales Netz an Energieproduzenten und Konsumenten haben. Der elementare Punkt, dass aber der Wirkungsgrad einen gravierenden Effekt auf die Preisbildung hat, bleibt aber erhalten.\n\n&gt;Wenn du mir jetzt an dieser Stelle zustimmen würdest dass Strom nicht überall gleichviel kostet, hätten wir doch die Diskussion gelöst?\n\nWeil du dann vergisst, dass der Transport vom Wasserstoff nicht kostenlos ist. Genauso nimmst du an, dass der Strom aus Spanien nicht in mein Auto landen könnte. Wie gesagt, es gibt ein Stromnetz.",
+        "date": "2021-11-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Was aber auch gegen die Atomkraft spricht, ist das Solarenergie (Windkraft vermutlich auch, weiß ich aber gerade nicht) um einiges billiger ist. Außerdem ist Atomkraft v. a. wegen der Strahlung und der Entsorgung keine wirklich brauchbare Dauerlösung.  \nDie Energiewende müsste also sowieso bei Solarenergie und Windkraft enden, und ich sehe da jetzt nicht den Sinn den Umweg über die Atomkraft als \"Zwischenlösung\" zu gehen.",
+        "date": "2021-11-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Es gibt aktuelle einige Ansätze für Wassserstoffspeicher. Ist in der Chemie und Physik Grade sehr populär weil da Grade mehr Geld ist als man denkt. \n\nProblem ist aber das bei jeder Umwandlung immer Energie verloren geht. Also Windkraft -&gt; Strom -&gt; Wasserstoff -&gt; Strom (-&gt; Wärme) macht das alles nicht besser. \n\nDie Speichermedien sind echt interessant und auch häufig sicherer als z.B. schweröl oder Benzin in Transport und Lagerung. \nAber auch die müssen Hergestellt werden. \n\n\nUmso tiefer man da geht desto tiefer wird das Loch. Erinnert manchmal fast an die berühmten 20 Jahre bei der Kernfusion.",
+        "date": "2021-11-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Da wirfst du aber Sachen durcheinander. Bei Windkraft ist die Politik bisher nicht daran interessiert gewesen (siehe bayern) den Platz zur Verfügung zu stellen. Das wird auch aufgegriffen.  Die Planung eines Windrads geht schnell. Die zulassung ist das Problem, weil alle sagen: \"ja aber nicht bei mir\".\n\nBei kkw musst du wirklich wesentlich mehr planen da es wesentlich komplizierter ist. Da dauert es wesentlich länger alleine zu planen. Den Platz dafür zu finden ist einfacher, da man die Regelungen dafür angenehmer sind als bei der Windkraft (2km Abstand zu wohnhäusern). Die kkw dürfen näher dran und brauchen weniger platz",
+        "date": "2021-11-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Mal ganz abgesehen von deinen Bedenken:\n\nKkw benötigen wesentlich weniger Fläche im Vergleich zu Windkraft. Das ist einer der Vorteile.\n\n(Bin grundsätzlich ggn kkw, da diese uns nicht helfen können. Siehe die Antwort von Lech zu dem clown thelen. Nur damit es dritte nicht falsch verstehen)",
+        "date": "2021-11-05",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Die Antwort ist nein. Atomenergie ist tot.\n\nAlso wenn es um die Reduzierung von CO2 geht. Die alten Kraftwerke halten nicht mehr bis 2050 und neue würden bis 2050 nicht fertig werden. Die Übergangslösung alte Kraftwerke ein Jahrzehnt länger am Netz zu lassen war mal realistisch möglich ist sie aber nicht mehr.\n\nAlleine damit ist das ganze Thema schon vom Tisch.\n\nDeutschland aus Windkraft und Photovoltaik (und Wasserkraft und Biogas) zu versorgen ist technisch heute möglich. Gleichzeitig muss die Bevölkerung auf einige Dinge verzichten, die meiner Meinung nicht gravierend sind.\n\nAls Übergangslösung müsste dann Gas herhalten.\n\nWie und wann man die einzelnen technischen Punkte angeht, darüber kann man diskutieren oder wie die Finanzierung aussieht. \n\nDie vorgebeben Parameter:\n\n* möglichst schnelle CO2-Reduktion\n* bis 2030 klimaneutral\n* praxistauglich\n\nsind nicht veränderbar. Daher stellen sich viele Fragen gar nicht mehr. Vor 20 Jahren hätte man darüber diskutieren können, jetzt ist es zu spät.",
+        "date": "2021-11-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ein anderes Problem ist der return of investment. Thelen mag zwar hier großspurig erzählen man bräuchte Atomkraft, ich bezweifle aber, dass er gewillt ist viel Geld in ein Projekt zu stecken, dass sich erst nach zwanzig Jahren oder noch später rentiert. Da sind Solar oder Windkraft für Investoren um einiges attraktiver.",
+        "date": "2021-11-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die alte Kernkraft hat einen Vorteil: die Mehrheit kann dafür sein, ein Kraftwerk irgendwo bauen zu lassen. Egal wo. Es ist meistens weit weg.\n\nBei Windrädern ist es andersherum: jeder rechnet damit, eine davon in der Nähe zu haben. Also sind viele dagegen. Immer. Überall.\n\nKernkraft 4.0: eine Kombination aus Kernkraft und Windkraft: Atommüll und Strahlung in jeder Nachbarschaft. \n\nIch schlage vor: jede Gemeinde, die die Windkraft ablehnt, bekommt die Möglichkeit einen Aufstellungsort für ein SMR bei sich zu wählen.",
+        "date": "2021-11-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Nach ca. 500 Jahren schon wäre das Salz, in dem der Atommüll gelagert ist, tödlcher als der Atommüll selbst.\n\nDas heißt nicht dass atommüll deshalb weniger tödlich ist.\n\n[Es braucht allein 200.000 jahre bis atommüllstrahlung auf natururan-niveau gesunken ist.\nUnd selbst dann ist es hochgefährlich dem ausgesetzt zu sein.](https://www.kernenergie.ch/de/faq-detail-821.html)\n\n\n&gt;Genau richtig, deshalb sollten wir Kernkraft nutzen, weil da am wenigsten Müll entsteht und der wie schon erwähnt sich selbst dezimiert\n\nEine. Million. Jahre.\nEine million jahre braucht es bis atommüll sich wahrlich auf menschenverträgliches niveau herabgesetzt hat.\n\nAuf solch lange zeit bringt die selbstzersetzung des atommülls rein garnichts.\nDas ist so als ob man nur mit lichtgeschwindigkeit durch die galaxie reisen würde.\nKlar, lichtgeschwindigkeit ist sehr schnell, aber so groß wie die galaxie ist wärs so als ob du dich garnicht bewegen würdest.\n\n&gt;Das Problem ist nämlich: es gibt absolut gar nichts, was keinen Müll erzeugt, aber die hohe Energiedichte ist ein großer Vorteil.\n\nNein, das ist ein absoluter trugschluss.\nNatürlich gibt es energiequellen die überhaupt garkeinen müll verursachen, deshalb drängen wir ja drauf.\nOder musste sich jemand um gefährlichen sonnenstrahlenmüll in der PV branche sorgen oder um windverschmutzung in der windenergie?\n\nUnd die hohe energiedichte kommt zu einem bestimmten preis und ist ein einzig massover mythos.\nDenn die energie die atomkraft freisetzt dient nur einer einzigen generation. Das handling von atommüll geht aber zulasten von 40.000 generationen.\n\nUnd falls dann doch mal was großes passieren sollte wie ein erdbeben, egal welcher stärke, wären die katastrophalen folgen nur auf unser handeln heute  zurückzuführen.\n\nSogar das von dir angesprochene lager wäre ungeeignet:\n&gt;\"Ausschlusskriterien sind z. B.: flüssige Abfälle, explosionsgefährliche, selbstentzündliche, radioaktive, Krankheitserreger enthaltende oder -bildende, gasbildende oder penetrant riechende Stoffe.[1]\"\n\nAlso halten wir fest:\n-atommüll ist sogar nach 200k jahren gefährlich und erst nach ca. 1 million jahren kann es sicher bearbeitet werden.\n\n-die absurd lange halbwertszeit hilft bedingt bis garnicht der momentanen lagerungssituation\n\n-es gibt durchaus müllfreie energiealternativen die man eher nutzen könnte und nutzen sollte.\nLaut S4F wären diese sogar geeignet um das ganze land fast ununterbrochen mit strom zu versorgen\n\n-die energiedichte ist im vergleich zu den langzeitfolgen so lächerlich dass es fahrlässig wäre die bürde den zukünftigen generationen aufzutragen.\nVor allem wenn wir, wenn atommüll standard wäre, stetig neuen atommüll zu dem bereits unveränderten atommüll hinzuaddieren würden und die welt noch mehr langzeitverpesten würden.\n\nDeshalb: weg vom ablenkungsthema und hin zu WIRKLICH erneuerbaren, sauberen energien.\nWasserkraft, windkraft, wellenkraft, sonnenkraft,etc.\n\n\nEventuell könnte man darüber nachdenken kernfusionsenergie zu nutzen aber zum einen ist die technologie noch nicht da und zum anderen ist nicht absehbar wie viel atommüll dort anfallen würde.\n\nAtommüll fällt bei beiden atomenergie-technologien an, aber bei fusionsenergie soll der atommüll deutlich kurzlebiger und deutlich weniger sein, was eventuell eine nutzung der energiequelle rechtfertigen könnte.\nTrotzdem muss man das erst prüfen, und bis die technik ausgereift ist sollten wie uns auf die WIRKLICH erneuerbaren energien komzentrieren.",
+        "date": "2021-11-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ja eben, dass es so günstig ist, ist zu einem großen Teil Deutschland zu verdanken.\n\nUnd natürlich wird weiter investiert. Auch bei Windkraft kommt man wieder nahe ans Rekordniveau ran, wenn man sich den Verlauf der Ausschreibungen anschaut und berücksichtigt, dass man heutzutage weniger Leistung für den gleichen Ertrag installieren muss.",
+        "date": "2021-11-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; EEG sind bereits die günstigsten Stromproduzenten\n\nAber nicht immer und nicht überall. Das ist doch nicht so schwer zu verstehen?\n\n&gt; Andere Länder mit mehr EEG und genauso wenig SpEiChEr zahlen weniger, woran liegt das nur?\n\nAndere Länder mit weniger EEG zahlen auch weniger, woran liegt das nur?\n\nLass uns ein Spiel spielen: Zeig mir auf [dieser](https://de.wikipedia.org/wiki/Erneuerbare_Energien_in_Europa#/media/Datei:European-union-renewables-new.svg) Karte, welches Land einen substantiell höheren Anteil an EEG als Deutschland hat und keine statistische/geografische Anomalie ist. Norwegen erzeugt über 80% ihres Stroms aus Wasserkraft, das KÖNNEN WIR NICHT. Finnland hat mehr EEG als wir, aber erzeugt 35% seines Energiebedarfs aus Atomkraft. Portugal hat ein bisschen mehr EEG als wir, aber der Anteil von Kohle und Gas am Strommix ist sogar höher als bei uns.\n\nUnser hoher Energiepreis resultiert aus der verkackten Energiewende und dieses ganze Denial hier macht alles nur noch schlimmer. Wir werden NIEMALS Strom aus 100% unseres Strombedarfs aus Solar- und Windkraft erzeugen und gleichzeitig konkurrenzfähig im internationalen Vergleich bleiben, was den Strompreis angeht. Das ist eine absolute Eierlegende Wollmilchsau. Wir können froh sein, wenn wir mit diesem Strommix ein Netz beliefern können, ohne dass es permanent abkackt. Und das grenzt rein wissenschaftlich gesehen schon an eine Unmöglichkeit.",
+        "date": "2021-11-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Letztendlich kam die Entscheidung unter Schwarz-Gelb zustande. Gleichzeitig wurden Windkraft und Photovoltaik seitens der GroKo seitdem systematisch torpediert.",
+        "date": "2021-11-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wie gesagt, wurde schlecht umgesetzt, aber die Probleme bei der Windkraft und dem Stromnetz kommen vor allem von den Ländern. Weiß nicht was du mit \"letztendlicher Entscheidung\" meinst. Unter Schwarz-Gelb wurde der Ausstieg kurz ausgesetzt und dann wiedereingeführt, aber er stammt von Rot-Grün. Das war das zentrale Projekt der Grünen unter Schröder. Ehre wem Ehre gebührt, so zweifelhaft sie erscheinen mag. Es ist ein erstaunlich weit verbreiteter Irrtum, dass Merkel den Atomausstieg beschlossen hat. Sie hat den Ausstieg vom Ausstieg beschlossen und ist dann nach Protesten zurückgerudert, mit Fukushima als dankbarer Gelegenheit zum Gesicht wahren.",
+        "date": "2021-11-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; An Wüstenstrom kommen wir nicht vorbei, wenn Europa komplett auf Erneuerbare umstellen würde. Und da wirds halt kompliziert. \n\nWenn wir in solchen Skalen denken wollen: Wir haben auch Spanien.\n\nHier mal eine kleine Rechnung zum [Weltbedarf](https://landartgenerator.org/blagi/archives/77565) an Fläche. 1.4 Mio sqm sind es laut der Quelle. Die EU verbraucht etwa ein Siebtel der global erzeugten Energie ([siehe](https://en.wikipedia.org/wiki/World_energy_supply_and_consumption#Total_Energy_Supply)). Also bräuchten wir nach der Milchmädchenrechnung 0.2 Mio sqm an Fläche.\n\nSpanien hat eine Fläche von 505000 sqm. Davon sind 18% Wüste oder extrem von Wüstenbildung [bedroht](https://www.forbes.com/sites/anagarciavaldivia/2019/07/30/desertification-a-serious-threat-to-southern-europe-lands/#:~:text=Spain%20is%20the%20most%20worrying,risk%20of%20becoming%20irreversibly%20desert.). Diese Flächen entsprechen bereits mit 90900 sqm fast der Hälfte der benötigten Fläche. Wenn wir dann bedenken, dass wir bereits große Wasserkraftkapazitäten in Österreich und Norwegen haben und Letztere noch Ausbaupotential haben, genau wie die Windkraft in halb Europa und noch PV auf bereits überbauten Flächen: Passt schon\n\nWir könnten uns dann noch auf das recht stabile und demokratische Tunesien und den bereits recht engen Partner (bei der Lebensmittelproduktion hängen wir zB schon ordentlich von ihnen ab) Marokko beschränken und es ist endgültig nur noch eine Frage des Willens. Der Tech ist da, die Fläche ist da, jetzt muss man nur gigantische Mengen Geld für Ausbau der Anlagen und Stromleitungen ausgeben.\n\nDas ist natürlich nur eine Milchmädchenrechnung, aber sollte schon zeigen, dass wir nicht gerade um Größenordnungen von einer reinen PV-Zukunft entfernt sind. Ich denke, wir benötigen da gar keine instabilen Staaten als Partner. Wenn wir überhaupt Partner brauchen, sollten relativ stabile Nachbarn ohne allzu krasse geopolitische Ziele (Tunesien hat keine, Marokko nur Westsahara, Ukraine wollen wir eh schützen, Balkan betrachten wir eh als Hinterhof usw) genügen\n\nIronischerweise ist in der Hinsicht gerade auch Atomkraft problematisch. Wer baut denn [Uran](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production.aspx) ab? Da sind zwar auch Kanada und Australien dabei, auf Platz 1 ist aber mit weitem Abstand die Diktatur Kazakhstan. Dann kommen noch Namibia und die Ukraine dazu und ein Who is Who an Diktaturen: Uzbekistan,China,Niger,Russland...\n\nUnser größtes Problem ist nicht Geopolitik, nicht Tech, nicht die Unverzichtbarkeit von Atomkraft, sondern einfach nur, dass wir nicht schon vor zwei Jahrzehnten damit anfingen, Milliarden in EEG zu pumpen. Das alles wäre die ganzen 2000er schon machbar gewesen",
+        "date": "2021-11-08",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Welche Länder leben das bitte vor? Und ich beziehe mich auch Energieproduktion, nur die Elektrizität zu betrachten ist schwachsinnig. Wirklich 100% der Energie inkl. Heizung/Transport etc aus EEG zu generieren ist momentan einfach utopisch in einem nahen Zeitraum. Zumindest mit unserer Geographie, in der wenig Sonne scheint und Windkraft nur lokal asymmetrisch verteilt effektiv arbeiten kann. Das Abschalten der AKWs wird einfach nur zu mehr Gasproduktion führen.",
+        "date": "2021-11-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das Problem an der Fusionskraft ist nicht die technische Entwicklung. Ich bin sicher es gibt genug schlaue Leute die das irgendwann hinbekommen werden. Das Problem ist die Wirtschaftlichkeit. Denn am Ende wird der Strom auch in einem Fusionskraftwerk, so futuristisch das auch klingen mag, über eine Dampfturbine erzeugt.\n\nUnd da hat man das Problem dass Erneuerbare wie Photovoltaik und Windkraft je nach Berechnung bereits heute oder in wenigen Jahren so günstig sind dass sie Strom zu niedrigeren Kosten herstellen können als nur der stromerzeugende Teil eines konventionellen Kraftwerks. Sprich es ist völlig egal ob ich Kohle, Gas, Kernspaltung oder Kernfusion verwende um das Wasser zu erhitzen, alles ab dem Erhitzen des Wassers kostet bereits so viel dass der Strom nicht mehr ökonomisch ist. Selbst wenn bei der Fusionskraft der Teil wo die Wärme herkommt günstiger wird (was alles andere als sicher ist) - ja sogar wenn er nichts kosten würde - ist es irrelevant weil alle anderen Kosten bereits so hoch sind.\n\nVielleicht wird es Spezialanwendungen geben wo Kosten keine Rolle spielen (Militär, Raumfahrt, etc.) und man viel Energie auf kleinem Raum braucht und da kann es vielleicht eingesetzt werden aber als Energiequelle für die breite Masse wird es einfach zu teuer sein.",
+        "date": "2021-11-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Windkraft, Solartechnik, E-Mobilität - alles Dinge die der Markt ohne Verbote, sondern durch Subventionen hervorgebracht hat. Wie kann das blos sein? Wie wäre mit Anreizen statt Verboten? Dieser Dran jegliche Freiheit aufzugeben erschreckt mich zutiefst.",
+        "date": "2021-11-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Auf lange Sicht könnte die Erfindung ebenso spektakulär sein wie der kürzlich erziete Durchbruch bei der Kernfusion, der Solar- und Windenergie bald überflüssig machen könnte.\n\nLel\n\nDa möchte der Autor seinen Lesern aber auch einen Floh ins Ohr setzen..\n\n\"Für Solar und Windkraft brauchen wir jetzt keine Flächen mehr schaffen, die Fusion übernimmt das dann.. ähmm in 40 Jahren kommerziell\"",
+        "date": "2021-11-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Windkraft, Solartechnik, E-Mobilität - alles Dinge die der Markt ohne Verbote, sondern durch Subventionen hervorgebracht hat.\n\nWir haben schon alle Innovationen die wir brauchen um extrem viel CO2 einzusparren wir machen es nur nicht. Was von Leuten gefordert wird die nach Innovationen schreien ist meist nichts anderes als eine \"Wundertechnologie\" die dafür sorgt das sich nichts an ihrem Leben ändern muss.\n\n&amp;#x200B;\n\n&gt;Dieser Dran jegliche Freiheit aufzugeben erschreckt mich zutiefst.\n\nKönnen wir in dem Zusammenhang endlich aufhören das Wort freiheit zu benutzen. Freiheit ist kein absolut definiertes Wort und wenn hier von \"Freiheitsaufgabe\" geredet wird ist meist eh nur die positive Freiheit gemeint und die negative wird komplett ignoriert.",
+        "date": "2021-11-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Und wenn Spanien nur 1/3 der Strommenge liefern kann: Wir haben noch Potential für Wasserkraft in Norwegen, Windkraft in Nord- und Ostsee, kleinere Mengen Solar im.ganzen Mittelmeerraum, und dazu sind EEG bei uns auch nicht gänzlich ineffizient.\n\nAlso, wozu sollen wir uns überhaupt Wüstenstron verschreiben müssen? Du stellst es ohne Beleg als Zwangsläufigkeit dar\n\nAber selbst wenn: Die Wahl ist nicht Wüstenstrom oder Unabhängigkeit. Die Alternativen:\n\nKohle: Inakzeptabel\n\nÖl,Gas: Abhängigkeit von Russland\n\nUran: Abhängigkeit von den Stans+Russland\n\nAlleine Marokko und Tunesien können die restliche nötige Wüstenfläche bieten, und gerade Marokko ist bisher ein stabilerer Partner als Russland. Westsahara ist keine Gefahr für die gesamte Nation, die Rivalität mit Algerien ist ein \"kälterer\" Konflikt als Russlands Agieren\n\nEgal ob mit oder ohne Wüstenstromfantasien, das Resultat ist mehr Unabhängigkeit. Gerade auch durch NS2. Öl und Gas sind anders als AKW gute Backup-Systeme, die man schnell anschmeißen kann. Wir können einzelne KW im Konfliktfall reaktivieren. Und selbst wenn dann mal temporär Russland Kasse machen würde. Weder das eine noch das andere Land hätte Kontrollmacht über uns. Und Marokko müsste sich bei einem Lieferstop für das Anheizen fossiler Brennstoffe erklären, das wird in Zukunft immer weniger akzeptabel\n\nGleiches gilt für Algerien, wobei ein Vertrag mit beiden zugleich schwer werden könnte",
+        "date": "2021-11-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "In den meisten Fällen von andauernden Beschwerden über etwas das nur eine Gruppe betrifft liest man ab und zu auch mal Betroffene die dann sagen ist nicht so schlimm wie gesagt wird.\n\nDa das zum Thema Windräder in der Nähe von Dörfern meiner anekdotischen Erfahrung nach nicht passiert, denke ich, dass das wohl tatsächlich ein Problem ist.\n\nGerade mit 6 Windrädern in so kurzer Distanz sind die vor allem Nachts abhängig von der Wetterlage durchaus zu hören.\n\nWenns einfach nicht mehr still wird ist das für Menschen ungesund. Das wissen wir über Stadtlärm, warum sollte das bei Windkraft anders sein. \n\nWenn dann wie hier natürlicher Lärmschutz noch entfernt wird, wird das Problem natürlich nicht besser.",
+        "date": "2021-11-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Plazebo Effekt ist doch aber echt. Die sind dann also wirklich krank geworden, weil da wer ne Windkraft Anlage hingestellt und den Wald entfernt hat.\n\nWofür genau sollen die sich jetzt schämen?",
+        "date": "2021-11-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; In den meisten Fällen von andauernden Beschwerden über etwas das nur eine Gruppe betrifft liest man ab und zu auch mal Betroffene die dann sagen ist nicht so schlimm wie gesagt wird.\n&gt; \n&gt; Da das zum Thema Windräder in der Nähe von Dörfern meiner anekdotischen Erfahrung nach nicht passiert, denke ich, dass das wohl tatsächlich ein Problem ist.\n\nNicht? Auf jeden, der sich krank fühlt, kenne ich 10, die das Problem hat nicht wahrnehmen.\n\n&gt; Wenns einfach nicht mehr still wird ist das für Menschen ungesund. Das wissen wir über Stadtlärm, warum sollte das bei Windkraft anders sein.\n\nWeil der Lärm von 6 WEAs in einem Kilometer Entfernung nicht die Wahrnehmbarkeitsschwelle erreicht. Stadtlärm ist viel viel lauter.",
+        "date": "2021-11-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "DKB bietet immermal so Crowdfunding Investitionen für Solar und Windkraft an. Gibt meist so 5-7% pro Jahr wenn ich mich richtig erinnere",
+        "date": "2021-11-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Im Artikel steht leider nichts zur wirklichen Begründung des Urteils?\n\nAuf nicht bewiesenen Anschuldigungen (Krank durch Windkraft) kann jawohl kein Urteil gebaut werden.\n\nNach jeglichem aktuellen Stand der Wissenschaft ist in Kombination mit Windkraft nach vernünftigen Standortregeln (Schall, Verschattung etc.) lediglich der Nocebo Effekt bei Menschen feststellbar, welche fester Überzeugung sind Windkraft sein schädlich oder in einer Bubble leben, welche diese Vorstellung aktiv verbreiten.\n\nDas Urteil ist eine absolute Katastrophe basierend auf diesem Artikel.",
+        "date": "2021-11-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wie auch heute schon wird Strom immer auch importiert sein. Und was heißt hier Basisstrom? Unser Strom ist ein großer Mix, Gas macht nur 11% aus, während Windkraft 25% des Nettostroms produziert. Strom aus Wasserkraft kann man importieren und Wind und Solar endlich mehr ausbauen.\n\nDie Energiewirtschaft der Zukunft ist ein intelligentes und vernetztes System des Imports, Exports und der Speicherung.",
+        "date": "2021-11-10",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich sehe uns ja nicht mal annähernd die Klimaziele erreichen, daher begrüße ich auch 2040 noch neue CO2-arme Reaktoren grundsätzlich. \n\nZudem stellt sich die Frage, wie weit wir so niedrige Energiedichten wie Windkraft oder gar Solarenergie überhaupt ausbauen können, bevor uns die Rohstoffe knapp werden, sobald wir anfangen, die Energie für Heizen, Bauen, Fliegen und Containerfracht regenerativ zu erzeugen.",
+        "date": "2021-11-10",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Der Atomausstieg war aber (außer Obrigheim) nicht aufs Jahr 2005 geplant und hätte sich bis in die späten 10er gezogen. Wenn man frühzeitig mehr auf EE gesetzt hätte, wären Skaleneffekte früher zum Tragen gekommen, und dementsprechend PV und Windkraft billiger.",
+        "date": "2021-11-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Frage nach einer klimaneutralen Energiequelle scheitert immer an der systemgrenze. Wenn Bau und Rückbau von Atomkraftwerken und er dazugehörigen Infrastruktur plus Erzeugung, Transport und  Lagerung der Brennstäbe,…. Also der ganze Lebenszyklus betrachtet werden, [dann ist der Fußabdruck zwar marginal geringer als bei PV aber höher als bei Wind und Wasserkraft](https://www.sciencedirect.com/science/article/abs/pii/S0196890408000575)\n\nUnd Frankreich hat viele Alpentäler für Wasserkraft, Küsten für Windkraft und einen sonnigen Süden für PV. Der Bau neuer Kraftwerke ist eher zum Schutz der bereits etablierten Industrie zu sehen, was auch ein legitimer Grund ist. Das Klimaargument ist aber mMn nur vorgeschoben.",
+        "date": "2021-11-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Du hast gefragt, wo sich die FDP durchgesetzt hat, und jetzt willst du noch darum verhandeln welche Punkte die FDP durchgesetzt hat und welche nicht?\n\nOk.\n\nTempolimit: Im grünen Wahlprogramm stand es drin, im FDP Programm stand drin dass es keins geben wird. Es gibt keins, FDP Sieg.\n\nKeine neuen Steuern ist kein FDP Sieg? Was hast du den geraucht? Grüne und SPD wollten Menschen mit über 80k im Jahr (besonders ab 150k) (teilweise) deutlich höher besteuern um Unter- und Mittelschicht zu entlasten.\n\nBeim Bürgergeld bleiben die Sanktionen erhalten, Grüne und SPD wollten diese abschaffen. Das war mit der wichtigste Punkt in dem Thema.\n\nIch habe extra nur Punkte genommen, die ausschließlich die FDP wollte. Sie hat ja auch viel Digitalisierung bekommen (wer würde da nein sagen), Wahlalter ab 16 (wollten grüne ja auch).\n\nAuch waren die Punkte die die FDP alle durchgesetzt hat sehr konkret. Die Punkte der grünen z.B. sehr sehr unkonkret, Bsp.\n\n&gt;Der Leitsatz der Klimapolitik: \"Wir sehen es als unsere zentrale gemeinsame Aufgabe, Deutschland auf den 1,5 Grad Pfad zu bringen, so wie es der Pariser Klimavertrag und die Entscheidung des Bundesverfassungsgerichts vorgeben\". Es folgt ein Maßnahmenbündel - jedoch ohne Preisschild\n\n&gt;Der Ausbau der erneuerbaren Energien soll \"drastisch\" beschleunigt, alle geeigneten Dachflächen künftig für Solarenergie genutzt werden - verpflichtend bei gewerblichen Neubauten. Für die Windkraft an Land werden zwei Prozent der Landesflächen ausgewiesen, die Kapazitäten auf See \"erheblich\" gesteigert.\n\n&gt;Aus der Kohleverstromung will man \"idealerweise\" bis 2030 aussteigen. Vom CO₂-Preis ist nicht die Rede, nur der europäische Emissionshandel soll im Sinne des EU-Programms \"Fit for 55\" überarbeitet werden. Die EEG-Umlage soll im Laufe der Legislatur entfallen. Man folgt der Vorgabe der EU-Kommission, von 2035 an nur noch CO₂-neutrale Fahrzeuge zuzulassen - aber: ein generelles Tempolimit soll es nicht geben. Die Landwirtschaft soll nachhaltiger, sozialer und umweltverträglicher werden. \"Für Transparenz beim Einkaufen soll eine Haltungskennzeichnung sorgen.\"\n\nQuelle: [Sueddeutsche.de](https://www.sueddeutsche.de/politik/koalitionsverhandlungen-spd-gruene-fdp-sondierungspapier-1.5441015)",
+        "date": "2021-11-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich will ehrlich gesagt nicht einmal komplett die Idee Artenschutz beim Energieausbau einzubinden entkräften, mein Problem liegt eher wie der NABU komplett unproportional gegen die Windkraft losgeht. \n\nNur um das einmal in Relation zu bringen: \n\nDer NABU NRW hat in seiner gesamten Existenz 21 Klageverfahren gegen die Windkraft aber nur 18 andere geöffnet. Wenn man bedenkt dass der NABU nicht nur eine Organisation für seltene Greifvögel ist finde ich es seltsam wie viel Energie hier für den Kampf gegen die Windkraft aufgebracht wird.",
+        "date": "2021-11-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Arbeite in der Planung von Windenergieanlagen und habe entsprechend viel mit Behörden zu tun, bis so eine Anlage steht haben wir etwa 700 Dinge genehmigen lassen müssen.  \n  \nAuf Makro Ebene läuft das ganze furchtbar, die Genehmigungsverfahren die eigentlich wenige Monate dauern sollen  gehen routinemäßig 1-3 Jahre, und das auch nur wenn es keine größeren Probleme gibt.  \n  \nAber die individuellen SachbearbeiterInnen muss ich zum großen Teil in Schutz nehmen, da habe ich viele gute Erfahrungen gemacht. Wenn man da anruft, erklärt was man möchte und freundlich fragt wie sie das gerne hätten gibt's praktisch immer hilfreiche Antworten und halbwegs zügige Bearbeitung der einzelnen Anliegen.   \n  \nNur die miese Zusammenarbeit des ganzen Apparats gepaart mit der Personalknappheit führt halt dazu, dass alles viel zu langsam geht. Und einzelne Spezis die privat Windkraft doof finden und darum alles tun was sie können um die Chose zu verzögern haste natürlich auch...",
+        "date": "2021-11-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ach, ich lieb's wegen so einem Beitrag erstmal als arrogant und ignorant bezeichnet zu werden.  \n  \nAber nun gut. Natürlich ist das nicht exakt das gleiche wie NIMBYs bei Windkraft, aber das so zu verteufeln kommt schon aufs gleiche heraus finde ich. Denn es ist immer das gleiche: Ja Energiewende ist super, aber da wo es konkret gemacht wird, gibt es wirklich immer was meckern.  \n  \nWir haben nun Mal nur so viele Flächen in Deutschland und Wälder für Solar abzuholzen, ist ja auch niemandem recht. Und der Punkt, dass Photovoltaik effizienter sind als Energiepflanzen (Biokraftstoffe) ist nun mal auch nicht von der Hand zu weisen.  \n  \nIch behaupte ja nicht, dass alles perfekt ist. Wie man die Kommunen an den Einnahmen beteiligt muss man sich anschauen, und auch dass noch genug Flächen für Landwirte zur Verfügung stehen.   \n  \nDas ist aber mal wieder ein Punkt, an dem man sieht dass die von Umweltverbänden geforderten Effizienz**senkungen** bei der Landwirtschaft in direktem Konflikt zu der Energiewende steht. Zumindest hat der NABU (und du auch nicht) nicht erklärt, wo die Flächen sonst herkommen sollen. Nur auf bebaute Bereiche zu setzen, ist teurer und dauert länger.  \n  \nEs nervt mich einfach, dass jeder natürlich die Transformation will, aber gefühlt alle konkreten Maßnahmen abgelehnt werden, wenn sie einen irgendwie betreffen. Tesla-Fabrik wegen Fledermäusen, Windkraft wegen Infraschall, Leitungen wegen dem Landschaftsbild, Solar wegen \n&gt;Luxemburgischen Turbokapitalisten\n\nWas soll überhaupt dieses Framing? Ich dachte es sei schlecht, wenn die bösen Kapitalisten in Kohlekraftwerke investieren. Jetzt ist es auch schlecht, wenn es Solar ist?",
+        "date": "2021-11-13",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Ach, ich lieb's wegen so einem Beitrag erstmal als arrogant und ignorant bezeichnet zu werden. \n\nNaja wenn man die Leute da einfach als NIMBYs, also als reaktionäre, irrational handelnde Egoisten betitelt, dann kann man das gerne als arrogant oder ignorant bezeichnen.\n\n&gt;aber das so zu verteufeln kommt schon aufs gleiche heraus finde ich.\n\nNe. Ist nicht das gleiche, weil hier nichts verteufelt wird. Die Personen haben ein konkretes Problem, dass writ über \"sieht nicht schön aus\" herausgeht.\n\n&gt;Wir haben nun Mal nur so viele Flächen in Deutschland und Wälder für Solar abzuholzen, ist ja auch niemandem recht.\n\nDoch mir ist das sehr Recht. Es ist sinnvoll. Keiner sieht es mitten im Wald. Keiner wird durch Rotorengeräusche gestört. Alles super prima. Aber das würde ja Geld und Zeit kosten die Flächen zu erschließen und das können wir nun wirklich keinem zumuten. Da vertreiben wir lieber die Bauern.\n\n&gt;Und der Punkt, dass Photovoltaik effizienter sind als Energiepflanzen (Biokraftstoffe)\n\nEin Großteil der Energiepflanzen wird verfüttert. Und eine effizientere Energieproduktion hilft dem nun arbeislosen Ex-Bauern auch nicht mehr.\n\n&gt;Wie man die Kommunen an den Einnahmen beteiligt muss man sich anschauen, und auch dass noch genug Flächen für Landwirte zur Verfügung stehen. \n\nJa. Das zentrale Problem hier.\n\n&gt;Zumindest hat der NABU (und du auch nicht) nicht erklärt, wo die Flächen sonst herkommen sollen.\n\nSiehe oben. \"Wald\" (in der Brandenburgischen Realität Kiefern-Monokultur) abroden und Kraftwerk bauen. Fertig. Ich wohne in der Nähe eines der größten Solarkraftwerke Deutschlands und da hat man genau das gemacht. Eine Super Sache für alle Beteiligten.\n\n&gt;Tesla-Fabrik wegen Fledermäusen, Windkraft wegen Infraschall, Leitungen wegen dem Landschaftsbild, Solar wegen \n\nHässliches Windrad vs. Keine Arbeit. Der qualitative Unterschied dieser Gründe ist ja wohl offensichtlich. \n\n&gt;Was soll überhaupt dieses Framing?\n\nHab mich da überspitzt auf den Artikel bezigen, in dem genau das erklärt wird. Irgendein fetter (häufig ausländischer) Investor kommt und versucht die ansässigen Bauern zu vertreiben und zerstört quasi die wirtschaftliche Grundlage vor Ort. In einer eh schon armen Region.\n\n&gt;Ich dachte es sei schlecht, wenn die bösen Kapitalisten in Kohlekraftwerke investieren. Jetzt ist es auch schlecht, wenn es Solar ist?\n\nWenn es so passiert. Ja. Dann ist es schlecht. Wie es gut funktionieren kann habe ich oben erläutert",
+        "date": "2021-11-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Großbritannien verbrennt statt Kohle halt ihr Erdgas. Gut, das hat einen etwas geringeren CO2-Ausstoß. Aber UK verbrennt halt die Ressourcen, die bei ihnen im Boden sind, wir die, die bei uns im Boden sind. Beim Ausbau von Wind- und Solarenergie ist das UK wenn dann gleichauf mit uns, wenn nicht sogar etwas hinterher (wenn man die Produktionskapazitäten in Relation mit dem durchschnittlichen Energieverbrauch setzt). \n\nDänemark hat in Relation zum durchschnittlichen Stromverbrauch ebenfalls keine größeren Windkraft- oder Solarkapazitäten als Deutschland. Dänemark setzt dafür stark auf Biomasse, was jetzt auch nicht unbedingt eine unumstrittene Energiequelle ist. Außerdem importiert Dänemark recht viel Strom während Flauten.\n\nÖsterreich und Schweiz haben den geographischen Vorteil, dass sie sehr viel Wasserkraft nutzen können. \n\nFrankreich...gut. Man muss halt Atomkraft mögen. Ich kann hier sowohl Befürworter als auch Gegner irgendwo vestehen, aber das Fass mach ich hier jetzt nicht auf, das wurde schon oft genug ausdiskutiert.\n\n\"Leader\" muss nicht unbedingt bedeuten, dass man die CO2-ärmste Energieproduktion hat. Man muss bedenken, dass Deutschland durch seine Position als Nation mit starkem Fokus auf industrieller Produktion (die in der Regel viel Strom benötigt) und durch die Tatsache, dass lange Zeit Kohle die einzig sinnvolle \"einheimische\" Energiequelle war, eine deutlich schwierigere \"Startposition\" hatte und sich somit viel Mühe machen musste, um die \"Energiewende\" in Gange zu setzen und zu unterstützen. Und in dieser Hinsicht sind wir \"Leader\", \"Vorbild\". Weil wir zeigen, dass erneuerbare Energien in jedem Land möglich sind, auch ohne Gebirge für Wasserkraftwerke oder wo gerne behauptet wird \"wir sind zu weit nördlich für Solaranlagen\" oder ähnliche Aussagen.\n\nDas heißt natürlich nicht, dass wir uns darauf ausruhen sollten. Der Windkraftausbau z.B., der leider in den letzten Jahren ins Stocken geraten ist, muss dringend fortgeführt werden.",
+        "date": "2021-11-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Es hatte halt einen Grund, wieso der Ausbau gerade bei Photovoltaik zurück gegangen ist. Die Kosten sind durch die Decke geschossen, gleichzeitig war klar, dass Deutschland nicht mehr alleine die Kostenreduktion voran treiben kann. Von daher war mal ein paar Jahre etwas langsamer machen durchaus sinnvoll.\n\nMan sollte dabei auch beachten, dass der Stromsektor Ziele bezüglich Emissionsreduktion und Anteil der Erneuerbaren immer übererfüllt hat.\n\nInzwischen sind wir wieder nahe am Rekordniveau. Bei Photovoltaik sieht man das direkt am Ausbau, bei Windkraft an den Ausschreibungen. Wobei man berücksichtigen muss, dass neuere Windräder größer sind und wesentlich mehr Ausbeute pro Nettoleistung liefern.\n\nDie Elektrifizierung ist die größere Baustelle, aber auch da muss man sagen, dass da nur wenige wirklich voraus sind. Würde ich also nur bedingt als \"schleppend\" bezeichnen.",
+        "date": "2021-11-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "In deinen Quellen geht es um die installierte Leistung. Die ist tatsächlich niedriger als in den USA und China. Dort ist aber der Energieverbrauch auch um ein Vielfaches höher.\n\n\nWenn wir die installierte Solar- und Windkraft-Kapazität mit dem gesamten Energieverbrauch vergleichen liegt Deutschland weit vor USA und China.",
+        "date": "2021-11-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich glaube du weißt nicht, von welchen Kapazitäten wir hier reden. Deutschland verbraucht pro Jahr 488 Terrawattstunden. Wenn du davon ungefähr 200 Terrawattstunden zeitgleich in den effizientesten Lithium-Ionen-Akkus (Speicherkapazität 600 wh/l) speichern wollen würdest, wäre Deutschlands Fläche  von 340 000 km^2 komplett mit einer einen Meter hohen Schicht an Akkus bedeckt. Auch die Meere. Effektiv muss man vermutlich zeitgleich deutlich weniger Speichern. Da der Stromverbrauch im Winter höher ist als im Sommer, gehe Ich Mal von 1,5 Terrawattstunden pro Tag aus. Wie viele Tage sollten wir nun den Strom vorhalten? Im Winter fällt Photovoltaik quasi flach, die entscheidene Komponente in einem EEG-Land wäre die Windkraft. Aber auch die ist natürlich nicht stetig. Dieses Jahr haben wir zum Beispiel wegen einer Windflaute im Frühjahr deutlich mehr Kohle verbrannt. Bei einer Speicherkapazität von einer Woche, hätten wir ca 10 twh. D.h 5% der Fläche Deutschlands, würden die reinen Akkus mit einem Meter Höhe in Anspruch nehmen. Ohne Meere 7-8%. Und das mit besonders günstigen Zahlen und ohne jede Infrastruktur etc. Für Pumpspeicherkraftwerke besitzt Deutschland nicht die geographischen Gegebenheiten.",
+        "date": "2021-11-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Dann kommst du nämlich darauf, dass der Ausbau von Photovoltaik allein für 2 Mio. Elektroautos jährlich reicht \n\nDas kommt für den Verbrauch hin. Nur: dabei fehlt der erhebliche Energieaufwand für die Batterieproduktion. Und selbst wenn wir das ignorieren, zeigt dieses Beispiel im Gegenteil, dass ich Recht habe. Wir haben 49 Mio. PKWs in Deutschland. Bei 2 Mio. E-Autos pro Jahr sind das 24.5 Jahre nur dafür, also der gesamte Solarausbau in dem Zeitraum, bis zu dem wir auf 0 sein wollen, NUR für PKWs. Jetzt machen aber PKWs lediglich etwa 60% der Verkehrsemissionen aus, und der Verkehrssektor insgesamt nur 19% der gesamten CO2-Emissionen. Das ist gerade Mal eine Reduktion von 9.6%, wohlgemerkt ohne die CO2-Emissionen der Batterieherstellung. \n\nDir fehlt offenbar jegliches Verständnis für das große Ganze. Du fokussierst dich auf einen kleinen Teilaspekt und meinst, damit wäre alles erledigt.\n\n&gt;allerdings steigt der Ausbau weiter an, und Elektroautos werden diesen Ausbau beschleunigen (Stichwort Eigenverbrauch)\n\nDeine Aussage war, dass wir keinen höheren Ausbau brauchen. Macht überhaupt keinen Sinn, dann mit höherem Ausbau zu argumentieren\n\n&gt; Und Windenergie wird aktuell sogar eher mehr zugebaut\n\nWaren 2020 nur 6 TWh Jahresleistung Windkraft vs. 5 TWh Sonne. Zusammen reicht es also gerade Mal für den Verkehrssektor und etwas Heizen.\n\n&gt;Das reicht locker, um in 25 Jahren den gesamten Verkehr und den Gebäudesektor zu Elektrifizierung und es bleibt immer noch genug übrig um den Stromsektor zu dekarbonisieren.\n\nDie Rechnung möchte ich sehen. Faszinierende Parallelwelt, die du dir da aufgebaut hast.\n\n&gt;Und nein, Deutschland liegt in der Elektrifizierung nicht weit hinten. Deutschland ist da sogar ziemlich weit mit vorne dabei. \n\nWarum verfehlen wir dann unsere Ziele in dem Bereich krachend? (was du selbst eingeräumt hast)\n\n&gt;weltweit ist der Anteil an Wind/Solar absolute Spitze.\n\nWind/Solar sind kein Selbstzweck. Es geht um Emissionsreduktion, und dabei ist Deutschland ziemlich schlecht. \n\n&gt; Schon skurril, aus den Fakten ein \"Deutschland ist hintendran\" zu schließen.\n\nWir haben fast doppelt so hohe CO2-Emissionen pro Kopf wie der weltweite Durchschnitt. Und der ist schon viel zu hoch. Offensichtlich sind wir weit hinten dran, wer das leugnet, steckt den Kopf in den Sand.\n\n&gt;Wie du behaupten kannst ich würde sagen \"Strom kommt aus dem nichts\" ist für mich nicht nachvollziehbar. \n\nDu verstehst offensichtlich nicht die einfachsten Grundsätze der Stromerzeugung und -produktion. Das ist unter den Voraussetzungen, die du gesetzt hast, namentlich kein höherer Ausbau, ein Nullsummenspiel. Wenn wir erneuerbaren  Strom für Elektrifizierung verwenden, können wir ihn nicht mehr verwenden, um den Anteil im Stromsektor zu erhöhen.  Diesen simplen Fakt willst du partout nicht akzeptieren.\n\n&gt;Du hast offensichtlich deine starre Meinung und hast keine Sekunde über meine Argumentation nachgedacht.\n\nDas Gegenteil ist der Fall. Ich bin auf alle deine Sachargumente eingegangen und habe ausführlich analysiert, warum das Unsinn ist. Du behauptest dagegen immer wieder stumpf das gleiche, ohne auch nur im Ansatz meine Kritik zu beantworten.\n\n&gt;Fakt ist, die Elektrifizierung kann zu 100% mit Erneuerbaren voran getrieben werden,\n\nNein, absolut nicht. Wie dein eigenes Beispiel zeigt, reicht der Ausbau nicht ansatzweise, selbst wenn man keinerlei Emissionsreduktion im Stromsektor durchführt.\n\n&gt;Das kann man ganz nachrechnen - mach das doch einfach mal.\n\nDeine Dreistigkeit ist wirklich beeindruckend. Du konntest keinerlei Rechnung vorweisen, die deine Behauptungen auch nur annähernd stützt. Mir dann das zu empfehlen, ist ein Level an kognitiver Dissonanz, das kaum zu übertreffen ist.",
+        "date": "2021-11-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Kritiker der Offshore-Branche warnen auch aus anderen Gründen davor, zu stark auf die Windkraft zu setzen. Die Energie sei unbeständig, und der Strom könne bislang nicht gespeichert werden.\n\nAber noch immer beständiger als Onshore Windkraftanlagen.",
+        "date": "2021-11-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ein Trollversuch? Wie bitte?\n\nAtomkraft ist (leider) zuverlässiger als Windkraft… und Photovoltaikanlagen sind auch nicht so zuverlässig.\n\nAtomkraft ist schlimm. Aber wir reden von einer Klimakatastrophe … wir können nicht für immer Kohle brennen.\n\nAber ja klar. Ein Trollversuch war es.",
+        "date": "2021-11-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Groko ist passiert. Die haben 2011 die Förderung für Solar zusammengestrichen daraufhin ist der jährliche deutsche Ausbau um 90% eingebrochen. (Wir sind jetzt erst langsam wieder auf dem Level angekommen) dann haben sie den Ausbau der Windkraft aktiv verzögert, wegen „netzstabilität und Preisen“. jetzt ist Solar und Windenergie die günstigste aufm Markt und alle Industrie sitzt in China. Da freut sich die Kohleindustrie die jetzt noch mal gute Gewinne machen kann, da wurde gut Lobbyiert.",
+        "date": "2021-11-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es passiert ja schon. Es sind ja schon zwischen Norwegen und Deutschland zwei große Kabel gelegt worden und zwischen Norwegen und den Niederlanden auch eins. Alle drei Länder könnten auch genau den Strom herstellen, den sie brauchen. Aber so fließt der überschüssige Strom aus Windkraft von Deutschland nach Norwegen und wenn wir zu wenig Strom in Deutschland haben der Strom aus den norwegischen Wasserkraftwerken zu uns. Ja, das kostet alles viel Geld (ca. 3,5 Milliarden für die drei Kabel), aber ein Atomkraftwerk kostet heutzutage gerne mal das fünffache oder mehr. Und da ist der Rückbau noch mal nicht eingerechnet",
+        "date": "2021-11-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wie lange sollen die AKWs denn noch laufen im Norden, weil der Süden kein bock auf Windkraft hat und ihr in der mitte nicht von eurer Kohle wegkommt.\n\nUnd nein der Strom aus den AKWs landet nicht zauberhaft in der Lausitz, da sich der Leitungsausbau hinzieht.\n\nAuch sind die nicht unbedingt günstiger. 2 AKWs wurden aus wirtschaftlichen Gründen vor den Atomausstieg 2011 geschlossen. Jetzt will keiner der Betreiber weiter machen.\n\nEinen Nördlichen und Südlichen Strommarkt zu etablieren, wäre wahrscheinlich wirksamer.",
+        "date": "2021-11-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Am teuersten ist natürlich für Einkommen schwächeren Bundesländer wie Mecklenburg-Vorpommern oder Schleswig-Holstein, welche Bestraft werden Ökostrom für andere zu produzieren(Stromleitungskosten etc), während BaWü als einst der Einkommenstärksten Bundesländer mit wenig € unterschied im Mittelfeld liegt und bei Erneuerbaren Energien aber im unteren Mittelfeld.\n\nAber als restriktiven Land nach Bayern in der Windkraft, möchte ich die armen Baden-Württemberger nicht noch mehr belasten.",
+        "date": "2021-11-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Das ist völliger Quatsch, klimaneutrale Energie hat halt offensichtliche Nachteile wie die Effizienz, z.B. gibt es halt abgesehen von Norwegen kein Land, was wahrscheinlich ansatzweise nur mittels erneuerbarer Energien versorgt werden kann. Ich habe auch gar kein Problem damit alles mit Windrädern, Staudämmen und Solaranlagen voll zu kleistern, aber die Sonne scheint nicht immer, es ist nicht jederzeit windig und so viele Flüsse wie in Norwegen haben wir nicht Mal ansatzweise, außerdem haben wir immernoch keine gutes Speichermedium für Energie, wenn es so eines gäbe wären die ersten Probleme irrelevant und man könnte Atomkraft völlig vernachlässigen, aber mit dem steigenden Energiegehalt, der offensichtlich nicht von nur klimaneutralen Energien gedeckt werden kann, Brauch man halt gewisse Alternativen und da kommen Dinge wie Thorium Reaktoren und Flüssigsalz-Reaktoren generell ins Spiel.\n\nUnd diese Geschichte war frei erfunden.\n\nSchauen wir uns mal an was das Umweltbundesamt 2013 zu [dem Potential von Windkraft in Deutschland geschrieben hat](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/potenzial_der_windenergie.pdf)\n\n&gt;Zusammenfassung:\n\n&gt;Im Rahmen der vorliegenden GIS-basierten Studie wurde das Potenzial der Wind-energie an Land ermittelt. Auf Basis der getroffenen Annahmen und gewählten Windenergieanlagentechnik ergibt sich ein grundsätzlich verfügbares Flächen-potenzial von rund 49.400 km2 bzw. 13,8 % der Landesfläche der Bundesrepublik Deutschland. Dies entspricht einem Potenzial von rund 1.190 GW installierbarer Leistung mit einem Ertrag von 2.900 TWh/a.\n\nAha. Ein erwarteter Ertrag von ca. 2900 TWh im Jahr. \n\nMal schauen was Deutschland 2019 (nicht dass wir den durch Corona reduzierten Verbrauch als Vergleich nehmen) [so verbraucht hat](https://de.statista.com/statistik/daten/studie/164149/umfrage/netto-stromverbrauch-in-deutschland-seit-1999/): \n\n&gt;507 TWh\n\nOh. Ich war ja nicht gut in Mathe, aber ich glaube 2900 ist größer als 507. Also so ein bisschen mindestens. \n\nÜbrigends lag der höchste Stromverbrauch in Deutschland seit 1991 (und damit wahrscheinlich in der Geschichte Deutschlands) bei 541 TWh jeweils 2007 und 2010. Auch das sollte kleiner sein als 2900. \n\nUnd bei alle dem, haben wir noch nicht mal Photovoltaik, Wasserkraft (okay, das ist wirklich nicht viel), Offshorewind und Biogasanlagen mit eingerechnet. \n\nIch würde dich hiermit offziell bitten so eine verlogene Scheiße nicht mehr zu verbreiten, danke.",
+        "date": "2021-11-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Erstmal danke für deinen Netten Kommentar, ist wirklich freundlich wie manche Menschen immer auf andere eingehen 😊, zweitens ja, ich habe mich geirrt es sieht so aus als ob es möglich ist, Deutschlands gesamten Energiehaushalt mit Windkraft bzw. Erneuerbaren Energien auszustatten (was ich gut finde, sage ich oben auch) , Mal abgesehen davon, dass übrigens in der Studie steht, dass du das Potential noch deutlich verringern musst aufgrund von Ökologischen und anderen Faktoren, wobei die anderen Faktoren mir eher in der Schule der Menschen wie fehlende Akzeptanz sind und daher nicht gegen die Windenergie sprechen. Alles in allem sind die erneuerbaren Energien ein sehr großes Ding für die Zukunft (davon habe ich nie abgesehen) die Formulierung mit der Effizienz von mir war schlicht falsch, es ging mir da um die Konsistenz, welche jahreszeitenabhängig ist (was bei Deutschland nicht so nen Problem ist, da wir uns aus anderen Ländern den Strom teilweise holen können, aber bei anderen Ländern Probleme machen kann), war halt falsch formuliert, das tut mir leid. Dann Mal zu den zahlen, nehmen wir Mal wir kommen wenn man die Ökologischen und anderen Faktoren etwas vernachlässigt noch auf 2.500 TWh, dann wird der Energiehaushalt bei Abschaffung von Verbrennungsmotoren (was meiner Ansicht nach eigentlich bis 2025 geschehen MUSS) der Energiehaushalt sehr stark steigen, ich weiß nicht wie viel, aber da muss man trotzdem aufpassen, dass man nicht zu wenig Energie produziert (was auch einfach zu realisieren ist wahrscheinlich, versteh mich nicht falsch), aber Flugzeuge sind halt leider immernoch ein Problem, was sich entweder durch dinge wie kleine Reaktoren lösen lässt oder weniger Flugverkehr, weil du noch keine Energiespeicher Medien hast die klein genug sind um bei so einem Flugzeug die ganze Zeit zu halten.\n\n Alles in allem tut es mir leid, dass man mich vielleicht falsch verstanden hat und ich mich falsch ausgedrückt habe und falsches geschrieben habe.\n\nMich aber so in ne Schublade zu stecken und einfach anfangen hier was mit \"und das war frei erfunden\" zu schreiben , ist sehr unnötig und das macht es mir auch schwerer deinen doch guten Punkt zu lesen und anzuerkennen. (Wenn man auch bedenkt, dass wir meiner Ansicht nach auf einer ähnlichen Seite sind, da ich wie gesagt weder gegen Erneuerbare Energien noch dafür bin überall Akws Hinzuklatschen, sondern eher die Forschung dahingehend zu fördern... ) \n\nSry für den langen Text",
+        "date": "2021-11-17",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bei den vielen Küsten muss doch Windkraft vorhanden sein.",
+        "date": "2021-11-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Es gibt keine teurere Stromerzeugung als durch Atomenergie.\n\nDas ist jetzt auch kein kleiner Unterschied. Atomkraft ist unfassbar teuer. Im besten Fall ~100x teurer als Windkraft und Photovoltaik.\nGünstige Energiepreise sind daher ein sehr schlechtes Argument für die Atomenergie.",
+        "date": "2021-11-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Glaube Japan hat so viele Tiefwassergebiete wo Windkraft zu teuer ist, sie planen wohl schwimmende Plattformen aber diese sind wohl ebenfalls recht teuer.",
+        "date": "2021-11-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Bin ich ja deswegen ne halbe Zeile weiter unten drauf eingegangen. Und GAU in reguläre Umweltfolgen von AKWs einzurechnen ist halt wie https://www.youtube.com/watch?v=WSuYQ2YZck0 in reguläre Effekte von Windkraft einzurechnen.",
+        "date": "2021-11-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Und GAU in reguläre Umweltfolgen von AKWs einzurechnen ist halt wie https://www.youtube.com/watch?v=WSuYQ2YZck0 in reguläre Effekte von Windkraft einzurechnen.\n\nNee, isses nicht. Äpfel und Birnen. Man kümmert sich um eventuelle Verletzte und macht einfach weiter. Das Gebiet ist nicht für tausende von Jahren unbewohnbar.\n\nUnd es gibt wie gesagt auch noch radioaktiven Abfall, den wir ewig und enormen Kosten lagern müssen und wahrscheinlich nie ein akzeptables Endlager finden.",
+        "date": "2021-11-18",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich sehe nicht direkt wie Kernkraft als Technik der Energie\\*erzeugung\\* durch Batterien und andere Energie\\*speicher\\* hinfälligwird.  \n\n\nEdit: Ah, ich glaube es geht darum, dass Atomkraft nicht wie Windkraft und Photovoltaik wetterabhängig ist, und das dieser Unterschied durch Energiespeicher abgemildert wird.",
+        "date": "2021-11-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nochmal. \n\nWoher nimmst du die Resourcen AKWs zu bauen + Trassen + Speicher + EE. AKWs sind verdammt verdammt teuer.\n\nWitzig finde ich hierbei auch das viele AKW befürworter wie du auch gerade die Kosten von Strom in den Ring wirfst. Den wenn sich Windkraft der Strom verdreifacht, kostet er immernoch nicht so viel wie Strom aus nem AKW.\n\nBei den Preisen in England haben ganz viele verschiedene Faktoren einen Einfluss. Also das hat eher wenig mit der Windenergie zu tun.\n\nEinfach auch weil diese Angst vor \"Kein Wind\" \"Keine Sonne\" einfach populismus gegen EE ist. Dsw. auch anti EE bubble. Es wird im normalfall immer irgendwo ausgeglichen, bei den Mengen in denen wir EE aufbauen. In anderen Kraftwerken wird es auch Störungen geben, das ist normal, wird aber bei EE wie ein Blackout dargestellt.",
+        "date": "2021-11-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Stehen jetzt richtig gut da.\n\nDas haben wir im allgemeine dann aber doch wohl ehr CDU u. SPD zu verdanken die bis zum Ende hin unbedingt an der Kohle festgehalten haben und dafür auch gerne mal die Erneuerbaren sogut es ging ausgebremst haben. Bayern geht lieber hin und verbietet Windkraft, und neue Stromtrassen die immerhin noch Erneuerbran Strom aus anderen Bundesländern liefern könnten. NRW hat auch ein dummes Abstandsgesetz für Windkraft. Wir hatten zeitweise ganze offshore Windparks die fertig da standen aber kein Strom liefern konnten weil die CDU das Anschlusskabel nicht genehmigen wollte.\n\nOb der Atomausstieg jetzt gut war oder nicht ist ein Thema für sich, aber das mit der Energiewende nichts geworden ist lag ziehmlich sicher daran das man es aus politischen Gründen absichtlich nicht hinbekommen wollte.",
+        "date": "2021-11-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Und GAU in reguläre Umweltfolgen von AKWs einzurechnen ist halt wie https://www.youtube.com/watch?v=WSuYQ2YZck0\n&gt;  in reguläre Effekte von Windkraft einzurechnen.\n\nWieso denn das? **Natürlich** sollte der Totalverlust von Windturbinen in die Betriebskosten eingerechnet werden. Wird doch überall so gemacht: wenn es die (wie auch immer geringe) Chance eines Totalverlusts gibt, dann nimmt man eben die Wahrscheinlichkeit für so einen Vorfall, multipliziert sie mit den Kosten, die bei einem Totalverlust entstehen würden, und preist das ganze ein.\n\nUnd wieso sollte man das bei Atomkraft anders machen?",
+        "date": "2021-11-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Naja, Windkraft verursacht auch doppelt so viele Tote wie Solar. Ausschließen tut man es auch nicht.\n\nDiese Zahlen zeigen, dass Atomkraftwerk in der Realität ziemlich sicher ist. Gründe dagegen gibt es ja noch andere.",
+        "date": "2021-11-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Heuli heuli, jetzt bau die Teile! Alles andere ist entweder grüngewaschenes Gas oder Windkraft mit ner gesicherten Leistung von 7%. Kernkraft hat eine gewaltige Energiedichte und falls man sich nicht wie ein Riesendepp anstellt, kann man so ein Teil sogar in 5 Jahren bauen und damit sehr günstig und sicher Energie produzieren. Nehmt es gerne als Übergangslösung, denn: Windkraft und Solar werden das Problem nicht lösen. Vorallem wenn die Mobilität, die Heizungen, Chemie- und Stahlindustrie und einfach alles andere aus Strom umgestellt werden.\n\nFrieden aus, meine Freundetten",
+        "date": "2021-11-18",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Das seh ich tbh anders. Das das Windkraft sowas manchmal macht sollte _definitiv_ Teil des Plans sein. Potentieller Schaden mal Wahrscheinlichkeit.\n\nUnd für AKWs das gleiche.",
+        "date": "2021-11-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Zum Glück wurde bei der Entwicklung effizienter Solarzellen oder bei der Förderung von Kompositstoffen zur Errichtung hoher Windräder nicht so geknausert, ansonsten wären die für die Energiewende heute auch nicht geeignet.\n\nSubventionen in die Windkraft sind winzigst im Vergleich mit dem, was schon in die Erforschung der Atomkraft geflossen ist. Also nein, eher ein Pech, dass so wenig in Wind- und Solarkraft geflossen ist im Vergleich.\n\n&gt; weil sie eben auf Grundlast ausgelegt sind. In der Forschung gibt es Reaktoren, die in ein paar zehn Millisekunden pulsen können, einer davon steht in Mainz:\n\nJa, in der Forschung gibt es alles mögliche. Ist aber auch was anderes als reale kommerzielle Reaktoren, die tatsächlich auch im normalen Betrieb funktionieren können. \n\nDas mit dem hochfahren solltest du dir nochmal durchlesen übrigens. Das steht so nicht im Text, den du gepostet hast.\n\n\"wodurch der Reaktor für 30 ms eine Spitzenleistung von 250 MW und eine Energiefreisetzung von 10 MWs erreicht\"\n\n\"Für 30 ms\" ist nicht dasselbe wie \"es dauert 30 ms zum hochfahren\".",
+        "date": "2021-11-19",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; der Uranabbau ist heute ganz gut ohne riesige Umweltschäden zu regeln und im Unterschied zu manchen anderen Energien zerstören wir keine Ökosysteme damit\n\nUran wird heute in der Regel im Tagebau abgebaut. Dafür geht schon einiges an Fläche drauf. Immerhin meist in der Wüste oder in Steppen, wo es also keiner sieht und keinen stört. Der Abraum ist auch problematisch.\n\nIm Vergleich zur Kohle braucht man für Uran weniger Fläche, aber insgesamt würde ich Windkraft und Photovoltaik als verträglicher für die Umwelt betrachten.",
+        "date": "2021-11-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Oh gott nein xD hallo glaubst du uran und fluor wächst auf bäumen xD außerdem bestehen die komponenten einer Multi SI anlage aus materialien die aus großenteilen sekundärrohstoffen also hauptsächlich recykling geholt werden. Klar is primär Si ein wenig ungeil aber es wäre nicht nortwendig und selbes hilt für Alu und stahl. Klar kann man nicht alles aus solar bauen, dafür bräuchte man viel mehr stahl als produziert wird, jedoch war nie davon die rede alle EE auf solar zu basieren, wäre auch einfach dumm. Bei windkraft sind die permanentmagneten das problem und die aufarbeitung der windräder aus verbundsstoff. Den müll den ein atomkraftwerk produziert, den kann man nur wegsperren und das uran wird genauso in bergwerken abgebaut nur dass man zusätzlich strahlen belastung hat. \n\nAtomkraft mit uran in wasserreaktoren spart vielleicht CO2 ist aber alles andere als Grün.",
+        "date": "2021-11-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Und GAU in reguläre Umweltfolgen von AKWs einzurechnen ist halt wie https://www.youtube.com/watch?v=WSuYQ2YZck0 in reguläre Effekte von Windkraft einzurechnen.\n\nWarum sollte man das nicht in reguläre Folgen von Windkraft einrechnen?",
+        "date": "2021-11-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Schlage mal Mannstrom vor, machen ihren Strom selber (Windkraft und Holz) 27,1 Cent/kWh (wenn es auch für Neukunden gilt), finde Deinen Preis schon recht krass",
+        "date": "2021-11-19",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Dafür kommt der Großteil des Strom aus Wasserkraft, und die ist nicht (mehr) skalierbar.\n\nJe nach Monat variiert das stark. Auf das gesamte Jahr 2020 geben die an, dass [~50% Windkraft und ~50% Wasserkraft war](https://green-planet-energy.de/index.php?id=1785#tab-23385).\n\nGreen Planet investiert viel in den weiteren Aufbau erneuerbare Quellen.\n\nDas ist für mich zumindest das deutlich bessere Argument als zu schauen wo der bisherige strom \"her kommt\".\n\nEs gibt dann noch den ~1,2ct/kWh teureren [Solartarif](https://green-planet-energy.de/index.php?id=1786) der 10% garantiert Solarstrom hat und ~0,8ct/kWh garantiert in den weiteren Ausbau von Solarkraftwerken in DE steckt.",
+        "date": "2021-11-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Sie sind ja auch mit dem Beschluss weiter Vorreiter. Wie der Artikel sagt waren die Flächen für Windkraft auf 2% begrenzt - was schon ausreichend wäre, wenn es denn alle Bundesländer erreichen würden - und soll jetzt noch weiter erhöht werden, auch mit der neuen Abstandsregel.",
+        "date": "2021-11-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "[Hier schon gelesen?](https://ecomento.de/2020/06/22/elektroauto-studie-ifw-kiel-zusaetzlicher-strombedarf-hebelt-klimavorteile-aus/)\n\n&gt;Bei einer vollständigen Umstellung auf Elektromobilität im deutschen Pkw-Bereich würde der Strombedarf um fast 20 Prozent steigen (...) Im Vergleich zu einer Situation ohne Ausbau der E-Mobilität erfordere dies eine stärkere Verstromung fossiler Energieträger, wenn man von gleich hoher Verfügbarkeit erneuerbarer Energien ausgeht. Elektroautos würden damit zu 73 Prozent höheren Treibhausgasemissionen als moderne Diesel-Pkw führen.\n\nUnd wenn Kohle und Atomstrom komplett wegfallen sollen sowie Windkraft (\"die armen Vögel\" \"Der Lärm\" bla bla) ausgebremst wird steigt nicht nur die Nachfrage sondern es sinkt die Eigenversorgung da weniger produziert wird als jetzt. Aber das Thema wo der Strom für den fahrenden Toaster herkommt wird ja gern beiseite geschoben, solange der Auspuff nicht am Auto hängt sondern irgendwo, bevorzugt im Ausland, steht.",
+        "date": "2021-11-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Was Korrekt ist und was mich auch ankotzt, das die Kosten regional umgelegt werden.\n\nWas ich zusätzlich anzweifele sind 150 Windkraft Anlagen an einem Ort, was die Häufigkeit angeht. Brandenburg hat nur 4 Tausend Windkraftanlagen. Wenn es dort so schlimm ist, wie soll in Schleswig-Holstein erst überleben.\n\nWelches kleiner ist und mehr Einwohner hat.",
+        "date": "2021-11-22",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Deswegen hab ich ja auch nicht von NRW gesprochen sondern von Bayern und Bawü. \n\nSelbst bei beiden Enden der Extremen sind die Unterschiede jetzt aber nicht so gewaltig. In NRW werden dann halt 13% für Gebäude genutzt und in Brandenburg 6%. Das Allermeiste ist in beiden Ländern Wald- und Landwirtschaft. 2% für Windkraft und Solar haben außer den Stadtstaaten alle übrig.",
+        "date": "2021-11-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Gleichberechtigung für Windkraft gegenüber Braunkohletagebau! Weg mit den Dörfern!",
+        "date": "2021-11-22",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Jo und momentan hat das mehr als doppelt so große Bayern knapp ein Drittel so viel Windkraft wie Brandenburg.\n\n\nIch weiß nicht was ich dir noch sagen soll, niemand hat vor Windkraft in Dörfer zu stellen, deswegen ist die rohe Bevölkerungsdichte nicht so relevant.\n\nSowohl Bayern als auch Baden-Württemberg haben locker genug Platz ihren Anteil doppelt und dreichfach zu leisten, genau wie Brandenburg, sie haben nur eher wenig Lust drauf. Klar ist es einfacher zu sagen \"wir bremsen weiter und bauen Brandenburg und MeckPomm voll da wohnen eh nur Wölfe lol\", aber dass die da eher nicht mitgehen sollte jetzt aber auch nicht verwundern.",
+        "date": "2021-11-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; sie haben nur eher wenig Lust drauf\n\nDas ist doch das ganze Problem bei der Klimakrise, dass jeder immer auf den anderen zeigt um selber weniger zumachen. Und das ist innerhalb Deutschlands genauso dämlich, wie international. Nur weil Bayern, Bawü und der Rest von Deutschland auch mehr für Windkraft machen könnte ist dies keine Begründung dies nicht in Brandenburg zu machen.",
+        "date": "2021-11-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Krass. Ich hab hier nur den Hunsrück bei uns zum Vergleich, aber da ist alles voll mit Windkraft. Dachte das sähe überall so aus (weils ja Sinn ergibt)",
+        "date": "2021-11-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Weil es nichts bringt, wenn wir Windräder im Norden bauen, die dann keinen Strom nach Süden transportieren, weil das Netz nicht ausgebaut ist. Und Windräder im Norden bauen und für jedes nicht im Süden gebaute Windrad 4 Strommasten aufstellen, ist auch hirnrissig.\n\nGenau dieses Denken macht auch unseren Strom so teuer. Im Norden stehen so viele Windräder, dass sie an windreichen Tagen abgestellt werden müssen, weil der Strom nicht mehr im Netz transportiert werden kann. Dann werden im Süden Gaskraftwerke hochgefahren, aber die Windräder müssen trotzdem vergütet werden. Man zahlt also teure Gaskraftwerke und gut vergütete Windenergie. Mit anderen Worten man zahlt doppelt. Hätten wir mehr Windkraft im Süden, würde sich das Problem entspannen und die Strompreise sinken.",
+        "date": "2021-11-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Naja, für Brandenburg reicht der schon jetzt erzeugte Strom aus Windkraft aus, ist nur doof nur wenn man in einem Bundesland lebt wo das mit dem Ausbau nicht soweit fortgeschritten ist.",
+        "date": "2021-11-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wichtige Kommentar hier: Population auf dem Land ist halt echt nicht hoch und wenn alle 30min ein Bus für sagen wir großzügig 10.000 Leute von 6-18 fährt dann ist das halt nicht wirklich Umweltfreundlich. Ob es besser ist wenn Leute dann per Auto selbst fahren ist auch so eine Sache.\n\nEffektiv müssen e-Autos/ sobald möglich e-Buse genutzt werden. Auf dem Land wird eh alles in letzter zeit mit Solaranlage, Windkraft vollgepflastert, dann soll man das nutzten, oder Solaranlagen auf‘s Dach setzten weniger besteuern oder so was. Jetzt da e-Autos langsam billiger wird das echt ne Option.\n\nSache ist aktuell muss ich halt irgendwie zum Bahnhof kommen, koste was wolle.",
+        "date": "2021-11-22",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Soweit ich weiß stehen sich Solar, AKW und Wind bei g/kWh Co2 recht nahe. Fließt halt welche Art von AKW sowie Standort stark mit ein. Z.B ist wenn ich mich recht erinnere in Japan die Klimabilanz von AKWs etwas besser, während in Schweden Windkraft knapp vorne liegt.",
+        "date": "2021-11-23",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Kohlekompromiss\n\nzu spät, zu teuer\n\n&gt;CO2-Steuer\n\nzu gering, zu falsch ausgerichtet\n\n&gt;E-Auto-Prämien, Ladesäulenprämien\n\nNe Verkehrswende erreicht man damit nicht.\n\n&gt;und und und.\n\nBeispielsweise neue, unsinnige Abstandsregeln für Windkraft in Brandenburg.",
+        "date": "2021-11-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Aber ein Nabu zum Beispiel ist auch gegen Windkrafträder weil da Vögel reinfliegen.\n\nDas ist in der Kürze unfair dem Nabu gegenüber, die sind schon grundsätzlich für Windkraft. Sie sehen die natürlich lieber aufm Feld als im Naturschutzgebiet, aber das ist völlig harmlos im Vergleich mit den Auflagen die sich CSU und Konsorten aus den Fingern ziehen.",
+        "date": "2021-11-24",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Das Ganze ist auch sehr ambitioniert. Andererseits ist die Photovoltaik im Moment die Ressource bei der Stromerzeugung wo am meisten Dynamik drin ist. Anders gesagt, die werden im schneller immer billiger. Im Moment braucht es (nur) noch 8-10 Jahre bis eine PV-Anlage auf dem Dach sich selbst abbezahlt, Tendenz stark sinkend. \n\nDazu kommt, wenn wir wirklich aus Atom und Kohle aussteigen wollen, bis 2030 die Photovoltaik und die Windkraft mindestens verdoppeln müssen. Rechnen wir dazu noch die steigende E-Mobilität, das Wechseln zu strombetrieben geothermischen Pumpen beim Heizen und den höheren Stromverbrauch in der Industrie (als Ersatz) können wir locker auf das Dreifache des momentan Verfügbaren an PV und Wind brauchen. So 200 GW an Wind und PV sind jeweils einfach notwendig.",
+        "date": "2021-11-24",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dann lies nochmal den Vertrag. Anstatt die Ziele zu verschärfen, werden konkrete Maßnahmen festgelegt. z.B. Photovoltaik bis 2030 200GW, Offshore Windkraft 30GW bis 2030, 40GW bis 2035, 70GW bis 2040. 2030 50% Wärme über erneuerbare.\n\nDas sind halt mal konkrete Ansagen, die man durchrechnen kann und dann entsprechend auch überprüfen. Das Gegenteil von Wischi Waschi.",
+        "date": "2021-11-24",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Klar, Batterien sind nicht frei von Problemen. Aber Wasserstoff hat IMHO deutlich mehr Probleme. Die Sauberkeit von Wasserstoff ist auch nicht 100%. Für Brennstoffzellen und die Produktion von Wasserstoff werden auch viele seltene Erden benötigt. Und \"Wasserstoff braucht keine gigantischen Landmassen\" ist auch nicht richtig. Da haben wir wieder das Problem mit dem Energieeintrag für Wasserstoff. Deine 7 mal mehr Energie muss du erstmal irgendwo hernehmen. Durch Solar, Windkraft, etc. Und das braucht Fläche.",
+        "date": "2021-11-24",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Auszug:\n\n*Wahl ab 16? Ok die Grünen wollen ihre Kinder bei sich haben🤣ab sofort werde ich meine WorkLiveBalance sehr sehr wichtig nehmen und wenn was nicht so klappt wie ich will, schmeiße ich mich auf den Boden im Supermarkt und schrei ICH WILL… dann klappt’s🤣eine „lernende Politik“ sagt Harbeck🤣🤣🤣🤣die werden so hoch bezahlt, die haben jetzt zu liefern!!!! Wir schaffen das🤣🤣🤣🤣🤣🤣🤣*\n\nund\n\n*Kohleausstieg schon 2030? Wieviele Windräder sollen jedes Jahr zugebaut werden? Dass bereits heute viele Menschen das nicht mehr wollen und gute Gründe haben, z. B. Schallkrankheit, interessiert nicht?\nDass der massive Ausbau der Windkraft nur möglich sein wird, wenn auch Waldflächen vermehrt genutzt werden und der Schutz des Waldes, der ja unser Klima und den Wasserhaushalt schützt, Lebensraum für Arten ist und nicht versiegelter Waldboden vor Überschwemmungen schützt, das interessiert nicht? Ich könnte noch viele Punkte anführen ...\nHat die FDP nicht von Technologie-Offenheit gesprochen?*",
+        "date": "2021-11-24",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Atomkraft ist als Thema einfach durch. Ein Atomkraftwerk hat 'ne Planungs-, Bau- und Laufzeit, weit jenseits der Zeitspannen, über die wir hier reden. Wenn du die Energiewende in den nächsten 2 Jahrzehnten planst, kannst du ein Kraftwerk, daß in 15 Jahren fertig geplant und gebaut ist und danach noch 4 Jahrzehnte laufen muß, um sich zu rechnen einfach vergessen.\n\nIn so fern ist die Planung soweit es unsere zukünftige Regierung angeht klar: Kohlekraftwerk aus. Kurzfristig kompensieren durch mehr Gas-, Solar- und Windkraft. Und all neuen Gaskraftwerke müssen verpflichtend so konzipiert sein, daß sie leicht auf CO² neutrale Gase (z.B. H2) wechseln können. Die sind damit dann in der langfristigen Planung auch gleich als Puffer bei schwankenden erneuerbaren Energien vorgesehen.\n\nAlso egal was man von dem Plan hält. Atomkraft passt da einfach längst nicht mehr rein. Das hätte vor Jahren begonnen werden müssen. Bleibt letztlich nur der Streitpunkt selber zeitweise (immerhin weniger umweltschädliches) Gas zu verbrennen oder zu Importieren. Da sind Gaskraftwerke, die direkt langfristig mit Doppelfunktion geplant werden, nicht unbedingt die dümmste Idee...",
+        "date": "2021-11-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Es wurde gesagt, wenn man mit diesen Ländern verhandeln und reden will über den Klimawandel, muss man selbst erstmal beweisen, dass es funktioniert. \n\nNaja die meisten Studien zeigen ja wie es gehen kann. Ist alles nur eine Sache des Geldes und wieviel man bereit ist an Wohlstand zu investieren/zu verlieren um den Umbau abzuschließen. Aber nur weil Deutschland es packte ist das weltweite Problem ja nicht gelöst. Wir leben in Europa als extrem reiches Land, haben Zugriff auf den Norden oder den Süden und könnten so unseren Energiebedarf locker mit grünen Strom decken wenn bei uns Knappheit herrscht. So eine europäische Lösung wird ja auch von der Regierung gerade angepeilt. \n\nAber dies ändert ja nichts am Ist-Zustand in China. Wo deren Experten meinen das Land sei zu groß um die Energie zu liefern und deswegen setzen sie bisher auf lokale Kraftwerke. Nur weil wir es in Deutschland als kleines Land durch unsere Partner (und durch negativ CO2) schaffen fit for 55 zu packen ist so eine Lösung nicht gleich für China oder andere Entwicklungsländer drinnen. \n\nDa verstehe ich das Argument halt einfach nicht. Die Chinesen können doch selbst ausrechen was billiger ist: Kohle, Atomkraft, Windkraft etc. Dann schauen was lokal möglich ist und bauen. Was juckt die Deutschland oder Europa? Und wenn man mit den heuchlerisch Aspekt kommt, muss man nur mal paar Aussagen der chinesischen Regierung lesen um zu sehen wie wenig Fucks die selbst drauf geben. Wir müssen akzeptieren dass diese uns direkt ins Gesicht lügt aber können keinen Druck machen dass China vor 2060 Klimaneutral wird? Das wäre eine shitty Welt und ein Anzeichen der Resignation. \n\nLasst die anderen Ländern machen und haltet den Druck oben damit diese keine Kohlekraftwerke mehr bauen auch wenn dies bisher mehr Kosten würde. Aber kein Land hört auf den Grünen Leuchtturm welcher von oben herab etwas fordert. Denn bisher nimmt sich auch keiner ein Vorbild an Ägypten und kickt alle fossilen Subventionen. Oder eben Deutschland und Atomkraft.",
+        "date": "2021-11-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Im Vergleich zu was? Kongo? \n\nSorry aber wie du es auch drehst und wendest, das Thema Energiepolitik hat die Union so hart versemmelt, das grenzt an Volksverrat.\n\nWir könnten sowohl in Windkraft als auch in PV technologischer Weltmarktführer sein und auch bei Energiespeichern ganz vorne mitspielen, und das ganz ohne ausländische Konzerne wie Tesla.\n\nWir hatten die Chance, ein Modellland der Zukunft zu sein, mit dem Einfluss, diesen Lifestyle auch noch teuer exportieren zu können.\n\nAls viertgrößte Volkswirtschaft brauchen wir uns absolut nicht mit dem Rest der Welt vergleichen sondern sollten einfach an unseren eigenen MaßStäben arbeiten. Wenn man sich global vergleichen will, dann halt mit den Top3. \n\nAber wozu nach außen schauen, wenn man seine eigenen, super unambitionierten Ziele kläglich verfehlt??",
+        "date": "2021-11-25",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja aber wir brauchen auch Platz für mehr Wohnraum, Windkraft, Solar und noch mehr für den Wirtschaftswachstum. Wird schwer Platz für alles zu haben ohne Bäume zu fällen.",
+        "date": "2021-11-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich sehe das eher als Mischung. Technologie UND Verzicht. Nur über Technologie wird es nicht machbar sein, das halte ich für ein neoliberales Märchen \"so weiter machen wie es ist, schränkt euch nicht ein, die nächste Innovation kommt ja bestimmt! Und wenn nicht, sind wir eh alle verloren also dann lohnt es sich auch nicht zu verzichten\". Ich sehe hier auch gerne mal als Beispiel, das ja viele Menschen oft die rasende Innovationsgeschwindkeit ansprechen die wir mittlerweile haben, aber ich sehe in Bezug auf Klimawandel hat sich doch recht wenig game-changing getan in den letzten 20 Jahren. Davon auszugehen das es irgendwelche ganz einfach nutzbaren Innovationen innerhalb der nächsten 20 Jahre gibt, das Ruder komplett rumdrehen halte ich für mehr als gewagt. Oder das die Innovationen die wir haben (Windkraft), soweit ausgebaut sind dass wir 95% damit betreiben können.\n\nKlar ist auch, das massiver Verzicht in einer wachstumsorientierten kapitalistischen Gesellschaft schwer umzusetzen ist. Ich denke man muss beides parallel miteinbeziehen.",
+        "date": "2021-11-29",
+        "sentiment": "negative"
+    }
+]

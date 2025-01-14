@@ -1,0 +1,385 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Ascomae",
+            "author_created_utc": 1432068330,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_nkimc",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1644587435,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "focus.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "spzvux",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#3c58be",
+            "link_flair_css_class": "category newsde",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Nachrichten DE"
+                }
+            ],
+            "link_flair_template_id": "1186c958-7c5c-11e4-b6d1-12313d1494bc",
+            "link_flair_text": "Nachrichten DE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_spzvux",
+            "no_follow": true,
+            "num_comments": 41,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/spzvux/habeck_beschert_windkraft_megagewinne_doch/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "XTHw330QApApqAtrk4ApsAfhGfu9TaQJhtc5ZRUrnFY",
+                        "resolutions": [
+                            {
+                                "height": 54,
+                                "url": "https://external-preview.redd.it/-ifsxhCnNJoSt7geKOejPVOYDRAbasQFQ9eSIC-20qY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=6cb36c57611688caf62f5fab1a30f8aa21acb34a",
+                                "width": 108
+                            },
+                            {
+                                "height": 108,
+                                "url": "https://external-preview.redd.it/-ifsxhCnNJoSt7geKOejPVOYDRAbasQFQ9eSIC-20qY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=da1f65dad0807a84c67c7608ab2d161aa1a390b8",
+                                "width": 216
+                            },
+                            {
+                                "height": 160,
+                                "url": "https://external-preview.redd.it/-ifsxhCnNJoSt7geKOejPVOYDRAbasQFQ9eSIC-20qY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f6d2cf637865ee6b19060756402dc71764680cc5",
+                                "width": 320
+                            },
+                            {
+                                "height": 320,
+                                "url": "https://external-preview.redd.it/-ifsxhCnNJoSt7geKOejPVOYDRAbasQFQ9eSIC-20qY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca762545fd72b8be9603c5bed0f1f4ecc522d9b3",
+                                "width": 640
+                            },
+                            {
+                                "height": 480,
+                                "url": "https://external-preview.redd.it/-ifsxhCnNJoSt7geKOejPVOYDRAbasQFQ9eSIC-20qY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=91b2e6fa20398bbba162014b9fed2f1af0819908",
+                                "width": 960
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/-ifsxhCnNJoSt7geKOejPVOYDRAbasQFQ9eSIC-20qY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8c03c417d46e51520c81a61873233689e162b963",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 600,
+                            "url": "https://external-preview.redd.it/-ifsxhCnNJoSt7geKOejPVOYDRAbasQFQ9eSIC-20qY.jpg?auto=webp&amp;s=bf234ad49bdda1eadb93512ef45270d8708b3b8e",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1654123433,
+            "retrieved_utc": 1654123433,
+            "score": 0,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 629333,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://a.thumbs.redditmedia.com/qESX9_1DBGJLh_yfJck9jEIulX9ICzfPjMMzYuMbvD8.jpg",
+            "thumbnail_height": 70,
+            "thumbnail_width": 140,
+            "title": "Habeck beschert Windkraft Mega-Gewinne, doch Verbraucher ächzen unter Strompreis - FOCUS Online",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.35,
+            "url": "https://www.focus.de/finanzen/goldene-zeiten-fuer-gruene-stromerzeuger-waehrend-verbraucher-unter-gaspreis-aechzen-beschert-habeck-den-windmuellern-milliarden-gewinne_id_51484724.html",
+            "url_overridden_by_dest": "https://www.focus.de/finanzen/goldene-zeiten-fuer-gruene-stromerzeuger-waehrend-verbraucher-unter-gaspreis-aechzen-beschert-habeck-den-windmuellern-milliarden-gewinne_id_51484724.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 500,
+                    "coin_reward": 100,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Thank you stranger. Gives %{coin_symbol}100 Coins to both the author and the community.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": "APNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_512.png",
+                    "icon_width": 2048,
+                    "id": "award_2ae56630-cfe0-424e-b810-4945b9145358",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful (Pro)",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=57278b329d19fd1d345888bfff68a51528777538",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=db7b3f20402a8a6820a4ffebf35160d2557986e2",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=0100d8da8f4dae0dc81d430733aa622d752c268c",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=1029c080a179f45b6d83a51ed79dfd57997ae266",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=50e7f8a870f79df7bc38bedb8a12e01137df5a77",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/zkc9cw88c8361_ChristmasHelpful.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 100,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "linknewtab",
+            "author_created_utc": 1414744049,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_j4tom",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1645645423,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "zdf.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "szq1hu",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#0b3b0b",
+            "link_flair_css_class": "category environment",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Umwelt"
+                }
+            ],
+            "link_flair_template_id": "b96aef02-25bd-11e7-bfe3-0ece441d4918",
+            "link_flair_text": "Umwelt",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_szq1hu",
+            "no_follow": false,
+            "num_comments": 98,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/szq1hu/euforschungsprojekt_windkraft_nur_unter_ferner/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "i6cjeY9FHalrvskQ_g4Gzfwzmk_kGZ_RWIseSikD9cY",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/hiJ1Q5c0L5WOWeTOeHOcOjIzRYbu0fr1Klvop-hppIM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=21347759aecc02ac7add9fc912c089a714689344",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/hiJ1Q5c0L5WOWeTOeHOcOjIzRYbu0fr1Klvop-hppIM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=4b620f2996527a0e9824554cf2d2d03cd3cfff03",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/hiJ1Q5c0L5WOWeTOeHOcOjIzRYbu0fr1Klvop-hppIM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7b6116ba0c273df3fd53a5753710ad73407f51e7",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/hiJ1Q5c0L5WOWeTOeHOcOjIzRYbu0fr1Klvop-hppIM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6845a2d3af506e32a84a3d8028dff65e8c011a76",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/hiJ1Q5c0L5WOWeTOeHOcOjIzRYbu0fr1Klvop-hppIM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=9bb1ca698c75fdcbb0d1685a1477be27ae0ffbe5",
+                                "width": 960
+                            },
+                            {
+                                "height": 607,
+                                "url": "https://external-preview.redd.it/hiJ1Q5c0L5WOWeTOeHOcOjIzRYbu0fr1Klvop-hppIM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e42b288c2e671d6e8f14338712fa86d4a796692b",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 720,
+                            "url": "https://external-preview.redd.it/hiJ1Q5c0L5WOWeTOeHOcOjIzRYbu0fr1Klvop-hppIM.jpg?auto=webp&amp;s=8603a71ddbed8924d9df3df02e6534908b5c1a1f",
+                            "width": 1280
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1654100044,
+            "retrieved_utc": 1654100044,
+            "score": 881,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 629115,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/AC27STWpVS9fA3E9nufKt7gSM-4K_aw5w7FLbGvUg5c.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "EU-Forschungsprojekt: Windkraft nur \"unter ferner liefen\" als Todesursache für Rotmilane, die meisten sterben an Vergiftungen, Straßenverkehr und illegalen Abschüssen",
+            "top_awarded_type": null,
+            "total_awards_received": 1,
+            "treatment_tags": [],
+            "upvote_ratio": 0.98,
+            "url": "https://www.zdf.de/nachrichten/panorama/rotmilan-windkraft-100.html?fbclid=IwAR3K5IKwESSW5OE7f9BcxMbeu_YwUAJMCA21iw6OU8s_0g4-ivJuRWmKp5A",
+            "url_overridden_by_dest": "https://www.zdf.de/nachrichten/panorama/rotmilan-windkraft-100.html?fbclid=IwAR3K5IKwESSW5OE7f9BcxMbeu_YwUAJMCA21iw6OU8s_0g4-ivJuRWmKp5A",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 178,
+        "op_b": 169,
+        "total": 357
+    },
+    "error": null
+}

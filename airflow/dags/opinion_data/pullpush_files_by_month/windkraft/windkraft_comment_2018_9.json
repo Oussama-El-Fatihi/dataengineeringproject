@@ -1,0 +1,52 @@
+[
+    {
+        "text": "Windkraft: Jo, wann ech gelift!",
+        "date": "2018-09-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Deutschland exportiert im Moment massiv Elektrizität. Selbst ohne Alternativen würde es nur dazu führen, dass die Exportbilanz sinkt. Außerdem werden im Moment genügend Erneuerbare gebaut, um neben dem Atomausstieg auch Braunkohlekapazitäten abschalten zu lassen. \n\nUnd wenn alle Stricke reißen, haben mir mehr als genug Gaskraftwerke. Die haben zwar etwas höhere Brennstoffkosten, damit würde der Börsenstrompreis steigen, wegen der Mechanismen des EEG würde der Privatverbraucher davon aber fast nichts merken.\n\nUnd weil das Argument dann gleich kommt: Wenn wir uns unabhängig vom russischen Gas machen wollen, müssen wir per Windkraft betriebene Wärmepumpen bauen, und nicht Kohlekraftwerke weiter betreiben. Das bringt viel, viel mehr.",
+        "date": "2018-09-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Moment, du wirfst hier verschiedene Dinge durcheinander. Du redest von der Frequenzstabilisierung, also der Notwendigkeit, auf das abrupte Zu- und Abschalten von Lasten zu reagieren, also im Bereich von *Millisekunden bis maximal Minuten* - das geht mit Kohle und Atom in einem begrenzten zeitlichen Rahmen sehr gut.\n\nIch rede davon, dass der Strombedarf im *Tages- und Wochenverlauf* deutlich schwankt, diese Schwankungen aus technischen und wirtschaftlichen Gründen aber nicht mit thermischen Großkraftwerken abgebildet werden können, sondern mit Kraftwerken, die ihre Leistung bedarfsgerecht drosseln können. Nur in diesem Kontext ist der Begriff Grundlast übrigens relevant, mit Frequenzstabilisierung hat das nichts zu tun. [Hier ist das mal grafisch dargestellt](https://www.energy-charts.de/power_de.htm?source=all-sources&amp;year=2018) - man beachte, dass Braunkohle und Atomkraft nur stellenweise kurze Einschnitte um wenige Prozent aufweisen und ansonsten mit weitestgehend konstanter Leistung laufen.\n\nUm aber noch einmal auf dein Thema einzugehen: Trotz des enormen Zubau von erneuerbaren Energien hat sich die Lastregelung in Deutschland nicht als Problem erwiesen - im Gegenteil, [die benötigte Regelleistung ist sogar leicht und die Kosten dafür deutlich gesunken.](https://www.sciencedirect.com/science/article/pii/S1364032115004530?via%3Dihub) In Australien haben sich außerdem Batteriespeicher (gespeist mit Windkraft) als [schneller und billiger als alles bisher Dagewesene zur Netzstabilisierung erwiesen.](https://reneweconomy.com.au/the-stunning-numbers-behind-success-of-tesla-big-battery-63917/)",
+        "date": "2018-09-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Mehrfach wiederlegtes Kontra-Windkraft Argument, aber danke.",
+        "date": "2018-09-17",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Mein Problem mit den Grünen ist, das sie zu sehr in dir Richtung \"Friede, Freude Eierkuchen\" gehen. Da wird ein riesiger Aufstand gegen Atomkraft gemacht, die ich als Brücktechnologie zur Kernfusion übringes sehr sinnvoll erachte. Photovoltaik und Windkraft schön und gut: Aber in Zukunft brauchen wir aufgrund der zunehmenden Wetterextreme eine Energiequelle, die unabhängig vom Wetter ist. Oder einen Superakku, der Spitzenlasten ausgleichen kann. Und dann werden solche Sachen wie einen \"Veggieday\" gefrodert, was ich für völlig realitätsfremd halte. \n\nAm meisten stimme ich tatsächlich mit der FDP überein - aber da ist mir das Personal zu komisch. Falls sich wer aufregt: Ja ich denke manchmal ziemlich stumpf.",
+        "date": "2018-09-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Grünen sind sich durchaus bewusst, dass es mehr Energiespeicher braucht, damit Photvoltaik und Windkraft besser genutzt werden können.\n\nSiehe z.B. https://www.gruene-bundestag.de/energie/der-weg-zur-speicherrevolution-23-03-2017.html\n\nDas mit dem Veggie-Day ist quatsch. Das war ein Vorschlag für eine freiwillige Aktion von öffentlichen Kantinen, der unglaublich über das Sommerloch 2013 aufgebauscht und von CDU&amp;Co ausgefleischt wurde.",
+        "date": "2018-09-21",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Salvador Dali macht jetzt in Windkraft.",
+        "date": "2018-09-24",
+        "sentiment": "positive"
+    },
+    {
+        "text": "natürlich\n\nWenn man allerdings fair sein wollen würde, müsste man eher mit durchschnittlichem schaden pro Megawattjahr oder so ähnlich rechnen.\n\nUnd so katastrophale der Einzelschaden bei einem AKW auch aussieht, passiert da jedoch relativ \"selten\"  was. 100 große Braunkohlekraftwerke werden über ihre Laufzeit sicherlich auch genug Schaden verursachen und die Krebsraten auch ohne GAU genug erhöhen, während GaAs-Solarzellen bei der Herstellung und Entsorgung auch ordentlich reinschlagen.\n\nUnd schon sind wir wieder an der Stelle an der Windkraft vermutlich vergleichsweise gut dasteht. (organische Solarzellen aber vmtl auch)",
+        "date": "2018-09-24",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "FDP denkt halt (Überraschung) kurzfristig. Abholzen von Wald für so hässliche Windräder ist nicht geil, klar. Langfristig würde aber eine Umstellung auf Windkraft mehr gegen Klimawandel tun als den Wald so stehen zu lassen, wie er ist. Möglicherweise steckt bei der FDP auch noch n Schutzgedanke für private Forstwirtschaft mit drin und der \"Umweltschutz!!!\" ist vorgeschobene Scheinheiligkeit. Wirtschaft über alles und nach uns (literally) die Sinflut eben.",
+        "date": "2018-09-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Besonders bemerkenswert ist bei Markus Söder immer wieder der Stolz über unser einzigartiges Bayern, der anscheinend auch von Fakten nicht getrübt werden kann.\n\nSöder: \n\"Bayern ist Öko-Energieland Nummer Eins. Bei Solar, Geothermie, Wasser in Deutschland führend, bei Wind Nummer Fünf, bei Bioenergie Nummer Zwei.“\n\nFaktencheck:\nBayern ist Spitzenreiter bei den Erneuerbaren Energien — das war einmal. Im Bundesvergleich rangiert der Freistaat schon seit einiger Zeit nur noch im Mittelfeld. „Schleswig-Holstein produzierte schon vor drei Jahren deutlich mehr Strom aus erneuerbaren Energien als das Bundesland verbrauchte“, sagt Raimund Kamm vom Bayerischen Windenergieverband. „In Niedersachsen waren es 55 Prozent. In Bayern lag der Anteil nur bei gut 40 Prozent.“ Und zwar trotz des traditionell hohen Anteils der Wasserkraft im Freistaat. Die Gründe für den Rückfall: Das Abstandsgesetz 10H, nach dem neue Windräder nur noch wenigstens zwei Kilometer von der nächsten Wohnsiedlung entfernt errichtet werden dürfen, hat den Ausbau der Windkraft faktisch gestoppt. 2017 wurden laut Kamm nur noch vier Anträge für neue Windräder eingereicht. Bei neuen Biogasanlagen herrscht ebenfalls Stillstand. Zwar wurden vergangenes Jahr in Bayern 47 neue Biogasanlagen errichtet. Aber die allermeisten waren Kleinstanlagen, die für die Stromproduktion praktisch ohne Bedeutung sind. Die Solarenergie stagniert auch, obwohl es noch Unmengen freie Dächer gibt, die sich bestens dafür eignen würden. Und die Wasserkraft kommt ebenfalls nicht voran. Die letzten drei Punkte haben damit zu tun, dass der Bund die Förderung für Solarkraftwerk und Biogasanlagen massiv zurückgefahren hat. Auch die Förderhürden für kleine Wasserkraftwerke sind so hoch, dass neue Anlagen kaum rentabel sind.\n\n",
+        "date": "2018-09-27",
+        "sentiment": "positive"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Filtres charbon? Il y a même des gourdes avec filtre intégré",
+        "date": "2021-07-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Exactement ! En plus, ça revient plus économique utiliser des filtres qu'acheter des bouteilles d'eau (même si on utilise les meilleures marques de filtres à charbon, par exemple BRITA)",
+        "date": "2021-07-27",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Salut t'as plusieurs solutions :\n\n1) acheter carafe eau avec filtre intégré. Ça marche très bien. D'expérience les filtres se changent tous les 3-4 mois. Je recommande carafe BRITA.\n\n2) acheter un filtre à charbon à installer dans l'arrivé d'eau de ton robinet de cuisine. Ceci permet filtrer un débit d'eau plus important qu'en utilisant une carafe d'eau.\n\n3) acheter appareil électrique de purification d'eau. je ne sais pas comment ces appareils se comparent à une filtrage passive (comme carafes d'eau avec filtre intégré).",
+        "date": "2021-07-27",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Je me demande si un filtrage uniquement au charbon ne serait pas mieux que leur mix charbon resine, le calcaire enlevé par les résines n'est pas en trop et le sel rajouté est gênant",
+        "date": "2021-07-27",
+        "sentiment": "negative"
+    }
+]

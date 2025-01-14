@@ -1,0 +1,155 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Tao_Dragon",
+            "author_created_utc": 1499986281,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_70agce6",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1653818751,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "derstandard.at",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "v08328",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#ae9e00",
+            "link_flair_css_class": "category economy",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wirtschaft"
+                }
+            ],
+            "link_flair_template_id": "9a45e4b8-cfe9-11e5-903a-0e6186a3132f",
+            "link_flair_text": "Wirtschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_v08328",
+            "no_follow": false,
+            "num_comments": 7,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/v08328/norwegens_zweigleisigkeit_zwischen_fossilem/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "lcu7IzBVqED_8WIkfCMmnFI_acxupquMfp2uiqak0P0",
+                        "resolutions": [
+                            {
+                                "height": 54,
+                                "url": "https://external-preview.redd.it/nddeblDFnZs5jdz-opq0D4I0s4LU7zrRZbo4RE8qFcM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=3c65b7262c02edcd0a0d589cf168f26e1c8d3298",
+                                "width": 108
+                            },
+                            {
+                                "height": 108,
+                                "url": "https://external-preview.redd.it/nddeblDFnZs5jdz-opq0D4I0s4LU7zrRZbo4RE8qFcM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=74580305f0647445891855d1f08c7134b2c2fcfb",
+                                "width": 216
+                            },
+                            {
+                                "height": 160,
+                                "url": "https://external-preview.redd.it/nddeblDFnZs5jdz-opq0D4I0s4LU7zrRZbo4RE8qFcM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=dbe200c2a0ee64479a3652b6031f24d638240e36",
+                                "width": 320
+                            },
+                            {
+                                "height": 320,
+                                "url": "https://external-preview.redd.it/nddeblDFnZs5jdz-opq0D4I0s4LU7zrRZbo4RE8qFcM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6935b0a19bee41a1e03633c1d3b686d9258757af",
+                                "width": 640
+                            },
+                            {
+                                "height": 480,
+                                "url": "https://external-preview.redd.it/nddeblDFnZs5jdz-opq0D4I0s4LU7zrRZbo4RE8qFcM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=e3f385f2fc2bc188707ae2fab675f62600442bb2",
+                                "width": 960
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/nddeblDFnZs5jdz-opq0D4I0s4LU7zrRZbo4RE8qFcM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=bde7a9f753e122bcbedd7705847019282c31181e",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 600,
+                            "url": "https://external-preview.redd.it/nddeblDFnZs5jdz-opq0D4I0s4LU7zrRZbo4RE8qFcM.jpg?auto=webp&amp;s=d93d3e2d9393e9fd5b71d8b90965a771584ad078",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1653915108,
+            "retrieved_utc": 1653915108,
+            "score": 79,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 628089,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/XK2_E3zTpsR7H-clCOeGd_NW0-Tovbcxp7iHWbga6Dk.jpg",
+            "thumbnail_height": 70,
+            "thumbnail_width": 140,
+            "title": "Norwegens Zweigleisigkeit zwischen fossilem Reichtum und grüner Energie | [ \"Das skandinavische Land zählt zu den größten Öl- und Gasexporteuren der Welt, setzt jedoch gleichzeitig auf Wasserkraft und E-Mobilität\" ]",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.87,
+            "url": "https://www.derstandard.at/story/2000135845058/norwegens-zweigleisigkeitzwischen-fossilem-reichtum-und-gruener-energie",
+            "url_overridden_by_dest": "https://www.derstandard.at/story/2000135845058/norwegens-zweigleisigkeitzwischen-fossilem-reichtum-und-gruener-energie",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 179,
+        "op_b": 169,
+        "total": 356
+    },
+    "error": null
+}

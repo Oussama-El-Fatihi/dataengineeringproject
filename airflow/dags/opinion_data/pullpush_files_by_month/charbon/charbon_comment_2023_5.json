@@ -1,0 +1,92 @@
+[
+    {
+        "text": "[Un autre projet, la création d'un lac géant, est actuellement à l'étude à cet emplacement](https://www.sauerlandkurier.de/nordrhein-westfalen/zweitgroesster-see-deutschland-nrw-garzweiler-inden-dormagen-aerger-buergerversammlung-rwe-hambach-tagebau-92220580.html)\\[traduit de l'allemand\\] RWE veut créer un immense lac dans la mine à ciel ouvert de Hambach. Les plans pour cela existent depuis des décennies – et cela cause maintenant des problèmes.Dormagen - 4,3 milliards de mètres cubes d'eau doivent inonder le paysage de cratère de la mine à ciel ouvert de Hambach. Là où se trouvaient autrefois des colonies entières vouées à l'extraction du charbon pendant des décennies. D'ici 2070, le plus grand lac en volume de Rhénanie du Nord-Westphalie et le deuxième plus grand d'Allemagne doit être créé dans la fosse à ciel ouvert - sur une superficie de 4 200 hectares. Entre autres choses, l'eau doit être pompée du Rhin dans les creux, selon le plan de RWE et du gouvernement du district de Cologne. Le projet existe depuis les années 1990. Mais à Dormagen - où le pipeline entre le Rhin et la mine à ciel ouvert doit commencer - les voix contre le projet gigantesque se font plus fortes, rapporte 24RHEIN.",
+        "date": "2023-05-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Même si un facteur de charge de 20% (à terre) est plutôt pourrave, ça reste un meilleur moyen de production que je charbon de pense…\n\nMais on est d'accord que la situation actuelle en France est déplorable. Ce que tu dis n'est pas nouveau, j'en entendais parler il y a plus de 5 ans, quand un projet d'éolien faisait débat en Auvergne.",
+        "date": "2023-05-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Vu que c'est intermittent l'éolien est marié soit avec des 1) centrales à réaction rapide (charbon, gaz) ou 2) du stockage (qu'on n'a pas) ou 3) de la charge pilotable (qu'on n'a pas)... on ne peut pas avoir l'un sans l'autre... En l'état actuel tant qu'on n'a pas de solutions réalistes à grande échelle pour les 2 et 3 ci dessus, développer l'éolien revient à rajouter du fossile, c'est se voiler la face de dire autre chose ! Janco a raison sur un truc : du nucléaire ça pollue vachement moins que des éoliennes avec les inévitables des centrales à gaz/charbon associées...\n\nBon par exemple je suis sorti du game avec mes 12kW de panneaux solaires, je suis quasiment à zéro conso chauffage par PAC compris, mais c'est seulement parce que j'ai mis des grosses batteries, et c'est pas du tout une solution généralisable à tout le monde (pollution, coût, ressources en lithium, etc).\n\nEn gros on fait n'importe quoi lol",
+        "date": "2023-05-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Pour l'intermittence de l'éolien, il y a un peu plus de moyens de la contrebalancer que ça, quoique ça dépend énormément du territoire. En France, avec nos trois façades maritimes, ont peut avoir du vent presque toute l'année… ce qui est irréalisable en Allemagne. Et à terre, chez eux, c'est pas mieux.\n\nÀ voir après avec des analyses de cycle de vie. De plus, si l'éolien en France s'acoquine bien avec les fossiles, en Allemagne ça reste moins dégueu puisqu'ils en ont déjà (et si ça en remplace). C'est sûrement pour ça que chez eux, les gros producteurs d'électricité, qui exploitent aussi le charbon, n'aiment pas le renouvelable, puisque ça leur bouffe des parts de marché, apparemment. Ça en parlait récemment sur r/europe. Bien sûr, s'ils faisaient du nucléaire, ce serait mieux ! Mais mieux ne veut pas dire que l'éolien serait mal.\n\nPS : j'ai pas le droit de mettre de solaire chez moi, PLU oblige…",
+        "date": "2023-05-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Tu peux checker Helios, c'est une banque en ligne créée par des français.\n\n*Chez Helios, pas un seul euro ne sert à financer des industries polluantes (pétrole, charbon, agriculture intensive, fast fashion…) qui représentent un risque pour le climat et la biodiversité. Nous orientons 100% de nos financements vers des projets qui contribuent à accélérer la transition vers une économie bas carbone : \n- traitement de l'eau,\n- rénovation thermique,\n- circuits courts,\n- transition agricole,\n- renouvelables,\n- mobilité durable...*",
+        "date": "2023-05-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "La nef ne finance plus depuis 2019 de projet (des écoles surtout) lié à l'anthroposophie. Et si on le sait c'est parce que c'est la seule à rendre public la liste des projets financés (même crédit coop et la poste ne le font pas). Je préfère une erreur de jugement de la part d'un des banquiers de la nef que des mines de charbons histoire d'avoir des rendements.\n\nEffectivement la nef a été créé par des gens qui croyaient en ce courant, c'était il y a 40 ans, depuis beaucoup de choses ont changé. Éthique ça se définit et ça change avec le temps. C'est une coopérative donc en tant que sociétaire tu participe à redéfinir les projets de cette banque, et récemment ils réaffirmé les valeurs notamment écologiques et dont l'anthroposophisme ne fait pas parti.",
+        "date": "2023-05-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je ne me suis pas bien exprimé visiblement. Nous sommes les pires car nous avons dévellopé un confort qui est entièrement dépendant de l'energie que nous produisons, bien souvent composée de charbon dans les mix energetiques qui nous sont fournis à la maison. On est tellement habitués à nos petits luxes qu'on oublie la lumière allumée sans aucun scrupule dans une pièce inutilisée ou alors la où la lumière du jour suffirait amplement, ou encore l'eau chaude couler pendant 10min car on est partis faire autre chose en attendant que la douche soit chaude, comme par exemple répondre au tel ou aux messages. On ajoute ceux qui démarrent leur voiture 30min en avance en hiver parce qu'ils n'ont pas envie de gratter les vitres ou simplement de se les geler. Si on y réfléchit bien il y a des tonnes et des tonnes de co2 à économiser dans nos manières de vivre que l'on a laissées dévier jusqu'à un point de comfort absurde, juste parce qu'on en a la possibilité ? Alors que nos arrières grand parents crevaient de faim durant la deuxième guerre... Il faut vraiment prendre du recul et comprendre tout ce que l'on gaspille au nom de l' évolution... Dans 50/100ans quand on ne pourra plus respirer d'air libre et que l'on sera forcés d'acheter de l'air respirable en bombonne, je ne crains que les détracteurs d'aujourd'hui deviendront les blameurs qui diront \"Ah, on vous l'avait dit...\" Sérieusement messieurs, si l'on comptait chaque seconde que l'on gaspille une energie quelconque et qu'on la soustrayait à votre durée de vie que feriez-vous ? Vous continueriez à gaspiller cette energie ? Je ne crois pas... et pourtant c'est littéralement ce que nous faisons, en nois accordants des conforts et des luxes utiles uniquement pour notre bien être personnel immediat, sans aucun regard vers le futur et les générations à venir qui devront ramer exponentiellement plus pour chaque degré que la planète prend.",
+        "date": "2023-05-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dans la nature, tu ne peux pas affirmer que les cycles ont été créés de manière consciente (=ce que l’homme devrait faire). Les organismes utilisent pour leur fonction, rejette, et cela est devenu la tâche d’un autre d’apprendre à utiliser le rejet, et ce sans aucune notion de consentement, seulement d’adaptation.\n\nIl s’est passé des millions d’années avant l’apparition de la digestion de la cellulose chez une bactérie, ce qui a fait que les arbres tombaient au sol et s’empilaient sans être décomposés dans un monde titanesque d’arbres seulement, ce qui a fait les réserves de charbon de la terre. Est ce que les arbres sont très mauvais pour créer des cycles pour autant ? C’est un jugement qu’il ne convient pas de porter",
+        "date": "2023-05-09",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ce n'est pas surprenant puisque quasi toute l'écologie de nos jours est purement idéologique et complètement détachée de la réalité.\n\nFaire de la viande écolo avec du pétrole, c'est comme faire de l'électricité renouvelable écolo avec du charbon, ou prendre la bouffe des petits africains pour faire du biocarburant ! Et puis ça rapporte lol",
+        "date": "2023-05-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Et l'électrolyse est générée avec quelle énergie ? Du charbon ?? LoL. Apparemment tout le monde ne semble pas avoir compris qu'il faut de l'énergie pour faire de l'hydrogène, que l'hydrogène ne se trouve pas en l'état dans la nature...",
+        "date": "2023-05-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Et l'électrolyse est générée avec quelle énergie ? Du charbon ?? LoL.\n\nC'est écrit **hydrogène vert** dans le titre, avez-vous besoin de lunettes LoL?\n\nAussi plus bas dans l'article c'est écrit:\n\n&gt; l’usine assurera la production d’hydrogène vert par la électrolyse.\n\nLoL.\n\n&gt;  Apparemment tout le monde ne semble pas avoir compris qu'il faut de l'énergie pour faire de l'hydrogène, que l'hydrogène ne se trouve pas en l'état dans la nature...\n\nIl faut de l'énergie pour faire n'importe quoi, donc bien évident il faut de l'énergie pour faire de l'hydrogène. LoL.\n\nEn plus c'est faux. Pour votre information, il existe des gisements de hydrogène, c'est-à-dire, du hydrogène géologique ou **naturel**. Aussi appelé de l'hydrogène blanc. LoL.",
+        "date": "2023-05-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "\"Une énergie indépendante \" pour l'instant on a des réacteur conçu par westinghouse, avec des cuves japonaises et de l'uranium russe ou tchadien.\nFaire des epr c'est pas mal, celui de flamanville à été un fiasco mais on espère que cela vont être plus réussit.\nAprès leurs arguments comme quoi ça évitera de consommer des énergies fossiles c'est vraiment du foutage de gueule, ils n'ont aucune envie de sobriété et aucune nouvelle énergie à remplacer l'ancienne, on ajoute seulement. On a jamais autant utilisé de charbon, pétrole (100 millions/b par jour) gaz ou bois que maintenant.\nEn France en énergie finale consommé on est à 40% pétrole, 20% charbon (importation) 20% gaz et 15% nuc. Même avec les prévisions d'epr du gouvernement on va tomber à 5% ou moins de nuc d'ici 2050.",
+        "date": "2023-05-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le nucléaire est l'énergie qui rejette le moins de co2, 50 fois moins que le pétrole et 5 fois moins que les eolienne et solaire mais ce n'est pas la seule façon de comprendre les répercussions écologiques du problème. Opposer les renouvelables et le nucléaire est une hérésie. On peut faire les 2, notre seul ennemie est le fossile.\nJe préfère largement un Éric jadot qui veut pas de nucléaire mais à un plan pour réduire nos 80% de fossile dans notre mix énergétique plutôt qu'un zemmour pro nucléaire qui souhaite utiliser à côté le plus possible de fossile. On a encore 20 à 25% de charbon dans nos dépenses énergétiques par l'importation de produit manufacturé. \nEn France le seul débat que l'on a c'est sur l'électricité qui ne représente que 20% de l'énergie utilisé en France. On se fait pas respecter par nos politiques ni par nos médias.",
+        "date": "2023-05-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ya aussi des problèmes avec le scénario n3 (50% nuc 50% renouvelable). On ira pas vers le m0 comme les allemands, nous français on aura un mix des 2 (scénario n23 d'après rte) mais tu as raison. Aucun des 2 solutions est miraculeuses donc opposer nucléaire au renouvelable c'est le cœur du probleme. Notre ennemie c'est le fossile.\nLes allemands on fait des conneries mais ils ont bien réduit leur charbon depuis 10 ans, surtout leur lignite degeulasse gorgée d'eau et peu énergétique.",
+        "date": "2023-05-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Une nouvelle comme une autre pour l'environnement.\nConstruire un centre logistique, une usine ou un quartier pavillonnaire prendrait tout autant des terres agricoles.\n\nBref une polémique inutile. Quand on aura supprimé les véhicules thermique, avions bateau voiture. Les centrales a gaz et charbon on pourra s'inquiéter de la construction de nouvelles prisons.",
+        "date": "2023-05-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Peut-être la 1ère décision intelligente du point de vue de l'écologie du gouvernement depuis le 1er mandat du dieu roi Jupiter, non parce que Fermer Fessenheim en mode poui mais c'était déjà acté alors qu'on pouvait l'annuler,et puis faut aller au 50% de nucléaire sachant que le nucléaire niveau souveraineté énergétique et bas carbone c'est le Best, c'était de la grosse merde surtout que la seule manière de palier au manque d'électricité pilotable ça a été de rouvrir des centrales à charbon tu la sens la baisse de pollution ma gueule. Au moins la guerre en Ukraine a eu un truc positif montrer l'imposture et l'incompétence de l'Allemagne qui s'érige en pillier de l'énergie renouvelable peu carbone sachant que les gars ont tout foiré à vouloir démanteler leur centrales nucléaire plus vite que la musique en ayant comme plan de secours le gaz et le renouvelable sans compterle charbon( en même temps le gaz c'est une tradition allemande depuis les années 30) en plus l'ont fait rentré dans la catégorie énergie verte comme une lettre à la poste.\n\nAlors note oui le nucléaire est pas parfait et on peut pas mettre tout nos œufs dessus faut diversifier mais à un tel niveau de rush c'est de l'incompétence, parce que les mecs en même temps nous force à moins utiliser d'électricité et en même temps veulent mettre tout le monde à la voiture électrique en comptant quand même sur des sources d'énergie qui dépendent d'un truc aussi peu fiable que le vent et le soleil. J'ai beau pas avoir fait de grandes étude et de pas être une pointe mais pour pas avoir vu le problème et ce dire:\" tkt ça va passer\" c'est gros surtout pour se fournir en gaz et rouvrir les centrales à charbon dans le même temps soit des sources d'énergie plus polluante que celle qu'on démantele à coup de grand sourire et en mode oui c'est une victoire.",
+        "date": "2023-05-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Un point souvent oublié est l'esthétique des manifestations et autres actes activistes, et la capacité à être tournée en dérision.\n\nMartin Luther King, ça avait de la gueule, des mineurs de charbon musclés la tête noircie qui manifestent, c'est pas mal aussi. Et en plus, dans les deux cas, il y avait une histoire facile à comprendre (la ségrégation et les mines de charbon, c'est intuitivement inhumain).\n\nMême les black blocs pendant les manifestations ont une esthétique plutôt réussie je trouve (la fumée des gaz lacrimogènes...), et derrière, il y a un imaginaire révolutionnaire qui peut les servir. Green Peace a aussi une esthétique, les bateaux qui vont embêter les baleiniers, ça parle tout de suite, il y a le romantisme de la mer rougie du sang des baleines...\n\nLà, on a des jeunes, souvent de bonne famille (parfois avec ces affreux cheveux colorés manga dont j'ignore pourquoi ils font partie de la panoplie gauchiste, et qui donnent tout de suite l'étiquette 'geek pas bien dans sa peau', '3615 j'existe' comme on disait à mon époque). Et ils font des actions où ils apparaissent tout simplement ridicules. S'allonger sur l'autoroute, avec sa tête d'étudiant attardé en sociologie et sa parka de marque, pour embêter le chauffeur livreur, l'artisan ou le taxi de banlieue qui doit travailler pour nourrir sa famille, désolé, mais ça ne ressemble à rien. D'autant que ces mlitants ont souvent une expression du visage qui suinte l'ego et la suffisance.\n\nFranchement, regardez la photo qui illustre l'article, ça vous fait rêver, vous ? Pour moi, on va avoir une génération d'humoristes qui vont se moquer de ces militants \"How daaaaaaaaaaaaaaaaaaaaaaaaaaare youuuuuuuuuuuuuuuuuuu ?\".\n\nje n'ai pas parlé du fond, mais je pense qu'il faut bien réfléchir à l'aspect chorégraphique de la chose.",
+        "date": "2023-05-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;L'U.E. n'est pas une pauvre victime à laquelle le monde extérieur impose de garder une croissance économique positive.\n\nAh non bien sûr que non, elle en fait partie du système. Mais, si on compare l'UE avec les EUA par exemple je pense que c'est assez évident qui traîne le plus a imposer des normes environnementales plus strictes. Le libéralisme économique des EUA a malheureusement trop d'influence sur l'économie mondiale et l'UE est une victime dans ce contexte.\n\n&gt;Par contre les traités de l'U.E., eux, l'imposent. Maastricht l'a gravé dans l'article 2 du Traité sur l'Union Européenne ;\n\nAlors, j'avoue que je ne savais pas que c'était écrit noir sur blanc dans le traité de Maastricht mais ce n'est pas si étonnant non plus car l'UE est largement basé sur la communauté européenne du charbon et de l'acier, qui visait déjà un développement économique (croissance) et prospérité après guerre.",
+        "date": "2023-05-30",
+        "sentiment": "neutral"
+    }
+]

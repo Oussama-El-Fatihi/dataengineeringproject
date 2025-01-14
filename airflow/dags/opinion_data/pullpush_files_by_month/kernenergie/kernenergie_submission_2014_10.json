@@ -1,0 +1,51 @@
+{
+    "data": [
+        {
+            "url": "http://www.utopia.de/magazin/keine-ahnung-unter-dieser-nummer",
+            "secure_media": null,
+            "subreddit_id": "t5_22i0",
+            "from_kind": null,
+            "created": 1414511204,
+            "from_id": null,
+            "stickied": false,
+            "quarantine": false,
+            "score": 66,
+            "edited": false,
+            "saved": false,
+            "over_18": false,
+            "num_comments": 32,
+            "author_flair_css_class": null,
+            "archived": true,
+            "id": "2kkmb3",
+            "link_flair_css_class": null,
+            "name": "t3_2kkmb3",
+            "gilded": 0,
+            "author": "coolsubmission",
+            "from": null,
+            "is_self": false,
+            "permalink": "/r/de/comments/2kkmb3/laut_offizieller_statistik_des/",
+            "link_flair_text": null,
+            "media": null,
+            "selftext": "",
+            "retrieved_on": 1441100268,
+            "ups": 66,
+            "media_embed": {},
+            "subreddit": "de",
+            "created_utc": "1414507604",
+            "author_flair_text": null,
+            "domain": "utopia.de",
+            "hide_score": false,
+            "distinguished": null,
+            "downs": 0,
+            "thumbnail": "http://b.thumbs.redditmedia.com/Xp3-5Ck6B6zu-sM2jVxPZIyUebRdahWfMeYFB7YcCwY.jpg",
+            "title": "Laut offizieller Statistik des Bundeskriminalamtes wurden in Deutschland seit 1990 sieben Straftaten mit der Bezeichnung „Herbeiführen einer Explosion durch Kernenergie“ angezeigt. Eine Spurensuche.",
+            "secure_media_embed": {}
+        }
+    ],
+    "metadata": {
+        "op_a": 175,
+        "op_b": 178,
+        "total": 358
+    },
+    "error": null
+}

@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "archived": false,
+            "author": "amiuhle",
+            "author_created_utc": 1370609694,
+            "author_flair_background_color": "",
+            "author_flair_css_class": "SCBA",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Schwaben"
+                }
+            ],
+            "author_flair_template_id": null,
+            "author_flair_text": "Schwaben",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_bygeh",
+            "author_patreon_flair": false,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1546267477,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {
+                "gid_1": 0,
+                "gid_2": 0,
+                "gid_3": 0
+            },
+            "hidden": false,
+            "id": "ab7orv",
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": true,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category environment",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Umwelt"
+                }
+            ],
+            "link_flair_template_id": "b96aef02-25bd-11e7-bfe3-0ece441d4918",
+            "link_flair_text": "Umwelt",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "no_follow": false,
+            "num_comments": 3,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/ab7orv/meine_steuererklärung_2018_koloriert_oc/",
+            "pinned": false,
+            "post_hint": "self",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "6S7jSATrKH5OnCGpbG-DQ9ZN8BOlGJjAq9NMhW39zr0",
+                        "resolutions": [
+                            {
+                                "height": 81,
+                                "url": "https://external-preview.redd.it/sCElWDyVul7A6-FKBPwm997g8TTUn0ehLvOw0ZEpNvk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=689c0f7a7b471e43adc6acb6edcef3ebf65a677e",
+                                "width": 108
+                            },
+                            {
+                                "height": 162,
+                                "url": "https://external-preview.redd.it/sCElWDyVul7A6-FKBPwm997g8TTUn0ehLvOw0ZEpNvk.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1dc5a23158c14c90fb0206a98fb3dcf6903b37f0",
+                                "width": 216
+                            },
+                            {
+                                "height": 240,
+                                "url": "https://external-preview.redd.it/sCElWDyVul7A6-FKBPwm997g8TTUn0ehLvOw0ZEpNvk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c127abf309cbbc6408e17b863eca5d840cde28a0",
+                                "width": 320
+                            },
+                            {
+                                "height": 480,
+                                "url": "https://external-preview.redd.it/sCElWDyVul7A6-FKBPwm997g8TTUn0ehLvOw0ZEpNvk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20d913be8319cfa606d524678c365e0cde154c87",
+                                "width": 640
+                            },
+                            {
+                                "height": 720,
+                                "url": "https://external-preview.redd.it/sCElWDyVul7A6-FKBPwm997g8TTUn0ehLvOw0ZEpNvk.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=10ac3494d6bcafecf63c9cfb48980060bf2fc107",
+                                "width": 960
+                            },
+                            {
+                                "height": 810,
+                                "url": "https://external-preview.redd.it/sCElWDyVul7A6-FKBPwm997g8TTUn0ehLvOw0ZEpNvk.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=260624794583fb0dce0ded01c6ed3b5ee32b1aad",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 900,
+                            "url": "https://external-preview.redd.it/sCElWDyVul7A6-FKBPwm997g8TTUn0ehLvOw0ZEpNvk.jpg?auto=webp&amp;s=764d4dee7969541c2d7ee7a7f87a202967654879",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removal_reason": null,
+            "retrieved_on": 1548992947,
+            "score": 7,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Eine [CO2 Steuer](https://de.wikipedia.org/wiki/CO2-Steuer) ist meiner Meinung nach bei weitem die beste Option, um in Sachen Klimakatastrophe noch einigermassen glimpflich davon zu kommen.\n\nDer Preis fuer fossile Brennstoffe beinhaltet damit nicht nur die Kosten zur Foerderung sondern auch die der daraus resultierenden Umweltbelastung. Anstatt einem Flickenteppich aus gesetzlichen Regularien hat man einen zentralen Mechanismus, der sich negativ oder positiv auf den Produktpreis auswirkt, je nachdem wie stark das Produkt die Umwelt belastet. Ausserdem werden fuer die Industrie Anreize geschaffen, dem Konsumenten klimafreundlichere Produkte anzubieten.\n\nRichtig effektiv ist das natuerlich erst, wenn es eine weltweite oder zumindest EU-weite Regelung gibt, aber einige Laender gehen jetzt schon mit gutem Beispiel voran (zB Schweden), also warum nicht auch Deutschland. Fuer mich stellt sich eigentlich nur die Frage, wie hoch so eine Steuer sein sollte, nicht ob sie sinnvoll ist.\n\nIm Oktober wurde dann der Special Report 15 des IPCC veroeffentlicht, und darin werden auch Zahlen genannt: Um das 2 Grad Ziel zu erreichen ist bis 2030 ein Preis von bis zu 200 USD pro Tonne CO2 notwendig, fuer das 1.5 Grad Ziel bis zu 5500 USD.\n\nUm ein Gefuehl dafuer zu bekommen, was das in Deutschland an Steuereinnahmen bedeuten wuerde und wie es sich auf verschiedene Preise auswirkt, habe ich dazu erst mal fuer beide Ziele in Google Docs einen Sheet angelegt. Das wurde dann aber relativ schnell zu unflexibel, weswegen ich dann irgendwann beschlossen habe, daraus eine kleine WebApp zu machen.\n\nDie USD Betraege der beiden IPCC Ziele sind Dollar in 2010, wenn man die Inflation herausrechnet kommt in Euro sogar ein wenig mehr raus. Da so eine Steuer ja durchaus auch kostenneutral sein kann, ist es moeglich, aktuelle Steuern wie wie Lohn- oder Umsatzsteuer von den erwarteten Einnahmen abzuziehen.\n\nHier die beiden IPCC Ziele:\n\n* [2 Grad Ziel, 2% Reduktion der Emissionen](https://carbon-tax.github.io/calculator/?taxEnd=204&amp;emissionReduction=0.98)\n* [1.5 Grad Ziel, 5% Reduktion der Emissionen](https://carbon-tax.github.io/calculator/?taxEnd=5614&amp;emissionReduction=0.95)\n\nDie Jaehrliche Reduktion der Emissionen habe ich geschaetzt, keine Ahnung wie sich das auswirken wuerde. Was die Preise im unteren Bereich der Tabelle angeht, wird sich natuerlich bei den Kraftstoffen nichts aendern, aber der Strommix und somit die CO2 Belastung im Fernverkehr der Bahn sowie bei den Lebensmitteln wuerde sich verringern.\n\nDas 2 Grad Ziel ist meiner Meinung nach nicht extrem genug, das 1.5 Grad Ziel dagegen viel zu utopisch. Deswegen zum Abschluss noch ein [Ansatz, den ich mir vorstellen koennte](https://carbon-tax.github.io/calculator/?taxStart=250&amp;taxEnd=800&amp;emissionReduction=0.97&amp;taxDeductions=sales%2Cenergy%2Celectricity). Man kann relativ schnell die Umsatzsteuer sowie Strom- und Mineraloelsteuer komplett abschaffen. Somit wuerde die Gesamtbelastung zunaechst gleich bleiben, dh viele Produkte wuerden sogar erst mal billiger werden. Geringverdiener, die nicht 5x die Woche Fleisch essen und oft eh kein Auto haben wuerden wahrscheinlich eher weniger belastet werden. Die Leute auf dem Land wuerde es hingegen vermutlich verstaerkt treffen. Das verbleibende Geld koennte man in Forschung/Innovation stecken sowie Bahn und ÖPNV ausbauen bzw foerdern.\n",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 157207,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Meine Steuererklärung (2018, koloriert) [OC]",
+            "url": "https://www.reddit.com/r/de/comments/ab7orv/meine_steuererklärung_2018_koloriert_oc/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 196,
+        "op_b": 174,
+        "total": 380
+    },
+    "error": null
+}

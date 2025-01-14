@@ -1,0 +1,656 @@
+﻿Date;Filière;Valeur (Mt);Nature
+2014-01;"Gaz";0,80020812268316;Données Consolidées
+2014-02;"Gaz";0,70664283377626;Données Consolidées
+2014-03;"Gaz";0,69222962946297;Données Consolidées
+2014-04;"Gaz";0,21156862058381;Données Consolidées
+2014-05;"Gaz";0,20057569438329;Données Consolidées
+2014-06;"Gaz";0,18002824115477;Données Consolidées
+2014-07;"Gaz";0,17715172745504;Données Consolidées
+2014-08;"Gaz";0,18649532595687;Données Consolidées
+2014-09;"Gaz";0,2160632776904;Données Consolidées
+2014-10;"Gaz";0,38439832913376;Données Consolidées
+2014-11;"Gaz";0,91415300542547;Données Consolidées
+2014-12;"Gaz";1,117229649473;Données Consolidées
+2015-01;"Gaz";1,2125289763292;Données Consolidées
+2015-02;"Gaz";1,3188556358913;Données Consolidées
+2015-03;"Gaz";1,0724346018979;Données Consolidées
+2015-04;"Gaz";0,3777721714854;Données Consolidées
+2015-05;"Gaz";0,20286603596955;Données Consolidées
+2015-06;"Gaz";0,18926124560054;Données Consolidées
+2015-07;"Gaz";0,33602466447419;Données Consolidées
+2015-08;"Gaz";0,18378025057646;Données Consolidées
+2015-09;"Gaz";0,41904046959348;Données Consolidées
+2015-10;"Gaz";0,87194755897847;Données Consolidées
+2015-11;"Gaz";1,3505465934306;Données Consolidées
+2015-12;"Gaz";1,2115591786011;Données Consolidées
+2016-01;"Gaz";1,4704403642633;Données Consolidées
+2016-02;"Gaz";1,2017671312632;Données Consolidées
+2016-03;"Gaz";1,326144219288;Données Consolidées
+2016-04;"Gaz";0,66950250783057;Données Consolidées
+2016-05;"Gaz";0,42027013468682;Données Consolidées
+2016-06;"Gaz";0,4527198358606;Données Consolidées
+2016-07;"Gaz";0,57992246658772;Données Consolidées
+2016-08;"Gaz";0,63023270902113;Données Consolidées
+2016-09;"Gaz";1,1064524748419;Données Consolidées
+2016-10;"Gaz";1,3773730129391;Données Consolidées
+2016-11;"Gaz";1,9542801188937;Données Consolidées
+2016-12;"Gaz";2,2236882456266;Données Consolidées
+2017-01;"Gaz";2,2777980296989;Données Consolidées
+2017-02;"Gaz";1,865977813078;Données Consolidées
+2017-03;"Gaz";1,7084302945487;Données Consolidées
+2017-04;"Gaz";0,92433395217932;Données Consolidées
+2017-05;"Gaz";0,62361931222448;Données Consolidées
+2017-06;"Gaz";0,52664730015607;Données Consolidées
+2017-07;"Gaz";0,77357885422326;Données Consolidées
+2017-08;"Gaz";0,56843115577055;Données Consolidées
+2017-09;"Gaz";0,77749678742191;Données Consolidées
+2017-10;"Gaz";1,4037193173718;Données Consolidées
+2017-11;"Gaz";2,0448943116566;Données Consolidées
+2017-12;"Gaz";1,9217177951233;Données Consolidées
+2018-01;"Gaz";1,2445848930421;Données Consolidées
+2018-02;"Gaz";1,8501385230399;Données Consolidées
+2018-03;"Gaz";1,5248697087962;Données Consolidées
+2018-04;"Gaz";0,3280768360013;Données Consolidées
+2018-05;"Gaz";0,24018495791082;Données Consolidées
+2018-06;"Gaz";0,26795771967009;Données Consolidées
+2018-07;"Gaz";0,67474805761314;Données Consolidées
+2018-08;"Gaz";0,66631738533245;Données Consolidées
+2018-09;"Gaz";0,59170520682318;Données Consolidées
+2018-10;"Gaz";1,0045748181353;Données Consolidées
+2018-11;"Gaz";1,8918444884154;Données Consolidées
+2018-12;"Gaz";1,6065203383836;Données Consolidées
+2019-01;"Gaz";2,2101721163794;Données Consolidées
+2019-02;"Gaz";1,7291734360976;Données Consolidées
+2019-03;"Gaz";1,2674005154451;Données Consolidées
+2019-04;"Gaz";0,73740310610663;Données Consolidées
+2019-05;"Gaz";0,67692265348798;Données Consolidées
+2019-06;"Gaz";0,59714420412832;Données Consolidées
+2019-07;"Gaz";0,95905617195975;Données Consolidées
+2019-08;"Gaz";0,7264521148177;Données Consolidées
+2019-09;"Gaz";0,96773852120741;Données Consolidées
+2019-10;"Gaz";1,1174920597369;Données Consolidées
+2019-11;"Gaz";1,9230174118212;Données Consolidées
+2019-12;"Gaz";1,5692385969737;Données Consolidées
+2020-01;"Gaz";1,9715563414909;Données Consolidées
+2020-02;"Gaz";1,4138785400835;Données Consolidées
+2020-03;"Gaz";1,3725445067263;Données Consolidées
+2020-04;"Gaz";0,20178336350881;Données Consolidées
+2020-05;"Gaz";0,39781598952142;Données Consolidées
+2020-06;"Gaz";0,85959793163976;Données Consolidées
+2020-07;"Gaz";0,90398922873932;Données Consolidées
+2020-08;"Gaz";0,87843559044126;Données Consolidées
+2020-09;"Gaz";0,92561382552197;Données Consolidées
+2020-10;"Gaz";0,82072916867741;Données Consolidées
+2020-11;"Gaz";1,5995112450688;Données Consolidées
+2020-12;"Gaz";1,7008911611646;Données Consolidées
+2021-01;"Gaz";1,8068525664524;Données Consolidées
+2021-02;"Gaz";1,4125238702979;Données Consolidées
+2021-03;"Gaz";1,4569471956348;Données Consolidées
+2021-04;"Gaz";0,96247874522381;Données Consolidées
+2021-05;"Gaz";0,4064594051276;Données Consolidées
+2021-06;"Gaz";0,49509972934733;Données Consolidées
+2021-07;"Gaz";0,50144677961311;Données Consolidées
+2021-08;"Gaz";0,27099852584147;Données Consolidées
+2021-09;"Gaz";0,5538705373684;Données Consolidées
+2021-10;"Gaz";0,6545307827792;Données Consolidées
+2021-11;"Gaz";1,8629370255638;Données Consolidées
+2021-12;"Gaz";1,9256321617259;Données Consolidées
+2022-01;"Gaz";1,9906302239808;Données Consolidées
+2022-02;"Gaz";1,4630287197671;Données Consolidées
+2022-03;"Gaz";1,700051371892;Données Consolidées
+2022-04;"Gaz";1,1678768753123;Données Consolidées
+2022-05;"Gaz";0,99131606382982;Données Consolidées
+2022-06;"Gaz";0,82157432883314;Données Consolidées
+2022-07;"Gaz";1,0477155654913;Données Consolidées
+2022-08;"Gaz";0,99577894930118;Données Consolidées
+2022-09;"Gaz";1,1187346239887;Données Consolidées
+2022-10;"Gaz";1,314361360965;Données Consolidées
+2022-11;"Gaz";1,6119029775396;Données Consolidées
+2022-12;"Gaz";1,8887352157611;Données Consolidées
+2023-01;"Gaz";1,5861156813681;Données Consolidées
+2023-02;"Gaz";1,8182489830868;Données Consolidées
+2023-03;"Gaz";1,3598953747379;Données Consolidées
+2023-04;"Gaz";0,67704914485386;Données Consolidées
+2023-05;"Gaz";0,43441185586303;Données Consolidées
+2023-06;"Gaz";0,60954534259101;Données Consolidées
+2023-07;"Gaz";0,61737639402125;Données Consolidées
+2023-08;"Gaz";0,55917925080312;Données Consolidées
+2023-09;"Gaz";0,45300910281766;Données Consolidées
+2023-10;"Gaz";0,44441773724714;Données Consolidées
+2023-11;"Gaz";1,0337562116986;Données Consolidées
+2023-12;"Gaz";1,2148957527917;Données Consolidées
+2024-01;"Gaz";1,4625355024266;Données Consolidées
+2024-02;"Gaz";0,97768065858273;Données Consolidées
+2024-03;"Gaz";0,91580528973722;Données Consolidées
+2024-04;"Gaz";0,21541586694309;Données Consolidées
+2024-05;"Gaz";0,13452532225253;Données Consolidées
+2024-06;"Gaz";0,14450014026166;Données Consolidées
+2024-07;"Gaz";0,2035491159603;Données Consolidées
+2024-08;"Gaz";0,22158596106165;Données Consolidées
+2024-09;"Gaz";0,24454561796373;Données Consolidées
+2024-10;"Gaz";0,23927920598502;Données Consolidées
+2024-11;"Gaz";0,98780731872487;Données Consolidées
+2014-01;"Fioul";0,12176141178542;Données Consolidées
+2014-02;"Fioul";0,13289249321274;Données Consolidées
+2014-03;"Fioul";0,13894800364752;Données Consolidées
+2014-04;"Fioul";0,11054838776056;Données Consolidées
+2014-05;"Fioul";0,10625798263758;Données Consolidées
+2014-06;"Fioul";0,1156491253793;Données Consolidées
+2014-07;"Fioul";0,14427832153459;Données Consolidées
+2014-08;"Fioul";0,14804676148104;Données Consolidées
+2014-09;"Fioul";0,14623614546577;Données Consolidées
+2014-10;"Fioul";0,17542939702597;Données Consolidées
+2014-11;"Fioul";0,16607150153247;Données Consolidées
+2014-12;"Fioul";0,14525044379501;Données Consolidées
+2015-01;"Fioul";0,18855675820042;Données Consolidées
+2015-02;"Fioul";0,17520366772431;Données Consolidées
+2015-03;"Fioul";0,13201463418717;Données Consolidées
+2015-04;"Fioul";0,10933399180406;Données Consolidées
+2015-05;"Fioul";0,11559424264368;Données Consolidées
+2015-06;"Fioul";0,13349012430192;Données Consolidées
+2015-07;"Fioul";0,16633689440533;Données Consolidées
+2015-08;"Fioul";0,14681390022502;Données Consolidées
+2015-09;"Fioul";0,13755993509382;Données Consolidées
+2015-10;"Fioul";0,15820293657341;Données Consolidées
+2015-11;"Fioul";0,22914658136006;Données Consolidées
+2015-12;"Fioul";0,18202499569489;Données Consolidées
+2016-01;"Fioul";0,20935219441586;Données Consolidées
+2016-02;"Fioul";0,1504917405449;Données Consolidées
+2016-03;"Fioul";0,14327096590889;Données Consolidées
+2016-04;"Fioul";0,14192603333667;Données Consolidées
+2016-05;"Fioul";0,14524386439327;Données Consolidées
+2016-06;"Fioul";0,14956260716933;Données Consolidées
+2016-07;"Fioul";0,1626150999718;Données Consolidées
+2016-08;"Fioul";0,16028886532392;Données Consolidées
+2016-09;"Fioul";0,14135856735294;Données Consolidées
+2016-10;"Fioul";0,15212115412721;Données Consolidées
+2016-11;"Fioul";0,21587271875692;Données Consolidées
+2016-12;"Fioul";0,16601841293306;Données Consolidées
+2017-01;"Fioul";0,4995498266075;Données Consolidées
+2017-02;"Fioul";0,15420098799442;Données Consolidées
+2017-03;"Fioul";0,17264910302755;Données Consolidées
+2017-04;"Fioul";0,12540739437317;Données Consolidées
+2017-05;"Fioul";0,13428233884931;Données Consolidées
+2017-06;"Fioul";0,16501583204066;Données Consolidées
+2017-07;"Fioul";0,16574993164008;Données Consolidées
+2017-08;"Fioul";0,17013025341458;Données Consolidées
+2017-09;"Fioul";0,14925479229689;Données Consolidées
+2017-10;"Fioul";0,15231590701843;Données Consolidées
+2017-11;"Fioul";0,18293917640453;Données Consolidées
+2017-12;"Fioul";0,18320012954356;Données Consolidées
+2018-01;"Fioul";0,10293076180876;Données Consolidées
+2018-02;"Fioul";0,18092915679137;Données Consolidées
+2018-03;"Fioul";0,13172125912918;Données Consolidées
+2018-04;"Fioul";0,075857008623618;Données Consolidées
+2018-05;"Fioul";0,07163446753378;Données Consolidées
+2018-06;"Fioul";0,08951267509276;Données Consolidées
+2018-07;"Fioul";0,12753965802673;Données Consolidées
+2018-08;"Fioul";0,13954310347169;Données Consolidées
+2018-09;"Fioul";0,11200334883664;Données Consolidées
+2018-10;"Fioul";0,10381586378848;Données Consolidées
+2018-11;"Fioul";0,10710665099529;Données Consolidées
+2018-12;"Fioul";0,12478390698321;Données Consolidées
+2019-01;"Fioul";0,1886269079684;Données Consolidées
+2019-02;"Fioul";0,12223045230027;Données Consolidées
+2019-03;"Fioul";0,13340984798511;Données Consolidées
+2019-04;"Fioul";0,14693423737843;Données Consolidées
+2019-05;"Fioul";0,090936895986735;Données Consolidées
+2019-06;"Fioul";0,096152827661504;Données Consolidées
+2019-07;"Fioul";0,13714286166648;Données Consolidées
+2019-08;"Fioul";0,13536002446122;Données Consolidées
+2019-09;"Fioul";0,11163664517383;Données Consolidées
+2019-10;"Fioul";0,10047571206547;Données Consolidées
+2019-11;"Fioul";0,10364917152655;Données Consolidées
+2019-12;"Fioul";0,10340966948103;Données Consolidées
+2020-01;"Fioul";0,11219493141308;Données Consolidées
+2020-02;"Fioul";0,10878663277028;Données Consolidées
+2020-03;"Fioul";0,088587496048995;Données Consolidées
+2020-04;"Fioul";0,071895442981497;Données Consolidées
+2020-05;"Fioul";0,070326423876175;Données Consolidées
+2020-06;"Fioul";0,092570655391831;Données Consolidées
+2020-07;"Fioul";0,13422254442763;Données Consolidées
+2020-08;"Fioul";0,12904458442564;Données Consolidées
+2020-09;"Fioul";0,11910896342256;Données Consolidées
+2020-10;"Fioul";0,081405308634118;Données Consolidées
+2020-11;"Fioul";0,10011747612081;Données Consolidées
+2020-12;"Fioul";0,11394017325571;Données Consolidées
+2021-01;"Fioul";0,12427862728107;Données Consolidées
+2021-02;"Fioul";0,1028257052721;Données Consolidées
+2021-03;"Fioul";0,1001792264763;Données Consolidées
+2021-04;"Fioul";0,10169884909271;Données Consolidées
+2021-05;"Fioul";0,082709310005542;Données Consolidées
+2021-06;"Fioul";0,10213882361766;Données Consolidées
+2021-07;"Fioul";0,11884638870939;Données Consolidées
+2021-08;"Fioul";0,12884075653158;Données Consolidées
+2021-09;"Fioul";0,11279389831524;Données Consolidées
+2021-10;"Fioul";0,12673281525835;Données Consolidées
+2021-11;"Fioul";0,17850596748863;Données Consolidées
+2021-12;"Fioul";0,16026449520946;Données Consolidées
+2022-01;"Fioul";0,18567243395812;Données Consolidées
+2022-02;"Fioul";0,14195960731684;Données Consolidées
+2022-03;"Fioul";0,18707938589665;Données Consolidées
+2022-04;"Fioul";0,11727142822086;Données Consolidées
+2022-05;"Fioul";0,09505789428163;Données Consolidées
+2022-06;"Fioul";0,15045226715893;Données Consolidées
+2022-07;"Fioul";0,20070473552511;Données Consolidées
+2022-08;"Fioul";0,15154709881472;Données Consolidées
+2022-09;"Fioul";0,13260678367978;Données Consolidées
+2022-10;"Fioul";0,095132207264122;Données Consolidées
+2022-11;"Fioul";0,091786434765543;Données Consolidées
+2022-12;"Fioul";0,15551186060463;Données Consolidées
+2023-01;"Fioul";0,1109511703872;Données Consolidées
+2023-02;"Fioul";0,09408205626704;Données Consolidées
+2023-03;"Fioul";0,12767139316818;Données Consolidées
+2023-04;"Fioul";0,069315381503754;Données Consolidées
+2023-05;"Fioul";0,062771175558539;Données Consolidées
+2023-06;"Fioul";0,081905578612702;Données Consolidées
+2023-07;"Fioul";0,13251779623095;Données Consolidées
+2023-08;"Fioul";0,14160307521087;Données Consolidées
+2023-09;"Fioul";0,10608288662061;Données Consolidées
+2023-10;"Fioul";0,088960598692305;Données Consolidées
+2023-11;"Fioul";0,076625505489988;Données Consolidées
+2023-12;"Fioul";0,10432195810462;Données Consolidées
+2024-01;"Fioul";0,11727041479652;Données Consolidées
+2024-02;"Fioul";0,093397585790573;Données Consolidées
+2024-03;"Fioul";0,11239194093249;Données Consolidées
+2024-04;"Fioul";0,095505192085097;Données Consolidées
+2024-05;"Fioul";0,087811426376687;Données Consolidées
+2024-06;"Fioul";0,1194626591297;Données Consolidées
+2024-07;"Fioul";0,17339388073488;Données Consolidées
+2024-08;"Fioul";0,14764205932966;Données Consolidées
+2024-09;"Fioul";0,10640183820104;Données Consolidées
+2024-10;"Fioul";0,10517693495383;Données Consolidées
+2024-11;"Fioul";0,10178524890421;Données Consolidées
+2014-01;"Déchets ménagers";0,17032330736101;Données Consolidées
+2014-02;"Déchets ménagers";0,156163628105;Données Consolidées
+2014-03;"Déchets ménagers";0,173669817161;Données Consolidées
+2014-04;"Déchets ménagers";0,13136581379951;Données Consolidées
+2014-05;"Déchets ménagers";0,15492782041599;Données Consolidées
+2014-06;"Déchets ménagers";0,13104294198798;Données Consolidées
+2014-07;"Déchets ménagers";0,153782401387;Données Consolidées
+2014-08;"Déchets ménagers";0,14957328789;Données Consolidées
+2014-09;"Déchets ménagers";0,13128247249606;Données Consolidées
+2014-10;"Déchets ménagers";0,12661934077741;Données Consolidées
+2014-11;"Déchets ménagers";0,16393900643255;Données Consolidées
+2014-12;"Déchets ménagers";0,17124709195867;Données Consolidées
+2015-01;"Déchets ménagers";0,172939268554;Données Consolidées
+2015-02;"Déchets ménagers";0,15631835187049;Données Consolidées
+2015-03;"Déchets ménagers";0,17440404557251;Données Consolidées
+2015-04;"Déchets ménagers";0,13358986849049;Données Consolidées
+2015-05;"Déchets ménagers";0,147493888091;Données Consolidées
+2015-06;"Déchets ménagers";0,13750020189451;Données Consolidées
+2015-07;"Déchets ménagers";0,149927347241;Données Consolidées
+2015-08;"Déchets ménagers";0,15516046592899;Données Consolidées
+2015-09;"Déchets ménagers";0,14195145197535;Données Consolidées
+2015-10;"Déchets ménagers";0,14202091734589;Données Consolidées
+2015-11;"Déchets ménagers";0,1740736620622;Données Consolidées
+2015-12;"Déchets ménagers";0,17993892233912;Données Consolidées
+2016-01;"Déchets ménagers";0,18477707391897;Données Consolidées
+2016-02;"Déchets ménagers";0,16990121994531;Données Consolidées
+2016-03;"Déchets ménagers";0,18160156420042;Données Consolidées
+2016-04;"Déchets ménagers";0,15091028345052;Données Consolidées
+2016-05;"Déchets ménagers";0,15662967518466;Données Consolidées
+2016-06;"Déchets ménagers";0,13973728099331;Données Consolidées
+2016-07;"Déchets ménagers";0,17912336978918;Données Consolidées
+2016-08;"Déchets ménagers";0,17138520499984;Données Consolidées
+2016-09;"Déchets ménagers";0,15934007490006;Données Consolidées
+2016-10;"Déchets ménagers";0,15896542920562;Données Consolidées
+2016-11;"Déchets ménagers";0,18766002696444;Données Consolidées
+2016-12;"Déchets ménagers";0,20109682216868;Données Consolidées
+2017-01;"Déchets ménagers";0,19108934334251;Données Consolidées
+2017-02;"Déchets ménagers";0,1720270422838;Données Consolidées
+2017-03;"Déchets ménagers";0,18366025781306;Données Consolidées
+2017-04;"Déchets ménagers";0,15769951383298;Données Consolidées
+2017-05;"Déchets ménagers";0,16333328279778;Données Consolidées
+2017-06;"Déchets ménagers";0,16571445614599;Données Consolidées
+2017-07;"Déchets ménagers";0,19165990722135;Données Consolidées
+2017-08;"Déchets ménagers";0,17827196990694;Données Consolidées
+2017-09;"Déchets ménagers";0,16759296516547;Données Consolidées
+2017-10;"Déchets ménagers";0,1581251167236;Données Consolidées
+2017-11;"Déchets ménagers";0,19345927469073;Données Consolidées
+2017-12;"Déchets ménagers";0,20020488761736;Données Consolidées
+2018-01;"Déchets ménagers";0,18562248670597;Données Consolidées
+2018-02;"Déchets ménagers";0,1653524502942;Données Consolidées
+2018-03;"Déchets ménagers";0,17501423869501;Données Consolidées
+2018-04;"Déchets ménagers";0,15375396114455;Données Consolidées
+2018-05;"Déchets ménagers";0,179505981449;Données Consolidées
+2018-06;"Déchets ménagers";0,159400566193;Données Consolidées
+2018-07;"Déchets ménagers";0,18530673040968;Données Consolidées
+2018-08;"Déchets ménagers";0,17965952632547;Données Consolidées
+2018-09;"Déchets ménagers";0,15921584175713;Données Consolidées
+2018-10;"Déchets ménagers";0,15156513455044;Données Consolidées
+2018-11;"Déchets ménagers";0,17500752831708;Données Consolidées
+2018-12;"Déchets ménagers";0,18655998950826;Données Consolidées
+2019-01;"Déchets ménagers";0,18455993755969;Données Consolidées
+2019-02;"Déchets ménagers";0,16732495666741;Données Consolidées
+2019-03;"Déchets ménagers";0,18494416514883;Données Consolidées
+2019-04;"Déchets ménagers";0,14357443391411;Données Consolidées
+2019-05;"Déchets ménagers";0,1719268270227;Données Consolidées
+2019-06;"Déchets ménagers";0,15957449717248;Données Consolidées
+2019-07;"Déchets ménagers";0,17289800164452;Données Consolidées
+2019-08;"Déchets ménagers";0,18189797104281;Données Consolidées
+2019-09;"Déchets ménagers";0,1514925792262;Données Consolidées
+2019-10;"Déchets ménagers";0,15291091674126;Données Consolidées
+2019-11;"Déchets ménagers";0,16932370579621;Données Consolidées
+2019-12;"Déchets ménagers";0,17235961692963;Données Consolidées
+2020-01;"Déchets ménagers";0,17240494647535;Données Consolidées
+2020-02;"Déchets ménagers";0,15958890807132;Données Consolidées
+2020-03;"Déchets ménagers";0,17986983915464;Données Consolidées
+2020-04;"Déchets ménagers";0,16050532695954;Données Consolidées
+2020-05;"Déchets ménagers";0,16756272964748;Données Consolidées
+2020-06;"Déchets ménagers";0,16402660846871;Données Consolidées
+2020-07;"Déchets ménagers";0,17271743686353;Données Consolidées
+2020-08;"Déchets ménagers";0,17286692604841;Données Consolidées
+2020-09;"Déchets ménagers";0,15979612656995;Données Consolidées
+2020-10;"Déchets ménagers";0,13985164354842;Données Consolidées
+2020-11;"Déchets ménagers";0,15938127108849;Données Consolidées
+2020-12;"Déchets ménagers";0,16730199338666;Données Consolidées
+2021-01;"Déchets ménagers";0,17108700274409;Données Consolidées
+2021-02;"Déchets ménagers";0,15582278587369;Données Consolidées
+2021-03;"Déchets ménagers";0,17662430686911;Données Consolidées
+2021-04;"Déchets ménagers";0,14326098964255;Données Consolidées
+2021-05;"Déchets ménagers";0,1597804792227;Données Consolidées
+2021-06;"Déchets ménagers";0,1465633318026;Données Consolidées
+2021-07;"Déchets ménagers";0,17477826234008;Données Consolidées
+2021-08;"Déchets ménagers";0,16850888435293;Données Consolidées
+2021-09;"Déchets ménagers";0,15631269106471;Données Consolidées
+2021-10;"Déchets ménagers";0,15332124590128;Données Consolidées
+2021-11;"Déchets ménagers";0,16256852445564;Données Consolidées
+2021-12;"Déchets ménagers";0,16303590136501;Données Consolidées
+2022-01;"Déchets ménagers";0,1716201062764;Données Consolidées
+2022-02;"Déchets ménagers";0,16491289231162;Données Consolidées
+2022-03;"Déchets ménagers";0,18425532679754;Données Consolidées
+2022-04;"Déchets ménagers";0,14588734144085;Données Consolidées
+2022-05;"Déchets ménagers";0,17223813604941;Données Consolidées
+2022-06;"Déchets ménagers";0,1569165553981;Données Consolidées
+2022-07;"Déchets ménagers";0,18558844178157;Données Consolidées
+2022-08;"Déchets ménagers";0,17012343460286;Données Consolidées
+2022-09;"Déchets ménagers";0,16051603437545;Données Consolidées
+2022-10;"Déchets ménagers";0,16053120653027;Données Consolidées
+2022-11;"Déchets ménagers";0,16940207314506;Données Consolidées
+2022-12;"Déchets ménagers";0,16437728411879;Données Consolidées
+2023-01;"Déchets ménagers";0,17117636017911;Données Consolidées
+2023-02;"Déchets ménagers";0,16354602694724;Données Consolidées
+2023-03;"Déchets ménagers";0,16531740841556;Données Consolidées
+2023-04;"Déchets ménagers";0,152923186858;Données Consolidées
+2023-05;"Déchets ménagers";0,17138279993071;Données Consolidées
+2023-06;"Déchets ménagers";0,15265047425384;Données Consolidées
+2023-07;"Déchets ménagers";0,18393230157975;Données Consolidées
+2023-08;"Déchets ménagers";0,16388792266764;Données Consolidées
+2023-09;"Déchets ménagers";0,14391416474817;Données Consolidées
+2023-10;"Déchets ménagers";0,14422957342802;Données Consolidées
+2023-11;"Déchets ménagers";0,14960355162527;Données Consolidées
+2023-12;"Déchets ménagers";0,15802841915154;Données Consolidées
+2024-01;"Déchets ménagers";0,16947044429474;Données Consolidées
+2024-02;"Déchets ménagers";0,16041919500316;Données Consolidées
+2024-03;"Déchets ménagers";0,16984080151145;Données Consolidées
+2024-04;"Déchets ménagers";0,15029138709036;Données Consolidées
+2024-05;"Déchets ménagers";0,16239202424193;Données Consolidées
+2024-06;"Déchets ménagers";0,14786304038984;Données Consolidées
+2024-07;"Déchets ménagers";0,17643361803779;Données Consolidées
+2024-08;"Déchets ménagers";0,17540071130273;Données Consolidées
+2024-09;"Déchets ménagers";0,15286380029874;Données Consolidées
+2024-10;"Déchets ménagers";0,15230676021478;Données Consolidées
+2024-11;"Déchets ménagers";0,16308450278832;Données Consolidées
+2014-01;"Charbon";0,82598654457;Données Consolidées
+2014-02;"Charbon";0,613631797695;Données Consolidées
+2014-03;"Charbon";0,87479618778;Données Consolidées
+2014-04;"Charbon";0,65580208632;Données Consolidées
+2014-05;"Charbon";0,31465619883;Données Consolidées
+2014-06;"Charbon";0,30248436411;Données Consolidées
+2014-07;"Charbon";0,133707671055;Données Consolidées
+2014-08;"Charbon";0,06764038893;Données Consolidées
+2014-09;"Charbon";0,589706739675;Données Consolidées
+2014-10;"Charbon";0,919993419225;Données Consolidées
+2014-11;"Charbon";0,8068228533;Données Consolidées
+2014-12;"Charbon";1,048408083675;Données Consolidées
+2015-01;"Charbon";1,38319506513;Données Consolidées
+2015-02;"Charbon";1,458299875095;Données Consolidées
+2015-03;"Charbon";0,942027304455;Données Consolidées
+2015-04;"Charbon";0,46546066791;Données Consolidées
+2015-05;"Charbon";0,024213600855;Données Consolidées
+2015-06;"Charbon";0,041324367015;Données Consolidées
+2015-07;"Charbon";0,19011660642;Données Consolidées
+2015-08;"Charbon";0,133567204815;Données Consolidées
+2015-09;"Charbon";0,508213700595;Données Consolidées
+2015-10;"Charbon";0,8613845586;Données Consolidées
+2015-11;"Charbon";0,672963571935;Données Consolidées
+2015-12;"Charbon";0,6499153395;Données Consolidées
+2016-01;"Charbon";0,649429599465;Données Consolidées
+2016-02;"Charbon";0,369541543005;Données Consolidées
+2016-03;"Charbon";0,659136676095;Données Consolidées
+2016-04;"Charbon";0,39777043761;Données Consolidées
+2016-05;"Charbon";0,135807581835;Données Consolidées
+2016-06;"Charbon";0,13159490022;Données Consolidées
+2016-07;"Charbon";0,1503228681;Données Consolidées
+2016-08;"Charbon";0,11267539524;Données Consolidées
+2016-09;"Charbon";0,652613949495;Données Consolidées
+2016-10;"Charbon";0,81760020012;Données Consolidées
+2016-11;"Charbon";0,997376567355;Données Consolidées
+2016-12;"Charbon";1,09816571412;Données Consolidées
+2017-01;"Charbon";1,451691085905;Données Consolidées
+2017-02;"Charbon";0,829334362905;Données Consolidées
+2017-03;"Charbon";0,332777929815;Données Consolidées
+2017-04;"Charbon";0,54722708469;Données Consolidées
+2017-05;"Charbon";0,44039524509;Données Consolidées
+2017-06;"Charbon";0,296706642615;Données Consolidées
+2017-07;"Charbon";0,736649999685;Données Consolidées
+2017-08;"Charbon";0,16866553707;Données Consolidées
+2017-09;"Charbon";0,49167453528;Données Consolidées
+2017-10;"Charbon";1,03820793624;Données Consolidées
+2017-11;"Charbon";1,23476064579;Données Consolidées
+2017-12;"Charbon";0,72293878278;Données Consolidées
+2018-01;"Charbon";0,259168785885;Données Consolidées
+2018-02;"Charbon";0,83759939739;Données Consolidées
+2018-03;"Charbon";0,711009279;Données Consolidées
+2018-04;"Charbon";0,207665781525;Données Consolidées
+2018-05;"Charbon";0,13017121236;Données Consolidées
+2018-06;"Charbon";0,22811467716;Données Consolidées
+2018-07;"Charbon";0,49709182383;Données Consolidées
+2018-08;"Charbon";0,425421865215;Données Consolidées
+2018-09;"Charbon";0,29213341092;Données Consolidées
+2018-10;"Charbon";0,672910989435;Données Consolidées
+2018-11;"Charbon";0,42424351704;Données Consolidées
+2018-12;"Charbon";0,18050216049;Données Consolidées
+2019-01;"Charbon";0,34549293492;Données Consolidées
+2019-02;"Charbon";0,183616512525;Données Consolidées
+2019-03;"Charbon";0,01100811132;Données Consolidées
+2019-04;"Charbon";0,020284128585;Données Consolidées
+2019-05;"Charbon";0,001483810605;Données Consolidées
+2019-06;"Charbon";0,008628867765;Données Consolidées
+2019-07;"Charbon";0,05801858658;Données Consolidées
+2019-08;"Charbon";0,024046432965;Données Consolidées
+2019-09;"Charbon";0,020991068235;Données Consolidées
+2019-10;"Charbon";0,022570008705;Données Consolidées
+2019-11;"Charbon";0,38131094205;Données Consolidées
+2019-12;"Charbon";0,19910809935;Données Consolidées
+2020-01;"Charbon";0,129601460025;Données Consolidées
+2020-02;"Charbon";0,06704206506;Données Consolidées
+2020-03;"Charbon";0,026686089855;Données Consolidées
+2020-04;"Charbon";0,00821363103;Données Consolidées
+2020-05;"Charbon";0,043683811335;Données Consolidées
+2020-06;"Charbon";0,007475308605;Données Consolidées
+2020-07;"Charbon";0,120684275145;Données Consolidées
+2020-08;"Charbon";0,05080866228;Données Consolidées
+2020-09;"Charbon";0,232512237135;Données Consolidées
+2020-10;"Charbon";0,086285352555;Données Consolidées
+2020-11;"Charbon";0,09865754883;Données Consolidées
+2020-12;"Charbon";0,266656894695;Données Consolidées
+2021-01;"Charbon";0,68025769065;Données Consolidées
+2021-02;"Charbon";0,23151732921;Données Consolidées
+2021-03;"Charbon";0,19295632647;Données Consolidées
+2021-04;"Charbon";0,159917261715;Données Consolidées
+2021-05;"Charbon";0,014046874515;Données Consolidées
+2021-06;"Charbon";0,0248419053;Données Consolidées
+2021-07;"Charbon";0,046466025795;Données Consolidées
+2021-08;"Charbon";0,060253059825;Données Consolidées
+2021-09;"Charbon";0,426037012065;Données Consolidées
+2021-10;"Charbon";0,51380651808;Données Consolidées
+2021-11;"Charbon";0,485586854055;Données Consolidées
+2021-12;"Charbon";0,44246127393;Données Consolidées
+2022-01;"Charbon";0,66305762900991;Données Consolidées
+2022-02;"Charbon";0,44348998028971;Données Consolidées
+2022-03;"Charbon";0,3707431432034;Données Consolidées
+2022-04;"Charbon";0,057186090892215;Données Consolidées
+2022-05;"Charbon";0,0249349981275;Données Consolidées
+2022-06;"Charbon";0,021090346702785;Données Consolidées
+2022-07;"Charbon";0,01540790184807;Données Consolidées
+2022-08;"Charbon";0,01290495618;Données Consolidées
+2022-09;"Charbon";0,008975370052215;Données Consolidées
+2022-10;"Charbon";0,02635717607631;Données Consolidées
+2022-11;"Charbon";0,1941333144845;Données Consolidées
+2022-12;"Charbon";0,6174251907471;Données Consolidées
+2023-01;"Charbon";0,19206807254802;Données Consolidées
+2023-02;"Charbon";0,21165365826873;Données Consolidées
+2023-03;"Charbon";0,08719657238916;Données Consolidées
+2023-04;"Charbon";0,011500724697435;Données Consolidées
+2023-05;"Charbon";0,021679016502735;Données Consolidées
+2023-06;"Charbon";0,009599218951995;Données Consolidées
+2023-07;"Charbon";0,009998273688525;Données Consolidées
+2023-08;"Charbon";0,04061863777995;Données Consolidées
+2023-09;"Charbon";0,016281918615285;Données Consolidées
+2023-10;"Charbon";0,00756148970484;Données Consolidées
+2023-11;"Charbon";0,053816851289745;Données Consolidées
+2023-12;"Charbon";0,0420110993043;Données Consolidées
+2024-01;"Charbon";0,1015915665564;Données Consolidées
+2024-02;"Charbon";0,09748581883209;Données Consolidées
+2024-03;"Charbon";0,01512529239672;Données Consolidées
+2024-04;"Charbon";0,00395235135522;Données Consolidées
+2024-05;"Charbon";0,00609762382677;Données Consolidées
+2024-06;"Charbon";0,008302392072675;Données Consolidées
+2024-07;"Charbon";0,01195455871881;Données Consolidées
+2024-08;"Charbon";0,011156049995805;Données Consolidées
+2024-09;"Charbon";0,078133821388245;Données Consolidées
+2024-10;"Charbon";0,034192250340705;Données Consolidées
+2024-11;"Charbon";0,14129787841092;Données Consolidées
+2014-01;"Emission de gaz à effet de serre";1,92;Données Consolidées
+2014-02;"Emission de gaz à effet de serre";1,61;Données Consolidées
+2014-03;"Emission de gaz à effet de serre";1,88;Données Consolidées
+2014-04;"Emission de gaz à effet de serre";1,11;Données Consolidées
+2014-05;"Emission de gaz à effet de serre";0,78;Données Consolidées
+2014-06;"Emission de gaz à effet de serre";0,73;Données Consolidées
+2014-07;"Emission de gaz à effet de serre";0,61;Données Consolidées
+2014-08;"Emission de gaz à effet de serre";0,55;Données Consolidées
+2014-09;"Emission de gaz à effet de serre";1,08;Données Consolidées
+2014-10;"Emission de gaz à effet de serre";1,61;Données Consolidées
+2014-11;"Emission de gaz à effet de serre";2,05;Données Consolidées
+2014-12;"Emission de gaz à effet de serre";2,48;Données Consolidées
+2015-01;"Emission de gaz à effet de serre";2,96;Données Consolidées
+2015-02;"Emission de gaz à effet de serre";3,11;Données Consolidées
+2015-03;"Emission de gaz à effet de serre";2,32;Données Consolidées
+2015-04;"Emission de gaz à effet de serre";1,09;Données Consolidées
+2015-05;"Emission de gaz à effet de serre";0,49;Données Consolidées
+2015-06;"Emission de gaz à effet de serre";0,5;Données Consolidées
+2015-07;"Emission de gaz à effet de serre";0,84;Données Consolidées
+2015-08;"Emission de gaz à effet de serre";0,62;Données Consolidées
+2015-09;"Emission de gaz à effet de serre";1,21;Données Consolidées
+2015-10;"Emission de gaz à effet de serre";2,03;Données Consolidées
+2015-11;"Emission de gaz à effet de serre";2,43;Données Consolidées
+2015-12;"Emission de gaz à effet de serre";2,22;Données Consolidées
+2016-01;"Emission de gaz à effet de serre";2,51;Données Consolidées
+2016-02;"Emission de gaz à effet de serre";1,89;Données Consolidées
+2016-03;"Emission de gaz à effet de serre";2,31;Données Consolidées
+2016-04;"Emission de gaz à effet de serre";1,36;Données Consolidées
+2016-05;"Emission de gaz à effet de serre";0,86;Données Consolidées
+2016-06;"Emission de gaz à effet de serre";0,87;Données Consolidées
+2016-07;"Emission de gaz à effet de serre";1,07;Données Consolidées
+2016-08;"Emission de gaz à effet de serre";1,07;Données Consolidées
+2016-09;"Emission de gaz à effet de serre";2,06;Données Consolidées
+2016-10;"Emission de gaz à effet de serre";2,51;Données Consolidées
+2016-11;"Emission de gaz à effet de serre";3,36;Données Consolidées
+2016-12;"Emission de gaz à effet de serre";3,69;Données Consolidées
+2017-01;"Emission de gaz à effet de serre";4,42;Données Consolidées
+2017-02;"Emission de gaz à effet de serre";3,02;Données Consolidées
+2017-03;"Emission de gaz à effet de serre";2,4;Données Consolidées
+2017-04;"Emission de gaz à effet de serre";1,75;Données Consolidées
+2017-05;"Emission de gaz à effet de serre";1,36;Données Consolidées
+2017-06;"Emission de gaz à effet de serre";1,15;Données Consolidées
+2017-07;"Emission de gaz à effet de serre";1,87;Données Consolidées
+2017-08;"Emission de gaz à effet de serre";1,09;Données Consolidées
+2017-09;"Emission de gaz à effet de serre";1,59;Données Consolidées
+2017-10;"Emission de gaz à effet de serre";2,75;Données Consolidées
+2017-11;"Emission de gaz à effet de serre";3,66;Données Consolidées
+2017-12;"Emission de gaz à effet de serre";3,03;Données Consolidées
+2018-01;"Emission de gaz à effet de serre";1,79;Données Consolidées
+2018-02;"Emission de gaz à effet de serre";3,03;Données Consolidées
+2018-03;"Emission de gaz à effet de serre";2,54;Données Consolidées
+2018-04;"Emission de gaz à effet de serre";0,77;Données Consolidées
+2018-05;"Emission de gaz à effet de serre";0,62;Données Consolidées
+2018-06;"Emission de gaz à effet de serre";0,74;Données Consolidées
+2018-07;"Emission de gaz à effet de serre";1,48;Données Consolidées
+2018-08;"Emission de gaz à effet de serre";1,41;Données Consolidées
+2018-09;"Emission de gaz à effet de serre";1,16;Données Consolidées
+2018-10;"Emission de gaz à effet de serre";1,93;Données Consolidées
+2018-11;"Emission de gaz à effet de serre";2,6;Données Consolidées
+2018-12;"Emission de gaz à effet de serre";2,1;Données Consolidées
+2019-01;"Emission de gaz à effet de serre";2,93;Données Consolidées
+2019-02;"Emission de gaz à effet de serre";2,2;Données Consolidées
+2019-03;"Emission de gaz à effet de serre";1,6;Données Consolidées
+2019-04;"Emission de gaz à effet de serre";1,05;Données Consolidées
+2019-05;"Emission de gaz à effet de serre";0,94;Données Consolidées
+2019-06;"Emission de gaz à effet de serre";0,86;Données Consolidées
+2019-07;"Emission de gaz à effet de serre";1,33;Données Consolidées
+2019-08;"Emission de gaz à effet de serre";1,07;Données Consolidées
+2019-09;"Emission de gaz à effet de serre";1,25;Données Consolidées
+2019-10;"Emission de gaz à effet de serre";1,39;Données Consolidées
+2019-11;"Emission de gaz à effet de serre";2,58;Données Consolidées
+2019-12;"Emission de gaz à effet de serre";2,04;Données Consolidées
+2020-01;"Emission de gaz à effet de serre";2,39;Données Consolidées
+2020-02;"Emission de gaz à effet de serre";1,75;Données Consolidées
+2020-03;"Emission de gaz à effet de serre";1,67;Données Consolidées
+2020-04;"Emission de gaz à effet de serre";0,44;Données Consolidées
+2020-05;"Emission de gaz à effet de serre";0,68;Données Consolidées
+2020-06;"Emission de gaz à effet de serre";1,12;Données Consolidées
+2020-07;"Emission de gaz à effet de serre";1,33;Données Consolidées
+2020-08;"Emission de gaz à effet de serre";1,23;Données Consolidées
+2020-09;"Emission de gaz à effet de serre";1,44;Données Consolidées
+2020-10;"Emission de gaz à effet de serre";1,13;Données Consolidées
+2020-11;"Emission de gaz à effet de serre";1,96;Données Consolidées
+2020-12;"Emission de gaz à effet de serre";2,25;Données Consolidées
+2021-01;"Emission de gaz à effet de serre";2,78;Données Consolidées
+2021-02;"Emission de gaz à effet de serre";1,9;Données Consolidées
+2021-03;"Emission de gaz à effet de serre";1,93;Données Consolidées
+2021-04;"Emission de gaz à effet de serre";1,37;Données Consolidées
+2021-05;"Emission de gaz à effet de serre";0,66;Données Consolidées
+2021-06;"Emission de gaz à effet de serre";0,77;Données Consolidées
+2021-07;"Emission de gaz à effet de serre";0,84;Données Consolidées
+2021-08;"Emission de gaz à effet de serre";0,63;Données Consolidées
+2021-09;"Emission de gaz à effet de serre";1,25;Données Consolidées
+2021-10;"Emission de gaz à effet de serre";1,45;Données Consolidées
+2021-11;"Emission de gaz à effet de serre";2,69;Données Consolidées
+2021-12;"Emission de gaz à effet de serre";2,69;Données Consolidées
+2022-01;"Emission de gaz à effet de serre";3,01;Données Consolidées
+2022-02;"Emission de gaz à effet de serre";2,21;Données Consolidées
+2022-03;"Emission de gaz à effet de serre";2,44;Données Consolidées
+2022-04;"Emission de gaz à effet de serre";1,49;Données Consolidées
+2022-05;"Emission de gaz à effet de serre";1,28;Données Consolidées
+2022-06;"Emission de gaz à effet de serre";1,15;Données Consolidées
+2022-07;"Emission de gaz à effet de serre";1,45;Données Consolidées
+2022-08;"Emission de gaz à effet de serre";1,33;Données Consolidées
+2022-09;"Emission de gaz à effet de serre";1,42;Données Consolidées
+2022-10;"Emission de gaz à effet de serre";1,6;Données Consolidées
+2022-11;"Emission de gaz à effet de serre";2,07;Données Consolidées
+2022-12;"Emission de gaz à effet de serre";2,83;Données Consolidées
+2023-01;"Emission de gaz à effet de serre";2,06;Données Consolidées
+2023-02;"Emission de gaz à effet de serre";2,29;Données Consolidées
+2023-03;"Emission de gaz à effet de serre";1,74;Données Consolidées
+2023-04;"Emission de gaz à effet de serre";0,91;Données Consolidées
+2023-05;"Emission de gaz à effet de serre";0,69;Données Consolidées
+2023-06;"Emission de gaz à effet de serre";0,85;Données Consolidées
+2023-07;"Emission de gaz à effet de serre";0,94;Données Consolidées
+2023-08;"Emission de gaz à effet de serre";0,91;Données Consolidées
+2023-09;"Emission de gaz à effet de serre";0,72;Données Consolidées
+2023-10;"Emission de gaz à effet de serre";0,69;Données Consolidées
+2023-11;"Emission de gaz à effet de serre";1,31;Données Consolidées
+2023-12;"Emission de gaz à effet de serre";1,52;Données Consolidées
+2024-01;"Emission de gaz à effet de serre";1,85;Données Consolidées
+2024-02;"Emission de gaz à effet de serre";1,33;Données Consolidées
+2024-03;"Emission de gaz à effet de serre";1,21;Données Consolidées
+2024-04;"Emission de gaz à effet de serre";0,47;Données Consolidées
+2024-05;"Emission de gaz à effet de serre";0,39;Données Consolidées
+2024-06;"Emission de gaz à effet de serre";0,42;Données Consolidées
+2024-07;"Emission de gaz à effet de serre";0,57;Données Consolidées
+2024-08;"Emission de gaz à effet de serre";0,56;Données Consolidées
+2024-09;"Emission de gaz à effet de serre";0,58;Données Consolidées
+2024-10;"Emission de gaz à effet de serre";0,53;Données Consolidées
+2024-11;"Emission de gaz à effet de serre";1,39;Données Consolidées

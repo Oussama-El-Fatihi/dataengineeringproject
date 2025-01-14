@@ -1,0 +1,1631 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": true,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "can_gild": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1596892361,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "faz.net",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "i5ywgd",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#0b3b0b",
+            "link_flair_css_class": "category environment",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Umwelt"
+                }
+            ],
+            "link_flair_template_id": "b96aef02-25bd-11e7-bfe3-0ece441d4918",
+            "link_flair_text": "Umwelt",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_i5ywgd",
+            "no_follow": false,
+            "num_comments": 8,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/i5ywgd/stromversorgung_die_briten_schaffen_es_auch_ohne/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": "deleted",
+            "retrieved_utc": 1622930525,
+            "score": 15,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "[deleted]",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 447361,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": 73,
+            "thumbnail_width": 140,
+            "title": "Stromversorgung: Die Briten schaffen es auch ohne Kohle",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.69,
+            "url": "https://www.faz.net/aktuell/wirtschaft/klima-energie-und-umwelt/stromversorgung-grossbritannien-braucht-keine-kohle-mehr-16808949.html",
+            "url_overridden_by_dest": "https://www.faz.net/aktuell/wirtschaft/klima-energie-und-umwelt/stromversorgung-grossbritannien-braucht-keine-kohle-mehr-16808949.html",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": true,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "can_gild": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1597000354,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "i6p51x",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": false,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": false,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ff8206",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Frage/Diskussion"
+                }
+            ],
+            "link_flair_template_id": "829665e0-25c9-11e7-9fe9-0eb196278378",
+            "link_flair_text": "Frage/Diskussion",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_i6p51x",
+            "no_follow": true,
+            "num_comments": 16,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/i6p51x/wenn_das_grillen_mit_kohle_auf_dem_balkon/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": "deleted",
+            "retrieved_utc": 1622932249,
+            "score": 0,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "[deleted]",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 447363,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "default",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Wenn das Grillen mit Kohle auf dem Balkon verboten ist, ist dann auch das aufheizen von Kohle für die Wasserpfeife es auch?",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.5,
+            "url": "https://www.reddit.com/r/de/comments/i6p51x/wenn_das_grillen_mit_kohle_auf_dem_balkon/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "PREMIUM",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 30,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "A golden splash of respect",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png",
+                    "icon_width": 2048,
+                    "id": "award_a2506925-fc82-4d6c-ae3b-b7217e09d7f0",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Narwhal Salute",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=16&amp;height=16&amp;auto=webp&amp;s=4e475e8c3265ec7148d7f4204f07d33949482f21",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=32&amp;height=32&amp;auto=webp&amp;s=42e32a4b9f1e70791716c3be283e89951e212a69",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=48&amp;height=48&amp;auto=webp&amp;s=5adb621fede4e8e66b952a379ad038fcc1b8ad13",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=64&amp;height=64&amp;auto=webp&amp;s=6161edea19569bbee73ef322a2e5470535ec1787",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=128&amp;height=128&amp;auto=webp&amp;s=5d2c75f44f176f430e936204f9a53b8a2957f2fc",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=16&amp;height=16&amp;auto=webp&amp;s=4e475e8c3265ec7148d7f4204f07d33949482f21",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=32&amp;height=32&amp;auto=webp&amp;s=42e32a4b9f1e70791716c3be283e89951e212a69",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=48&amp;height=48&amp;auto=webp&amp;s=5adb621fede4e8e66b952a379ad038fcc1b8ad13",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=64&amp;height=64&amp;auto=webp&amp;s=6161edea19569bbee73ef322a2e5470535ec1787",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png?width=128&amp;height=128&amp;auto=webp&amp;s=5d2c75f44f176f430e936204f9a53b8a2957f2fc",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/80j20o397jj41_NarwhalSalute.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 500,
+                    "coin_reward": 100,
+                    "count": 3,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 7,
+                    "description": "Gives 100 Reddit Coins and a week of r/lounge access and ad-free browsing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                    "icon_width": 512,
+                    "id": "gid_2",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Gold",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                    "static_icon_width": 512,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 200,
+                    "coin_reward": 0,
+                    "count": 2,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "My kindergarten teacher, my cat, my mom, and you.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png",
+                    "icon_width": 2048,
+                    "id": "award_1703f934-cf44-40cc-a96d-3729d0b48262",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "I'd Like to Thank...",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=16&amp;height=16&amp;auto=webp&amp;s=e3adc32e42cf534e27afea719ff932b1ce797cfd",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=32&amp;height=32&amp;auto=webp&amp;s=08542909c94777e870c41a35413bce688ca2fd6c",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=48&amp;height=48&amp;auto=webp&amp;s=4d85746d584b5494087da3561944d6d241f57674",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=64&amp;height=64&amp;auto=webp&amp;s=fd7683c8de2839998a432e7e53e1e06d66c35ad3",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=128&amp;height=128&amp;auto=webp&amp;s=a750da7a573bb231bd863be9725abece0332b828",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=16&amp;height=16&amp;auto=webp&amp;s=e3adc32e42cf534e27afea719ff932b1ce797cfd",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=32&amp;height=32&amp;auto=webp&amp;s=08542909c94777e870c41a35413bce688ca2fd6c",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=48&amp;height=48&amp;auto=webp&amp;s=4d85746d584b5494087da3561944d6d241f57674",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=64&amp;height=64&amp;auto=webp&amp;s=fd7683c8de2839998a432e7e53e1e06d66c35ad3",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png?width=128&amp;height=128&amp;auto=webp&amp;s=a750da7a573bb231bd863be9725abece0332b828",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/8ad2jffnclf41_Thanks.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "To pay respects.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png",
+                    "icon_width": 2048,
+                    "id": "award_88fdcafc-57a0-48db-99cc-76276bfaf28b",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Press F",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=16&amp;height=16&amp;auto=webp&amp;s=3481c2a89c2ebe653aae1b8d627c20c10abfc79e",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=32&amp;height=32&amp;auto=webp&amp;s=2bd2b8a9417e7cc18752927c11f98b242c133f2f",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=48&amp;height=48&amp;auto=webp&amp;s=a34e3d83c5dd9f6c731b1375500e4de8d4fee652",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=64&amp;height=64&amp;auto=webp&amp;s=6525899b9a01d5b0c4deea6c34cd8436ee1ff0c7",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=128&amp;height=128&amp;auto=webp&amp;s=c9e094023649693de991fff551a0c9561d11163a",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=16&amp;height=16&amp;auto=webp&amp;s=3481c2a89c2ebe653aae1b8d627c20c10abfc79e",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=32&amp;height=32&amp;auto=webp&amp;s=2bd2b8a9417e7cc18752927c11f98b242c133f2f",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=48&amp;height=48&amp;auto=webp&amp;s=a34e3d83c5dd9f6c731b1375500e4de8d4fee652",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=64&amp;height=64&amp;auto=webp&amp;s=6525899b9a01d5b0c4deea6c34cd8436ee1ff0c7",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png?width=128&amp;height=128&amp;auto=webp&amp;s=c9e094023649693de991fff551a0c9561d11163a",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/tcofsbf92md41_PressF.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Thank you stranger. Shows the award.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "icon_width": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Prayers up for the blessed.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png",
+                    "icon_width": 2048,
+                    "id": "award_77ba55a2-c33c-4351-ac49-807455a80148",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Bless Up",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a2f2b927be72d2b46ebd95bab8c072c3be0fbab",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;s=6e42b7095bcc331e53202438613aa827addf70c3",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;s=c740f7ef642fd2042d62c2bcba98734d08dfae6c",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;s=74e630f1072bb2423034ae48aefa241d834d7186",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;s=0a89cd8011c8210315ee60441eefd77b973a0c82",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a2f2b927be72d2b46ebd95bab8c072c3be0fbab",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;s=6e42b7095bcc331e53202438613aa827addf70c3",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;s=c740f7ef642fd2042d62c2bcba98734d08dfae6c",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;s=74e630f1072bb2423034ae48aefa241d834d7186",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;s=0a89cd8011c8210315ee60441eefd77b973a0c82",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 125,
+                    "coin_reward": 0,
+                    "count": 3,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "When you come across a feel-good thing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "icon_width": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Wholesome",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Shows the Silver Award... and that's it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "icon_width": 512,
+                    "id": "gid_1",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Silver",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "static_icon_width": 512,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 75,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "Everything's better with a good hug",
+                    "end_date": null,
+                    "giver_coin_reward": 0,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png",
+                    "icon_width": 2048,
+                    "id": "award_ce5f9ce6-49d9-4905-9228-22950e889206",
+                    "is_enabled": false,
+                    "is_new": false,
+                    "name": "Hugz",
+                    "penny_donate": 0,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a3164ef705ae0a41198e29767e4a51fd86e2dcd",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=5c621179e63f7f6fbb6a0807367bd79467878784",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ebf40f79a711e9c4206f5f841235e43697f7a3f5",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=18dad26bb669e202c42ff6b742d6c0f9d1e62ee9",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=61ccae2b32cfbf2f26bd53c9d1287d1235da4d68",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a3164ef705ae0a41198e29767e4a51fd86e2dcd",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=5c621179e63f7f6fbb6a0807367bd79467878784",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ebf40f79a711e9c4206f5f841235e43697f7a3f5",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=18dad26bb669e202c42ff6b742d6c0f9d1e62ee9",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=61ccae2b32cfbf2f26bd53c9d1287d1235da4d68",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 70,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "When goodness lifts you",
+                    "end_date": null,
+                    "giver_coin_reward": 0,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png",
+                    "icon_width": 2048,
+                    "id": "award_7becef23-fb0b-4d62-b8a6-01d5759367cb",
+                    "is_enabled": false,
+                    "is_new": false,
+                    "name": "Faith In Humanity Restored",
+                    "penny_donate": 0,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=16&amp;height=16&amp;auto=webp&amp;s=19c8ba1570a2447a04354e05a9463f3d2063f522",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=32&amp;height=32&amp;auto=webp&amp;s=6222517b5d76c737ce1ad1ab55c42e3ce53c11d7",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=48&amp;height=48&amp;auto=webp&amp;s=5f5d88a13a1a514298ec5c7edc6f2506750f3c4a",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=64&amp;height=64&amp;auto=webp&amp;s=3af85a35bcd871d432337f309f6ea333181b4092",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=128&amp;height=128&amp;auto=webp&amp;s=4631e5c3e2cda226cb2725e9eff118c7b419a95e",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=16&amp;height=16&amp;auto=webp&amp;s=19c8ba1570a2447a04354e05a9463f3d2063f522",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=32&amp;height=32&amp;auto=webp&amp;s=6222517b5d76c737ce1ad1ab55c42e3ce53c11d7",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=48&amp;height=48&amp;auto=webp&amp;s=5f5d88a13a1a514298ec5c7edc6f2506750f3c4a",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=64&amp;height=64&amp;auto=webp&amp;s=3af85a35bcd871d432337f309f6ea333181b4092",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=128&amp;height=128&amp;auto=webp&amp;s=4631e5c3e2cda226cb2725e9eff118c7b419a95e",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 50,
+                    "coin_reward": 0,
+                    "count": 5,
+                    "days_of_drip_extension": 0,
+                    "days_of_premium": 0,
+                    "description": "I'm in this with you.",
+                    "end_date": null,
+                    "giver_coin_reward": 0,
+                    "icon_format": "PNG",
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png",
+                    "icon_width": 2048,
+                    "id": "award_02d9ab2c-162e-4c01-8438-317a016ed3d9",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Take My Energy",
+                    "penny_donate": 0,
+                    "penny_price": 0,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=16&amp;height=16&amp;auto=webp&amp;s=10034f3fdf8214c8377134bb60c5b832d4bbf588",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=32&amp;height=32&amp;auto=webp&amp;s=100f785bf261fa9452a5d82ee0ef0793369dbfa5",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=48&amp;height=48&amp;auto=webp&amp;s=b15d030fdfbbe4af4a5b34ab9dc90a174df40a23",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=64&amp;height=64&amp;auto=webp&amp;s=601c75be6ee30dc4b47a5c65d64dea9a185502a1",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=128&amp;height=128&amp;auto=webp&amp;s=540f36e65c0e2f1347fe32020e4a1565e3680437",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=16&amp;height=16&amp;auto=webp&amp;s=045db73f47a9513c44823d132b4c393ab9241b6a",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=32&amp;height=32&amp;auto=webp&amp;s=298a02e0edbb5b5e293087eeede63802cbe1d2c7",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=48&amp;height=48&amp;auto=webp&amp;s=7d06d606eb23dbcd6dbe39ee0e60588c5eb89065",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=64&amp;height=64&amp;auto=webp&amp;s=ecd9854b14104a36a210028c43420f0dababd96b",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=128&amp;height=128&amp;auto=webp&amp;s=0d5d7b92c1d66aff435f2ad32e6330ca2b971f6d",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png",
+                    "static_icon_width": 2048,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": true,
+            "archived": true,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "can_gild": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1597219390,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1597339511.0,
+            "gilded": 3,
+            "gildings": {
+                "gid_1": 1,
+                "gid_2": 3
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "i89s5t",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Frage/Diskussion"
+                }
+            ],
+            "link_flair_text": "Frage/Diskussion",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_i89s5t",
+            "no_follow": false,
+            "num_comments": 718,
+            "num_crossposts": 1,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/i89s5t/entschuldigung_ich_komme_auch_aus_der_unterschicht/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1622935956,
+            "score": 5837,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Hartz 4 Kind, Vater hat Mutter verprügelt und später abgetaucht ohne Unterhalt zu zahlen, Wohnung mit kaputten Möbeln, nicht genug Zimmer für alle Kinder, Mutter keine abgeschlossene Ausbildung blababla\n\nIch habe es geschafft! Ich bin in der Mittelschicht angekommen!\nStarte im September meinen ersten Vollzeitjob (reichlich spät, aber trotzdem), werde über 2000€ Netto mitnehmen und lebe in meiner Traumstadt in einer schönen, wenn auch alten Zweizimmerwohnung im STadtzentrum. \n\nDen ersten Schock, dass ich Unterschichtler bin hatte ich wohl als ich meinen besten Freund aus der 10. Klasse zu Hause besuchte. Es kam mir vor wie im Film. Die ganze Famile am Tisch, ein schönes, bodenständiges Haus in einem kleinen Vorort, ein Garten, ein Hund...keine kaputten Möbel.\n\n Der größte Ärger, den Michi mit seinen Eltern hatte war, dass er kein Geld für ein neues Skatebord bekam. \"Fuck wie gut hat der es eigentlich\", dachte ich mir und konnte nicht verstehen, wie er nicht tausend Luftsprünge am Tag macht, ob seines glücklichen Lebens. Zuhause erwartete mich immer nur unsere alte kaputte Wohnung auf dem  letzten Dorf, und Mutter, die beim Abendbrot immer weniger aß, damit wir Kinder satt wurden. \n\nGanz hart war es als alle Kumpels anfingen Führerschein zu machen, wir aber kein Geld dafür hatten. \"Fuck haben die es gut\", dachte ich mir. Klar wollte ich arbeiten gehen, um halt selber Geld dafür zu verdienen, leider machte dir damals das Amt aber nen Strich durch die Rechnung und ich hätte kaum was verdienen können. Dass meine Famile von Hartz 4 lebt und ich den Lappen deswegen nicht machen konnte habe ich nie jemandem erzählt, die Scham war einfach zu groß. Stattdessen immer nur Lügen über Lügen.\n Beschissen war auch am Wochenende nichts mit meinen Freunden unternehmen zu können, alles einfach zu teuer und am Gymnasium gab es halt einfach wenig Unterschichtenkinder mit denen ich sonst was hätte machen können. Es ist mir bis heute unbegreiflich, wie selbstverständlich für die alle gemeinsame Urlaube mit ihren Eltern sind. \n\nNaja macht nix, Abi gerade so mit ner 1 vorm Komma geschafft und sogar die Abirede halten dürfen, Mama war stolz auf ihren Sohn und von den ganzen reichen Menschen da hat wahrscheinlich niemand ahnen können, aus was für beschissenen Verhältnissen ich eigentlich komme (außer ein Lehrer, der sich meiner Familie angenommen hat, dem ich immer dafür dankbar sein werde)!\n\nAlso auf ins Studium, Powi, hat der Sozilehrer mir empfholen...Hier hatte ich wieder so einen Schockmoment, wie als ich Michi besuchen war. Alle Studenten um mich rum sind reich. Die haben alle Geld für Möbel, Geld für ein Auto, Geld zum Saufen gehen. Erste REaktion war sofort \"hier gehöre ich nicht hin\". Ich habe mich wie ein Fremder gefühlt, mir extrem schwer getan mich mit den Mittel- und Oberschichtlern anzufreunden (was wahrscheinlich einfach meinen damals noch krassen Minderwertigkeitskomplexen geschuldet war). Mein Name führt leider immer dazu, dass Leute mich über meine Familiengeschichte ausquetschen und damals Anfang 20 lag die Scham und Wut über meine familiäre und soziale Herkunft so tief, dass ich immer dreist lügen musste, weil ich sonst immer in Tränen ausgebrochen wäre.\n\nÜberhaupt, was hätte es gebracht denen von meiner Herkunft zu erzählen, da hat keiner ne Ahnung, was es bedeutet arm und vom gewalttätigen Vater, den man trotzdem liebt verlassen zu sein und außer mitleidigen Aufmunterungsbekundungen (\"Krass was du trotzdem alles erreicht hast\") kommt da eh nix rum.\n\nBAFöG war mein Segen, Höchstsatz und einen Sachbearbeiter, der Verständnis dafür hatte, dass ich ihm keine Unterlagen meines Vaters zukommen lassen konnte, weil wir keinen Kontakt mehr haben und er im Ausland lebt. Nebenbei noch ein bisschen gejobbt und siehe da, ich konnte mir plötzlich auch mal leisten essen zu gehen, feiern zu gehen, mir ohne zu schlechtes GEwissen im C&amp;A Klamotten im Angebot zu holen und sogar mal der kleinen Schwester Geld geben können. \"Fuck ich bin reich!\" habe ich mir gedacht. \n\nFür mich war mein Horizont aus der armen Familie kommend immer sehr beschränkt. Ein Führerschein und billiges Auto zu besitzten in etwas so wie für jemanden aus der Mittelschicht sich mal nen Ferrari zu holen. Geld dafür ansparen fiel mir schwer, mit BAFöG und paar hundert Euro zusäztzlich kommt man halt in Studistädten trotzdem nicht weit.  \n\nJetzt habe ich es aber endlich fast geschafft! Ich starte im September mit meinem ersten Vollzeitjob, über 2000€ Netto bei summa summarum 600€ Miete. Fuck bin ich REICH. Die ersten Wochen und Monate werde ich noch beschwerlich mit den Öffis zur Arbeit müssen, hoffentlich kriege ich es jetzt schnell mit dem Führerschein und einem günstigen kleinen Auto hin. Dann bin ich plötzlich Mittelschicht.\n\nIch habe jetzt einen Sperrmüll angemeldet. Ich kann die alten kaputten Möbel, die ich von diversen Facebookgruppen mir erschnorrt habe loswerden \n\n Ich kann mir Essen gehen leisten, ich kann meinen Kumpels Kohle leihen, ich kann mir endlich Möbel kaufen.\n\nIch bin so unendlich dankbar für meine Mutter, die IMMER größten Wert auf unsere Bildung gelegt hat und irgendwie mir Nachhilfe noch und nöcher finanziert hat, damit ich mein scheiß Abi pack. Ich danke dem deutschen Sozialstaat für die über 40000€ BAFöG, die mir mein Studium ermöglicht haben. Ich bin so heilfroh, hoffentlich nie wieder an der Kasse stehen zu müssen und peinlich verlegen so zu tun als ob meine Karte defekt ist.\n\nDanke Ende der Durchsage.\n\nEdit: An die vielen Leute, die mir ein E-Bike statt Autokauf empfehlen: Danke für den gut gemeinten Rat, ich habe mit den Öffis ne Stunde zur Arbeit für 30km, will keine dicke Karre, sondern nur ein Stück Freiheit und Selbstständigkeit. Es sei mir gegönnt.\n\nZweites Edit: Ich sehe, dass der post einige Reddit-Awards bekommen hat. Fühle mich sehr geschmeichelt, aber kauft von dem Geld doch lieber ne Kugel Eis für die Person hinter euch, wenn ihr das nächste Mal in der Stadt schlendern seid :)\n\nEin letztes Edit: DAnke an euch alle für die lieben Worte, ich bin wirklich zu Tränen gerührt und seit Verfassen des Posts auch sehr nachdenklich. Ich habe meine Geschichte selber noch nie reflektiert und vor allem noch nie von so vielen Leuten zurückgespiegelt bekommen. Vor allem habe ich das alles noch nie in Worte gefasst oder mit irgendjemandem gesprochen, es hat gut getan euch das zu erzählen, danke fürs Lesen! Passt auf euch auf!",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 447379,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Entschuldigung, ich komme auch aus der Unterschicht",
+            "top_awarded_type": null,
+            "total_awards_received": 20,
+            "treatment_tags": [],
+            "upvote_ratio": 0.97,
+            "url": "https://www.reddit.com/r/de/comments/i89s5t/entschuldigung_ich_komme_auch_aus_der_unterschicht/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": true,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "can_gild": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1597254433,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "i8iea7",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Frage/Diskussion"
+                }
+            ],
+            "link_flair_text": "Frage/Diskussion",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_i8iea7",
+            "no_follow": false,
+            "num_comments": 86,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/i8iea7/die_tatsache_dass_so_viele_menschen_pfandflaschen/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1622936524,
+            "score": 102,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Ich finde es krank, dass es inzwischen als so normal angenommen wird. Es gibt inzwischen sogar Halterungen an den Mülltonnen, damit die Sammler nicht mehr in die Tonne greifen müssen!! \n\nWas für ein Wahnsinn ist das bitte? Wir leben in einem der reichsten Länder der Welt! Und irgendwie ist es völlig normal, dass Menschen sich im Müll durch Scheiße graben, um an ein paar Cent zu kommen! \n\n\nNa gut, wenn es ein paar Punks sind, die nicht arbeiten wollen und sogar zufrieden mit dem Lifestyle sind, von mir aus. Aber ältere Mitmenschen?! Stellt euch mal vor, ihr geht auf die 70 zu, habt genug Probleme, Leiden, Krankheiten, etc. Habt ca. 50 Jahre gearbeitet. Und am Ende gibt euch der Staat so wenig Kohle, dass ihr einfach mal im Müll suchen müsst. Was für eine Scheiße! Ich komme aus einem dritte Welt Land und als ich denen das erzählt hab, konnten die mir kaum glauben.. \n\n\nWenn sich hier jemand angesprochen fühlt, weil seine Mutter/Vater/Tante/etc. auch ähnliche Probleme hat, dann GEH VERDAMMTE KACKE UND HILF IHR MAL AUS!",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 447387,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Die Tatsache, dass so viele Menschen Pfandflaschen sammeln müssen ist krank",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.74,
+            "url": "https://www.reddit.com/r/de/comments/i8iea7/die_tatsache_dass_so_viele_menschen_pfandflaschen/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": true,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "can_gild": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1597319596,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "i8yirt",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ff8206",
+            "link_flair_css_class": "category hilfe",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Hilfe"
+                }
+            ],
+            "link_flair_template_id": "9cad2108-25c9-11e7-9303-0ea76eee71ee",
+            "link_flair_text": "Hilfe",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_i8yirt",
+            "no_follow": false,
+            "num_comments": 40,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/i8yirt/mit_phobie_aufs_abstellgleis_geschoben/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1622937607,
+            "score": 42,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Hallo zusammen,\n\nich bin frustriert, wütend und echt am Boden zerstört. Meine Geschichte habe ich vor einigen Monaten schon einmal mit einem anderen Account gepostet. Damals haben sich hier viele nette Leute gefunden, die mir mit ein paar guten Tipps sehr weitergeholfen haben. Doch so wirklich was bewegt hat sich nicht, irgendwie ist niemand zuständig, niemand kann/möchte mir helfen. \n\nZusammengefasst: Ich bin seit Anfang des Jahres krank geschrieben, mit Depression und Phobien. \n\nDer alte Job, den ich viele Jahre gemacht habe, ging einfach nicht mehr, physisch wie psychisch. Nachdem ich vier Monate raus war, der Anruf von der Krankenkasse mit der Bitte, bei einem Facharzt (Psychiater) vorstellig zu werden, könne so ja nicht ewig weitergehen. Absolut nachvollziehbar. Gemacht. Dieser warf mir dann im Gespräch vor, dass ich durch meine lange Krankschreibung das Sozialsystem ausnutze, stellte mir eine Frist von 14 Tagen, mich zu entscheiden, ob ich kündige oder wieder arbeiten gehe. Ich entschied mich für die Kündigung, was aus gesundheitlicher Perspektive sicherlich besser war. Seitdem sitze ich zu Hause rum. \n\nIch bin wieder in einer ambulanten, psychotherapeutischen Behandlung, in der wir aber nicht wirklich weiterkommen mit meinem Problem. Konkret habe ich jedes mal, wenn sich ein Vorstellungsgespräch anbahnt, extreme Panikattacken, die einfach kein normales Gespräch erlauben - und das trotz einer recht verantwortungsvollen Position im alten Berufsfeld. In meinem Job hingegen habe ich ganz normal funktioniert, über viele Jahre. Meine bisherigen Stellen habe ich immer über Kontakte bekommen, insofern gab es auch nie einen Anlass, das Problem in den Griff zu bekommen. Jetzt muss ich aber.\n\nAuf Empfehlung meiner Therapeutin, weil wir eben nicht weiterkamen, habe ich mich dann stationär vorgestellt, weil  die Situation insgesamt immer belastender wurde, wurde dort jedoch abgelehnt. Man bot mir alternativ an, meine \"Essstörung\" stationär zu behandeln, im gleichen Zug wurde aber kommuniziert, dass der Fokus dann darauf läge, nicht auf dem Job bzw. den Phobien. Ich lehnte ab, weil ich seit meiner Geburt mit extremem Untergewicht (BMI von 16,x) zu kämpfen habe, das schlichtweg nicht behandelbar ist (habe eine lange Ärzte-Odysee hinter mir diesbezüglich). \n\nDie Klinik wies mich allerdings auch auf die dringende Notwendigkeit eines Therapeutenwechsels, sowie auf die Möglichkeit einer Reha-Maßnahme hin, dort könne man sich die Phobie einmal genau anschauen, sich insgesamt erholen und danach auch über Maßnahmen zur Wiedereingliederung sprechen. Klang gut, Antrag ausgefüllt.\n\nHeute dann damit wieder zum Psychiater gedackelt: \"Sie sind zurzeit aus meiner Sicht vollständig arbeitsunfähig, ich werde diesen Antrag nicht unterstützen. Sie haben ja auch die stationäre Behandlung aufgrund ihres Untergewichts abgelehnt. Eine vollstationäre Behandlung erachte ich zunächst als notwendig.\" Im April also gesagt bekommen: \"Geh arbeiten, Du Simulant\" (sinngemäß) und jetzt \"Du bekommst keine Unterstützung, bis Du das volle Programm durchziehst\". Mit \"volles Programm\" wäre die stationäre Behandlung sowie die anschließende Reha gemeint, allerdings sprechen wir dann, mit Wartezeiten und Behandlungsdauer, von Sommer 2021, bis ich endlich \"raus\" bin und das, obwohl ich \"nur\" die anlassbezogene Phobie in den Griff bekommen muss, um endlich wieder arbeiten zu können.\n\nIch weiß auch ehrlich gesagt langsam nicht mehr weiter. Einen neuen Therapeuten wollte ich mir über die Terminservicestelle suchen, die haben mir jedoch gesagt, dass sie momentan eine Bouncerate von 95% haben, ich bräuchte gar keinen Termin über sie zu vereinbaren. Ich stecke also nach wie vor mit dem alten Therapeuten fest, der mir nicht weiterhelfen kann, habe zwischendurch den sozialpsychiatrischen Dienst kontaktiert (der mir offen gelegt hat, dass gegen den Psychiater mehrere Beschwerden vorliegen), der aber auch keine weiteren Möglichkeiten mehr hatte, außer vielleicht soziale Hilfsdienste in Anspruch zu nehmen. Ich habe aus meiner Sicht echt alles abgeklappert, was ging und versucht und versucht.\n\nIch überlege zurzeit ernsthaft, ob es sinnvoller wäre, sich einfach beim Arbeitsamt vorzustellen und mit denen offen drüber zu sprechen, habe aber die Befürchtung das es dann heißt: \"Ja, sie waren ja nirgendwo in Behandlung, ihre Ärztin hat das empfohlen, sie haben abgelehnt, bewerben sie sich halt\". Und dann bring ich's nicht über die Bühne, ans Telefon zu gehen und kann die Miete nicht mehr bezahlen, weil mir die Kohle gestrichen wird. :D\n\nWollte mir das einfach mal vom Herzen schreiben, quasi als Update. Vielleicht schreibe ich ja in einem Jahr nochmal \"hat alles geklappt, habe wieder einen Job\". Das wäre toll.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 447391,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Mit Phobie auf's Abstellgleis geschoben",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.79,
+            "url": "https://www.reddit.com/r/de/comments/i8yirt/mit_phobie_aufs_abstellgleis_geschoben/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": true,
+            "author": "[deleted]",
+            "author_created_utc": null,
+            "author_flair_background_color": "",
+            "author_flair_css_class": null,
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": "dark",
+            "can_gild": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1598462326,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "ih30wg",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#cd0000",
+            "link_flair_css_class": "category rant",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "TIRADE"
+                }
+            ],
+            "link_flair_template_id": "0902ecac-6f4d-11e8-80ce-0e814e0b1ec0",
+            "link_flair_text": "TIRADE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_ih30wg",
+            "no_follow": false,
+            "num_comments": 49,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/ih30wg/nebenkostentirade/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1622956681,
+            "score": 60,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Einfach um es zu teilen, andere zu ermutigen und so.\n\nBin  vor ca. 2 Jahren in eine neue Wohnung gezogen. Als nach etwa einem Jahr in der neuen Wohnung die erste Nebenkostenabrechnung kam, schön ordentlich mit Quittungen und Belegen und allem pi pa po, da kam mir in den Sinn, dass ich in der \"alten\" Wohnung nie so eine Abrechnung bekommen habe. Das, obwohl ich fast 3 Jahre dort gewohnt hatte. Verdacht steht im Raum, dass eine Rückzahlung verschleppt wird.\n\nDaher Phase 1: die alte Hausverwaltung freundlich per Email kontaktiert, ich hätte gern noch eine Abrechnung, Verweis auf Gesetzeslage (kenne den Laden ja noch) und so weiter. Drei Monate keine Antwort. Na gut.\n\nPhase 2: Einschreiben mit Verweis auf vorgängige Email und Sachlage neu geschildert. Verweis auf Gesetzeslage und Hinweis, dass Anwalt kontaktiert wird. Umgehende Antwort, sie seien bereits dran, ich solle mich bis Ende des Monats gedulden, dann bekomme ich die Abrechnung, Ehrenwort! (es geht um eine mittlerweile 4 Jahre zurückliegende Nebenkostenabrechnung, wohlgemerkt)\n\nPhase 3: Zwei Monate später liegt keine Abrechnung vor. Nun also Kontakt zum Mieterverband, Anwalt. Der fackelt nicht lange, setzt Briefe auf und beantragt Eröffnung eines Verfahrens bei der Schlichtungsbehörde. Briefe gehen per Einschreiben an die Verwaltung sowie den Besitzer der Liegenschaft. Keine Woche später habe ich kommentarlos einen Betrag von denen auf dem Konto, der fast 30% der damals bezahlten Abschläge beinhaltet. Eine Nebenkostenabrechnung liegt bis heute nicht vor.\n\nPhase 4: Das überlasse ich Euch - wie eskaliert man das weiter? Geht's ums Prinzip oder gibt man sich mit der Kohle zufrieden? Kommt mir vor wie Schweigegeld, damit man endlich ruhig ist.\n\nWichtig: Mir ging es nie um das Geld sondern drum, dass die Hausverwaltung ihren verdammten Job macht. In dem alten Haus wohnen ca. 80 Parteien, davon viele Ältere und auch Ausländer, die die Sprache nicht gut können und sich niemal wehren würden - die haben nach meiner Nachfrage offenbar z.T. seit 10 Jahren keine Abrechnung bekommen, da geht's also um grosse Beträge, die da unteschlagen werden.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 447425,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Nebenkostentirade",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.86,
+            "url": "https://www.reddit.com/r/de/comments/ih30wg/nebenkostentirade/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": true,
+            "author": "BBMA112",
+            "author_created_utc": 1591714074,
+            "author_flair_background_color": null,
+            "author_flair_css_class": "TEXT",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "r/blaulicht"
+                }
+            ],
+            "author_flair_template_id": "e9e71cc8-7d3b-11e4-9eb1-22000bc148da",
+            "author_flair_text": "r/blaulicht",
+            "author_flair_text_color": "dark",
+            "author_flair_type": "richtext",
+            "author_fullname": "t2_6ptdjq7v",
+            "author_patreon_flair": false,
+            "author_premium": true,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1598634313,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "iiayt1",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#ff8206",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Frage/Diskussion"
+                }
+            ],
+            "link_flair_template_id": "829665e0-25c9-11e7-9fe9-0eb196278378",
+            "link_flair_text": "Frage/Diskussion",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_iiayt1",
+            "no_follow": false,
+            "num_comments": 120,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/iiayt1/welche_bank/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1622959367,
+            "score": 33,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Nachdem die Sparkasse mittlerweile völlig abdreht und monatlich soviel Kohle wie Netflix haben will, damit sie mit meinem Geld spielen dürfen und Oma Gerda nen Bankverkäufer zum Kaffeetrinken hat, suche ich eine neue Bank.\n\nWas ich suche: möglichst viele Geldautomaten und eine brauchbare Online-Umgebung für das Verwalten eines Girokontos. Natürlich mit möglichst geringen Kontoführungsgebühren.\n\nWas ich nicht brauche: \"Berater\" und Filialen mit einem arroganten Selbstverständnis wie das Finanzamt oder der Rundfunkbeitragsservice.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 447427,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Welche Bank?",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.85,
+            "url": "https://www.reddit.com/r/de/comments/iiayt1/welche_bank/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": true,
+            "author": "Yee-Yip",
+            "author_created_utc": 1559246687,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_3hzcjozc",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1598885852,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "ijzhzn",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "",
+            "link_flair_css_class": "category question",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Frage/Diskussion"
+                }
+            ],
+            "link_flair_text": "Frage/Diskussion",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_ijzhzn",
+            "no_follow": false,
+            "num_comments": 17,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/ijzhzn/bu_machen_oder_nicht_machen_als_student/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1622963028,
+            "score": 7,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Hey Leute, ich habe vor einiger Zeit mal ein Termin mit einem Finanzberater vereinbart. Wir sind jetzt an dem Punkt angekommen, wo er wirklich sehr darum kämpft, mir eine Berufsunfähigkeitsversicherung ,,ans Herz zu legen“. Kostenpunkt um die 50€ monatlich. Wegen Corona habe ich kein Job mehr, bin aber bald mit dem Studium fertig und denke mir, dass da jetzt kein krasser Unterschied ist, wenn ich das zum Berufsstart abschließe. Andererseits habe ich bisschen Kohle an der Seite, weswegen ich es mir theoretisch vorerst leisten könnte. Meine Frage ist jetzt, ob das überhaupt nötig ist oder ich mich auf irgendwas unnötiges einlasse, wofür ne hohe Geldsumme monatlich flöten geht.",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 447441,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "BU machen oder nicht machen als Student",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.82,
+            "url": "https://www.reddit.com/r/de/comments/ijzhzn/bu_machen_oder_nicht_machen_als_student/",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 186,
+        "op_b": 219,
+        "total": 411
+    },
+    "error": null
+}

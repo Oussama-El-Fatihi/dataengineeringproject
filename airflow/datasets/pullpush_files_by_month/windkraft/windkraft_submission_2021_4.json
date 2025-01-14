@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Doener23",
+            "author_created_utc": 1407847660,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_hucby",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "can_gild": true,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1619548291,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "spiegel.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "mzv7h2",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#0b3b0b",
+            "link_flair_css_class": "category environment",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Umwelt"
+                }
+            ],
+            "link_flair_template_id": "b96aef02-25bd-11e7-bfe3-0ece441d4918",
+            "link_flair_text": "Umwelt",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_mzv7h2",
+            "no_follow": false,
+            "num_comments": 63,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/mzv7h2/peter_altmaier_entschuldigt_sich_für_rechenfehler/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "rtZDjRdwMwHp2S_gbcyjoQVvFjDdHXgRt41H7HsTdBY",
+                        "resolutions": [
+                            {
+                                "height": 61,
+                                "url": "https://external-preview.redd.it/HrGqptrlararblMl6vlDPnFAbTxJxcwd0fTyWDPFyKM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=7998c4a3e4386bdfb4c296a99bf2914081b89904",
+                                "width": 108
+                            },
+                            {
+                                "height": 122,
+                                "url": "https://external-preview.redd.it/HrGqptrlararblMl6vlDPnFAbTxJxcwd0fTyWDPFyKM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=596c54ad39bd82c387ce360ca11d90a9b844feab",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/HrGqptrlararblMl6vlDPnFAbTxJxcwd0fTyWDPFyKM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7f43f05c7bc4afe8f601796ffab6fec9afc0c4bb",
+                                "width": 320
+                            },
+                            {
+                                "height": 361,
+                                "url": "https://external-preview.redd.it/HrGqptrlararblMl6vlDPnFAbTxJxcwd0fTyWDPFyKM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d01fed4559111008e1e416b85433e436e6a4ef59",
+                                "width": 640
+                            },
+                            {
+                                "height": 542,
+                                "url": "https://external-preview.redd.it/HrGqptrlararblMl6vlDPnFAbTxJxcwd0fTyWDPFyKM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=4e6cfe4a357ff968906c98b4b8b7daed4bced45e",
+                                "width": 960
+                            },
+                            {
+                                "height": 610,
+                                "url": "https://external-preview.redd.it/HrGqptrlararblMl6vlDPnFAbTxJxcwd0fTyWDPFyKM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=99152664377402faa32bf5d854f6dd2b99e6e66c",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 723,
+                            "url": "https://external-preview.redd.it/HrGqptrlararblMl6vlDPnFAbTxJxcwd0fTyWDPFyKM.jpg?auto=webp&amp;s=0e6d9861995ec8a307cd983de0b3c5953280011d",
+                            "width": 1280
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by_category": null,
+            "retrieved_utc": 1623482474,
+            "score": 183,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": false,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_subscribers": 449691,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/jbk1hr5xzcKV1_Y_RKoeasWQUMxR01tF4cTOVXpD2Eo.jpg",
+            "thumbnail_height": 79,
+            "thumbnail_width": 140,
+            "title": "Peter Altmaier entschuldigt sich für Rechenfehler bei Windkraft-Schallbelastung",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.96,
+            "url": "https://www.spiegel.de/wirtschaft/altmaier-entschuldigt-sich-fuer-rechenfehler-bei-windkraft-schallbelastung-a-9d8ed560-395e-4fd9-8c58-e0d4c3ecd011",
+            "url_overridden_by_dest": "https://www.spiegel.de/wirtschaft/altmaier-entschuldigt-sich-fuer-rechenfehler-bei-windkraft-schallbelastung-a-9d8ed560-395e-4fd9-8c58-e0d4c3ecd011",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 176,
+        "op_b": 167,
+        "total": 352
+    },
+    "error": null
+}

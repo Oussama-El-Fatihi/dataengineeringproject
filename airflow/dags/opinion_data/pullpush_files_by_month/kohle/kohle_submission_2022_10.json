@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Kommentar zum Fachkräftemangel: Weniger Blabla, mehr Kohle! | [No body]",
+        "date": "2022-10-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "ELI5: Wie soll Atomstrom den Strompreis senken? | Bisschen tiefergreifender als ein ELI5. \n\nKlar, Atomstrom ist deutlich günstiger als Kohle oder Gasstrom aktuell. Da gibts nix mehr zu erklären.\n\nJetzt zum eigentlichen Thema: \n\nAm Strommarkt gilt das [Merit-Order](https://de.wikipedia.org/wiki/Merit-Order) System. Das heißt, der Strompreis am Großmarkt wird durch den teuersten Erzeuger bestimmt. Der ist aktuell das teure Gas. Damit könnten in der Theorie 99% EEG herstellt werden, für sehr günstige Preise, wenn aber das letzte 1% aus Gas gewonnen wird, gilt der teure Preis. \n\nDiesen Preis zahlen dann die Netzbetreiber an die Hersteller und müssen wiederum den teuren Preis an die Kunden weitergeben.\n\nHinzu kommt, dass Hersteller von günstigen Atom- und Ökostrom aktuell mega Gewinne einfahren, da sie extrem hohe Margen durch den hohen Gaspreis haben.\n\n&amp;#x200B;\n\nKurzum, die Forderung AKWs zu verlängern um den Strompreis zu senken, ist doch wirtschaftlich einfach nicht möglich oder nicht?",
+        "date": "2022-10-17",
+        "sentiment": "negative"
+    }
+]

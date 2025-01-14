@@ -1,0 +1,177 @@
+{
+    "data": [
+        {
+            "approved_at_utc": null,
+            "subreddit": "de",
+            "selftext": "",
+            "author_fullname": "t2_2xpnkki2",
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Die Flaute beim Ausbau der Windkraft scheint zu Ende. Nur Bayern und Baden-Württemberg liegen zurück.",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Energie"
+                }
+            ],
+            "subreddit_name_prefixed": "r/de",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "category energy",
+            "downs": 0,
+            "thumbnail_height": 78,
+            "top_awarded_type": null,
+            "hide_score": false,
+            "name": "t3_12h93tr",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 0.96,
+            "author_flair_background_color": "",
+            "ups": 1098,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "user_reports": [],
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Energie",
+            "can_mod_post": false,
+            "score": 1098,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/S7b0YAqeSBuWXrjuXrLlSKY-qF2ebqNe2e0xHOfiP2g.jpg",
+            "edited": false,
+            "author_flair_css_class": "HAMWAPP",
+            "author_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "ja moin ey"
+                }
+            ],
+            "gildings": {},
+            "post_hint": "link",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1681106697.0,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "richtext",
+            "domain": "golem.de",
+            "allow_live_comments": false,
+            "selftext_html": null,
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.golem.de/news/bundesverband-windenergie-genehmigungen-fuer-neue-windkraftraeder-deutlich-gesteigert-2304-173306.html",
+            "view_count": null,
+            "archived": false,
+            "no_follow": false,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+                "images": [
+                    {
+                        "source": {
+                            "url": "https://external-preview.redd.it/ntOqRAQiemIgWKTHa9BDUnIGtRBn2RNlPJxS10h1L1s.jpg?auto=webp&amp;s=34f14ad453a43dc65ed40894dbc538c09eedf87d",
+                            "width": 1200,
+                            "height": 675
+                        },
+                        "resolutions": [
+                            {
+                                "url": "https://external-preview.redd.it/ntOqRAQiemIgWKTHa9BDUnIGtRBn2RNlPJxS10h1L1s.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=6cc9b9f5acc261e8205244fe5f0ee2fd23101643",
+                                "width": 108,
+                                "height": 60
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/ntOqRAQiemIgWKTHa9BDUnIGtRBn2RNlPJxS10h1L1s.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=74dc2212946cd7ff1bd3d2ab4e3d7f9eb8e20612",
+                                "width": 216,
+                                "height": 121
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/ntOqRAQiemIgWKTHa9BDUnIGtRBn2RNlPJxS10h1L1s.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=adece6cdce9761858095ae9eda7945dcfb1c4a8b",
+                                "width": 320,
+                                "height": 180
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/ntOqRAQiemIgWKTHa9BDUnIGtRBn2RNlPJxS10h1L1s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65bc798844ba640bc4ee0550cc21b40b9150d9df",
+                                "width": 640,
+                                "height": 360
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/ntOqRAQiemIgWKTHa9BDUnIGtRBn2RNlPJxS10h1L1s.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=054a026471cc20aa181595a10eec8b24f5e1704b",
+                                "width": 960,
+                                "height": 540
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/ntOqRAQiemIgWKTHa9BDUnIGtRBn2RNlPJxS10h1L1s.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e6726ce232d80c6ff8fe507c66d43a565ed3e1cb",
+                                "width": 1080,
+                                "height": 607
+                            }
+                        ],
+                        "variants": {},
+                        "id": "sbFJmxEHcoX_xPRTV1ic0mZK2IPOgcHQrhWdpwtwxps"
+                    }
+                ],
+                "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "be46c868-3906-11ed-8fc4-520ae2713eb8",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": "ja moin ey",
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_22i0",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#8002a3",
+            "id": "12h93tr",
+            "is_robot_indexable": true,
+            "report_reasons": null,
+            "author": "dirksn",
+            "discussion_type": null,
+            "num_comments": 243,
+            "send_replies": true,
+            "whitelist_status": "all_ads",
+            "contest_mode": false,
+            "mod_reports": [],
+            "author_patreon_flair": false,
+            "author_flair_text_color": "dark",
+            "permalink": "/r/de/comments/12h93tr/die_flaute_beim_ausbau_der_windkraft_scheint_zu/",
+            "parent_whitelist_status": "all_ads",
+            "stickied": false,
+            "url": "https://www.golem.de/news/bundesverband-windenergie-genehmigungen-fuer-neue-windkraftraeder-deutlich-gesteigert-2304-173306.html",
+            "subreddit_subscribers": 1328283,
+            "created_utc": 1681106697.0,
+            "num_crossposts": 0,
+            "media": null,
+            "is_video": false
+        }
+    ],
+    "metadata": {
+        "op_a": 277,
+        "op_b": 165,
+        "total": 451
+    },
+    "error": null
+}

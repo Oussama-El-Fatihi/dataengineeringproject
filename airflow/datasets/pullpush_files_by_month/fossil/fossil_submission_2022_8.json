@@ -1,0 +1,508 @@
+{
+    "data": [
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 125,
+                    "coin_reward": 0,
+                    "count": 2,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "When you come across a feel-good thing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "icon_width": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Wholesome",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 3,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Shows the Silver Award... and that's it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "icon_width": 512,
+                    "id": "gid_1",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Silver",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Thank you stranger. Shows the award.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "icon_width": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": true,
+            "archived": false,
+            "author": "Maximum-Ocelot-2341",
+            "author_created_utc": null,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_rqtthya2",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1661073451,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1661075886.0,
+            "gilded": 0,
+            "gildings": {
+                "gid_1": 3
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "wtv9ng",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#cd0000",
+            "link_flair_css_class": "category rant",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "TIRADE"
+                }
+            ],
+            "link_flair_template_id": "0902ecac-6f4d-11e8-80ce-0e814e0b1ec0",
+            "link_flair_text": "TIRADE",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_wtv9ng",
+            "no_follow": false,
+            "num_comments": 542,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/wtv9ng/privatsphäre_in_der_wohnung_nicht_im_erdgeschoss/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662803875,
+            "score": 3195,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Genüsslich sitze ich mit Kaffee vorm PC und schaue ein paar Youtube Videos, als das übliche passiert: Klopfen am Fenster. \"Was guckstn du?\", fragt die Kinderstimme des etwa Zwölfjährigen mich durch das angekippte Fenster. Ich öffne Reddit. Ich fange an diese Tirade zu tippen.\n\nDoch mal von Anfang an. Ich hab jahrelang im Dachgeschoss gewohnt. Wohnung aus der Hölle und die WG noch dazu, aber das ist eine andere Geschichte. Also nach dem Bachelor den Umzug geplant. Zwar noch keinen Job sicher, aber ich will da raus. So viel weiß ich. Also die billigste 1-Zimmer-Wohnung genommen, die ich mir leisten kann, ohne direkt ins Minus zu rutschen. Erdgeschoss. Immerhin keine Platte am Stadtrand. Muss ich also wohl durch; wie schlimm kann es werden? Die Antwort? Sehr.\n\nIch wohne jetzt seit einem knappen halben Jahr hier und es gab keine Woche ohne Zwischenfall. Kindern und auch Betrunkenen verzeih ich das vielleicht noch, aber beim Rest frag ich mich echt, ob ihr jemals Erziehung genossen und auch nur eine einzige Gehirnzelle in eurem Schädel habt! Gegen Bierflaschen auf dem Fensterbrett sag ich ja nicht mal was, ABER MÜSST IHR KAUGUMMIS AN MEIN FENSTER PAPPEN ODER KIPPENSTUMMEL DURCH DAS ANGEKIPPTE FENSTER WERFEN!? Und nein, ich wohne in keiner Assi-Gegend. Normales, gentrifiziertes Wohnviertel.\n\nDoch das ist nicht alles. Von ungefragten Einrichtungstipps bei offenem Fenster, über \"Hmm was riecht hier so lecker? Ham'se was dagegen, wenn ich durchs Fenster kletter? :DDD\" bis hin zu Smalltalk gab es schon alles. Der Altersdurchschnitt liegt da meistens bei +55. Die Krone setzte dem ganzen aber ein älterer Herr auf. Ich, am kochen, Fenster also offen, höre nur ein Klopfen an der Scheibe. Drehe mich um und sehe diesen 120 jährigen Gnom, wie er versucht durch mein Fenster zu klettern. \"Schöne Wohnung haben Sie\" - \"...\" - \"Aber im Erdgeschoss? Mich würde das ja stören, wenn jeder reingucken kann\"; ich dachte ich platze. DU STECKST DEINEN SCHÄDEL IN MEINE WOHNUNG, UM MIR ZU SAGEN, DASS DICH DEIN VERHALTEN JA ANKOTZEN WÜRDE? WAS NIMMST DU LEBENDES FOSSIL DIR EIGENTLICH RAUS!? Ich weiß nicht, ob er die Verzerrung meiner Mundwinkel gesehen hat oder echt weg musste, doch so schnell wie er da war, war er auch wieder gegangen.\n\nDie Moral der Geschichte ist: HÖRT AUF EURE KÖPFE IN DIE ANGELEGENHEITEN UND WOHNUNGEN ANDERER ZU STECKEN! Ich habe KEINEN Bock auf euren Smalltalk oder eure Designtipps für meine 17m² und ja, mir reicht der Platz zum leben. Wenn ihr unbedingt Bock darauf habt, dann sagt mir EURE Adresse und ich komm mit einer Leiter vorbei. Da drehen wir den Spieß mal um.\n\n&amp;#x200B;\n\n**Edit**: Da ich nicht auf alle Kommentare antworten kann machen wir es mal so: Ich hab sowohl Sichtschutz am Fenster, als auch Vorhänger auch zu sind, wenn das Fenster offen ist. Manchmal mach ich die beim Lüften aber zur Seite. Mein Fehler, I know.\n\nIch bin auch keine Frau. Aber scheinbar wirk ich so spannend und nett, dass man mich mit dem Lieblings-Enkel verwechselt und erstmal Smalltalk starten muss",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683614,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Privatsphäre in der Wohnung? Nicht im Erdgeschoss!",
+            "top_awarded_type": null,
+            "total_awards_received": 6,
+            "treatment_tags": [],
+            "upvote_ratio": 0.94,
+            "url": "https://www.reddit.com/r/de/comments/wtv9ng/privatsphäre_in_der_wohnung_nicht_im_erdgeschoss/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        },
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "GirasoleDE",
+            "author_created_utc": 1417641623,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_js5a5",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1661762949,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "spiegel.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "x0jqi4",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#cccc00",
+            "link_flair_css_class": "category kolumne",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Kolumne &amp; Interview"
+                }
+            ],
+            "link_flair_template_id": "ff5dab5c-cb47-11ea-acba-0eb24ce6b3d5",
+            "link_flair_text": "Kolumne &amp; Interview",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_x0jqi4",
+            "no_follow": false,
+            "num_comments": 14,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/x0jqi4/streit_über_fossile_energie_die_katastrophe_ist/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "VxQBax-6zwboXnwi10h6pjB_Ttp9IJ4Nx3hY4nEk0dc",
+                        "resolutions": [
+                            {
+                                "height": 61,
+                                "url": "https://external-preview.redd.it/o8vDmRM8XEnZ1QM3RujVzXZOHiSTVxeeIyV8T_FQSpo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a5b707a24470a05c199d708c845c9bf13d4e6763",
+                                "width": 108
+                            },
+                            {
+                                "height": 122,
+                                "url": "https://external-preview.redd.it/o8vDmRM8XEnZ1QM3RujVzXZOHiSTVxeeIyV8T_FQSpo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=40aa6e1555ceb12dac656836dd99a25e09865e7d",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/o8vDmRM8XEnZ1QM3RujVzXZOHiSTVxeeIyV8T_FQSpo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=460e2bc378d8fa0a994ebf5f7a7d5bf18108cef8",
+                                "width": 320
+                            },
+                            {
+                                "height": 361,
+                                "url": "https://external-preview.redd.it/o8vDmRM8XEnZ1QM3RujVzXZOHiSTVxeeIyV8T_FQSpo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=89a52edf816b0474c321c8b51369d70fa6e0a34d",
+                                "width": 640
+                            },
+                            {
+                                "height": 542,
+                                "url": "https://external-preview.redd.it/o8vDmRM8XEnZ1QM3RujVzXZOHiSTVxeeIyV8T_FQSpo.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=4f7d2612e44b1540eb8e307275cad2489b8254ad",
+                                "width": 960
+                            },
+                            {
+                                "height": 610,
+                                "url": "https://external-preview.redd.it/o8vDmRM8XEnZ1QM3RujVzXZOHiSTVxeeIyV8T_FQSpo.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=84511c5220597ffd7d82f084fc0d357744e879ab",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 723,
+                            "url": "https://external-preview.redd.it/o8vDmRM8XEnZ1QM3RujVzXZOHiSTVxeeIyV8T_FQSpo.jpg?auto=webp&amp;s=9393967fea84ec8da9b032b57f5c3f0ea3fc5bed",
+                            "width": 1280
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1662792104,
+            "score": 51,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 683520,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/3AT16IFv0IcfxpSk7lTk1HXy1v5adby30pIPyCKjnpE.jpg",
+            "thumbnail_height": 79,
+            "thumbnail_width": 140,
+            "title": "Streit über fossile Energie: Die Katastrophe ist doch so lukrativ! (Kolumne von Christian Stöcker)",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.85,
+            "url": "https://www.spiegel.de/wissenschaft/mensch/fossile-energie-die-katastrophe-ist-doch-so-lukrativ-a-29c90e7b-6f0d-408e-87bf-97759aee88cf",
+            "url_overridden_by_dest": "https://www.spiegel.de/wissenschaft/mensch/fossile-energie-die-katastrophe-ist-doch-so-lukrativ-a-29c90e7b-6f0d-408e-87bf-97759aee88cf",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 215,
+        "op_b": 184,
+        "total": 418
+    },
+    "error": null
+}

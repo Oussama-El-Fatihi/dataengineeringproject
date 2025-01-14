@@ -1,0 +1,132 @@
+[
+    {
+        "text": "Inzwischen importiert Deutschland auch mehr Strom, denke dass das auch ein Faktor ist. Erfreulicherweise dabei immer mehr Strom aus Erneuerbaren.\n\n 2020 kam unter anderem eine neue Leitung aus Norwegen dazu über die wir 100 % Strom aus Wasserkraft erhalten und auch Dänemark exportiert zu uns immer mehr Strom aus Windkraft, was unsere Bilanz sogar zusätzlich verbessert .",
+        "date": "2021-01-01",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Deutschland ist noch ein Netto-Exporteur, und auch der Brutto-Import ist wohl nicht signifikant gestiegen. Außerdem, was ist so schlecht daran Wasserkraft aus Skandinavien zu importieren, wenn man dafür fossilen Strom reduzieren kann?\n\nPolen bekommt quasi permanent Strom von uns, Deutschland importiert allgemein fast nichts aus Ländern mit viel Kohlestrom. Atomstrom aus Frankreich ist doch okay, die Kraftwerke laufen sowieso so viel wie möglich. Allerdings wird dort eben auch nur importiert, wenn die überschüssigen Strom übrig haben. Das hat recht wenig damit zu tun ob bei uns der Wind weht, sondern eher wie viel die Franzosen gerade mit Strom heizen.",
+        "date": "2021-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Neben dem schon erwähnten: Import und Export ist nichts Schlimmes, sondern sogar erwünscht. Denn das erlaubt die bessere Teilung von Ressourcen. Bestes Beispiel ist die neue Leitung nach Norwegen: Wenn wir (zu) viel Windstrom haben, kann uns Norwegen den relativ günstig abkaufen anstatt dass wir es abregeln. Und dafür können sie ihr Wasser in den Stauseen speichern. Wenn es wenig Windstrom gibt, können sie das aufgestaute Wasser in Wasserkraft wandeln und uns exportieren. Mit der gleichen Menge von Wasserkraftwerken und Windrädern können wir also insgesamt mehr Strom produzieren.\n\nÄhnlich ist es mit Kernkraft in Frankreich: Ein Atomkraftwerk muss möglichst immer unter Volllast laufen, um Geld zu verdienen. Wir können also Atomstrom aus Frankreich importieren, wenn die den Strom nicht brauchen. Dafür können wir ihnen fossilen oder erneuerbaren Strom exportieren, wenn z.B. sehr kalt ist und Frankreich sehr viel Strom zum heizen benötigt. Man muss also keine doppelten Strukturen aufbauen, und spart zudem noch fossile Energie.",
+        "date": "2021-01-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Kommentarbereich In einer Nussschale:\n- Atomkraft ist blöd\n- Fossil ist blöd\n- Wasserkraft ist blöd\n- Windkraft ist blöd\n- Solar ist blöd\n- Biogas ist ganz cool aber reicht allein nicht",
+        "date": "2021-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Hast du eventuell eine Quelle wo ich das auffrischen könnte?\n\n[In der Quelle des Artikels](https://energy-charts.info/?l=de&amp;c=DE)\n\n&gt;Wie lange ist das denn schon so? \n\n[Kann man sich hier anschauen](https://ag-energiebilanzen.de/index.php?article_id=29&amp;fileName=ausdruck_strerz_abgabe_dez2020_anteile_.pdf). 2005 mit 163 TWh Kernkraft müsste so ziemlich nahe am Peak sein. Erneuerbare haben den Punkt 2014 erreicht. \n\nWenn man nur Wind und Solar zählen möchte (Wasserkraft gab es ja schon immer und Biomasse kann man zwiespältig sehen) hat man das letzten Jahr erreicht.\n\nDie dritte Möglichkeit das zu betrachten ist die Frage, seit wann Erneuerbare den \"verlorenen\" Strom von abgeschalteten Kernkraftwerken ausgeglichen haben. Also sprich wann Kernkraft + Wind + Solar die 163 TWh erreicht haben. Das war eigentlich schon immer so, interessant ist z.B. 2012 (also das Jahr nach Fukushima) - da hat Kernkraft + Wind + Solar knapp 180 TWh produziert.\n\n&gt;Wenn das so ist, wäre es dann nicht sinnvoller gewesen, zuerst die Kohle, und dann die atomkraft abzuschalten? \n\nTheoretisch wäre das sinnvoll gewesen, stand aber nie zur Debatte. Man hätte auch beides gleichzeitig tun können. Der Kohleausstieg wird überhaupt erst seit vielleicht 2-3 Jahren ernsthaft diskutiert.\n\nAber das ist alles eine rückwärts gerichtete Diskussion über Dinge, die wir nicht mehr ändern können. Interessant ist eher die Frage, wie es in Zukunft läuft. Und da ist es eben so, wir könnten Stand heute trotz Atomausstieg den Kohleausstieg sehr viel schneller durchführen als geplant (~5 Jahre anstatt 18 Jahre). Das heißt das Problem ist nicht der Atomausstieg, sondern nicht ausgenutztes Potential beim Kohleausstieg.",
+        "date": "2021-01-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich hab bei meiner Oma mal ein Sci-Fi Buch gelesen in dem es u.a. darum ging wie toll denn die Atomkraft gegenüber langweiligen konventionellen Energien wie z.b. Wasserkraft ist.",
+        "date": "2021-01-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Wenn ich für ganz Deutschland 14 Tage Strom speichern will \n\nMacht kein Sinn, gibt kein 14 Tage Zeitraum mit gar keinem Solar und Windstrom. Außerdem haben wir ja noch Biomasse und Wasserkraft. Gibt kein Grund Biomasse nicht bedarfsgerecht einzuspeisen.\n\n40 Millionen E-Autos mit ner 40kWh Batterie ergibt 1600 GWh Stromspeicher. Zum Vergleich, wir haben gerade mal etwa 40 GWh pumpspeicher aktuell..\n\nUnd das mit der Batterie ist auch Bullshit. Warum soll die schnell kaputt gehen? Tut sie doch bei normaler Benutzung auch nicht. Und es macht absolut kein Sinn Millionen von Batterien mit maximaler Geschwindigkeit zu entladen, oder beladen, um dann das Stromnetz zu zerstören.",
+        "date": "2021-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "knapp 80% der zum mining verwendeten Energie kommt von Erneuerbaren (Wasserkraft vor allem). Alles andere ist kaum wirtschaftlich.",
+        "date": "2021-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "als ob die chinesischen Miner Wasserkraft kennen würden. Kohle number one",
+        "date": "2021-01-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Heute wurden 30% der Energie elektrisch erzeugt. Woher kommen die andern 70%?  \n\nAus Speichern, Wasserkraft, oder Biomasse. Sag mal kannst du lesen?\n\n&gt; Selbst mit fünf mal so viel Windrädern hätten wir nicht viel mehr  bekommen, denn wenn kein Wind weht dann helfen mehr Räder nicht. \n\nNatürlich helfen die? Die sorgen dafür, dass die Speicher schneller wieder aufgefüllt sind und gleichzeitig langsamer leer gehen, weil wie gesagt, gar kein EE Strom gibt's so gut wie nie. Besonders EU-weit gesehen nicht.\n\nSiehe auch Seite 18 und Seite 24\n\n[https://www.energy-charts.info/downloads/Stromerzeugung\\_2020\\_1.pdf](https://www.energy-charts.info/downloads/Stromerzeugung_2020_1.pdf)\n\nJa, dann hau doch mal ne Quelle raus, wieso Batterien ach so schnell kaputt gehen.",
+        "date": "2021-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "https://alles-mit-akku.de/akku-lebensdauer/\n\nWenn deine E Autobatterie 1000 Ladezyklen hält und sie jetzt als intelligenter Speicher herhalten soll macht die das genau 1000 mal mit. \n\n1 Tesla Akku kostet ca 20.000€ und speichert 100 kWh. Die BASF in Lu verbraucht 6 Terawattstunden also 6.000.000.000 kWh im Jahr.  Als Zwischenspeicher würde die BASF alle 10 Jahre 60 Millionen Teslabatterien zerstören zu 1200 Milliarden Euro also ca die Kosten der deutschen Wiedervereinigung.\n\nSpeicher Wasserkraft und Biomasse?\nq.e.d\nDu bist zahlenblind, Du hast noch meinen Furz vergessen, der brennt auch.",
+        "date": "2021-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Wenn deine E Autobatterie 1000 Ladezyklen hält und sie jetzt als  intelligenter Speicher herhalten soll macht die das genau 1000 mal mit. \n\nEin Ladezyklus bedeutet vollständiges Be- und Entladen. Was selbstverständlich nicht der Fall hier ist. Wie auch dein Text sagt, hält ein Akku deutlich länger wenn man den z.B. nur langsam be- und entlädt und gleichzeitig im Bereich zwischen 40 und 85% hält.\n\n&gt; Speicher Wasserkraft und Biomasse? q.e.d Du bist zahlenblind, Du hast noch meinen Furz vergessen, der brennt auch. \n\n9% (!) unsrer Stroms ist aus Biomasse, das entspricht 45 TWh ([https://strom-report.de/strom/#strommix-2020-deutschland](https://strom-report.de/strom/#strommix-2020-deutschland))! Und 9% als Lückenfüller für schlechte Tage ist nen Haufen!\n\nUnd was soll das eigentlich für eine Bullshitrechnung sein? Warum sollte man wirklich jede Killowatstunde speichern, auch wenn sie gerade produziert und gebraucht wird?! Hast du dir die verlinkte Folie überhaupt angeschaut?\n\nUnd warum sollte man so grenzdebil sein und ausschließlich Batterien, selbst für Langzeitspeicherung nehmen? Noch nie von Power to gas, oder pumpspeicherkraftwerken gehört. Nur um mal ein paar Beispiele zu nennen. Und nochmal, die Sektorkopplung gibt's ja auch noch!",
+        "date": "2021-01-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Norwegen verkauft sein Öl und hat für seine Bevölkerung das Geld in Fonts investiert, wodurch diese finanzielle Vorteile zieht. Ausserdem verfügt das Land über die Möglichkeit Wasserkraft in enormer Menge zu nutzen, welche deutlich weniger volatil ist wie unser Ökostrom. Das Modell funktioniert so für uns nicht.",
+        "date": "2021-01-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Für deine Beispiele halte ich die Grünen allerdings für die falsche Partei.\n\n&gt;China ist tatsächlich weit vorne beim Infrastrukturausbau einschließlich E-Mobilität und -Industrie\n\nDeren Infrastrukturausbau ging zunächst mal ziemlich heftig auf Kosten der Umwelt. Die bauen weiterhin reichlich neue Kohlekraftwerke, wenn nicht sogar weltweit die meissten. Ansonsten haben die auch weit aus weniger Vorschriften und Regularien. Da werden Häuser mal eben hochgeballert und wenn die dann einfallen und 20 Leute begraben, naja. Die für die Grünen so heiligen Menschenrechte sind in China auch nicht sonderlich populär.\n\nSicher könnte man hier und da etwas in Richtung China optimieren (z.B. Flughäfen in unter 10 Jahren fertig bekommen) aber für die Grünen ist doch so ziemlich alles was China treibt ein No-Go und mit dem was bei den Grünen alles auf dem Programm steht, sollten sie China als Vorbild direkt streichen.\n\n&gt;die baltischen Staaten haben großen Vorsprung bei der Digitalisierung\n\nJa, bei dem Punkt hängt Deutschland tatsächlich stark hinterher. Auch wenn die Grünen jetzt irgendwelche Forderungen stellen, bin ich mir unsicher ob sie sich dann nicht wieder mit \"Geschlechterquote am Kabelschacht\" verzetteln. Denn das ist auch so ein Kernelement von denen.\n\n&gt;die Amis bei Entrepreneurship\n\nDie haben allerdings auch weit aus weniger Steuern, Sozialabgaben und sonstige Arbeitgeberregularien. Die kannst du schnell mal ein Startup gründen, ein paar unterbezahlte Mitarbeiter verheizen usw. Da wäre eventuell eher die FDP zu wählen. Denn die Grünen rufen ja in den genannten Punkten nur nach \"mehr mehr mehr\".\n\n&gt;Norwegen erneuerbare Energien\n\nDie Grünen (und auch keine andere Partei) wird die geografische Situation Norwegens hier herholen können. Denn in Norwegen wird mehr als 90% des Stroms aus Wasserkraft gewonnen.\n\n&gt;die Schweizer beim Bahnausbau\n\nVieleicht können die Grünen hier tatsächlich was bewegen, wenn sie sich nicht in einem ihrer sonstigen Ideologiethemen verzetteln. Sie hat ja letztens erst bei Anne Will gefordert, Gendern zur Systemfrage zu machen.\n\n&gt;Hab ich behauptet, dass andere Länder es schon geschafft haben? Im Gegenteil, deswegen müssen wir jetzt vorpreschen.\n\nVorpreschen, der Welt Heldentaten beweisen und dabei voll abheben, geht in Deutschland auch gern mal komplett nach Hinten los. Da wäre es mir lieber wir würden auf dem Boden der Tatsachen bleiben.",
+        "date": "2021-01-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Selbiges gilt für Wasserkraft?",
+        "date": "2021-01-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich dachte immer, die Wasserkraft wäre das Dynamische, mit dem man spontan Spitzen abfängt",
+        "date": "2021-01-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Nicht in Deutschland. Da gibt es hauptsächlich Laufwasserkraftwerke, die relativ konstant laufen.\n\nAußerdem ist der Gesamtanteil der Wasserkraft so klein, dass sie nicht vollständig erfasst wird. Da werden dann in der Grafik gemittelte Werte erfasst ([siehe hier](https://energy-charts.info/explanations.html?l=de&amp;c=DE)).\n\nDie Spitzen deckt man in Deutschland eher mit Pumpspeichern ab. Die sind aber in der Grafik gar nicht enthalten.",
+        "date": "2021-01-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Es muss ganz klar noch an weiteren Lösungen und ideen gearbeitet werden, Wasserkraft vorantreiben, Cluster einteilen in denen einzeln Frequenzschwankungen ausgeglichen werden und so weiter. Natürlich gibt es Risiken, aber kaum eine zukunftsweisende Innovation ist risikofrei.",
+        "date": "2021-01-14",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Klar, das ist möglich. Die Stromerzeugung aus regenerativen Quellen muss zu günstigen Zeiten wesentlich mehr Strom erzeugen, als verbraucht wird, damit man die Speicher vollmachen kann. Regelbare Wasserkraft, Spitzenlast aus Biogas, Wasserstoffspeicher, Wärmespeicher, da ist viel möglich, bevor man auf Kohle zurückgreift.\n\nEs muss eben die Entscheidung getroffen werden, das man Kraftwerke und Speicher bezahlt, die teilweise weniger als 20% der Zeit aktiv sind.",
+        "date": "2021-01-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Deutschland kann rund 3 Gw jeweils aus Österreich und der Schweiz importierten und 2 insgesamt aus Norwegen und Schweden. Alles Wasserkraft.",
+        "date": "2021-01-14",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ging eher um Wasserkraft und Solarenergie. Da haben sie nämlich eindeutig Vorteile. Der Umbau des Portfolios wurde übrigens 2012 entschieden, 2011 sind die Grüne haben die Grünen den Landtag übernommen.",
+        "date": "2021-01-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Ging eher um Wasserkraft und Solarenergie. Da haben sie nämlich eindeutig Vorteile.\n\nAuch im Rest von Deutschland gibt es Flüsse und Mittelgebirge. Der Vorteil in der Solarenergie wird durch den Nachteil beim Wind mehr als wettgemacht.\n\n&gt; Der Umbau des Portfolios wurde übrigens 2012 entschieden, 2011 sind die Grüne haben die Grünen den Landtag übernommen.\n\nDie Strategie dazu gab es durchaus auch vorher schon, so was wird nicht innerhalb eines Jahres geändert. Außerdem gehören dem Land ja wie gesagt nur 46,75%, genauso viel gehört den OEW, die klar CDU-dominiert sind. Hier so zu tun, als wäre dieser Umbau wegen den Grünen passiert, läuft an der Realität vorbei. Er hat einfach wirtschaftlich Sinn gemacht, weil die wegbrechenden Einnahmen aus den AKWs irgendwie ersetzt werden mussten.",
+        "date": "2021-01-15",
+        "sentiment": "neutral"
+    },
+    {
+        "text": " ,,Die Strategie dazu gab es durchaus auch vorher schon, so was wird nicht innerhalb eines Jahres geändert. \" \n\nDavor hat man sich noch auf die konventionellen Energie verlassen. Und natürlich haben die Land einen großen Einfluss auf EnBW.\n\n \n\n\"Gläser versicherte, der Städtetag und der Verband kommunaler Unternehmen wollten gerne die notwendige ordnungspolitische und energiewirtschaftliche Neuorientierung im Verbund mit den Gesellschaftern der EnBW \"konzeptionell mitgestalten\".\n\n\"Dabei ist es grundsätzlich positiv, wenn man auf Augenhöhe miteinander spricht\", betonte Gläser. Mit Villis sei dies durchaus zu machen: \"Er ist ein seriöser und cleverer Unternehmenslenker.\"\n\nGläser wandte sich gegen eine kategorische Absage einer Kapitalerhöhung durch die grün-rote Landesregierung schon zum jetzigen Zeitpunkt. \"Die EnBW muss aber vorher genau darlegen, was sie mit dem Geld vorhat.\" Wenn die programmatische Neuausrichtung unter Einschluss der Kommunen und Stadtwerke schlüssig dargelegt werde, sei der richtige Zeitpunkt gekommen sich über eine Kapitalerhöhung oder andere Formen der Kapitalbeschaffung an einen Tisch zu setzen. Die kommunale Seite müsse dazu wegen der Rückwirkungen auf die Daseinsvorsorge intensiv einbezogen werden.\"\n\n[https://www.welt.de/regionales/stuttgart/article13544095/EnBW-hat-Politik-nicht-ernst-genug-genommen.html](https://www.welt.de/regionales/stuttgart/article13544095/EnBW-hat-Politik-nicht-ernst-genug-genommen.html)\n\nBaden-Württemberg hat rund das doppelte von Sonnenstunden wie der Norden, viel Wasserkraft und inzwischen mit neuer Technik auch gute Möglichkeiten mit Windkraft wo man auch auf teilweise 300 oder mehr Volllaststunden im Jahr kommt. Der perfekte Energiemix.",
+        "date": "2021-01-15",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Davor hat man sich noch auf die konventionellen Energie verlassen.\n\nDavor war ja gerade auch der Atomausstieg rückgängig gemacht worden. Trotzdem hat man sich natürlich schon Gedanken gemacht, was man ohne AKWs machen würde.\n\n&gt; Baden-Württemberg hat rund das doppelte von Sonnenstunden wie der Norden, viel Wasserkraft \n\nNur ist Baden-Württemberg halt nicht sein eigenes Netzgebiet, sondern mit dem Rest von Deutschland verbunden, sodass davon auch andere Bundesländer profitieren. Außerdem hat z.B. RWE signifikante Anteile an den baden-württembergischen Pumpspeichern.  \nAlso wie soll das ein Vorteil für die EnBW sein? Deren Erneuerbaren-Portfolio verteilt sich über Deutschland, inklusive Offshore-Windparks in Nord- und Ostsee. Genauso wie auch andere Energiekonzerne Erneuerbare in BW bauen können.\n\n&gt; und inzwischen mit neuer Technik auch gute Möglichkeiten mit Windkraft wo man auch auf teilweise 300 oder mehr Volllaststunden im Jahr kommt.\n\nReicht halt trotzdem nicht, um sich damit in den Ausschreibungen gegen die noch besseren norddeutschen Standorte durchzusetzen.",
+        "date": "2021-01-15",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Und woher weißt du, dass es nicht irgendwo ein geheimes Labor gibt?\n\nChina’s guter Wille ist nicht ganz uneigennützig. Mit Atom- und Wasserkraft ist China auf dem besten Weg absolut autark zu werden und unabhängig von Öl und Gas zu sein. Als ob China das nur aus purer Nächstenliebe macht.",
+        "date": "2021-01-22",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Tatsächlich kann es das wirtschaftlichste sein, ihn gar nicht zu nutzen.  Das gilt für die wirklich ganz seltenen Spitzen (negative Strompreise treten so 200h pro Jahr auf, nur mal als Hausnummer). Ansonsten gibt es Export (z.B. auch die neuen Leitungen nach Norwegen, Dänemark und Belgien - die werden aber z.B. auch zum Import von Wasserkraft aus Skandinavien genutzt), verheizen (\"Power-to-heat\") oder Batteriespeicher (aktuell noch nicht wirklich wirtschaftlich, aber immer noch günstiger als Elektrolyse).",
+        "date": "2021-01-24",
+        "sentiment": "negative"
+    }
+]

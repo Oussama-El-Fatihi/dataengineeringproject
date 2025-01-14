@@ -1,0 +1,22 @@
+[
+    {
+        "text": "&gt;Die Menschen müssten spüren, dass es in ihren Ländern bergauf gehe. Deutschland wolle etwa mit Innovationszentren im Bereich Ernährung, Ausbildungspartnerschaften sowie dem Ausbau der Solarenergie helfen, kündigte Müller an. Er forderte einen neuen Marshall-Plan für Afrika und warnte vor einem \"neuen Neokolonialismus\" großer internationaler Investoren, die Menschen und Ressourcen ausbeuteten und dabei mit korrupten Minderheiten und Eliten in einigen Ländern zusammenarbeiteten. \"Dies muss gestoppt werden\", sagte er mit Blick auf das Verhalten Chinas.\n\nNur sind China gerade die einzigen die wirklich krass investieren und Arbeitsplätze schaffen. Natürlich wird irgendwann die, entstehende, Mittelschicht nach Freiheit und Mitspracherecht rufen -- aber bis dahin werden die Chinesischen Ausbeuterfirmen wohl eine der wenigen Sachen die der breiten Masse überhaupt Aufstiegschancen bietet. ",
+        "date": "2016-10-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; **Indiens Regierung hat soeben ein Milliardenprogramm für Solarenergie gestartet. China allein baut so viele Windräder wie der Rest der Welt zusammen. Und in den USA wollen Milliardäre mit Elektroautos künftig viel Geld verdienen**\n\n&gt; In erneuerbare Energien wird global bereits mehr Geld investiert als in die fossil-atomaren Energieträger. Auf dem Pariser Autosalon war zu hören: Jetzt kommt die Wende. Die Zukunft fährt elektrisch und erneuerbar.\n\n&gt; Angetrieben wird dieser Wandel durch den Pariser Klimaschutzvertrag, mit dem die Vereinten Nationen endlich einmal zeigen, dass sie vereinte Nationen sind. Die Welt als Weltfamilie beim Klimaschutz. Das ist neu und aufregend. So hilflos und zerstritten die Welt beim Syrienkrieg ist, so vereint ist sie jetzt beim Klimaschutz – zumindest auf dem Papier.\n\n&gt; Die Ursache dafür ist freilich nicht ein plötzlich ausgebrochener globaler Idealismus, sondern ganz banal und profan: Mit Sonne und Wind lässt sich bereits viel Geld verdienen und morgen noch viel mehr. Immer mehr Menschen und Unternehmer begreifen, dass erneuerbare Energien weitgehend kostenlose Geschenke des Himmels sind, weil keine Brennstoffkosten anfallen und erst recht keine Folgekosten. Im Gegensatz zu Kohle, Gas, Öl und Atom\n\n&gt; [...]",
+        "date": "2016-10-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Planbarkeit ist richtig und muss in die Gesamt Pro/Con Liste natürlich mit aufgenommen werden. Ebenso das bei Solarenergie natürlich auch Energiespeicher für die Nachtverbräuche eingepreist werden sollten. Aber die waren ja auch schon bei Kernkraftwerken nötig weil die für die Nacht ihren Output nur ein klein wenig runterregeln konnten. Deswegen gab/gib es ja so Geschichten wie Pumpspeicherwerke und Nachtstromöfen.",
+        "date": "2016-10-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Paar Kritikpunkte zu den Daten, bzw. Relativierungen, warum das weniger schlimm ist, als es sich anhört. Die meisten gehen aus deinem ersten Link bereits hervor:\n\n* Umwandlungsverluste sind ca. 25% des Primärenergieverbrauchs. Das sind vor allem Umwandlungsverluste durch Wärmekraftwerke, welche als statistisches Artefakt wegfallen (PV und Windkraft haben ja keinen Treibstoff in dem Sinne, daher ist Primärenergie = Sekundärenergie, auch wenn das physikalisch nicht korrekt ist), und durch Straßenverkehr, welche immerhin stark verringert werden (&gt;90% Wirkungsgrad bei elektrischen Fahrzeugen vs. 30% bei Benzinfahrzeugen)\n\n* Beim Endenergieverbrauch sind ca. 30% nur Heizwärme und Warmwasserbereitung. Wärme ist im Grunde ein Abfallprodukt, daher kann man mit Wärmepumpen viel machen. Es gibt bereits heute Passivhäuser, die mehr Energie erzeugen als verbrauchen. Das wären noch einmal 20% des Primärenergieverbrauchs, wo man mit Technik von heute bereits sehr viel machen kann.\n\n* Im Moment legt der Ausbau der Solarenergie ein exponentielles Wachstum hin (auch in Deutschland soweit ich weiß, hab aber keine Quelle, darfst mir das also gerne hier widerlegen, wenn du Bock hast die Quelle zu suchen). Das geht natürlich nicht ewig so weiter, aber die meisten Industrienationen sind noch gar nicht richtig in Fahrt, was den Ausbau angeht, da geht also noch durchaus was.\n\nGrund, wirklich pessimistisch zu sein, sehe ich jetzt noch nicht.",
+        "date": "2016-10-16",
+        "sentiment": "neutral"
+    }
+]

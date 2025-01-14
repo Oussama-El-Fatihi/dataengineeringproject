@@ -1,0 +1,42 @@
+[
+    {
+        "text": "O.o ah ouais ??\nJe regarderai ça\n\nedit : Mon mauvais. La valve est controlée hydrauliquement pendant la compression pour fermer plus tard.\nhttps://mag.toyota.co.uk/toyota-use-atkinson-cycle-engines/",
+        "date": "2024-10-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Le mix énergétique européen n'a pas de sens. Les pays du nord veulent installer des panneaux solaires et les italiens investissent dans le nucléaire.\n\nNon, tu racontes n'importe quoi.\n\nLes pays du nord investissent majoritairement dans l'énergie éolienne et hydraulique. Il en produisent tellement qu'il y a plusieurs projets visant à acheminer cette énergie vers le reste de l'UE.\n\nL'exploitation du photovoltaïque dans l'UE reste marginale par rapport à des pays comme le Maroc..\n\n[https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023](https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023)\n\nhttps://preview.redd.it/a4k2nv7cqbwd1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=37c3a351a3dd88248cd6836795e80702676009a5",
+        "date": "2024-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Le mix énergétique européen n'a pas de sens. Les pays du nord veulent installer des panneaux solaires et les italiens investissent dans le nucléaire.\n\nNon, tu racontes n'importe quoi.\n\nLes pays du nord investissent majoritairement dans l'énergie éolienne et hydraulique. Il en produisent tellement qu'il y a plusieurs projets visant à acheminer cette énergie vers le reste de l'UE.\n\nL'exploitation du photovoltaïque dans l'UE reste marginale par rapport à des pays comme le Maroc..\n\n[https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023](https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023)\n\nhttps://preview.redd.it/39y1rpujqbwd1.png?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=06e914e1d4e900107c6a113724842d6b78da723e",
+        "date": "2024-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nucléaire plus ou moins. \nL'hydraulique aussi dans une certaine mesure, bien qu'elle ne prend pas le relais (remplacement de l'existant, vu qu'on est a capacité max) elle fait partie du mix comme une énergie pilotable.",
+        "date": "2024-10-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Il est difficile de miser sur l'hydraulique vu qu'il est impossible de construire de nouveaux barrages en France. Et compte tenu du changement climatique, c'est difficile de parier sur l'abondance en eau.\nEt faire du pilotage avec du nucléaire c'est un non sens économique. A moins de vouloir assumer l'explosion de la facture.",
+        "date": "2024-10-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je suis d'accord avec toi sur l'hydraulique mais pilotage = donner quand le reseau en a besoin. L'hydraulique a cette capacité tout comme le nucléaire, je comprends pas ton point.\nDe plus le nucléaire reste quans même une energie peu coûteuse, c'est ce qui a permis a la france de proposer un prix faible d'energie contrairement aux allemands qui sont au charbon.\nPour ce qui concerne l'eau je suis pas assez renseigné.",
+        "date": "2024-10-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le problème de l'hydraulique, c'est que ces dernières années les niveaux étaient très bas et donc la production incertaine. Et ca ne va pas s'arranger avec le changement climatique. Donc quelque part il faut prévoir des moyens de production de secours (lesquels ?) pour l'hydraulique qui lui même serait le relais des renouvelables. Ce n'est pas le plus efficient, et le moins coûteux d'empiler les moyens de production.\nEt non le nucléaire n'est pas un moyen de production peu cher. Construire (et démanteler) une centrale, ca coute des milliards. Pour rembourser ces sommes il faut que la centrale vende de l'électricité en grande quantité, et là ca commence a être intéressant dur les prix. Une centrale qui ne produit pas coûte très cher contrairement à une centrale au gaz ou au fioul. Donc si tu l'utilises pour pallier l'intermittence des renouvelables, comme elle produit moins, le kWh doit être vendu plus cher. Donc la facture des clients va augmenter.",
+        "date": "2024-10-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "45% de la production chinoise vient maintenant des EnR, la majorité de ces 45% est encore d'origine hydraulique '",
+        "date": "2024-10-30",
+        "sentiment": "negative"
+    }
+]

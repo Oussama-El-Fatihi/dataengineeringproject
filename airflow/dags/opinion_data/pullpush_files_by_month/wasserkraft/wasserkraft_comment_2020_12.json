@@ -1,0 +1,47 @@
+[
+    {
+        "text": "Es gibt Standorte, denen die Anstrengung aufgrund günstigerer Bedingungen wie z.B. besserem Zugang zu Wasserkraft leichter fällt. Gibt sicher noch einen Haufen anderer Standortfaktoren, aber grundsätzlich muss man sich bei der Altersvorsorge nicht am Standort Deutschland festbinden. \n\nDer Wandel zu Erneuerbaren Energien in D ist notwendig und lobenswert, aber behebt nicht andere strukturelle Probleme wie z.B. den demographischen Wandel.",
+        "date": "2020-12-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Die geringsten ist vermutlich wirklich etwas euphemistisch. In Ländern mit sehr viel Wasserkraft oder Stadtstaaten könnte das anders aussehen. Guter Punkt.",
+        "date": "2020-12-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die [HGÜ-Leitung zwischen Norwegen und Deutschland](https://de.wikipedia.org/wiki/NordLink) ist seit kurzem wohl in Betrieb. Damit bekommen wir jetzt in Zeiten mit wenig Wind Wasserkraft aus Norwegen, während wir bei viel Wind Strom nach Norwegen exportieren können. Die Leistung entspricht etwa einem Kernreaktor - im Screenshot wird etwa ein Drittel der Nennleistung benutzt.\n\nDas Bild stammt von [ElectricityMap](http://www.electricitymap.org/).",
+        "date": "2020-12-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die Ausbaufähigkeit von Wasserkraft ist begrenzt, auch in Norwegen, also müssen für die zukünftige Steigerung im Energieverbrauch zusätzliche Quellen erschlossen werden. Und da spielt Windkraft sowohl zu Land (kontrovers) als auch im Wasser (deutlich weniger kontrovers, aber kapitalintensiver) nahezu zwangsläufig eine Rolle. Zumal die Norweger darauf hoffen, zukünftige Einnahmeeinbrüche aus der Öl- und Gasbranche dadurch teilweise auszugleichen, dass sie Strom nach Deutschland, Dänemark usw. exportieren.",
+        "date": "2020-12-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Klar, aber Windkraftanlagen zu bauen dauert ja nicht ewig. Das geht ruckzuck. Wenn es also wirklich dazu kommt, dass die Wasserkraft dort ausgereizt ist, oder einfach nicht mehr die Sinnvollste Alternative darstellt, können die immer noch Windkraftanlagen bauen. \n\nMehr bauen als man benutzen kann bringt doch auch wenig.",
+        "date": "2020-12-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Norwegen hat getrennte Strommarkt-Zonen,  im Normalbetrieb hat dies keinerlei Auswirkungen, da frei zwischen den Zonen gehandelt wird. Bei Engpässen (Überlastung der Stromtrassen zwischen den Zonen) entstehen allerdings lokale Strompreise. Zonen mit weniger Wasserkraft werden kurzzeitig teurer, da fossile Kraftwerke einspringen müssen.\nAls Verbraucher ist demnach auch die geographische Lage entscheidend über die Stromrechnung.",
+        "date": "2020-12-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Norwegen kann die Stromerzeugung wegen ihrer Wasserkraft sehr gut steuern. Vereinfacht kann man sagen, dass sie ein jährliches Strombudget haben, dass sie beinahe beliebig verteilen können.\n\nDas heißt sie können jederzeit Strom aus Deutschland einkaufen, wenn hier viel (ggf. sogar überschüssiger) Windstrom produziert wird. Gleichzeitig können sie eigenen Windstrom produzieren. Wenn uns Windstrom fehlt können sie die Schleusen öffnen und uns eine Menge Wasserkraft schicken. Und wir müssen dafür weniger fossilen Strom produzieren.",
+        "date": "2020-12-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Wieso wäre fossiler Strom unwirtschaftlicher? Das würde ja bedeuten, dass Ökostrom billiger ist als fossiler. Warum reden wir dann überhaupt immer noch über die Energiewende?\n\nWeil wir hier in Deutschland sind, wo wir nur großflächig Solar mit schlechter Effizienz oder im Norden Wind haben. Dagegen stehen international sehr starke Standorte für Wasserkraft oder höhere Effizenz in PV.",
+        "date": "2020-12-14",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Deswegen sagte ich ja auch fürs Gewissen. Klar, jede Kilowattstunde Wasserkraft, die ich nicht nutze, muss wahrscheinlich ein Kohlekraftwerk irgendwo weniger laufen. \n\nIch habe ja viele Jahre Fleisch gegessen und kann dir sagen, so viel Freude ist das gar nicht ^^' \n\nAber ja, wie du sagst, muss jeder wissen, ob ihm das Ja! Nackensteak wirklich so viel Freude bereitet. Ich finde übrigens nicht, dass es das Tierleid \"wert\" ist, wenn ich Käse esse. Ich handle einfach egoistisch und nicht vernünftig/rational, wenn ich Fondue mache.",
+        "date": "2020-12-22",
+        "sentiment": "negative"
+    }
+]

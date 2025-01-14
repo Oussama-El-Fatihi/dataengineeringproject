@@ -1,0 +1,57 @@
+[
+    {
+        "text": "Ich war kürzlich in der Schweiz die Wasserkraftwerke im Grimsel Gebiet besichtigen. Diese Speicherseen speichern während dem Sommer Wasser und geben es im Winter ab. Wenn es in Deutschland eine kalte Flaute gibt (kein Wind, keine Sonne), wird Strom aus der Schweiz importiert, die Kraftwerksbetreiber werden quasi gezwungen zu liefern, damit das Netz stabil bleiben kann. Dabei werden speziell diese Wasserspeicher angezapft, weil man hydraulische Energie extrem schnell (2-6 min) zur Verfügung stellen kann. Solche Situationen sind früher 2-3 mal pro Winter eingetroffen. Die letzten zwei Jahre, mussten die Wasserkraftwerke sooft eingreifen, dass Mitte Winter kein Restwasser in den Stauseen mehr drin war. Auch die Netzstabilität ist häufiger in Gefahr als früher. Fazit des Ganzen ist, in Deutschland muss man sich langsam der Problematik Netzstabilität bewusst werden und sich eine Alternative zu Windkraft und Solarpanels überlegen, weil die Grundlast der AKWs und KKWs im Winter nicht ausreicht um Spitzen abzudecken. Erneuerbar ist schön und gut, aber die Zuverlässigkeit sinkt. Installierte Leistung ist übrigens auch nicht die Leistung die man tatsächlich nutzen kann. Häufig wird viel produziert wenn man gar nichts braucht, dann werden mit geringem Wirkungsgrad Speicher vollgepumpt. Oder wenn man gerade im Winter Strom braucht, kann man nichts produzieren. Man muss weiter forschen und neue Lösungen probieren.",
+        "date": "2018-12-31",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich muss dich an einigen Stellen korigieren. Du hast Recht, dass dieses System explizit so funktionieren soll, aber die Situation ist zurzeit so, dass der Ausbau von Windkraft in Deutschland unangenehme Folgen auf das System Wasserkraft hat. Der Stromverkauf nach Deutschland durch die Betreiber wird von Swissgrid beauftragt, zum gegenwärtigem Strompreis. Die Betreiber verdienen an solchen Situationen u.U weniger als sie sonst machen könnten, und einen Rückerstattungsmechanismus gibt es nicht. Sie werden quasi « enteignet ».Ich habe aus erster Hand vom CEO der KWO, dass sie immer häufiger solche Pflichtabgaben haben und dass die Speicher deutlich schneller leer sind, als sie es gerne hätten und dass ihr Gewinn deswegen sinkt. Entsprechende Ausbauprojekte für neue Talsperren, Leitungen und Wasserfassungen laufen gerade deshalb jetzt an. Der Wirkungsgrad eines Pumpspeicherkaftwerks ist sehr unterschiedlich und erreicht nie den theoretischen Wirkungsgrad der Pumpe + Turbine kombiniert. Er hatte etwas von 25% bis 50% gesagt, ich kenne aus dem Studium rund 65-75%, aber ich glaube ihm.\n\nIch hoffe du missverstehst mich nicht als Gegner von erneuerbaren Energien, aber ich denke Deutschland hat (noch) keine schlüssige Energiestrategie, wie bspw. die Schweiz. Es ist kein Konzept erkennbar wie man mit Verbrauchsschwankungen umgehen wird (Smart Grids, Speicher,...?), wie man die Grundlast mot Kohle und Atomausstieg erzeugen will, etc.",
+        "date": "2019-01-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Da der Bedarf also zumindest zum Teil von Kohle gedeckt werden muss, werden mit einem steigenden CO2-Preis auch die Strompreise steigen.\n\nDann werden aber ganz schnell Erneuerbare günstiger und werden plötzlich ohne Förderung wirtschaftlich. Was das bedeutet sieht man aktuell z.B. in Spanien. Da geht es jetzt richtig rund.\n\n&gt;Ob die Anlagen ohne EEG-Förderung überhaupt weiterbetrieben werden, ist noch mehr als unsicher. Für die meisten Standorte dürfte sich eher ein Repowering anbieten, womit dann auch wieder EEG-Förderung fällig wäre.\n\nBei Windkraft ja, wobei viele Standorte gar nicht mehr für Repowering in Frage kommen wegen neuen Verordnungen. Solange sich die Wartungskosten in Grenzen halten werden die aber weiter betrieben.\n\nBei Solar sowieso, da ist Repowering in der Regel uninteressant, weil die Ausbeute nicht wesentlich steigen wurde und Wartungskosten auch nicht so viel niedriger ausfallen. Spannend wird es da eher, ob man für mittelgroße Anlagen ein vernünftiges Vergütungsmodell findet. Lohnen würde sich das aber ziemlich sicher, von daher wird da wohl etwas kommen. Anbieter die Strom von Kleinanlagen gebündelt kaufen gibt es ja schon, für die sind solche Anlagen Gold wert.",
+        "date": "2019-01-23",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Das Problem dabei ist ja, dass heute, windstiller Wintertag, zum Beispiel nur 7% aus Solar- und Windkraft kommen. Daher muss man ja Kraftwerke vorhalten die täglich die benötigte Grundlast liefern können.",
+        "date": "2019-01-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich finde es ja toll, dass sich die Jugend fürs Klima begeistert. Kann mir auch einer der Demonstrierenden mal erklären, woher der Strom dann kommen soll? \n\nAus Atomkraftwerken fällt in Deutschland ja mal weg. Wasserkraft ist auch nicht so ohne weiteres drin. Solar.. naja. Bleibt Windkraft? Ok, nur blöderweise weht es nicht die ganze Zeit. Und Energie speichern ist halt nicht ganz so einfach. Wie gehen wir alle mit Windstille um? Also was dann.. Fracking? \n\nMomentan ist meines Wissen die Lösung, den Strom von AKWs aus den Nachbarländern einzukaufen. Soll das weiterhin so geschehen?\n\nIm übrigen ist das kein Zynis- oder Populismus, sondern ernst gemeinte Fragen.  ",
+        "date": "2019-01-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Im Artikel wird ein Beispiel genannt, das heißt doch noch lange nicht, dass es das einzige Unternehmen ist. [Hier](https://wind-turbine.com/magazin/innovationen-aktuelles/103648/erste-windstrom-ppas-in-deutschland-abgeschlossen.html) und [hier](https://www.welt.de/wirtschaft/article181515450/Erneuerbare-Energien-WPD-kauft-Windparks-nach-Ende-der-EEG-Foerderung.html) werden noch andere erwähnt. Das ganze ist ein relativ neues Geschäft, noch gibt es ja keine Windräder, die man dafür nutzen könnte.\n\nKlar, man wird bestimmt nicht jedes einzelne Windrad erhalten. Manchmal wird es sich auch einfach nicht lohnen. Aber ich würde nicht erwarten, dass massenhaft Windkraft verschwindet.",
+        "date": "2019-01-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ja, die werden wahrscheinlich Windkraft gebündelt einkaufen und an Kunden wie Daimler weiter verkaufen. Teilweise werden solche Verträge auch genutzt, um sich gegen steigende Strompreise abzusichern.",
+        "date": "2019-01-26",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wobei natürlich PV alleine nicht ausreicht, dafür liegt Deutschland einfach zu weit im Norden und entsprechend ist auch Windkraft essientiell, gerade im Winter. Und bei Windkraft hat man natürlich Mindestabstände die man einhalten muss und das macht es schon schwieriger, aber möglich ist es natürlich trotzdem. (Außer man versucht es künstlich zu verhindern, siehe Bayern.)",
+        "date": "2019-01-27",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Das ist hauptsächlich den Dimensionen geschuldet. Die segelfläche skaliert nicht gut mit der Schiffsgröße, da die Anforderungen an die Masten überproportional mit ihrer Höhe wächst (und die Rotoren / Segel nicht nebeneinander stehen können). Mit anderen Worten: ein großer Frachter kann nicht annähernd so viel Windkraft pro tonne haben wie ein kleiner. \n\nWenn also ein großes Schiff 30% durch Windkraft angetrieben werden könnte, kann ein kleineres bis zu 100% schaffen. Es hat nur momentan keiner Interesse an kleinen Schiffen.",
+        "date": "2019-01-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wenn man weiter auf saubere, sichere und zukunftsfähige Kernkraft gesetzt und nicht überall Windkraft- und Photovoltaikanlagen hingebaut hätte, dann würden die schönen Bienen heute mehr Platz haben. ",
+        "date": "2019-01-31",
+        "sentiment": "positive"
+    },
+    {
+        "text": "So ein Käse. Die Gesamtfläche für Landwirtschaft inklusive Monokulturen und Pestizideinsatz sind etwa 47 Prozent (davon etwa 7 Prozent ökologische Landwirtschaft, kann man abziehen). Photovoltaikanlagen machen in Deutschland etwa 6 Prozent der Gesamtfläche aus. Obwohl der Anteil von Solaranlagen in Süddeutschland etwas höher ist, ist das immer noch ein ziemlich geringer Anteil. Auf den Flächenverbrauch von Windkraft brauch ich nicht eingehen... \n\nZwischen den Kollektoren von Solaranlagen können sogar Blühflächen angelegt werden und Studien belegen dass sich da teilweise geschützte Tierarten sehr wohlfühlen. ",
+        "date": "2019-01-31",
+        "sentiment": "negative"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "text": "Da hast du natürlich völlig recht, aber \"bisher ist alles gut gegangen\" reicht bei der Energieinfrastruktur natürlich nicht aus.\n\nDas Problem wird auf uns zukommen und wir sollten schauen, was der beste Weg für uns ist. Neben Speichern gibt es ja auch noch den Import von Strom aus zuverlässigeren Quellen (Atomkraft aus Frankreich, Wasserkraft aus Schweiz und Nordeuropa, in gewissem Umfang Windkraft aus Dänemark). Damit muss man sich aber beschäftigen bevor das Problem da ist, weil eine Lösung wird Jahrzehnte brauchen.",
+        "date": "2024-07-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Dafür reicht es nach Frankreich zu schauen. Dort wird kaum Kohle verstromt.\n\nLangfristig haben aber weder Kohle noch Atomkraft eine großartige Zukunft. \"Grundlastfähigkeit\" ist ein veraltetes Konzept. Windkraft ist genauso geeignet, um den Bedarf von abends bis vormittag zu decken und tagsüber ist Solarstrom konkurrenzlos billig zu produzieren. Für kurzfristige Engpässe zum Ausgleich von Bedarfsspitzen sind Gaskraftwerke ideal.\n\nNatürlich benötigt es dafür einen möglichst liquiden gesamteuropäischen Strommarkt, einen fortschreitenden Netzausbau inklusive Ausbau der Grenzkoppelstellen und auch mehr Speicherkapazitäten. Aber da geht die Reise auch hin, wenngleich es gerne etwas schneller gehen dürfte.",
+        "date": "2024-07-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Wenn es noch X GW Kernenergie gäbe…\n\nGenau das ist nämlich nicht der Fall. Wenn man schon AKWs hat, ist der Anreiz, neue EE zu bauen, relativ gering. AKWs sind verdammt teuer, sie müssen also am besten dauerhaft laufen und Strom produzieren. Neue EE sind aber deutlich billiger und produzieren billigeren Strom, weshalb Kernkraft am Markt verdrängt wird. Aus ökonomischer Sicht macht es wenig Sinn, den Ausbau der EE voranzutreiben, wenn man noch AKWs betreibt.\n\nFrankreich z.B. „umgeht“ das, indem die AKWs eine Preisobergrenze für den erzeugten Strom haben. Wenn sie den Strom für mehr als 4,2 ct/kWh (7 ct/kWh ab 2026) am Strommarkt verkaufen müssen, übernimmt der Staat die zusätzlichen Kosten. So können die AKWs weiterhin betrieben werden.\n\nTrotzdem ist der Ausbau von EE in Frankreich deutlich schlechter als in DE. Frankreich hat viele Küsten, die sich für Windkraft eignen, PV-Anlagen könnten mehr Strom liefern als in Deutschland. Und trotzdem hat Frankreich wenig EE.",
+        "date": "2024-07-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Für PV stimmt das definitiv nicht, der Ausbau ist regelrecht explodiert nach den etlichen Änderungen der Ampel.\nBei der Windkraft sieht's auch so aus, aber da erkennt man's bislang erst bei den Zahlen bzgl. genehmigten Anlagen.",
+        "date": "2024-07-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Trifft auf BaWü sehr wahrscheinlich zu. Dort wird aber auch kaum Windkraft installiert.",
+        "date": "2024-07-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Der einfachste Schritt, den wir in solchen CO2/kWh-Betrachtungen tun könnten, wäre wirklich die Abschaltung der Braunkohle so bald wie möglich mit Ersatz der Leistung durch halbwegs moderne Gaskraftwerke. Jedes GW Braunkohle, das noch regelmäßig am Netz ist, verhagelt uns die Bilanz beim CO2 einfach total.\n\nAber daran laboriert die Ampel nun seit längerer Zeit herum, zwischendurch sind die Mittel aus dem Corona-Sondervermögen weggefallen (die waren glaube ich u.a. auch dafür gedacht) und man wird sehen, wann das was wird mit den neuen Gaskraftwerken.\n\nDie Politik in Ostdeutschland hat da ja auch gar keinen Bock drauf, obwohl glaube ich gar nicht sooo viele Jobs daran hängen. Aber es ist vermutlich \"Identitätsstiftend\" und droht daher Teil des Kulturkampfes zu werden, wenn es das nicht schon ist.\n\nAlso bleibt vielleicht erstmal nur die Hoffnung, dass immer mehr Windkraft und immer mehr PV-Anlagen immer öfter dazu führen, dass die Strompreise an der Börse mittags und bei Wind so niedrig sind, dass es sich für die Braunkohlekraftwerke öfters nicht mehr lohnt und daher weniger Braunkohlestrom erzeugt wird. Alternativ könnten auch die CO2-Preise auf EU-Ebene steigen (EU-ETS), um die Braunkohle unattraktiver zu machen.",
+        "date": "2024-07-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der Anteil ist sehr niedrig. Deutschland hat 2023 Netto nur 2,6% Strom importiert, hauptsächlich Windkraft aus Dänemark. Wir sind NICHT darauf angewiesen, tun es aber um Geld und Gas zu sparen.\n\nhttps://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2024/20240103_SMARD.html#:~:text=Die%20Netzlast%20sank%202023%20insgesamt,%3A%20493%2C2%20TWh%20).",
+        "date": "2024-07-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ok bei der Größenordnung von \"5-10%\" gehe ich mit, aber der Nettounterschied innerhalb von ein paar Jahren ist wirklich massiv. Nominal sind das jetzt von mir aus \"\"nur\"\" \\~12 Terrawattstunden als Handelsbilanz 2023, der Swing selbst ist -150 Terrawattstunden (von 650?) in Produktion verloren seit 2017, immerhin -75 seit 2022. Würde unser Verbrauch nicht gleichzeitig mitfallen wäre das viel schlimmer, aber der Verbaucht sinkt auch durch höhere Marktpreise und Volatilität, denn Unternehmen werden wettbewerbsunfähig. Ist halt wie ichs dreh und wende nix gutes. Und \"mehr Erneuerbare\" lösen das Problem so nicht. Übrigens sind wir mit 11.7 TWh in 2023 nach der UK die zweitschlechteste Strombilanz ganz Europas, also wenn das kein großer Stil ist dann weiß ich auch nicht, was bei \"uns hier in Europa\" großer Stil sein sollte... [https://energy-charts.info/charts/import\\_export/chart.htm?l=en&amp;c=DE&amp;flow=physical\\_flows\\_all&amp;year=2023](https://energy-charts.info/charts/import_export/chart.htm?l=en&amp;c=DE&amp;flow=physical_flows_all&amp;year=2023)\n\n---\n\nJa, wir importieren sehr viel erneuerbaren Strom aus Dänemark, weil der billig ist wenn die Windkraft da gut dreht. Windkraft ist geographisch auch sinnvoller in Dänemark als in fast ganz Deutschland, unsere Nord/Ostseeküste mal ausgenommen. Dänemark ist übrigens trotzdem ebenfalls Stromimporteur aus Norwegen/Schweden mit Hydro und Atomkraft im Mix... wenn der Wind eben mal nicht weht. \\^\\^ Bei uns aber viel schlimmer, wir haben Wind in schlechterer, unzuverlässiger Lokation und dann noch richtig viel Solar. Gibt es \"Dunkelflauten\" bei uns sind wir gezwungen zu importieren oder unsere Kohlekraftwerke fahren zu lassen. Ist ein hoher Preis. Das ist eher das Problem, was es zu lösen gilt.\n\n---\n\nMal abgesehen davon, dass das hier in eine Grundsatzdiskussion über Stromerzeugung ausgeartet ist, weil mir wohl unterstellt will ich will erneuerbare komplett abstellen, möchte ich nochmal wiederholen: Meine Kritik war dass die Schlagzeile so wie sie ist polemisch ist, weil die so berechnete Metrik zwar richtig ist aber nichts über den Strommarkt aussagt. Nicht dass wir unsere erneuerbaren bitte alle wegsprengen sollten. In einem anderen Kommentar habe ich mir nun Mühe gegeben und mal Quellen hinterlegt die offensichtlich nicht gelesen wurden und mir wurden sowohl Worte in den Mund gelegt als auch meine Argumentation nicht verstanden oder willentlich misrepräsentiert, danke also, dass du das zumindest vermieden hast. \\^\\^",
+        "date": "2024-07-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ja, bin auch für saubere Energie. Grün ist aber was anderes, z.B. brennstofflose Generatoren: Beispiele, die bereits funktionieren, gibt es. Sie beruhen auf den Prinzipien Magnetfeld, Vakuum, kalte Fusion, Antigravitation. Beispiele: Hartmut Dobler (Energie aus einer vertikalen Wassersäule nach dem Pater-Noster-Prinzip, bis 500KW mit einer Säule von 25m möglich, lediglich zum Starten ist ein Generator nötig), Robert Holcomb (Holcomb Energy Systems, Energieerzeugung durch Spin des Eisenatoms), Energie aus dem Quantenvakuum usw. Wie wäre es also, diese Technologien zu fördern? Im Unterschied zur Windkraft handelt es sich um grundlastfähige Systeme, die wir dringend brauchen, um unser Stromnetz stabil auf 50 Hz zu halten, was bei Sturm, Windflaute nicht möglich ist. Zudem stellen die Windparks doch einen erheblichen Eingriff in unsere Kultur- und Naturlandschaft dar. Schlußendlich wäre dann auch Schluss mit Stromimporten aus unseren Nachbarstaaten (z.B. Atomstrom aus Frankreich).",
+        "date": "2024-07-02",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Typische Tatsachenverdrehungen von \"Süddeutsche Zeitung\".  \n\nGeothermieanlagen werden in Bayern, dort wo sie geologisch möglich sind, eine neben der anderen gebaut, bei uns locker ein Dutzend auf 50 km. Diese sind kommerzielle Investitionen, die Rendite abwerfen. Wozu genau sollte man sie mit Steuergeld fördern? Nur technische Neuland-Anlagen wie der EAVOR-Loop werden gefördert.\n\nWindkraft wird in Bayern sehr stark gefördert. und zwar durch den Abbau von juristischen Hürden, mit denen früher kommerzielle Klageorganisationen wie DUH und NABU jeden Windpark um mindestens 5 Jahre verzögerten und dabei Millionen verdienten. Seit kurzem ist in Bayern jede Kommune verpflichtet auf ihrem Gebiet Windkraftflächen auszuweisen. Wenn Anlagen durch den juristischen Dschungel durch sind und gebaut werden, werfen auch sie gute Rendite ab und werden problemlos über Banken und Bürgerbeteiligung finanziert. Wozu mit Steuergeld fördern?\n\nWasserstofftechnologie ist hingegen noch kein kommerzielles Geschäft. Aber wenn die technische Entwicklung so schnell weitergeht, wird sie im staionären Verbrauch, also vor allem Industrie, eine sehr hohe CO2-Einsparung bringen. Das sind gute Gründe, die Entwicklung mit Fördergeld zu forcieren.",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wie du dem Artikel sicher entnommen hast, ist das eine Meldung der dpa, die nur übernommen wurde.  \n\n\nKann es sein, dass du minimale Vorbehalte der SZ gegenüber hast? \n\n\n&gt;Windkraft wird in Bayern sehr stark gefördert. \n\n\nlol",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Duh hat nie und klagt auch aktuell nicht gegen Windkraft.",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dass Naturschutzhürden gefallen sind für den Ausbau der EE kam von den Grünen, nicht von der bayrischen Lokalfolklore-Partei. Davor war die CSU berühmt berüchtigt Kriterien für den Ausbau zu definieren (Abstand etc), die den Ausbau von Windkraft effektiv verhindert haben.",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Im Bundesnaturschutzgesetz wurden die Prüfkriterien für den gesetzlichen Artenschutz verknappt und vereinfacht. Das ist eine der Bundesregelungen für die Beschleunigung des ausbaus von EE. Da gibts auch mehr, zum Beispiel quoten an Landesflächen für Windkraft die von der Raumordnung zu vergeben sind, sonst ists free for all.",
+        "date": "2024-07-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Bayern fördert Windkraft? In den letzten Jahren sind Bayern, Sachsen und Thüringen Schlusslicht bei der jährlich genehmigten Leistung. Die von dir angesprochenen Vereinfachungen sind Bundesrecht (§§ 6 WindBG, 45b, c BNatSchG, 16b, 63BImSchG, aktuelle Novelle des BImSchG,...). Die Flächenausweisungen sind europarechtlich vorgegeben und in Dt. durch § 3 WindBG vorgegeben. Bayern ist unter keinem mir bekannten Gesichtspunkt Vorreiter der Windenergie, im Gegenteil.",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Kommentare, also Meinungsäßerungen klar von Sachinformation zu trennen gehört zur guten journalistischen Etikette.\n\nUnd Sachen so zu verstehen, wie sie geschrieben werden, gehört zur einfachen Lesekompetenz.\n\nAn welchem Punkt verbreitet denn die SZ (bzw. eigentlich Marco Hadem von der DPA) hier Meinung? Dass Erdwärme und Windkraft finanziell kaum gefördert wird, ist erstmal eine Tatsachenfeststellung. Besonders dann, wenn man zur Einordnung die Förderungen für andere regenerative Energien danebenstellt.\n\nDer Rest ist dann reine Gegenüberstellung von Aussagen aus verschiedenen politischen Lagern. Ich sehe einfach nicht, wo an dem Punkt journalistisch unsauber eine eigene Meinung geäußert wird.",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Seufz, den Hauptgrund für den schleppenden Windkraftausbau in Bayern an den juristischen Hürden und den \"Klageorganisationen\" festzumachen ist eine Verdrehung der politischen Stimmung  und den Fakten des letzten Jahrzehnts. Bayern hat 2014 die unnütze 10H-Regelung eingeführt mit der der Ausbau von Windkraft komplett blockiert wurde.   \n\n\nDa du die SZ nicht magst, hier eine andere Quelle dafür: [https://www.br.de/nachrichten/bayern/windkraft-ausbau-bayern-schlusslicht-bei-flaechenlaendern,TzffhVJ](https://www.br.de/nachrichten/bayern/windkraft-ausbau-bayern-schlusslicht-bei-flaechenlaendern,TzffhVJ)\n\n\"Durch die 10H-Regelung sei bei der Regionalplanung jedoch über viele Jahre ein Planungsstillstand entstanden, so der BWE-Landesvorsitzende Bernd Wust. (Bundesverband für Windenergie)\"  \n\n\nKlar gab es Klagen und Bürgerbewegungen aber der Hauptgrund war ein Gesetz der Bayerischen Regierung was eine klares Zeichen an die Industrie und Investoren war. Jetzt Bayern zugute zu halten, dass diese Regularien und Verbote gelockert werden (Gesezte, die sie selbst erlassen hat und bis aufs Blut verteidigt) sollte man ihnen nicht auf die Schulter klopfen. Sie verdienen Kritik für die verschwendete Zeit bei der Energiewende und Versorgungssicherheit gerade weil sie nicht auf Fakten und wissenschaftliche Erkenntnisse gehört haben. \n\nZur Förderung gehört auch Hindernisse aus dem Weg zu schaffen. Nur die CSU schafft gerade Hindernisse aus dem Weg, die sie selbst verbockt haben. Dazu gehört auch die Akzeptanz der Bürger vor Ort.",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oder einfach wissen, wie in Bayern im letzten Jahrzehnt über Windkraft bei der CSU geredet wurde. Dann weiß man schon alles.",
+        "date": "2024-07-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Insgesamt liegt die leitungskapazität zwischen Frankreich und Deutschland bei nur 3,1GW. Das sind gerade mal 5% unseres Bedarfs, und mit ein paar Monaten Solar und Windkraft Ausbau wieder ausgeglichen. Mit Vorlauf für beide Seiten also nicht wirklich kritisch.",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Bayern ist Schlusslicht bei der Windkraft. Das liegt aber nicht an der Förderung, sondern im Wesentlichen daran, dass Bayern das Bundesland ist, in dem am wenigsten Wind weht. Warum dort bauen, solange es woanders bessere Orte gibt?",
+        "date": "2024-07-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Würde ich auch nicht wiedersprechen aber in diesem Fall ist die Einschätzung des Posters, auf den du Antwortest, sehr fraglich und ähnliches kurzsichtiges Bashing. \n\nNatürlich gibt es andere Gwinnungsformen als Wind aber es gibt einfach noch einiges an Potential in Bayern dafür (im Gegensatz zur Wasserkraft z.B) und Solar und Windkraft ergänzen sich einfach sehr gut.\n\nWind hat seinen Energiepeak oft Nachts, z.b.\n\nEs ist einfach eine schlaue Energiegewinnung über die wir viel wissen und sehr erprobt ist. Sie nicht mehr zu nutzen ist einfach leichtsinnig.",
+        "date": "2024-07-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "[Paradox](https://www.br.de/nachrichten/bayern/energiewende-ohne-stromtrassen-ist-das-moeglich-ein-faktenfuchs,TW0dlnf)... \n\n&gt;Trassengegner in Bayern wehren sich gegen geplante Stromtrassen und fordern, dass Windkraft und Solarenergie vor Ort ausgebaut werden.\n\nEs wirkt fast so, als wollen die Bayern beides nicht und deshalb bleibt es beim Status quo...",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;und mit ein paar Monaten Solar und Windkraft Ausbau wieder ausgeglichen\n\nDas größte Bottleneck der Energiewende sind nicht die Kraftwerke sondern die Speicher und die Netzinfrastruktur. Wenn von jetzt auf gleich Frankreich als Lieferant wegfällt können wir das nicht mal eben in ein paar Monaten ersetzen.",
+        "date": "2024-07-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Irgendwie kommt dieses Thema fast nur in Bezug auf Bayern auf im Sub\n\nErdwärme wird hier viel ausgebaut, sehe ich im Münchner Raum auch persönlich\n\nWindkraft dümpelt, aber bei den Erneuerbaren insgesamt ist Bayern eher Mittelmaß\n\nIch würde mein Bundesland gerne auf Platz 1 sehen, auch dafür wähle ich fleißig grün. Aber Mittelmaß ist nicht shitstormwürdig\n\nMich persönlich ärgern die BaWü-Grünen mehr. Die waren meine Wahl in der ersten Landtagswahl, an der ich teilnehmen konnte. Haben die Stimmen der Ökobande aufgesaugt, aber so richtig viel voran geht da auch nicht. Machen nur nicht so viele dumme Kommentare, wie Gottkanzler Maggus",
+        "date": "2024-07-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "NRW, zwischen Niedersachsen und Niederlande ;) hier ist seit jeher tief schwarz - aus meiner Kindheit kenne ich noch Wahlergebnisse 70+% CDU. Mittlerweile sind es \"nur\" noch 50%. Aber kommunal ist die Union hier auch einfach solide. Sie halten in Stand, was in Stand gehalten werden sollte und erneuern, was Erneuerung bedarf. Und sie decken auch \"grüne Ideen\" (setzen sich für mehr Windkraft ein, eigener Fördertopf für PV Anlagen, bauen Fahrradstraßen, arbeiten an weniger Autoverkehr in der Stadt, ...). Klar, nicht immer meiner Meinung, aber eben bodenständig. Kommunal könnte ich mir sogar vorstellen, dort mein Kreuz zu setzen - auf Bundesebene würde ich im Traum nicht drauf kommen.",
+        "date": "2024-07-04",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Allein die abnorm hohen Kosten, die unheimlich lange Bauzeit und der riesige Aufwand zeigen doch, dass die seit Jahrzehnten ach so hochgebetete Kernfusion auch nicht der Game Changer der Energiegewinnung wird. \n\nSolar- und Windkraft sind da schon zig-fach einfacher und kostengünstiger ans Netz zu bringen.",
+        "date": "2024-07-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ich bin beim Emissionshandel recht skeptisch. \nWie sorgen hohe CO2-preise dafür,  dass sich Menschen Haussanierung, Wärmepumpe, E-auto oder Solar aufs Dach dann leisten können? Oder dass das Stromnetz modernisiert wird, Windkraft entsprechend ausgebaut wird usw...\nIch befürchte, dass sind Hoffnung ähnlich der, dass eine Privatisierung der Bahn für Modernisierung des Schienennetzes sorgt.",
+        "date": "2024-07-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Indem die Alternative unbezahlbar wird. Da muss es dann auch nicht das E-Auto sein, sondern der öffentliche Nahverkehr. An den Stellen, wo hohe Direktinvestitionen nötig sind, sollten staatliche Unterstützungen fließen, wie es zB bei der Wärmepumpe der Fall ist. Oder die Regelung, dass Vermieter Teile der Heizkosten übernehmen müssen, wenn da mit Gas geheizt wird bzw die Isolierung schlecht ist.\n\nAuf der anderen Seite hast du einen riesigen Druck auf die Industrie CO2-arme Produkte zu produzieren. Die Nachfrage wird durch die niedrigeren Preise enorm ansteigen.\n\nDer Ausbau erneuerbarer Energien läuft jetzt schon super. Solar und Stromspeicher werden übererfüllt, bei der Windkraft hängt es noch etwas, was aber eher nicht am Willen der Industrie liegt mehr Windkraft aufzubauen.",
+        "date": "2024-07-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Was war nochmal unternehmerisches Risiko?\n\nWenn einfach mal mit nem Fingerschnipps mehrere Milliarden Euro eines Infrastrukturprojekts vernichtet werden können, weil die Politik plötzlich die Rahmenbedingungen ändert, dann darf sich aber niemand bechweren, wenn es keine Großinvestitionen mehr gäbe.\n\nEine Wirtschaft floriert nur bei Planungssicherheit. Wenn diese Planungssicherheit nicht gegeben ist, dann bedarf es Ausgleichszahlungen, ansonsten gibt es halt keine Großinvestitionen mehr in Infrastruktur. \n\nStell dir mal vor Söder wäre Kanzler geworden und hätte eine nationale Abstandspflicht für Windräder nach bayrischem Vorbild erlassen. Dann wäre auf einen Schlag hundert Milliarden Euro Windenergie-Infrastruktur wertlos geworden, weil illegal. Trotzdem wurde in Windkraft investiert. Warum? Weil es in Deutschland Ausgleichszahlungen gibt wenn sich politische Rahmenbedingungen verändern.\n\nKann man doof finden, ist es auch. Aber die Alternative wäre halt, dass hier keiner erst investieren würde.",
+        "date": "2024-07-09",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Mutig mit nem Bayern flair. Hätte Bayern Windkraft gebaut, wären wir schon ein ganzes Stück weiter.\n\nWenn sich Bayern und Baden-Württemberg so gerne AKWs hätten. Können sie gerne ihre eigene Zone bilden und die AKWs selbst finanzieren.\n\nAuch möchte darauf hinweisen. \n\n[https://www.faz.net/aktuell/politik/inland/atomkraftdebatte-der-geschmeidige-markus-soeder-18821759.html](https://www.faz.net/aktuell/politik/inland/atomkraftdebatte-der-geschmeidige-markus-soeder-18821759.html)",
+        "date": "2024-07-09",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Generell die Produktion von Materialien für EE in einen Topf zu werfen ist aber Quatsch. Die Produktion von PV-Modulen in Deutschland war noch nie profitabel und hätte es auch nie sein können. PV-Module sind einfachste low-tech Massenware auf Basis quasi ausgeforschter Technologie. Sowas wird schon immer in China hundert Mal effizienter gemacht. Subventionen für PV-Produktion in Deutschland war schon immer verschenktes Geld. Bei Wechselrichter sieht es (ein bisschen) anders aus und bei Windkraft kann ich es nicht beurteilen.",
+        "date": "2024-07-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Natürlich ist es nicht schlecht wenn wir wir viel PV oder Windkraft ausbauen aber nur mal so zur Relation: Hätten wir überhaupt keine PV ausgebaut und unsere letzten 6 AKWs behalten hätten wir mehr CO2 gespart. Diese 8,4 GW Kernkraft haben mehr Strom produziert als unsere 89 GW PV Leistung.",
+        "date": "2024-07-16",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Lol als würde es daran scheitern in DE. Im Vergleich zu neuen Atomkraftwerken, die viele so enthusiatisch gefordert haben, kosten erneuerbare Peanuts.\n\nLOL, das könnte man tatsächlich glauben wenn man sich nicht mit den tatsächlichen Baukosten beschäftigen würde. Die EE kosten alles andere als Peanuts und der Rattenschwanz an Folgekosten im Netz ist lang und dick.\n\nWenn man Atomkraftwerke in Serie baut, kosten sie - wenn nicht Peanuts, dann zumindest durchaus günstig (s. Südkorea jetzt, oder Deutschland in den 1980ern). Wenn man 20 Jahre lang keins baut, dann anfängt, und dann wieder aufhört, kostet es die Welt. Wenn du das Gleiche mit WKAs tut, ohne aktuelle Erfahrung ein riesiges Windrad irgendwo hinstellt, an Details scheitert, und dann zehn Jahre daran herumwurschtelt, dann würde man auch mit genauso viel Recht sagen können dass Windkraft zu teuer sei.\n\nWenn man in Großserie baut, ist beides günstig. Wenn man an einem vergoldeten Prototypen herumwurschtelt, wird es zwangsläufig unerträglich teuer.",
+        "date": "2024-07-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Also erstens ist es heute halt rechtlich erforderlich die vergoldeten Prototypen zu bauen und die sind halt schlicht unwirtschaftlich.\n\nRechtliche Voraussetzungen kann man ändern, das sind keine Naturgesetze. Nicht jede rechtliche Vorgabe ist automatisch (sicherheits)technisch oder politisch notwendig. Das gilt sowohl für Windkraft als auch für Kernenergie.  \n\n&gt;Und wenn es den Gammelrektoren gerade mal gelingt in Massenproduktion den break-even mit EEs zu erreichen \n\nWarum müssen es gleich \"Gammelreaktoren\" sein? Gibt schon durchaus Raum zwischen vergoldeten Prototypen und \"Gammelreaktoren\".\n\n&gt;(was ich auch für eine These halte in Hinblick auf Rückbau und Entsorgung), \n\nAuch da gibt es Zahlen die dem widersprechen. Spezifisch in Deutschland sind die Regularien zum Rückbau völlig irrsinnig und zum Thema Endlagerung wird aus politischen Gründen jede Entscheidung (egal wofür) aktiv verhindert. Ein gutes Gegenbeispiel sind die Diskussionen und Regelungen zu dem entsprechenden Thema in der Schweiz oder in Schweden.\n\n&gt;Vielleicht die Option, die weder Strahlenbelastung noch Atommüll erzeugt? Ne zu einfach.\n\nNaja, wenn man produktionsbedingten Giftmüll aus der Komponentenfertigung für EE aussen vor lässt...   \nWenn man Break-even mit den Systemkosten der EE + Netz + Stabilisierung + Backup etc erreicht - ja. Wenn man ein Break-even mit den Erzeugungskosten alleine erreicht, also den Kosten, die anfallen wenn der Strom die Turbine bzw. den Gleichrichter verlässt, dann lieber Kernkraft, weil man nicht einen gigantischen Stabilisierungsapparat für die stabile Versorgung zusätzlich bezahlen muss. Für immer und ewig einzulagerndes Giftzeug fällt so oder so an.  \n\nAlso beim letzten APR-1400, den die Südkoreaner gebaut haben (Shin Kori 2) liegt der Investitionspreis bei 1200 €/kW. Das ist etwa auch der südkoreanische Investitionspreis einer modernen Windkraftanlage onshore pro kW. Nur läuft die WKA etwa 25% der Zeit und der Reaktor etwa 85%... Bei uns sind die WKAs deutlich teurer, übrigens.",
+        "date": "2024-07-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Ampel hat schon einiges gerissen. 49€ Ticket. Canabis (teil) Legalisierung. Verbesserte und vereinfachte bürokratische Hürden beim Thema Windkraft, oder um die Fördergelder beim Glasfaserausbau abzugreifen (was wirklich einmal Schwung in die Sache gebracht hat).\n\nJedoch hat sie halt mit einem anderem Haushalt \"gepokert\" und dieser wurde ihnen wegenommen. Zusammen mit der Schlappe der Grünen (und der SPD) bei der EU-Wahl und irgendwie scheinen sie jetzt einen U-Turn zu machen um es den \"Gutbürgerlichen\" und \"besorgten Bürgern\" recht zu machen.",
+        "date": "2024-07-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Hans-Christoph Berndt, Spitzenkandidat in Brandenburg, sprach von einem \"geistigen Bürgerkrieg\" und forderte die Zuhörer auf, für Björn Höcke zu beten. Höcke sei der \"gefährdetste Mann in Deutschland\".\n\n&gt;Höcke selbst hatte das Thema wenige Minuten zuvor mit Blick auf das in der Nacht zuvor bekannt gewordene Attentat auf US-Präsidentschaftskandidat Donald Trump angesprochen: \"Wir hoffen nicht, dass das passiert, was gestern in den Vereinten Staaten von Amerika passiert ist. Dass die Eskalation von Seiten des Establishments, und es ist das Establishment mit seiner Propaganda, ins Volk hinein zu streuen, was diese Polarisierung befördert hat.\"\n\n&gt;Für den Fall einer AfD-Regierung in Brandenburg kündigte Berndt an, in den ersten drei Wochen alles zu übernehmen, was seine Vorredner gesagt haben. Zudem kündige er einen Erlass an, der Regenbogenflaggen an öffentlichen Gebäuden verbiete. Außerdem wolle er Sonderbeauftragte einsetzen, \"die ermitteln wegen Amtsmissbrauch, Korruption und Corona-Unrecht\". Fachleute sollten dafür sorgen, dass \"wir andere Lehrpläne in den Schulen haben\". Für den Ausbau der Windkraft werde es unter einer AfD-Regierung ein \"Moratorium\" geben.",
+        "date": "2024-07-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;  Konkret kündigte Höcke Abschiebeflüge vom Erfurter Flughafen an, was ihm ein \"Herzensanliegen\" sei, **und dass er für Thüringen eigene Aufnahmeabkommen mit anderen Ländern schließen wolle.**\n\nLiegt dies überhaupt im Machtbereich der Bundesländer oder schlägt hier Artikel 32 des Grundgesetzes zu? \n\n&gt; Hans-Christoph Berndt, Spitzenkandidat in Brandenburg, sprach von einem \"geistigen Bürgerkrieg\" und forderte die Zuhörer auf, für Björn Höcke zu beten. Höcke sei der \"gefährdetste Mann in Deutschland\".\n\nGesagt zu welchen Gott? Nicht dass ich zum falschen bete und noch Unheil heraufbeschwöre...\n\n&gt; Höcke selbst hatte das Thema wenige Minuten zuvor mit Blick auf das in der Nacht zuvor bekannt gewordene Attentat auf US-Präsidentschaftskandidat Donald Trump angesprochen: \"Wir hoffen nicht, dass das passiert, was gestern in den Vereinten Staaten von Amerika passiert ist. Dass die Eskalation von Seiten des Establishments, und es ist das Establishment mit seiner Propaganda, ins Volk hinein zu streuen, was diese Polarisierung befördert hat.\"\n\nJa, es sind nicht die Rechten welche die Demokratie umwerfen wollen. Es ist kein Trump der über illegale Einwanderer sowas wie \"poisoning the blood of our country\" sagt. Nicht die GOP welches jedes Thema zum religiösen Kulturkampf aufbaut weil man nur auf Emotionen setzten kann. Und in Deutschland sind es natürlich die \"Altparteien\" welche Gewalt predigen und Rhetorik wie zu Zeiten der Zwischenkriegszeit auspacken. \n\n&gt; Für den Fall einer AfD-Regierung in Brandenburg kündigte Berndt an, in den ersten drei Wochen alles zu übernehmen, was seine Vorredner gesagt haben. Zudem kündige er einen Erlass an, der Regenbogenflaggen an öffentlichen Gebäuden verbiete. Außerdem wolle er Sonderbeauftragte einsetzen, \"die ermitteln wegen Amtsmissbrauch, Korruption und Corona-Unrecht\". Fachleute sollten dafür sorgen, dass \"wir andere Lehrpläne in den Schulen haben\". Für den Ausbau der Windkraft werde es unter einer AfD-Regierung ein \"Moratorium\" geben.\n\nEin Grund mehr den Schulunterricht den Ländern zu nehmen und zentral vom Bund aus für alle zu steuern. Wenn die AfD irgendwo an die Macht kommt fordere ich ein Ende des Länderfinanzausgleichs. Die können gerne ihr gallisches Dorf im Osten haben aber der Rest der Republik muss sowas nicht dulden. Sollen die doch vor Gerichte gehen die sie selbst nicht anerkennen. Die smarten Leute und Firmen kann man gerne in den Süden oder Norden herlocken. \n\n&gt; Höcke, der von außen wahrnehmbaren Reaktionen zufolge im Zuschauersaal sehr gefeiert wurde, äußerte sich auch zu den zwei Verurteilungen zu Geldstrafen, die er wegen der Verwendung einer verbotener Nazi-Parole erhalten hat. \"Das, was man dann spürt, wenn man als völlig unschuldiger Mensch vor einem Gericht steht\", sei für ihn \"die erste wirkliche Diktaturerfahrung\" gewesen. Er wolle die Urteile anfechten. Für ihn persönlich gebe ein \"kein Zurück\". Er werde das \"Durchkämpfen bis zum Sieg\" seiner Partei in Thüringen und im Bund.\n\nJa, beim Volksgerichtshof konnte man bekanntlich auch Widerspruch einlegen und den Rechtsweg gehen...\n\nDie Leute larpen sich spätestens seit Corona einen Zurecht ey. Wäre Deutschland so wie die sich das herbeireden wären die schon längst verschwunden. \n\nToll natürlich auch der Punkt mit dem \"Zwangsgebühren\" von Jörg Urban (den Höcke teilt):\n\n&gt; mit Zwangsgebühren\n&gt; finanzierter öffentlichrechter Rundfunk passt nicht in eine freiheitliche Gesellschaft.\n&gt; Also das muss weg und ich ergänze dazu weil mir das tatsächlich wichtig ist: das\n&gt; Problem dieses Rundfunks sind die Zwangsgebühren. Das Zwangssystem ist das nicht freiheitliche was an eine Diktatur\n&gt; erinnert. Ich habe überhaupt nichts dagegen wenn die eine oder andere Oma sagt ich möchte diese MDR Serie\n&gt; weitersehen dann bezahlt sie freiwillig ihre 18 € und die Welt ist in Ordnung es geht um die Freiwilligkeit. Um einen\n&gt; freien medichenmarkt der am Ende dazu führen wird dass die Qualität steigt und das eben auch politische Neutralität bzw.\n&gt;  politische Vielfalt einzieht. Die Zwangsgebühren müssen weg die gehören nicht in ein freiheitliches\n&gt; Land \n\nJeden shit ist bei denen eine Diktatur. Wette schlechtes Wetter kommt auch daher.",
+        "date": "2024-07-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die stehen in Konkurrenz auf dem Strommarkt, nicht in Konkurrenz zueinander auf dem Investitionsmarkt. Da bringst du Sachen durcheinander. \n\nUnd: ja, Windkraft und Kernenergie passen nicht so gut zusammen, zumindest nicht solange beide in ein Puffer hinein arbeiten. Windkraft mit Windkraft aber auch nicht. Auch wenn zu viel Wind weht, muss ein Teil der WKAs abgeschaltet werden. \n\nUnd dass man anhand der Strom-Daten keine Wetterschwankungen ausmachen kann, spricht FÜR eine Energiequelle, nicht gegen sie... \n\nDas Ziel ist ein verfügbares, günstiges und CO2-freies/-armes Energiemix, nicht Maximierung von bestimmten Anlagen koste es was es wolle.",
+        "date": "2024-07-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Bei Solarleistung pro Kopf ist Bayern immerhin an 4. Stelle, bei Wasserkraftwerken an Platz 1 mit doppelt so vielen WKWs wie das zweitplatzierte BaWü.   \nIst das wirklich ein Bayern-Take, oder bezieht sich Deine Wahrnehmung hier vorrangig auf die Windkraft-Debatte?",
+        "date": "2024-07-20",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Windkraft- und Atomenergiedebatte. Sagen wir es mal so: Nimbys gibt es überall aber in Bayern ist es zusätzlich auch die Politik.",
+        "date": "2024-07-20",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Im Osten hat sich die Allgemeinheit überzeugen lassen, dass die Grünen Nazis, Kommunisten, Ökoterroristen, Genderfanatiker und/oder Deutschlandhasser und damit unwählbar sind. Damit fällt die Partei, die sich noch am ehesten dafür einsetzt, weg.\n\nSachsen-Anhalt hat pro Einwohner mehr MW Windkraft als Dänemark (der Staat mit am meisten MW Windkraft pro Einwohner auf der Welt) und es wird über Jahre beständig dazugebaut. Auch Brandenburg und MVP zählen zu den Top EE-Ländern in Deutschland (gibt natürlich auch viel freie Fläche). \n\nZum besseren Verständniss hier eine kleine Tabelle:\n\nBundesland | Bruttostromerzeugung aus EE pro Kopf (in MWh/Einwohner), 2020 | Regierungsparteien der letzten 10 Jahre\n:--:|:--:|:--:\nMecklenburg-Vorpommern\t|\t9,645053\t|\tSPD, CDU, Linke\nSchleswig-Holstein\t|\t8,524783\t|\tGrüne, SPD, CDU, SSW, FDP\nBrandenburg\t|\t7,951197\t|\tSPD, Linke\nSachsen-Anhalt\t|\t6,985683\t|\tCDU, SPD, Grüne\nNiedersachsen\t|\t6,308017\t|\tSPD, Grüne, CDU\nThüringen\t|\t3,237901\t|\tLinke, SPD, Grüne, CDU\nBayern\t|\t2,957952\t|\tCSU, Freie Wähler\nRheinland-Pfalz\t|\t2,868613\t|\tSPD, Grüne, FDP\nSaarland\t|\t1,626031\t|\tCDU, SPD\nBaden-Württemberg\t|\t1,622449\t|\tGrüne, SPD, CDU\nSachsen\t|\t1,620823\t|\tCDU, SPD, FDP\nHessen\t|\t1,429917\t|\tCDU, Grüne\nNordrhein-Westfalen\t|\t1,34736\t|\tSPD, Grüne, CDU, FDP\nBremen\t|\t1,274541\t|\tSPD, Grüne\nHamburg\t|\t0,340899\t|\tSPD, Grüne\nBerlin\t|\t0,110437\t|\tSPD, Linke, Grüne, CDU\n\n[Quelle](https://www.statistikportal.de/de/ugrdl/ergebnisse/energie/swe) und für MeckPom und Saarland von den Landesregierungen.\n\nMit Blick auf die Grünen in vor allem BaWü und Hessen, sowie auch NRW darf man sich schon fragen: \"was da los!?\"\n\nDie einzigen, die so wirklich richtig geliefert haben sind die SH Grünen, denen man viel von dem Fortschritt in SH direkt verdanken kann. Vor allem Habeck hat hier sehr gute Arbeit geleistet, sowohl bei der Steigerung von Akzeptanz, wie auch jetzt durch das Bundesgesetz, das die CDU geführte Regierung dazu gebracht hat ihre reaktionäre von Bayern abgeschaute Abstandsregel (3H, 5H) wieder zurückzunehmen, weil sie nicht mit den Bundesgesetzen in Einklang gebracht werden konnte. Das ist alles top und auch für den Wirtschaftsstandort SH sehr gut. In Sachsen-Anhalt hatten die Grüne eine Legislatur das verantwortliche Ministerium. Das müsste dann jemand anders beurteilen wie viel besser das war als ohne sie, das weiß ich nicht. Die Grünen im Süden sind aber ein Witz. Die sind so auf dem Level von Sachsen was EE angeht. Auch das dichter bevölkerte Saarland macht es besser.",
+        "date": "2024-07-20",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Sachsen-Anhalt hat pro Einwohner mehr MW Windkraft als Dänemark (der Staat mit am meisten MW Windkraft pro Einwohner auf der Welt) und es wird über Jahre beständig dazugebaut. Auch Brandenburg und MVP zählen zu den Top EE-Ländern in Deutschland (gibt natürlich auch viel freie Fläche).\n\nIch muss gestehen, dass ich bei Osten v.a. von Sachsen und Thüringen spreche, was wohl daran liegt, dass hier rechtes Gedankengut mehr oder weniger Mainstream ist, während man in BB, MVP und Sachsen-Anhalt noch von einem Gegenüber von Links und Rechts sprechen kann. Ist im zweiten Gedankengang vermutlich nicht so sinnvoll, weil man damit das Vorurteil \"Der Osten ist rechts\" reproduziert. \n\n&gt;  \nDie Grünen im Süden sind aber ein Witz\n\nWeiß ich nicht, ob man das so pauschal sagen kann. Komme aus Bayern und habe ein paar Einblicke in die kommunale Politikarbeit und da sind es mehrheitlich die Grünen, die sich hinter den EE-Projekten setzen, diese antreiben und versuchen Mehrheiten zu organisieren. Nur haben die Grüne halt kaum Regierungsverantwortung und eigene Mehrheit und sind somit auf Kooperation angewiesen. Und da kommt es nicht selten vor, dass in Anfangsgesprächen von EE-Projekten parteiübergreifend meist Zustimmung herrscht, sobald es konkret wird, aber auf einmal zuwidergehandelt wird.",
+        "date": "2024-07-20",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ich habe ja versucht NRW etwas wohlgesonnener zu bewerten als BaWü oder Hessen, weil ich da bei den Potenzialflächen auch nicht ganz weiß wie viel realistisch ist. Allerdings kannst du das nicht einfach anhand der Bevölkerungsdichte bemessen. In welchem Kreis denkst du stehen in Deutschland pro Fläche die meisten MW Onshore-Windkraft? [Die richtige Antwort](https://www.ndr.de/nachrichten/ndrdata/Wie-laeuft-der-Ausbau-von-Solar-Windkraft-Batteriespeicher-Erneuerbare-Energien-in-Deutschland,erneuerbare104.html) ist in der Kreisfreien Stadt Emden, die eine ähnliche Bevölkerungsdichte hat wie NRW. Du siehst auch oben an Bremen, dass 3 mal so dicht bevölkert ist wie NRW und fast die gleichen Werte hat, dass das kaum alleine ausschlaggebend sein kann. \n\nDiese Abstandsregeln waren Quatsch, [das hat mittlerweile selbst die CDU in NRW kapiert](https://www.energiezukunft.eu/erneuerbare-energien/windenergie/nrw-kippt-abstandsregel-fuer-windraeder). Das Bundesimmisionsschutzgesetz gilt bereits Bundesweit und kein Bundesland braucht darüber hinaus eigentlich noch Extrawürste, außer um reaktionäre Stimmungen zu befriedigen.",
+        "date": "2024-07-20",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "1.5 mrd für Bürokratie bei 7 mrd Investition in der Windkraft sollten ein erheblich größeren Aufschrei geben als wir den gerade haben. Das könnte locker ein bis 2 Cent vom Strompreis ausmachen \n\nhttps://www.bdew.de/media/documents/KMU_Fakten_B%C3%BCrokratie_Energie-_und_Wasserwirtschaft.pdf\n\nhttps://de.statista.com/statistik/daten/studie/162632/umfrage/investitionen-in-windenergieanlagen-in-deutschland-und-weltweit-seit-2000/",
+        "date": "2024-07-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Grünen waren während der FFF Hochofen vor Corona in Umfragen vor CDU und SPD und hatten Aussichten darauf den Kanzler zu stellen. Corona kam dabei ziemlich ungelegen und darüber ob Baerbock die beste Kandidatin war lässt sich auch streiten,  so hat es am Ende nur für eine Ampel mit SPD Kanzler gereicht. Aber selbst die hat durch die Erleichterungen und Vorgaben bei PV und Windkraft deutlich mehr erreicht als die Forderungen der LG es je könnten.",
+        "date": "2024-07-25",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Unvorstellbar Viele. Getopt wird die Zahl nur noch von den Windkraft- und Canabis-Toten im Land.",
+        "date": "2024-07-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "es gibt ja den englischen Spruch, „Don‘t let perfect be the enemy of good“ aber gerade das scheint im moment nicht zu herzen genommen zu werden, ein paar Beispiele:\n\n\nE-Auto schafft keine 1000km am stück? : wollen wir nicht, (auch wenn es inzwischen Modelle gibt die 15-20 min 500km Reichweite nachladen (p.s. in vielen Köpfen hält sich selbst heute noch das Vorurteil von 20std und mehr Ladezeit))\n\n\nSolarpanels erzeugen nachts kein Strom? : funktionieren also nicht, also schieben wir Panik vor Blackouts.\n\n\nWindkraft funktioniert nicht bei Windstille?\nFunktioniert also auch nicht, also schieben wir Panik vor Blackouts.\n\n\nWärmepumpe hat nur 80-90% Effizienz?\ndann lieber die Umwelt belasten.",
+        "date": "2024-07-30",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Schleswig-Holstein ist ziemlich gut. \n\nMan könnte sich beteiligen die AfD ein zweites Mal nicht reinzuwählen in 3 Jahren.\n\nAuch so hat das Bundesland vieles zu bieten.(Windkraft, Glasfaser, Meer, Fischbrötchen, etc)\n\nWahltaktisch wäre es klug erst in Sachsen zu wählen und dann umzuziehen.",
+        "date": "2024-07-31",
+        "sentiment": "positive"
+    }
+]

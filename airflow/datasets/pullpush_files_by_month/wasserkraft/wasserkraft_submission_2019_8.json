@@ -1,0 +1,126 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "author": "EnteDiePennte",
+            "author_created_utc": 1551678442,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_3bnmf8xb",
+            "author_patreon_flair": false,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1566891821,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "golem.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "id": "cw15be",
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#00301b",
+            "link_flair_css_class": "category science",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wissenschaft&amp;Technik"
+                }
+            ],
+            "link_flair_template_id": "b861e6c8-607f-11e6-9f02-0ea60a88c57b",
+            "link_flair_text": "Wissenschaft&amp;Technik",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "no_follow": false,
+            "num_comments": 1,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/cw15be/wasserkraft_strom_aus_dem_strom/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "JGBwlO3vgl5IFDdNgsQbI_Du7NvP7Nff3LAkHrErPUE",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/K2ESWuTTLOERHSMNFynsmViAhaN9dEfMCgOkWiq4p-I.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=22152cee26ebe76153cbcb4e77e226d3366933a6",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/K2ESWuTTLOERHSMNFynsmViAhaN9dEfMCgOkWiq4p-I.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0933043b7bb8d646655f969aa695005c7f5c3cdd",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/K2ESWuTTLOERHSMNFynsmViAhaN9dEfMCgOkWiq4p-I.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5de9002da8285522e316fe5ba7662cd4a0f0146b",
+                                "width": 320
+                            }
+                        ],
+                        "source": {
+                            "height": 234,
+                            "url": "https://external-preview.redd.it/K2ESWuTTLOERHSMNFynsmViAhaN9dEfMCgOkWiq4p-I.jpg?auto=webp&amp;s=f9077c30463160c11c85b61e83b4e52fef9e0f20",
+                            "width": 416
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removal_reason": null,
+            "retrieved_on": 1566978200,
+            "score": 13,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 203725,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/RLxW6NPkB528n2mxxAJ4ZZQUpBL6Z3ov9hr1e8pSP9Y.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Wasserkraft: Strom aus dem Strom",
+            "total_awards_received": 0,
+            "url": "https://www.golem.de/news/wasserkraft-strom-aus-dem-strom-1908-142790.html",
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 183,
+        "op_b": 183,
+        "total": 371
+    },
+    "error": null
+}

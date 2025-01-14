@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Si le nucléaire est une bonne idée, pourquoi les industriels, des privés ou des citoyens ne se cotisent pas pour en financer la construction ? | Il y a des projets citoyen de parcs éoliens, solaires, hydro, partout en France, mais aucun projet de réacteur à fission qui ne serait pas détenu par EDF.\n\nPourtant il s'agit d'une énergie très rentable, décarbonnée, presque sans aucun défaut d'après leurs partisans.\n\nIl n'y a pas de monopole de l'état sur le nucléaire, simplement des contraintes réglementaires à respecter, mais comme dans n'importe quelle industrie.\n\nDonc pourquoi les pro-nuk ne se cotisent pas pour financer des mini-réacteurs nucléaire un peu partout en France ?\n\nSi vous êtes vous-même pro-nuk, pourquoi ne faites-vous pas comme les associations de citoyens qui se regroupent financer la construction de parcs éoliens ou solaire ?",
+        "date": "2024-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Infos Energie : baisse de la taxation des énergies fossiles, fin de l'ARENH, hausse de la production solaire et éolienne nationale... | [No body]",
+        "date": "2024-12-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Des datacenters fonctionnant uniquement quand il y a du vent/soleil ? | Difficile de résumer une idée dans un titre, mais je part du constat que de nombreuses opérations informatiques ne nécessitant pas une réactivité à la minute près pourrait très bien être effectuées à des moments où la production d'electricité est gratuite.\n\nJe pense à toutes les sauvegardes, les mises à jour, compression, etc.\n\nÉvidemment ces datacenters seraient raccordés au réseau et pourraient fonctionner à n'importe quelle heure s'il le faut, mais il ne me semble jamais avoir entendu parler de cette idée.\n\nL'idée serait de déclencher des tâches energivores   à partir des flux de production solaire et éolien. Il va sans dire que s'il n'y a pas de vent et de soleil pendant une certaine période, le système se déclencherait quand même pour continuer à fonctionner. Mais le but serait d'optimiser au mieux la planification.\n",
+        "date": "2024-12-04",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Un outil pour évaluer facilement l'intérêt des panneaux solaires chez vous | Bonjour à tous,\n\nJ'ai remarqué que certains d'entre vous s'interrogent sur les avantages des panneaux solaires.\n\nJe suis freelance, et, suite à une mission chez un installateur de panneaux solaires, j’ai créé un simulateur ludique pour aider les gens à comprendre les coûts et les bénéfices d'une installation solaire personnalisée pour leur maison : [https://www.potentielsolaire.com/](https://www.potentielsolaire.com/)\n\nhttps://preview.redd.it/qu5llmp8l15e1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=71af2055d74fb539540af9c286eea5bb8e916db7\n\nCe projet est entièrement financé sur mes fonds propres pour l'instant. J’espère qu’il pourra vous aider à y voir plus clair.\n\nMerci beaucoup !",
+        "date": "2024-12-05",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Outil pour estimer la rentabilité d’une installation solaire | [No body]",
+        "date": "2024-12-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ségolène Royal, fallait-il vraiment construire cette route solaire ? | [No body]",
+        "date": "2024-12-30",
+        "sentiment": "neutral"
+    }
+]

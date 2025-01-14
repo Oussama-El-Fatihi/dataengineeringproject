@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Installation de panneaux solaires pour autoconsommation : vraiment écologique ? | Bonjour,\n\nje n'arrive pas à me faire un avis sur l'intérêt ou non d'installer chez moi des petits panneaux solaires pour de l'autoconso.\n\nLes points positifs que je vois :\n\n* écolo : création d'NRJ décarbonnée (en phase d'utilisation) et locale; sachant qu'avec notre mix NRJ on est déjà bien décarboné\n* indépendance énergétique : ça fait un petit backup en cas de gros blackout\n* économie : ça permet de diminuer un peu le cout de la facture d'élec, selon les constructeurs la rentabilité est assurée sur 10 ans, par contre difficile de savoir sur quelles hypothèses ils se basent\n* simple : c'est simple à mettre en oeuvre\n\nLes points négatifs :\n\n* côté écolo discutable : multiplier les petits systèmes (pour chaque installation il faut un onduleur, etc...) sera toujours moins écolo qu'un gros système (à capacité de prod égale)\n* le réseau de distribution n'a pas été conçu pour ça, il se peut que ça pose un jour problème si tout le monde s'y met (c'est mon voisin qui bosse chez Enedis qui m'a parlé de cette éventualité). En gros, nos Linkys domestiques ne pilotent que l'énergie entrante vers nos installations domestiques, pas dans l'autre sens, donc le réseau pourrait se retrouver surchargé si tout le monde se met localement à réinjecter du courant en même temps =&gt; je ne suis clairement pas expert du sujet n'hésitez pas à me contredire sur ce point\n* vu notre mix déjà fortement décarboné, la \"rentabilité écologique\" n'est pas évidente surtout si on achète des panneaux produits dans des pays à faible contrainte environnementale\n* j'ai du mal à évaluer ce que ça représente en termes de contrainte d'usage pour que ce soit efficace : lancer le lave-vaisselle dès qu'il y a du soleil, etc... \n\nEst-ce qu'il existe d'autres arguments que j'aurai oubliés ? Est-ce certain des arguments cités sont faux ou négligeables ? Votre avis sur le sujet ?\n\n&amp;#x200B;",
+        "date": "2023-09-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Solaire + chauffage elec pour remplacer du gaz, (fausse) bonne idée ? | Bonjour à tous !\n\nAu vu des prix du gaz, je me tâtais à investir dans un kit EcoFlow PowerStream (ou équivalent d'autre marque avec panneau solaire amovible 800W, batterie 1kWh et onduleur pour grosso-modo 2000-2200€) afin de les poser sur le balcon de mon appartement orienté sud-ouest.\n\nOutre les économies d'électricité, l'idée derrière ça pour économiser en gaz était d'acheter deux ou trois radiateurs amovibles (pour environ 200€ chacun), qui utiliseraient au moins en partie l'énergie solaire emmagasinée la journée dans la batterie pour réchauffer l'appartement et ainsi consommer moins de gaz.\n\nJ'ai un appart de 90m2 et environ 80-90€ par mois de gaz (lissé sur l'année) avant augmentation de près de 100% donc je m'attends à près de 150€/mois prochainement. \n\nFausse bonne idée, ou y'a moyen de faire des économies en procédant ainsi ?\n\nMerci pour vos lumières !",
+        "date": "2023-09-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Panneau solaire à Paris? | Bonjour.  \n\nD'après cette carte, j'ai pas mal d'exposition solaire.\nhttps://capgeo.sig.paris.fr/Apps/CadastreSolaire/\n\n    Supérieure à 1000 kWh/m²/an : ‪80 m²‬\n\nEnviron 30 m² est le toit directement au-dessus de mon appartement. orienté plein sud.\nMon balcon (dernier étage) bénéficie également du plein soleil pendant la journée.\n\nLa toiture est en zinc+ardoise (1910), et a été refaite récemment (mais pas isolée!)\n\nJe me demande si l'énergie solaire pourrait être utilisée pour une petite tâche comme un petit climatiseur (bureau/chambre de 9 m2) ou un chauffage au sol basse température dans une salle de bain (hiver).\n\nY a-t-il des entreprises qui ont commencé à installer des panneaux solaires à Paris ? Quelqu'un a-t-il une expertise pour donner des idées ?\n\nCe n’est évidemment pas un projet urgent, mais j’ai pensé commencer à y réfléchir.\n\nMerci.",
+        "date": "2023-09-06",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Miroirs géants dans le ciel, particules réfléchissantes : un panel international réclame un moratoire sur la géoingénierie solaire | [No body]",
+        "date": "2023-09-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Rejet du décret sur les grands parcs solaires alpins en Valais | [No body]",
+        "date": "2023-09-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Crèmes solaires, pesticides, hydrocarbures... Ces produits chimiques contaminent les coraux, selon une nouvelle étude de l'ANSES | [No body]",
+        "date": "2023-09-19",
+        "sentiment": "negative"
+    },
+    {
+        "text": "ROSI SOLAR : Révolution du recyclage des panneaux solaires | [No body]",
+        "date": "2023-09-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Cela se confirme, certaines crèmes solaires contiennent des substances chimiques qui dégradent les coraux | [No body]",
+        "date": "2023-09-24",
+        "sentiment": "neutral"
+    }
+]

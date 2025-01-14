@@ -1,0 +1,27 @@
+[
+    {
+        "text": "Die ersten beiden Alben waren ja eher Reggaestyle, wie [Solarenergie](https://www.youtube.com/watch?v=DeiREGNMTDk). Das fand ich damals noch gut...",
+        "date": "2018-05-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Wobei man die Fusion nicht unbedingt braucht - Deutschland hat eine Sonneneinstrahlung von ~1 MWh/m^2 im Jahr. Das bedeutet eine jährliche Gesamteinstrahlung von 360.000 TWh. Laut Umweltbundesamt lag der Primärenergieverbrauch letztes Jahr bei 3.757 TWh, also liegt das Potenzial der Solarenergie in Deutschland theoretisch bei dem 96-fachen des Gesamtenergieverbrauchs.\n\nFusion brauchen wir wirklich erst dann, wenn unser Energieverbrauch so hoch ist, dass allein die Abwärme zu problematischer Klimaerwärmung führt.",
+        "date": "2018-05-29",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Das kann ich mir durchaus vorstellen, zumindest solange das Potenzial bei den Erneuerbaren noch nicht voll ausgeschöpft ist - und selbst da ist es, vor allem mit Methoden wie Laserantrieben oder einem Orbitalring, wahrscheinlich günster, mehr Solarenergie im Weltraum zu sammeln und als gebündelte Mikrowellen zur Erde zu senden.\n\nKernfusion für irdische Nutzung könnte ich mir vielleicht noch für verschiedene militärische Anlagen (sowohl Schiffe als auch Anlagen an Land) vorstellen, wo man absolute Ausfallsicherheit haben will, wobei ich mir da nicht wirklich sicher bin, ob die gegenüber der Kernspaltung von Vorteil ist - wir haben auf der Erde schließlich noch recht viel Uran, und deutlich mehr als genug Thorium. ",
+        "date": "2018-05-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ich meine, dass wir erst bei einem so hohen Energieverbrauch Fusion brauchen, um unseren Energieverbrauch zu decken, nicht, dass Fusion mit den Folgen davon helfen wird.\n\nDenn solange der Energieverbrauch so gering ist, dass die Abwärme das Klima nicht nennenswert beeinflusst, ist Solarenergie weit mehr als ausreichend.",
+        "date": "2018-05-29",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Und da ist das ganze noch mehr infrage zu stellen. Die großen Investition gab es allerdings doch erst beim Bau der Kraftwerke.\n\nAber egal ob 1957 odee 1987: Die Verbundstoffe, aus denen Windenergieanlagen heute bestehen, waren damals nicht wirtschaftlich nutzbar. Damit wären moderne Designs kaum möglich. Bei Solarenergie sieht die Entwicklung recht ähnlich aus.",
+        "date": "2018-05-30",
+        "sentiment": "negative"
+    }
+]

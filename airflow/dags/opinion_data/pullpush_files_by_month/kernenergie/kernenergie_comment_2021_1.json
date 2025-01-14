@@ -1,0 +1,52 @@
+[
+    {
+        "text": "Joa also ich weiß nicht, mag schon stimmmen aber letzlich zahl ich als jemand ohne Kohle die teuersten Energiepreise auf der Welt. Mit Kernenergie sähe das sicherlich anders aus, ich finde das im \"Großen und Ganzen\" eigentlich ne ziemliche Katastrophe.",
+        "date": "2021-01-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Mit Kernenergie sähe das sicherlich anders aus\n\nDer war gut. Kernenergie ist die mit Abstand teuerste Energieform.",
+        "date": "2021-01-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Weil die eine komplett andere Gesetzgebung haben. Doch auch dort hat Kernenergie die höchsten Stromgestehungskosten. Daran führt nun einmal kein Weg vorbei. Du kannst dich allerdings entscheiden, ob du die hohen Kosten lieber direkt oder über Steuern bezahlen möchtest.",
+        "date": "2021-01-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Nur bei Kernenergie wird Masse in Energie umgesetzt oder? Wenn ich Kohle verbrenne, bleibt die Masse doch die gleiche. Die liegt dann nur chemisch in anderer Form vor.",
+        "date": "2021-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dei Mudder ist nicht schlüssig. Wie soll das denn gehen? Kannst du mir das vorrechnen? Einfach nur zu sagen \"doch wohl, ich hab recht\" reicht leider nicht.\n\nDas hier ist die Stromerzeugung von KW 49 Anfang Dezember: Es gab einen Tag wo viel Wind wehte (4.Dezember) der Rest der Woche war aber windstill und leider gibt es im Winter kaum Sonne:\n\nhttps://energy-charts.info/charts/power/chart.htm?l=de&amp;c=DE&amp;week=49\n\nUm die Windstille auszugleichen wurde Gas hochgefahren. (Hier sehe ich ein großes Grundproblem: Wie wollen wir je vom Erdgas loskommen? Selbst in der Sci-fi Zukunft von 2050 werden wir deshalb mehr CO2 erzeugen als Frankreich jetzt. Man liest immer von Pumpspeicher-Kraftwerken als mögliche Lösung aber wenn man das recherchiert, dann A) verteuert das Windkraft enorm und B) gibt es nur 7 GWh installierte Leistung in Deutschland und _keinerlei_ Pläne das signifikant zu erhöhen.) Das ist jedenfalls der variable Anteil der die Lastspitzen über den Tag dynamisch ausgleicht.\n\nDarunter haben wir aber eine Grundlast, die von Kernenergie und Biomasse und Kohle gedeckt wird. Je höher der Anteil der Kernenergie sein kann, desto kleiner muss der der Kohle sein.",
+        "date": "2021-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Der deutsche Weg ist die ganze sog. Energiewende, nicht bloß der Ausstieg aus der Kernenergie. Und auch den Ausstieg kann man so oder so handhaben. Den deutschen Weg mit hohen Strompreisen, mageren CO2 Einsparungen und Abschaltung relativ neuer Reaktoren gibt es nirgends sonst in dieser Form.",
+        "date": "2021-01-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt; Ohne kräftige staatliche Unterstützung ist Atomkraft nicht rentabel\n\nWenn Rentabilität im Vordergrund stünde, könnten wir genausogut bei Kohle\nbleiben.\n\nDas Hauptziel ist die langfristige Reduktion des CO₂-Ausstoßes. Um diese\nmöglichst Zeitnah und ohne Spekulation auf Zukunftstechnologien zu\nerreichen, führt an Kernenergie kein Weg vorbei.",
+        "date": "2021-01-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "[https://de.wikipedia.org/wiki/Harry\\_Daghlian](https://de.wikipedia.org/wiki/Harry_Daghlian)\n\nEs muss nicht unbedingt eine große Explosion geben, man kann überkritische Reaktionen noch kurz davor stoppen. Keine Ahnung, ob der Vorfall unter \"Explosion\" subsumiert werden kann, aber eine signifikante Menge an Kernenergie wurde auf jeden Fal freigesetzt.",
+        "date": "2021-01-20",
+        "sentiment": "positive"
+    },
+    {
+        "text": "So absolut kann man das nicht sagen, gibt Gründe warum an Kernfusion und weiteren Kernreaktortypen geforscht wird. Klar, kurzfristig sind das keine Lösungen, da z.B. ITER erst Mitte 2030 in Betrieb gehen soll, aber als langfristige Lösung sollte man Kernenergie nicht komplett abschreiben.",
+        "date": "2021-01-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Beides OK. \"Nutzung Instagrams\" klingt besser.\n\nhttps://www.duden.de/rechtschreibung/Nutzung\n\n&gt;Beispiele\n\n&gt;die landwirtschaftliche Nutzung eines Gebietes\n\n&gt;die friedliche Nutzung der Kernenergie",
+        "date": "2021-01-31",
+        "sentiment": "neutral"
+    }
+]

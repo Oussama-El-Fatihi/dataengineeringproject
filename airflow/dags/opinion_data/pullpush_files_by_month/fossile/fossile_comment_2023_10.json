@@ -1,0 +1,137 @@
+[
+    {
+        "text": "Parmi les énergies fossiles, le gaz naturel est le moins pire, à la fois pour la pollution générée et le CO2 émis.",
+        "date": "2023-10-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; À l’origine du sinistre, a priori : la défaillance d’une batterie lithium-ion destinée à stocker l’électricité solaire produite par l’installation. Les flammes se sont ensuite propagées à d’autres batteries. Les dégâts, heureusement, restent matériels.  (...)\n\n&gt; Rappelons qu’un feu de batterie lithium-ion n’est pas tout à fait un feu comme les autres. Ce type d’incendie émet des éléments chimiques toxiques et peut être difficile à maîtriser. Parce que l’électrolyte au cœur de la batterie, génère, en se décomposant, entre autres, de l’oxygène, qui vient entretenir le feu. Pour les pompiers, il est parfois compliqué de l’étouffer. Leur meilleure arme pourrait être de faire baisser la température de la batterie en l’inondant d’eau, comme employé sur certains feux de voitures électriques.\n\nNon seulement il faut étouffer un feu de batterie avec de l'eau, il en faut des quantités plusieurs fois supérieures que le nécessaire pour éteindre un feu de combustibles fossiles. Du coup les pompiers ne sont pas souvent équipés avec assez de capacité en eau pour éteindre des feux techniques des batteries Li-Ion.",
+        "date": "2023-10-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;[16:16](https://youtu.be/PIZeVyESYgc?si=TiFmMWszBqc2B76o&amp;t=976)  \n&gt;  \n&gt;*(Journaliste)* \\- Interdire les jets privés vous en pensez quoi ?  \n&gt;  \n&gt;*(Patrick Azemar - CEO Flying 7 Air)* \\- Bah c'est une aberration. Pourquoi on interdirait les jets privés ? Alors interdisons les conteneurs d'arriver de Chine, interdisons les usines à charbon, faisons que de l'électrique.\n\nIl faudra dire à ce monsieur que :\n\n* Un porte-conteneur moderne, c'est 30g de CO2 par km et par conteneur ([source](https://www.francebleu.fr/infos/transports/le-plus-grand-porte-conteneurs-du-monde-battant-pavillon-francais-inaugure-au-havre-1536163157)). Un passager de jet privé émet autour de 1000g de CO2 par km ([source](https://www.liberation.fr/checknews/quelle-est-lempreinte-carbone-dun-vol-en-jet-prive-20220826_HYY6EQGEIFCY7BMYC74ZVEHCHI/)) **soit l'équivalent de plus de 30 conteneurs, pour chaque passager**.\n* La France est parmi les premiers pays à avoir éliminé le charbon de son mix énergétique. Les quelques centrales qui restent ne sont là qu'en secours pour éviter un blackout en cas de pic de consommation hivernal, quelque chose d'un peu plus essentiel que de gagner du temps pour présenter des diamants aux stars de Cannes.\n* L'objectif n'est pas que de lutter contre les énergies fossiles. Même si ses jets étaient électriques ou fonctionnaient à de l'hydrogène vert (ce qui n'est pas près d'arriver), l'impact écologique serait toujours bien trop important par rapport au service rendu.",
+        "date": "2023-10-10",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Effectivement. Mais la \"surpopulation\" vient directement de notre mode de vie basé sur le pétrole (et les autres énergies fossiles) qui permettent d'obtenir pour peu de travail humain, une grande quantité de nourriture et des soins pour les individus.\n\nSi tu fais disparaitre le pétrole, combien d'humains pourront être nourris avec les surfaces agricoles disponibles et des rendements moindres ?",
+        "date": "2023-10-10",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Hydrogene qui a été crée soit à partir d'energie fossile, soit avec plus d'électricité que celle que la turbine a produit",
+        "date": "2023-10-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Hydrogene qui a été crée soit à partir d'energie fossile, soit avec plus d'électricité que celle que la turbine a produit\n\nIl faut lire l'article, c'est faux.",
+        "date": "2023-10-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Bon gros greenwashing:\nLa seule manière de produire de l'hydrogène vert c'est par électrolyse et ça a un TRÈS mauvais rendement.\n\nAujourd'hui l'écrasante majorité de l'hydrogène est obtenue par des procédés chimiques polluants à partir d'hydrocarbures (du fossiles quoi).\n\nDonc produire de l'électricité à partir d'hydrogène ça n'a juste aucun sens. Oui c'est possible mais ça ne sert à rien et la difficulté dans l'hydrogène n'est pas la. C'est un gaz qui brûle comme le gaz naturel. Il est même possible d'utiliser les mêmes équipements et de juste changer les réglages pour l'adapter. Cela ne représente aucune difficulté technique. La vrai difficulté avec l'hydrogène c'est de le produire de manière verte et aujourd'hui c'est impossible de le faire à des échelles industrielles sans consommer des quantités délirantes d'énergie.",
+        "date": "2023-10-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Je ne suis pas convaincu que les surplus soit si importants à l'échelle d'un pays, mais pourquoi pas.\n\nLe surplus augmentera en fonction de notre parc d'énergies renouvelables intermittentes. Sachant qu'aujourd'hui les renouvelables représentent moins de 20% de notre consommation d'énergie et que les sources fossiles font presque la moitié de notre consommation, on en aura besoin de beaucoup plus de renouvelables pour la transition.\n\nPar surplus de production il faut sous-entendre stockage d'électricité. Pour cela il n'a pas beaucoup d'options. Soit stockage hydrique (qui a des contraintes importantes niveau géographique et environnementaux). Soit stockage en hydrogène compressé, soit stockage à batteries.\nLe stockage à hydrogène entraîne des pertes d'énergie importantes oui, mais en contrepartie nous permet la souveraineté technologique (la France devient un joueur important dans la fabrication de électrolyseurs, réservoirs à hydrogène, piles à combustible et turbines à hydrogène) et demande largement moins de ressources pour fabriquer le stockage ( une batterie est remplie avec du lithium et cuivre mais un réservoir à hydrogène est techniquement vide).\n\nSi tu souhaites te renseigner un peu sur le sujet regarde le site d'une des entreprises dédiés à la production d'hydrogène vert à partir des surplus de production des  renouvelables et cela à un prix très compétitif avec les combustibles fossiles : https://www.lhyfe.com/",
+        "date": "2023-10-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Ah mais tu parles à un fervent décroissant là.\n\nAlors moi je ne suis pas de tout dans l'état d'esprit des croyances. Les plusieurs études faites par le GIEC et RTE indiquent très clairement que pour arriver à la neutralité de carbone en 2035 non seulement il nous faudra une deconsommation assez importante (revenir à la consommation d'il y a 70 ans) mais aussi en plus de la transition énergétique des carburants fossiles vers énergies propres.\n\n&gt;J'avoue que ma blague était peut-être bête, mais croire à la décarbonation de l'industrie française (et je ne m'avancerai pas à parler de celle du reste du monde) quelle blague aussi!\n\nTu peux croire à ce que tu veux, cela reste une croyance.\n\nDans les faits t'as l'UE en train d'investir massivement dans la décarbonisation de l'industrie et transport et côté France, même si je ne suis pas d'accord avec les politiques concernant la décarbonisation des voitures , je reconnais qu'il a du progrès très positif concernant la décarbonisation de l'industrie et poids lourds. J'ai vu pas mal de projets et acteurs bouger dans ce sens et j'ai même partagé dans la communauté des articles à propos.\n\n&gt;Combien de panneaux photovoltaïques et d'éoliennes pour faire de l'hydrogène pour faire tourner des turbines ? Combien de km² artificialisés? Combien de km de réseaux à créer ? Combien de milliers de tonnes de terres rares acheminées depuis la Chine pour faire des mégabatteries ici? Combien de milliers de m³ d'eau pour construire et/ou recycler tout ce fatras technologique?\n\nPeut-être t'as pas compris mais l'intérêt de l'hydrogène c'est précisément pouvoir stocker des quantités très importantes d'énergie sans utiliser des batteries..\n\nAprès bien sûr que la transition énergétique va demander l'exploration des nouvelles ressources.. Mais quelle serait la solution sinon, continuer avec des combustibles fossiles ?\n\nStp me vient pas dire qu'il serait possible juste avec une deconsommation. Cela est strictement faux, au moins que l'objectif serait de revenir à une consommation énergétique pré-ere industrielle (et la perte de qualité de vie et confort qui vient avec). C'est un choix, c'est pas le choix de tout le monde. Faut juste s'assurer bien comprendre ses rêves, sinon ce n'est pas un rêve mais un délire.",
+        "date": "2023-10-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ne vous y trompez pas. L'exploitation des énergies fossiles amène largement son lot de pollutions hors GES également. Il n'y a même pas à regarder plus loin qu'en Allemagne où on rase des villages pour un peu de lignite, aux US où on empoisonne les minorités pour du pétrole de schiste ou au Canada où on détruit des écosystèmes pour récupérer les sables bitumineux...\n\nÇa ne veut pas dire qu'il faut exploiter les métaux de \"transition\" n'importe comment non plus. Mais la critique systémique de la transition sert souvent de paravent pour protéger le statuquo fossile.",
+        "date": "2023-10-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Ça ne veut pas dire qu'il faut exploiter les métaux de \"transition\" n'importe comment non plus. Mais la critique systémique de la transition sert souvent de paravent pour protéger le statuquo fossile.\n\nOui c'est vrai, mais il faut également faire gaffe car le soutien de la transition sert également à une excuse pour protéger également le statuts quo de croissance.",
+        "date": "2023-10-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Tu sais, je ne suis ni pro croissance ni ignorant vis a vis des méfaits de l'industrie minière. Je suis au courant de tout ce dont tu parles.\n\n Mais tu commences par \"je ne parle pas des émissions\". Eh bien je pense que c'est une erreur. Je pense que mettre nonchalamment de côté le désastre climatique, cette catastrophe majeure, déterminante pour l'avenir de l'humanité, pour te concentrer sur les aspects au sujet desquels tu peux mettre ressources fossiles et ressources minieres sur un pied d'égalité en évitant les aspects ou les unes sont franchement meilleures que les autres, c'est une erreur tellement grossière que je te soupçonne de troller.",
+        "date": "2023-10-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Mais tu commences par \"je ne parle pas des émissions\".\n\n(...)\n\n&gt;pour te concentrer sur les aspects au sujet desquels tu peux mettre ressources fossiles et ressources minieres sur un pied d'égalité\n\nTu m'as demandé pourquoi est-ce que je pense que t'as rien compris de la problématique d'extraction de ressources minières et pour cela je t'ai fourni un comparatif avec l'extraction pétrolière et gazière qui est loin d'être un problème local. Cette comparaison ignore intentionnellement les problématiques liées aux émissions de GES car le reste de l'impact environnemental lié à la l'extraction d'hydrocarbures est par elle-même très importante. Je t'ai fourni quelques exemples à l'appui. Je refuse donc l'intention que tu me prêtes.\n\nSinon, concernant cela \n\n&gt; Je pense que mettre nonchalamment de côté le désastre climatique, cette catastrophe majeure, déterminante pour l'avenir de l'humanité,\n\nCatastrophe majeure oui mais rien n'indique quelle sera la fin de l'humanité. Le pire des scénarios est un monde extrêmement moins confortable, moins facilement habitable, extrêmement plus différent de celui-là qu'on connait au présent, mais il restera toujours un planète habitable.\n\nDonc c'est sûr que si tu te bases sur un scénario de apocalypse pour le problème de dérèglement climatique, c'est sûr qu'un monde pollué par des ressources toxiques semble une meilleure option...\n\nMais ce qui me choque le plus c'est cette volonté de mettre le combat du dérèglement climatique en opposition au combat de la pollution de l'environnement.\nPolluer la planète, même si c'est localisé dans certains pays, ne devrait pas être une option face au dérèglement climatique quand on sait qu'on a des leviers d'action qui permettent éviter les deux problèmes...",
+        "date": "2023-10-17",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Beaucoup de gens qui s'échauffent sur ce fil de discussion...\n\nPour moi il y a deux sujets soulevés ici :\nOui l'extraction minière est très polluante localement, or pour certains ce la serait préférable à la pollution globale des GES. C'est compréhensible, mais cela revient à se cacher derrière son petit doigt : aujourd'hui les mines ouvrent par dizaines dans le Tiers Monde (on dit \"les Sud\" maintenant pour ne pas froisser la fierté de ces pays, alors que justement on les détruit avec des mines et usines dégueulasses). Les mines n'ouvrent pas chez nous, ou du moins pas encore. Que direz-vous lorsque votre village/ville n'aura plus d'accès à l'eau potable à cause de votre mine de nickel locale? Hâte de voir vos réactions de défenseurs de la transition propre et belle.\n\nDeuxièmement on voit comme souvent fleurir les commentaires de techniciens qui viennent expliquer avec force chiffres que les batteries comportent assez peu voire pas de nickel. Donc tout ça n'a rien à voir avec la transition. Parce que la transition c'est propre ! Lol\n\nLes batteries représentent un énorme poids minier, certes, mais n'oublions pas (et vous êtes nombreux à l'oublier, sciemment peut-être) que la transition c'est AVANT TOUT des réseaux! Des canalisations par centaines de km pour le gaz vert rien qu'ici dans ma région des Hauts de France, des milliers de km de nouveaux câbles électriques et de fibre internet (composé de cuivre, d'aluminium et bien souvent de nickel, sans parler du tube en acier qui englobe tout ça et qui lui aussi comporte du nickel). \n\nBref, ce genre d'article n'a pas vocation à recommencer encore et encore ce débat déjà périmé du \"transition moins bien que fossile ou fossile moins bien que transition?\" Il s'agit bien de comprendre que ces deux projets sont dégueulasses chacun à leur manière.\n\nCe sont nos modes de vie de riches qui pourrissent tout. La technique employée pour répondre à nos besoins démesurés importe peu au fond. La \"transition\" sera humaine et philosophique ou ne sera pas. La transition technologique et énergétique c'est de la poudre aux yeux",
+        "date": "2023-10-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Catastrophe majeure oui mais rien n'indique quelle sera la fin de l'humanité. Le pire des scénarios est un monde extrêmement moins confortable, moins facilement habitable, extrêmement plus différent de celui-là qu'on connait au présent, mais il restera toujours un planète habitable.\n\nÇa sera assurément la fin de la civilisation. Les scénarios SSP3-7.0 et SSP5-8.5 tablent sur une température moyenne augmentant de 3,5 à 4,5 °C en gros, ce qui est déjà catastrophique. Mais le point négligé, c'est que, dans ces scénarios, la température continue de monter très fortement après 2100. Jusqu'à où ?\n\nSelon [cette étude](https://sci-hub.hkvisa.net/10.1038/nclimate3036), si l'on émet 5 Eg de carbone, ce qui correspond à l'estimation basse des ressources fossiles, la température globale moyenne pourrait monter de près de 10 °C et près de 20 °C aux pôles en 2300. Si tu rajoutes +10 °C à la température moyenne de Reykjavik, tu obtiens à peu près celle de Naples. Si tu rajoutes +15 °C, tu obtiens une situation intermédiaire entre celle de Séville et de Marrakech. En clair, l'habitabilité des terres comprises entre les cercles polaires est très fortement compromise.",
+        "date": "2023-10-18",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Mais le point négligé, c'est que, dans ces scénarios, la température continue de monter très fortement après 2100. Jusqu'à où ?\n\nLes combustibles fossiles ne sont pas une ressource limitée et, selon les analystes économiques, il semblerait que le pic de production arrivera dans la prochaine décennie.\n\nLa planète s'adaptera à la nouvelle concentration de CO2 dans l'atmosphère (entraînant tout un tas de changements dramatiques niveau environnement) mais les écosystèmes et l'espèce humaine s'adaptera aux nouvelles conditions bien plus hostiles. Cela ne veut pas dire la fin de l'humanité.\n\nÇa sera oui la fin de la civilisation qu'on connaît aujourd'hui, mais en tout cas, la transition énergétique et les pénuries d'énergie et ressources nous amèneront en tout cas à un changement drastique de notre civilisation qui ressemblera probablement à la fin de la civilisation qu'on connaît aujourd'hui.",
+        "date": "2023-10-18",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Quand est ce qu'on va arrêter d'écouter une association pro gaz naturel pro charbon pour parler énergie bas carbone.... il faut vlasser Greenpeace dans la même catégorie que total GDF et autre Exxon...des pros fossiles qui se cachent derrière des énergies intermittent es vertes\n\nFait simple: il n'existe aucun pays dont la première source d'électricité est l'éolien ou le solaire qui a un mix électrique plus bas carbone que la France.\nLes 2 pays meilleurs que nous sont la Suède: mix hydro nuke et Norvège full hydro. \nComme saint thomas le jour où le Danemark qui est le pays le plus éolien du monde sera meilleur en bilan carbone que la France on en rediscute ( ce n'est pas le cas)\nFun fact: l'electricite.importee au Danemark est plus bas carbone que l'électricité soit disant verte produit au Danemark\nEt ce qui est rigolo c'est que les pros enr te disent toujours ah mais c'est parce qu'ils ont pas encore assez d'eolien/PV... donc il en faut combien pour passer sous le niveau CO2 de l'électricité française ?",
+        "date": "2023-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Et la solution n'est pas plus de puissance, mais bien de baisser la consommation générale, idéalement en faisant en sortent que chacun produisent une part non négligeable de ses besoins.\n\nMec, il nous faut remplacer toute l'énergie fossile par énergie propre. T'as une ordre d'idée combien représente la consommation de la part de l'énergie fossile en France ? C'est presque la moitié de notre consommation énergétique totale !!\n\nOn ne réduit pas la moitié de la consommation d'énergie d'un pays en jouant exclusivement le levier de la sobriété.  C'est irréaliste au moins que tu souhaites vivre en pauvreté sous une dictature.",
+        "date": "2023-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Pourquoi tu change de sujet? On parle bien électricité avec l'EPR, les panneaux photovoltaïques et l'éolien?\n\nTu te racontes qu'il faudra convertir toute consommation de carburants fossiles (pour le transport et industrie par exemple) en consommation d'énergie propre oui, cela s'appelle la transition énergétique ? Il n'a pas mille façons de produire de l'énergie propre .. Étant le nucléaire et renouvelables les sources privilégiées ..\n\nDonc en plus de notre consommation électrique actuelle qui faut réduire oui, il nous faut environ 50% de plus d'énergie juste pour combler le trou laissé par les combustibles fossiles hein !? Tu peux ajouter beaucoup de sobriété et efficacité dans la transition énergétique et faire chuter les 50% à une valeur plus basse mais en tout cas il faudra produire toujours plus d'électricité.\n\nDonc oui, ma remarque est tout à fait liée à la production l'électricité ..",
+        "date": "2023-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je suis pro nucléaire justement parceque je pense que le renouvelable c'est notre futur .... si on en a un. C'est juste qu'entre des énergies fossiles qui vont nous flinguer notre biosphère ou le nucléaire qui peut facile subvenir à nos besoins en attendant d'avoir du 100% renouvelable avec des solutions durables au probleme de l'intermittence....",
+        "date": "2023-10-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Tu me portes des propos que je n'ai pas dit...\n\nJe vais quand même citer ce que t'as écrit dans ton premier commentaire, on ne me va pas dire que c'est du mauvais esprit hein ?\n\n*Et la solution n'est pas plus de puissance, mais bien de baisser la consommation générale, idéalement en faisant en sortent que chacun produisent une part non négligeable de ses besoins.*\n\nJe t'ai donc expliqué que, même avec une certaine sobriété dans notre consommation électrique, nous avons en tout cas d'augmenter notre puissance et capacité électrique parce que la transition énergétique le demandera pour remplacer les combustibles fossiles.\n\nJe n'ai pas abordé le sujet de l'autoconsommation parce que c'est un mythe quand considéré à grande échelle.",
+        "date": "2023-10-22",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Tu penses dire quelque chose d'intelligent, mais tout simplement tu n'a pas les chiffres.\n\nPour l'électricité :Portugal 224gCO2/KWh. France 85g CO2/KWh.\n\nDonc le Portugal a beau avoir plein de renouvelables, l'intensité en CO2 de l'électricité produite est quasiment 3 (trois) fois supérieure à celle de la France.\n\nComment expliquer que la production de CO2 par tête de pipe est similaire entre Portugal et France? \n\nLe problème n'est pas dans la génération d'énergie ELECTRIQUE (déjà vu que la France a l'avantage sur le sujet). La différence réside dans l'énergie totale consommée, et l'origine de cette énergie en dehors du secteur de génération d'électricité.\n\nUn portugais consomme 40% d'énergie d'un français, et les deux postes où la différence est la plus importante sont le chauffage (différence de climat) et les transports, qui sont des secteurs largement dominés par les fossiles.\n\nVoilà.",
+        "date": "2023-10-22",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wow on a vraiment pas le droit d'être contre le nucléaire dans ton monde. Content de pas en faire partie surtout avec ta violence verbale. Aufaite pour info tous les pays qui ont développé leurs énergies renouvelables ont diminuer la part du fossile dans leur mix, MEME l'Allemagne (ouf incroyable... )",
+        "date": "2023-10-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "L'impression résine est peu répandue car plus chère, plus complexe et plus polluante (il me semble).\n\nIl a sûrement une imprimante FDM (avec un filament) et c'est quand même vachement moins polluant, surtout que si on imprime du PLA pour les petits bidules peu robustes c'est beaucoup moins carboné qu'un plastique 100% fossile.",
+        "date": "2023-10-25",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;Et comme tu le dis le stockage résidentiel ou industriel (au pied de centrales éoliennes ou solaires par exemple...)\n\nPour le stockage industriel en circuit court (au pied des éoliennes ou panneaux photovoltaïques) je pense que le stockage hydrogène est plus pertinent.\n\nL'hydrogène entraîne plus de pertes énergétiques oui, mais en contrepartie son utilisation est plus versatile comme vecteur énergétique car il peut être utilisé comme remplacement direct des carburants fossiles ou comme une pile électrique.\n\nL'autre avantage de l'hydrogène c'est que la quantité de ressources nécessaires pour le stockage n'augmente pas linéairement avec la quantité d'énergie à stocker. Une batterie il faut la remplir avec des ressources (sodium dans ce cas, et aussi du cuivre etc..) mais un réservoir de H2 il n'a qu'à construire les parois du réservoir.\n\nIl a aussi la question d'autonomie industrielle.. L'hydrogène permet aux entreprises d'en stocker facilement et pour pas très cher de stocker de grandes quantités d'énergie in-situ. C'est aussi possible avec des batteries mais les coûts ne sont pas de tout dans la même ordre !",
+        "date": "2023-10-26",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Dans l'idéal il faudrait arrêter d'utiliser des énergies fossiles, donc non.",
+        "date": "2023-10-28",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt; Ouais alors, t'es gentil mais bonne chance pour stocker en 350bar à grande échelle au pied des éoliennes hein. Faut compter 5% de pertes énergétiques pour la compression + ton cout d'investissement explose + il y a des contraintes de sécurité + la densité énergétique reste naze à environ 90 kWh par m3. \n\nMec, il a des entreprises en France déjà en train de le faire depuis des années... Ces enterprises sont en train de créer des partenariats économiques liant production d'énergie renouvelable avec l'industrie par moyen de l'hydrogène vert distribué en circuit court et à prix concurrentiel aux combustibles fossiles..\n\nRegarde par exemple lhyfe.com , mcphy.com ..\n\nCe n'est pas maintenant toi qui me vient expliquer que bonne chance ce n'est pas possible !",
+        "date": "2023-10-28",
+        "sentiment": "negative"
+    }
+]

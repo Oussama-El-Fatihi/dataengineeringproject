@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Si je puis me permettre, elle n'était pas là il y a 30 ans, elle ne se souvient pas par exemple que tous les murs de nos villes étaient noirs de la fumée des diesels, du charbon et des usines.",
+        "date": "2021-10-03",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Oui bien sûr, par exemple cette carte de Wikipedia montrant la puissance solaire par m2 (soit de 1000 à 2000 KW.h / m2 en France)\n\n[https://fr.wikipedia.org/wiki/Irradiation\\_solaire#/media/Fichier:SolarGIS-Solar-map-Europe-en.png](https://fr.wikipedia.org/wiki/Irradiation_solaire#/media/Fichier:SolarGIS-Solar-map-Europe-en.png)\n\n Les panneaux solaires classiques ont un rendement typique de 15% (avec un maximum théorique de 30%), donc on peut générer environ 100KW.h / m2 par an (soit environ 30€/m2 pour des panneaux qui coûtent environ 300€/m2 en ce moment je crois, et dont on peut espérer encore une baisse). \n\nIl existe d'autres technologies permettant peut-être un meilleur rendement, et on pourrait aussi parler du nucléaire, mais restons sur les panneaux solaires.\n\nLa France consomme environ 200 TWh d'énergie (50TWh d'électricité, qui représente environ 25% du total)\n\n[https://fr.wikipedia.org/wiki/%C3%89nergie\\_en\\_France](https://fr.wikipedia.org/wiki/%C3%89nergie_en_France)\n\nEn faisant la division, il faudrait a peu près 2000 km2 de panneaux solaires (soit le quart d'un département on encore 20 fois la surface de Paris) pour subvenir aux besoins énergétiques totaux de la France.\n\nEvidemment, c'est un chantier important, et les panneaux solaires ne sont pas le seul matériel nécessaire. Il faut aussi des batteries, des véhicules électriques, changer des processus industriels à base de charbon ou de pétrole (métallurgie...). On importe aussi du CO2 (métaux achetés à l'étranger), donc il faudrait probablement un peu plus pour être vraiment neutre.\n\nMais je pense que le chantier n'est pas si différent que cela en ampleur, par exemple, de la réunification allemande, ou des reconstructions après la guerre: ambitieux mais faisable, et avec l'espoir d'un avenir qui fait envie.",
+        "date": "2021-10-04",
+        "sentiment": "neutral"
+    }
+]

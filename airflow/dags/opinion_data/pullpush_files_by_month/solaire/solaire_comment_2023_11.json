@@ -1,0 +1,112 @@
+[
+    {
+        "text": "&gt;Et les 90% on les atteindra jamais dans un système exploitable\n\nOn arrive à produire de l'hydrogène directement à partir du rayonnement solaire par thermocraquage solaire, cela a même un rendement supérieur aux panneaux photovoltaïques. Il a une entreprise en Espagne qui a déjà commencé à vendre ce type de centrale.\n\nQuant aux 90% de rendement de électrolyseur atteints par la CEA , faut voir que d'autres institutions ont réussi des rendements de 95% donc il ne me semble pas inconcevable que les 90% soient possibles en environnement industriel.",
+        "date": "2023-11-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "J'ai beaucoup vu ça sur le stockage thermique, tu prend une centrale solaire avec des miroirs tu fais circuler le fluide caloporteur dans un truc pour stocker la chaleur (graphite, sable, déchets du BTP sels fondus) et pour produire de l'elec tu peux sois faire circuler de l'eau pour faire tourner une turbine soit entourer ton stockage de tpv pour produire de l'électricité directement.\nÇa permet de lineariser la production d'elec du solaire avec un stockage pas cher et efficace",
+        "date": "2023-11-02",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Ouais enfin t’as quand même le plus haut rendement de TRÈS TRÈS loin et t’as presque aucune pollution en dehors de l’extraction qui comparer a d’autre truc comme les panneau solaire et les éoliennes et ridiculement bas",
+        "date": "2023-11-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Vous croyiez que le bio réduisait les rendements, attendez de voir quand on mets des panneaux solaires par dessus !   \n\nFaisons plutôt de grosses économies d'énergie, puis gardons nos centrales.   \nTous ces panneaux devraient être dans des pays en voix de développement; là ou on préfère pas voir fleurir du nucléaire.   \nAu lieu d'alimenter 12 villages en Afrique on préfère se masturber la bonne conscience et faire du virtue signaling.   \nAllez pas vous plaindre quand les matériaux se feront rares et chers et que les pays pauvres se rabattrons sur le fossile (ou à peine moins pire, du nucléaire [Chinois](https://www.world-nuclear-news.org/Articles/China-and-Uganda-agree-to-nuclear-cooperation) ou [Russe](https://www.world-nuclear-news.org/Articles/First-nuclear-fuel-delivered-as-Bangladesh-joins-n)).",
+        "date": "2023-11-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Annonce d'une start-up de 9 employés donc qui est obligatoirement beaucoup plus optimiste que la réalité. On en reparle une fois qu'ils auront fabriqué et mis en service quelques centaines d'unités !\n\nEt on va éviter de trop parler des débilités de l'article :\n\n&gt; Lorsque l'électricité est convertie en hydrogène, le processus implique  une émanation de chaleur. Celle-ci ne sera pas gaspillée et sera  également captée pour assurer le chauffage des habitations. \n\nLes gars veulent chauffer pendant le captage du surplus solaire, c'est à dire pendant les 6 mois les plus chaud de l'année en pleine journée...",
+        "date": "2023-11-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Les gars veulent chauffer pendant le captage du surplus solaire, c'est à dire pendant les 6 mois les plus chaud de l'année en pleine journée...\n\nEt le ballon d'eau chaude? Ou tu n'as pas d'eau chaude l'été ?",
+        "date": "2023-11-08",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Tu diriges directement le surplus photovoltaïque dans le ballon d'eau chaude l'été. J'ai l'eau chaude chez moi comme ça d'avril à octobre à peu près.\n\n&gt;Ca evite de mettre en place une usine à gaz d'échangeur de chaleur avec un ballon qui coute tout d'un coup 10 fois plus cher et devient beaucoup plus compliqué à maintenir.\n\nEt avec cette observation tu rates complétement l'intérêt de cette technologie... Le stockage long-terme (de l'été à l'hiver) de la production du solaire ...",
+        "date": "2023-11-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Cette autonomie va plus ou moins influencer la quantité de hydrocarbures que tu consommes directement et indirectement\n\nEst-ce que tu as vraiment besoin daller dans un coin paumé et de te mettre en autonomie alimentaire et énergétique pour diminuer ton empreinte carbone? Et surtout, est-ce que ca te permet de la diminuer plus qu'en restant au seine de la société, avec quel budget, et quel niveau de confort?\n\nParce que oui, tu peux décider de survivre dans un coin perdu coupé du monde avec une empreinte carbone super faible. \n\nMais une mais en pierre pas chère c'est généralement perdu et mal isolé, donc gros besoins en chauffage ou investissements financiers de rénovation thermique.\n\nTon indépendance énergétique elle demande un bon investissement financier en panneaux solaires et batteries. Ton indépendance alimentaire c'est sans doute le plus simple, mais ca prend du temps. Revendre le surplus ca nécessite de se déplacer donc un véhicule. Pareil si tes enfants vont à l'école.\n\nEt tout ca implique quand même d'être assez coupé du monde et donc d'avoir  des relations sociales très limitées.\n\nFaudrait faire un calcul en comparant à une vie sobre dans une ville pour voir mais je suis pas persuadé que ce soit la meilleure solution.",
+        "date": "2023-11-08",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Plus large que le seul sujet de l'élevage mais la subvention de bonnes pratiques pour faire évoluer l'agriculture ça n'a pas l'air d'être le projet : \n\n[Agriculture bio : ils attaquent l'État en justice pour non versement de l'aide européenne](https://www.francetvinfo.fr/economie/emploi/carriere/entreprendre/aides/agriculture-bio-ils-attaquent-l-etat-en-justice-pour-non-versement-de-l-aide-europeenne_3207295.html), février 2019\n\n&gt; À l'ouverture du Salon de l'agriculture, Emmanuel Macron a plaidé  pour une agriculture respectueuse de l'environnement défendant notamment  les pratiques bio. Un discours en décalage, apparemment, avec la  réalité que connaissent certains agriculteurs. Ils seraient 25 000 à  attendre le versement d'aides européennes pour leurs exploitations bio.  Trois d'entre eux ont déposé plainte contre l'État.  \n\n[Aides à la conversion. Les agriculteurs bio dénoncent « l’incohérence » du gouvernement](https://www.ouest-france.fr/economie/agriculture/agriculture-biologique/aides-la-conversion-les-agriculteurs-bio-denoncent-l-incoherence-du-gouvernement-6257518), mars 2019\n\n&gt; Le ministre de l’Agriculture Didier Guillaume a annoncé à l’issue du  Salon de l’agriculture sa volonté de réduire de deux ans la durée de  l’accompagnement à la conversion en bio. Parallèlement, le gouvernement  souhaite que l’agriculture biologique couvre 15 % des surfaces agricoles  françaises en 2022, contre 6,5 % actuellement. \n\n[Retard des aides Pac : La Confédération paysanne dénonce un manque de volonté politique](https://www.lafranceagricole.fr/agriculture-biologique/article/773977/la-confdration-paysanne-dnonce-un-manque-de-volont-politique), juillet 2019\n\n&gt; La Confédération paysanne rappelle que de nombreux dossiers de demande  d’aides bio et MAEC ne sont toujours pas réglés. Le syndicat estime  qu’il n’y a aucune volonté politique de rattraper ces retards. \n\n&amp;#x200B;\n\n[Agriculture bio : l'objectif de 15 % en 2022 « inatteignable » selon un rapport](https://www.futura-sciences.com/planete/actualites/agriculture-agriculture-bio-objectif-15-2022-inatteignable-selon-rapport-79511/), févier 2020\n\n&gt; La France s’était fixé 15 % de surface agricole utile convertie au bio  d'ici à 2022. Un objectif qui semble aujourd’hui « inatteignable »,  selon un rapport du Sénat qui étrille l’inefficacité des politiques  publiques. Non seulement les chiffres avancés masquent une réalité  beaucoup moins glorieuse, mais l’agriculture bio s’apparente plus à une  aubaine marketing qu’à une véritable avancée pour l’environnement. \n\n[L'agroécologie plus rentable que l'agriculture conventionnelle, mais moins aidée](https://www.actu-environnement.com/ae/news/agroecologie-plus-rentable-moins-soutenue-35948.php4), aout 2020\n\n[Le réseau Bio en Grand Est dénonce la baisse des aides à l'agriculture biologique en 2020](https://www.francebleu.fr/infos/agriculture-peche/le-reseau-bio-en-grand-est-denonce-la-baisse-des-aides-a-l-agriculture-biologique-en-2020-1608654107), décembre 2020\n\n&gt; Le plafond des aides publiques attribuées en soutien à la conversion à  l’agriculture biologique, dans le cadre de la Politique Agricole Commune  (PAC), est en baisse cette année. Un signal qui ne va pas dans le sens  du soutien à la transition écologique pour les représentants de la  filière. \n\n&amp;#x200B;\n\n[Négociation de la PAC : les agriculteurs bio alertent sur la diminution de leurs aides](https://www.europe1.fr/economie/negociation-de-la-pac-les-agriculteurs-bio-alertent-sur-la-diminution-de-leurs-aides-4045120), mai 2021\n\n&gt; Alors que la future Politique agricole commune  (PAC) européenne est en cours de discussion pour une entrée en vigueur  en 2023, les agriculteurs bio estiment être les \"grands perdants de ces  premiers arbitrages\". Ils dénoncent une diminution drastique de leurs  aides et estiment que cela découragera les futures conversions**.** \n\n&amp;#x200B;\n\n[L’agriculture bio en manque de soutiens publics](https://www.la-croix.com/Economie/Lagriculture-bio-manque-soutiens-publics-2022-06-30-1201222800), juin 2022\n\n&gt; La Cour des comptes estime que le développement du bio, souhaitable pour  la transition agricole environnementale, n’est pas assez soutenu par le  gouvernement. Seules 3 % des aides de la politique agricole commune  (PAC) sont allouées au bio, qui représente aujourd’hui 10 % des surfaces  agricoles. La France veut parvenir à 18 % d’ici à 2027.  \n\n[Face à la crise de l’agriculture biologique, le soutien minimal de l’Etat](https://www.lemonde.fr/economie/article/2022/12/06/face-a-la-crise-de-l-agriculture-biologique-un-soutien-a-minima-de-l-etat_6153260_3234.html), décembre 2022\n\n&gt; Les Assises de l’agriculture et de l’alimentation biologiques se  déroulaient mardi 6 décembre, à Paris. Le ministre a répondu à certaines  demandes, alors que la France a été critiquée à plusieurs reprises pour  ne pas mettre des moyens à la hauteur de ses ambitions.   \n\n&amp;#x200B;\n\n[https://www.banquedesterritoires.fr/agriculture-bio-le-gouvernement-annonce-un-plan-de-soutien-de-200-millions-deuros](https://www.banquedesterritoires.fr/agriculture-bio-le-gouvernement-annonce-un-plan-de-soutien-de-200-millions-deuros), mai 2023\n\n&gt; \"Encore insuffisant\". C'est en ces termes que la Fédération nationale  d'agriculture biologique (Fnab) a réagi au plan de soutien à la filière  bio annoncé ce 17 mai par le ministre de l'Agriculture à l'occasion d'un  déplacement dans l'Oise. La moitié de ces crédits correspondent à des  engagements de l'Etat à faire respecter les objectifs de la loi Egalim  en matière de bio dans les cantines scolaires et restaurants collectifs.      \n\n \n\nEn 2022, au final c'était [\\~11%](https://agriculture.gouv.fr/infographie-lagriculture-biologique) de la surface agricole utile qui était de en  bio, l'objectif de 15% en 2022 a été revu à [18% pour 2027](https://agriculture.gouv.fr/le-soutien-aux-exploitations-et-aux-filieres).\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nBonus : [Qui paye pour financer la construction de méga-bassines ?](https://www.linternaute.com/actualite/societe/2855378-reponse-efficace-ou-menace-environnementale-10-questions-reponses-sur-les-mega-bassines/2859788-financement-construction)  \"*Si la construction d'une retenue de substitution s'intègre dans un  projet de territoire pour la gestion de l'eau (PTGE), elle peut être  subventionnée par les agences de l'eau. Pour prendre un exemple concret  du coût que peut représenter l'édification des méga-bassines : dans les  Deux-Sèvres, 16 méga-bassines doivent être construites, au profit d'un  groupement de 400 agriculteurs réunis au sein de la Coop de l'eau.  Soutenu par l'État, le projet représente un coût de 60 millions d'euros  minimum, financé à 70 % par des subventions publiques. \"*\n\nEn plus de tout ça l'accès au foncier devient de plus en plus difficile pour les nouveaux exploitants qui voudraient se mettre à ces \"bonnes pratiques\" en étant en concurrence avec des structures agricoles de plus en grandes qui concentrent de plus en plus de surface, l'urbanisation et l'artificialisation des sols et plus récemment même la production d'énergie...\n\n[Défendre nos terres agricoles : tactiques pour une stratégie foncière](https://www.socialter.fr/article/tactiques-pour-une-strategie-fonciere)\n\n[Auchan, Chanel, L'Oréal... Ils font main basse sur les terres agricoles](https://www.reddit.com/r/france/comments/124kbwl/auchan_chanel_lor%C3%A9al_ils_font_main_basse_sur_les/)\n\n[A69 : la détresse d'agriculteurs face à la future autoroute Toulouse-Castres](https://www.reddit.com/r/ecologie/comments/17mqabg/le_figaro_23102023_a69_la_d%C3%A9tresse_dagriculteurs/)\n\n[Agrivoltaïsme. Ne tombons pas dans le panneau !](https://www.revuesilence.net/numeros/524-Agrivoltaisme-Ne-tombons-pas-dans-le-panneau/l-argent-pousse-sous-les-panneaux)\n\n[Quand le solaire chasse sur les terres agricoles](https://www.lesechos.fr/industrie-services/energie-environnement/quand-le-solaire-chasse-sur-les-terres-agricoles-1885795)",
+        "date": "2023-11-11",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ce n'est plus vrai aujourd'hui. Plus à court terme.\n\nEn revanche, ça l'est toujours à moyen et long terme. \n\nÀ moyen terme parce qu'entre électrification des usages et réindustrialisation, la demande pourrait bien augmenter plus vite que nos capacités de production (remontée de la disponibilité du nucléaire, déploiement du solaire et de l'éolien), de stockage et déstockage, d'efficacité, de transport et distribution ou que nos efforts de sobriété. Enfin, ça, c'est si on parvient à maintenir les prix bas. On pourrait tout aussi bien rater la réindustrialisation.\n\nÀ long terme dans l'hypothèse où l'effet falaise du nucléaire se concrétiserait, avec une impossibilité de prolonger au-delà de 50 ou 60 ans un trop grand nombre de nos réacteurs nucléaires, conduisant à une fermeture de ces derniers bien plus rapide que l'on ne saurait les compenser par d'autres moyens de production (non-fossiles si possible). \n\nVigilance à maintenir, investissements à augmenter et accélérer, mais pas de quoi désespérer.",
+        "date": "2023-11-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Le Nucléaire est l'énergie la plus chère au monde, avec le ROI le plus bas. L'Uranium n'est pas une ressource renouvelable. La technologie des nouveaux modéles de mini- réacteurs \"révolutionnaires\", n'a toujours pas été prouvé. \n\n Le solaire et l'éolien peuvent entiérement subvenir à nos besoins énergétiques. Je vous invite à vous informer à travers ces liens :\n\nhttps://m.youtube.com/watch?v=c0f1L0XUIQ8\n\nhttps://www.rethinkx.com/energy",
+        "date": "2023-11-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Le Nucléaire est l'énergie la plus chère au monde, avec le ROI le plus bas. L'Uranium n'est pas une ressource renouvelable. La technologie des nouveaux modéles de mini- réacteurs \"révolutionnaires\", n'a toujours pas été prouvé. \n\n Le solaire et l'éolien peuvent entiérement subvenir à nos besoins énergétiques. Je vous invite à vous informer à travers ces liens :\n\nhttps://m.youtube.com/watch?v=c0f1L0XUIQ8\n\nhttps://www.rethinkx.com/energy",
+        "date": "2023-11-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Le Nucléaire est l'énergie la plus chère au monde, avec le ROI le plus bas. L'Uranium n'est pas une ressource renouvelable. La technologie des nouveaux modéles de mini- réacteurs \"révolutionnaires\", n'a toujours pas été prouvé. \n\n Le solaire et l'éolien peuvent entiérement subvenir à nos besoins énergétiques. Je vous invite à vous informer à travers ces liens :\n\nhttps://m.youtube.com/watch?v=c0f1L0XUIQ8\n\nhttps://www.rethinkx.com/energy",
+        "date": "2023-11-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Le Nucléaire est l'énergie la plus chère au monde, avec le ROI le plus bas. L'Uranium n'est pas une ressource renouvelable. La technologie des nouveaux modéles de mini- réacteurs \"révolutionnaires\", n'a toujours pas été prouvé. \n\n Le solaire et l'éolien peuvent entiérement subvenir à nos besoins énergétiques. Je vous invite à vous informer à travers ces liens :\n\nhttps://m.youtube.com/watch?v=c0f1L0XUIQ8\n\nhttps://www.rethinkx.com/energy",
+        "date": "2023-11-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Le Nucléaire est l'énergie la plus chère au monde, avec le ROI le plus bas. L'Uranium n'est pas une ressource renouvelable. La technologie des nouveaux modéles de mini- réacteurs \"révolutionnaires\", n'a toujours pas été prouvé. \n\n Le solaire et l'éolien peuvent entiérement subvenir à nos besoins énergétiques. Je vous invite à vous informer à travers ces liens :\n\nhttps://m.youtube.com/watch?v=c0f1L0XUIQ8\n\nhttps://www.rethinkx.com/energy",
+        "date": "2023-11-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Évidemment vue qu’il sont extrêmement con a croire que dès panneau solaire et des éoliennes dans des zones géographique où t’as très peut de soleil et de vent marcherais en suppriment des centrales nucléaires qui fonctionner et aurais fonctionner encore très bien",
+        "date": "2023-11-16",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Au boulot on a une pièce entière pleine de vieilles batteries de Nissan Leaf pour stocker notre production d’énergie solaire.",
+        "date": "2023-11-21",
+        "sentiment": "positive"
+    },
+    {
+        "text": "\" ce sont 30 hectares de forêt qui sont menacés par l'implantation de 20 000 panneaux solaires.  \"  \nY'a un plan quelque part? Parce que a 15m2 le panneau je suis curieux.",
+        "date": "2023-11-23",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Quitte à mettre des panneaux solaires, autant les mettre sur des surfaces déjà artificialisées, genre les parkings et autre bâtiments. Avant de raser des forêts.",
+        "date": "2023-11-24",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Dans mon entreprise ils on recouvert les parkings avec des panneaux solaires.",
+        "date": "2023-11-24",
+        "sentiment": "positive"
+    },
+    {
+        "text": "D'où tu vois des zones arides ? À part là où il y a déjà des panneaux solaires je vois pas. Visiblement tu ne t'y connais pas en biodiversité alors arrête de vouloir défendre une fausse bonne idée.",
+        "date": "2023-11-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;En conclusion, le véhicule électrique est une idée aussi bonne que le contexte dans lequel il prend place : électrifier le parc de véhicules si celui-ci est **divisé par 5, utilisé 4 fois moins, avec des véhicules 3 fois moins lourds**, et alimentés avec de l’électricité décarbonée, pas trop chère, et surtout pilotable (ce qui met le nucléaire et l’hydroélectricité en tête, et peut-être demain le solaire à concentration avant l’éolien) est assurément une bonne idée.\n\nhttps://jancovici.com/transition-energetique/transports/la-voiture-electrique-est-elle-la-solution-aux-problemes-de-pollution-automobile/\n\nL'article date un peu donc je sais pas à quel point c'est à jour mais ça donne une idée des ordres de grandeur. \n\nEn gros *divisé par 5, utilisé 4 fois moins, avec des véhicules 3 fois moins lourds*, ça donne un quart des ménages qui font pas plus de 8km/jour en moyenne avec un citroën ami ou équivalent.",
+        "date": "2023-11-27",
+        "sentiment": "positive"
+    }
+]

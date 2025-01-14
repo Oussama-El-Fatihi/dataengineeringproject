@@ -1,0 +1,172 @@
+{
+    "data": [
+        {
+            "approved_at_utc": null,
+            "subreddit": "de",
+            "selftext": "",
+            "author_fullname": "t2_kleb3f6q",
+            "saved": false,
+            "mod_reason_title": null,
+            "gilded": 0,
+            "clicked": false,
+            "title": "Geheimdiplomat Bundeskanzler - Wie Helmut Kohl die Stasi narrte - ARTE",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Geschichte"
+                }
+            ],
+            "subreddit_name_prefixed": "r/de",
+            "hidden": false,
+            "pwls": 6,
+            "link_flair_css_class": "category history",
+            "downs": 0,
+            "thumbnail_height": 78,
+            "top_awarded_type": null,
+            "hide_score": true,
+            "name": "t3_1cq8y5d",
+            "quarantine": false,
+            "link_flair_text_color": "light",
+            "upvote_ratio": 1.0,
+            "author_flair_background_color": null,
+            "ups": 1,
+            "total_awards_received": 0,
+            "media_embed": {},
+            "thumbnail_width": 140,
+            "author_flair_template_id": null,
+            "is_original_content": false,
+            "user_reports": [],
+            "secure_media": null,
+            "is_reddit_media_domain": false,
+            "is_meta": false,
+            "category": null,
+            "secure_media_embed": {},
+            "link_flair_text": "Geschichte",
+            "can_mod_post": false,
+            "score": 1,
+            "approved_by": null,
+            "is_created_from_ads_ui": false,
+            "author_premium": false,
+            "thumbnail": "https://b.thumbs.redditmedia.com/KHZyXBQMGhSTCNe5NUAsCgVxctXsAp3bC5rginl2XCk.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "gildings": {},
+            "post_hint": "link",
+            "content_categories": null,
+            "is_self": false,
+            "subreddit_type": "public",
+            "created": 1715523667.0,
+            "link_flair_type": "richtext",
+            "wls": 6,
+            "removed_by_category": null,
+            "banned_by": null,
+            "author_flair_type": "text",
+            "domain": "arte.tv",
+            "allow_live_comments": false,
+            "selftext_html": null,
+            "likes": null,
+            "suggested_sort": null,
+            "banned_at_utc": null,
+            "url_overridden_by_dest": "https://www.arte.tv/de/videos/115007-000-A/geheimdiplomat-bundeskanzler",
+            "view_count": null,
+            "archived": false,
+            "no_follow": true,
+            "is_crosspostable": false,
+            "pinned": false,
+            "over_18": false,
+            "preview": {
+                "images": [
+                    {
+                        "source": {
+                            "url": "https://external-preview.redd.it/e_BR5SWcvSKtTb-zRlNcKxF9NCyrWUggbqS1K7I86J8.jpg?auto=webp&amp;s=1e937de4fea228427eda5c1796ce99b827c79809",
+                            "width": 1920,
+                            "height": 1080
+                        },
+                        "resolutions": [
+                            {
+                                "url": "https://external-preview.redd.it/e_BR5SWcvSKtTb-zRlNcKxF9NCyrWUggbqS1K7I86J8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=83120ccfe7f700ddc6a0b3046bf5da6485f7da4a",
+                                "width": 108,
+                                "height": 60
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/e_BR5SWcvSKtTb-zRlNcKxF9NCyrWUggbqS1K7I86J8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=df1741de00c790910bcca7e82e683a309117b541",
+                                "width": 216,
+                                "height": 121
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/e_BR5SWcvSKtTb-zRlNcKxF9NCyrWUggbqS1K7I86J8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5d8c54bee30ca7bb1daab38d76c07f2a00b23bd8",
+                                "width": 320,
+                                "height": 180
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/e_BR5SWcvSKtTb-zRlNcKxF9NCyrWUggbqS1K7I86J8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=509f91e484b0783866a89b0a74ca8cb915d1bae0",
+                                "width": 640,
+                                "height": 360
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/e_BR5SWcvSKtTb-zRlNcKxF9NCyrWUggbqS1K7I86J8.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=517f22b2889d0d86490901cb3347bc22cfa25de8",
+                                "width": 960,
+                                "height": 540
+                            },
+                            {
+                                "url": "https://external-preview.redd.it/e_BR5SWcvSKtTb-zRlNcKxF9NCyrWUggbqS1K7I86J8.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=79c2bfa03a8919a9cd4e400fe16c8daf9ee4a99e",
+                                "width": 1080,
+                                "height": 607
+                            }
+                        ],
+                        "variants": {},
+                        "id": "ZhIyRxtZI7jCHuznzb6lFICOoPij6ZQpXifSkKuDr6E"
+                    }
+                ],
+                "enabled": false
+            },
+            "all_awardings": [],
+            "awarders": [],
+            "media_only": false,
+            "link_flair_template_id": "f5c34108-c1fe-11e5-b1a1-0e658da60651",
+            "can_gild": false,
+            "spoiler": false,
+            "locked": false,
+            "author_flair_text": null,
+            "treatment_tags": [],
+            "visited": false,
+            "removed_by": null,
+            "mod_note": null,
+            "distinguished": null,
+            "subreddit_id": "t5_22i0",
+            "author_is_blocked": false,
+            "mod_reason_by": null,
+            "num_reports": null,
+            "removal_reason": null,
+            "link_flair_background_color": "#b18546",
+            "id": "1cq8y5d",
+            "is_robot_indexable": true,
+            "report_reasons": null,
+            "author": "born-out-of-a-ball",
+            "discussion_type": null,
+            "num_comments": 0,
+            "send_replies": true,
+            "whitelist_status": "all_ads",
+            "contest_mode": false,
+            "mod_reports": [],
+            "author_patreon_flair": false,
+            "author_flair_text_color": null,
+            "permalink": "/r/de/comments/1cq8y5d/geheimdiplomat_bundeskanzler_wie_helmut_kohl_die/",
+            "parent_whitelist_status": "all_ads",
+            "stickied": false,
+            "url": "https://www.arte.tv/de/videos/115007-000-A/geheimdiplomat-bundeskanzler",
+            "subreddit_subscribers": 2029926,
+            "created_utc": 1715523667.0,
+            "num_crossposts": 0,
+            "media": null,
+            "is_video": false
+        }
+    ],
+    "metadata": {
+        "op_a": 186,
+        "op_b": 177,
+        "total": 373
+    },
+    "error": null
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "text": "Kein Problem. Ich weiß nicht genau was du mit einem Mix meinst. In vielen guten Plänen ist am Ende übrigens auch noch ein wenig Kernenergie enthalten (siehe z.B. den verlinkten Plan von IRENA). Aber du hast natürlich Recht, man sollte zuerst Kohle und dann Atomstrom abschalten.",
+        "date": "2020-05-03",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Die Kernenergie im Rahmen einer ordentlichen Sicherung der Kohle vorziehen ohne dabei neue Kraftwerke zu bauen. Da Rohstoffe begrenzt sind und die Lagerung schwierig ist, sollte man sich auf die Verwertung des Atommülls beschränken, wenn die alten Meiler vom Netz gehen. So stelle ich mir den Mix vor. \nIch war immer ein ,,Atombefürworter“, aber nur mit der gängigen Meinung, dass Reaktoren der 4 Generation das non-plus-ultra einer sauberen und billigen Energiegewinnung seien. \nJetzt kenne ich gute Gegenargumente, die ich so nicht kannte. Überzeugt bin ich nicht mehr von billigem Atomstrom. Das deckt sich wohl mit der französischen Regierung 😂.\n\nEdit: Ich habe vergessen zu erwähnen dass ich damit keine Laufzeitverlängerung meine, die zu Reaktoren wie Tihange führen. So etwas sollte zügig vom Netz...",
+        "date": "2020-05-03",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Die \"Salonkolumnisten\" stellen beim Thema \"Klimawandel\" sozusagen die Turbo-Version der FDP dar, mit Fokus auf eine Wiederbelebung der Nutzung der Atomenergie:\n\n[Artikel 1](https://www.salonkolumnisten.com/der-klimawandel-vertraegt-keine-denktabus)\n\n&gt; Mit den Rezepten, die Grüne und einschlägige NGOs zur Bekämpfung der Erderwärmung haben, wird es keine Erfolge geben. Das Klima retten sie nicht. Dazu brauchen wir Gentechnik, die hochmoderne Landwirtschaft und natürlich auch Atomkraft.\n\n[Artikel 2](https://www.salonkolumnisten.com/klima-trittbrettfahrer):\n\n&gt; Wäre der Klimawandel die Hauptaufgabe ohne Wenn und Aber, dann könnte die Nutzung der Kernenergie kein Tabu sein.\n\n[Artikel 3](https://www.salonkolumnisten.com/panikmacher):\n\n&gt; Wir müssen wohl auch erneut über die Frage der Nutzung der Atomenergie nachdenken, da auch in absehbarer Zeit keine Energieform zur Verfügung steht, die weltweit benötige Energie im Grundlastbereich über das ganze Jahr hinweg zu gewährleisten.",
+        "date": "2020-05-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Was ist so schlimm an Kernenergie? Und was hat das mit dem Artikel zu tun?",
+        "date": "2020-05-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Nein, noch für einige Zeit nicht. Aber sie nimmt Stück für Stück ab. (1990 bis 2007 relativ kontinuierlich Stein- und Braunkohle bei [300 Terrawattstunden](https://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/3_abb_bruttostromerzeugung-et_2020-02-25.png) mittlerweile keine 200 mehr)\n\nAm interessantesten finde ich jedoch [diese](https://www.umweltbundesamt.de/sites/default/files/styles/fullsize/public/medien/372/bilder/strommix-karte-2016.png?itok=tT2AJFYr) Grafik hier des Bundesumweltamtes. Regional unterscheidet sich der Strommix teilweise erheblich. Sachsen u. Hamburg hatten 2016 noch 75% und mehr Kohle, Bayern keine 5%, Thüringen und RP noch deutlich weniger bis garnichts...\n\nDas zeigt aber nur den Mix aus dem selbst erzeugtem Strom, nicht dem [Importierten Strom](https://de.statista.com/statistik/daten/studie/202644/umfrage/deutsche-stromimporte-aus-europa-nach-laendern/). Der Französische ist zwar traditionell mehr Kernenergie statt Kohle, aber der 2. größte Importeur, die Niederlande, haben schon wieder einiges an Kohle. Tschechien sogar deutlich mehr als wir...",
+        "date": "2020-05-16",
+        "sentiment": "negative"
+    },
+    {
+        "text": "~~Wird da Kernenergie zu den Erneuerbaren gezählt? Wieso?~~",
+        "date": "2020-05-17",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Die Kernenergie ist \"das Flüchtlingsthema\" für die Grünen.\n\nEs ist nie vorbei. Man kann es aus zig verschiedenen Perspektiven bewerten, ganz nach Laune. Das Zahlenmaterial überfordert schon viele Diskutanten.\n\nMan kann damit ANGST erzeugen. Herrliche, kostbare Wählerangst. Da ist man ständig in Versuchung, dieses Thema zu nutzen. \n\nEdith:Verdaddelt, der Kommentar sollte woanders hin.",
+        "date": "2020-05-18",
+        "sentiment": "positive"
+    },
+    {
+        "text": "N Freund (aus der Gegend von Dannenberg), berichtete mal von einer Bekannten, die \"Atome kommen mir nicht in's Haus\" für einen sinnvollen Beitrag zum Thema Kernenergie hielt.\n\nIch frage mich, wie man freiwillig (oder kann man wirklich so Ahnungslos sein; weiß nicht, was schlimmer wäre) die Glaubwürdigkeit der eigenen Position so [untergraben](http://scienceblogs.de/frischer-wind/2013/03/11/wie-claudia-roth-mal-eine-der-schlimmsten-naturkatastrophen-des-jahrhunderts-unterschlug/) kann.",
+        "date": "2020-05-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Wenn man den gleichen Aufwand wie bei Kernenergie betreiben würde, wäre die Kohle wahrscheinlich genauso radioaktiv und ebenso wenig rentabel.",
+        "date": "2020-05-31",
+        "sentiment": "negative"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Aujourd'hui, ce qu'on appelle \"base\" tend de plus en plus à désigner une capacité de production pilotable + imports minimale à maintenir opérationnelle.\n\nLa logique est de considérer que tout ce qui n'est pas fiable (le solaire, l'éolien, une partie de l'hydraulique et une partie des imports) n'existe pas et qu'il faut pouvoir satisfaire la demande (corrigée d'une incertitude sur la précision de l'estimation). \n\nTant que ces ressources intermittentes produisent, on ne recourt pas à la totalité de cette capacité de base, on creuse dans la base. Et quand elles ne produisent plus, la base c'est ce qu'on est content de retrouver pour s'éviter la pénurie.\n\nEt donc oui, ce besoin demeure un argument en faveur du nucléaire.\n\nCe concept tendrait même à être en défaveur des énergies intermittentes puisqu'il souligne qu'on a besoin de capacités pilotables de manière quasiment indépendante de la quantité d'éolien ou de solaire qu'on raccordera au réseau. Le solaire et l'éolien viennent alors rogner sur la production des moyens de base (c'est positif quand ceux-ci sont fossiles, négatif pour le nucléaire qui voit son coût accru) tout en augmentant la complexité de la gestion, donc les coûts de gestion.",
+        "date": "2024-08-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;le nucléaire tue autant que l'éolien ou que le solaire\n\nAlors pour le coup, non, on est à 4 fois moins de mort dans la filière nucléaire comparé à l'éolien et le solaire posé sur toit.\n\nhttps://www.clubic.com/energie-renouvelable/actualite-875165-nucleaire-provoque-morts-solaire-eolien.html\n\nLien sortit du chapeau, mais qui cite différentes études.\n\n&gt; nucléaire ne causerait pas plus de 0,04 morts par milliard de kilowattheures produits. C'est-à-dire 3,75 fois moins que l'éolien, 11 fois moins que le solaire posé sur toit, 35 fois moins que l'hydraulique, 100 fois moins que le gaz naturel, 600 fois moins que la biomasse, 900 fois moins que le pétrole, et 2 500 fois moins que le charbon...",
+        "date": "2024-08-26",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Le nucléaire n’est que la partie émergé de l’iceberg.\n\nBeaucoup d’écologistes sont anti TGV, \n\npro bordels dans les ports français (les camions dans nos routes c’est avant tout parce que les ports du Havre et de Marseilles ont une sale réputation auprès des armateurs donc ça décharge en Hollande).\n\nanti OGM\n\nAnti barrages hydrauliques",
+        "date": "2024-08-27",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Tous les capteurs etc, c'est une masse négligeable par rapport à l'énergie produite par la centrale.\n\nPour les turbines, c'est un peu plus conséquent. Mais c'est pas spécifique au nucléaire : toutes les centrales thermiques, les éoliennes ou l'hydraulique ont tous les mêmes besoins d'aimants pour les turbines.\n\nSeul le photovoltaïque fait exception en production électrique, mais il a d'autres besoins en termes de matériaux assez spécifiques.\n\nJe peux entendre l'argument qu'il faut des terres rares, mais c'est le cas de la quasi-totalité de nos sources d'énergies électriques. Et j'ai plutôt tendance à penser que le nucléaire est relativement sobre par rapport aux autres.",
+        "date": "2024-08-29",
+        "sentiment": "neutral"
+    }
+]

@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": true,
+            "archived": false,
+            "author": "Tao_Dragon",
+            "author_created_utc": 1499986281,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_70agce6",
+            "author_patreon_flair": false,
+            "author_premium": true,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1669197846,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "focus.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "z2l8p4",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#ae9e00",
+            "link_flair_css_class": "category economy",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Wirtschaft"
+                }
+            ],
+            "link_flair_template_id": "9a45e4b8-cfe9-11e5-903a-0e6186a3132f",
+            "link_flair_text": "Wirtschaft",
+            "link_flair_text_color": "dark",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_z2l8p4",
+            "no_follow": true,
+            "num_comments": 42,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/z2l8p4/warum_kann_deutschland_nicht_aus_der_kernenergie/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "TyNmNQmpj7Tk_cq234wVyVG7GsylNG-VGZ1RivdJmM0",
+                        "resolutions": [
+                            {
+                                "height": 54,
+                                "url": "https://external-preview.redd.it/DtzChG-7uHhmzg_U-UO1JgI9ZKCv0Xbz-tvfUtL-pBs.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2642c19dd03dcd5c2764b5340202cf70b0a28bc4",
+                                "width": 108
+                            },
+                            {
+                                "height": 108,
+                                "url": "https://external-preview.redd.it/DtzChG-7uHhmzg_U-UO1JgI9ZKCv0Xbz-tvfUtL-pBs.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=89f0a9c7c7b9d20b2a082084c2e52dac563eb09e",
+                                "width": 216
+                            },
+                            {
+                                "height": 160,
+                                "url": "https://external-preview.redd.it/DtzChG-7uHhmzg_U-UO1JgI9ZKCv0Xbz-tvfUtL-pBs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=76bb8e1890e6ef8e68b4b67d601a6815f7dc5c67",
+                                "width": 320
+                            },
+                            {
+                                "height": 320,
+                                "url": "https://external-preview.redd.it/DtzChG-7uHhmzg_U-UO1JgI9ZKCv0Xbz-tvfUtL-pBs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab64e227707ff967416876df8c42fba65c18dbc5",
+                                "width": 640
+                            },
+                            {
+                                "height": 480,
+                                "url": "https://external-preview.redd.it/DtzChG-7uHhmzg_U-UO1JgI9ZKCv0Xbz-tvfUtL-pBs.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=7c07ca2292e71a214df9aa20f39d0a5e9939e753",
+                                "width": 960
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/DtzChG-7uHhmzg_U-UO1JgI9ZKCv0Xbz-tvfUtL-pBs.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=785fe666e840cb78412387dce5c59490a384e4c2",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 600,
+                            "url": "https://external-preview.redd.it/DtzChG-7uHhmzg_U-UO1JgI9ZKCv0Xbz-tvfUtL-pBs.jpg?auto=webp&amp;s=b3b199767068899f1eb3837d8d26c5e47df6c949",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1673206755,
+            "score": 0,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 842131,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/eFVYx-YiKp5KzhQXMeTDnqjTK0buzSXmp_4nVTm9GsE.jpg",
+            "thumbnail_height": 70,
+            "thumbnail_width": 140,
+            "title": "Warum kann Deutschland nicht aus der Kernenergie aussteigen?",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.26,
+            "url": "https://www.focus.de/wissen/natur/warum-sich-deutschland-auf-eimal-mit-dem-atom-ausstieg-so-schwertut_id_180312659.html",
+            "url_overridden_by_dest": "https://www.focus.de/wissen/natur/warum-sich-deutschland-auf-eimal-mit-dem-atom-ausstieg-so-schwertut_id_180312659.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 182,
+        "op_b": 169,
+        "total": 359
+    },
+    "error": null
+}

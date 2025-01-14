@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "all_awardings": [
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 100,
+                    "coin_reward": 0,
+                    "count": 2,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Shows the Silver Award... and that's it.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 512,
+                    "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "icon_width": 512,
+                    "id": "gid_1",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Silver",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 512,
+                    "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                    "static_icon_width": 512,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 150,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "Thank you stranger. Shows the award.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "icon_width": 2048,
+                    "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Helpful",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                },
+                {
+                    "award_sub_type": "GLOBAL",
+                    "award_type": "global",
+                    "awardings_required_to_grant_benefits": null,
+                    "coin_price": 125,
+                    "coin_reward": 0,
+                    "count": 1,
+                    "days_of_drip_extension": null,
+                    "days_of_premium": null,
+                    "description": "When you come across a feel-good thing.",
+                    "end_date": null,
+                    "giver_coin_reward": null,
+                    "icon_format": null,
+                    "icon_height": 2048,
+                    "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "icon_width": 2048,
+                    "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+                    "is_enabled": true,
+                    "is_new": false,
+                    "name": "Wholesome",
+                    "penny_donate": null,
+                    "penny_price": null,
+                    "resized_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "resized_static_icons": [
+                        {
+                            "height": 16,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&amp;height=16&amp;auto=webp&amp;s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&amp;height=32&amp;auto=webp&amp;s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+                            "width": 32
+                        },
+                        {
+                            "height": 48,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&amp;height=48&amp;auto=webp&amp;s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+                            "width": 48
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&amp;height=64&amp;auto=webp&amp;s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+                            "width": 64
+                        },
+                        {
+                            "height": 128,
+                            "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&amp;height=128&amp;auto=webp&amp;s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+                            "width": 128
+                        }
+                    ],
+                    "start_date": null,
+                    "static_icon_height": 2048,
+                    "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+                    "static_icon_width": 2048,
+                    "sticky_duration_seconds": null,
+                    "subreddit_coin_reward": 0,
+                    "subreddit_id": null,
+                    "tiers_by_required_awardings": null
+                }
+            ],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "Kompottkopf",
+            "author_created_utc": 1490349453,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_16gecw",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1671743195,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "self.de",
+            "edited": 1671745807.0,
+            "gilded": 0,
+            "gildings": {
+                "gid_1": 2
+            },
+            "hidden": false,
+            "hide_score": false,
+            "id": "zswuzf",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": true,
+            "is_video": false,
+            "link_flair_background_color": "#7d1d0b",
+            "link_flair_css_class": "category food",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Essen&amp;Trinken"
+                }
+            ],
+            "link_flair_template_id": "9415831a-a97d-11e5-8a96-0e80f2554921",
+            "link_flair_text": "Essen&amp;Trinken",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_zswuzf",
+            "no_follow": false,
+            "num_comments": 195,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/zswuzf/instant_ramen_101_ergebnisse_einer_jahrelangen/",
+            "pinned": false,
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1673176305,
+            "score": 427,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "Hey!\n\nIch habe grade mal wieder Instant Ramen gegessen. Und weil ich das mittlerweile seit vielen Jahren und immer wieder gerne tue, und dabei schon die Kuriosesten Dinge ausprobiert habe, habe ich heute Abend beschlossen, dass meine Methode mittlerweile perfektioniert ist.\n\nUnd da ich nichts besseres zu tun habe, dachte ich, ich schmeiß das einfach mal in den Reddit-De-Äther, und schaue mal, was zurück kommt. Vielleicht sind ja noch interessante Innovationen dabei.\n\nDa ich eigentlich immer vegetarisch und manchmal auch vegan esse, werden Fleischesser hier vielleicht nicht vollständig auf ihre Kosten kommen. Vielleicht ist ja aber trotzdem was inspirierendes dabei. Und die Ramen einfach durch ne Fleisch-Variante zu ersetzen, sollte auch kein Problem sein.\n\n# Die Ramen\n\nNachdem ich echt viele Sorten ausprobiert habe, komme ich zum Ergebnis: Entweder **Nissin Demae Spicy Ramen** (z.B. Rewe oder Edeka) oder **Nongshim Shin Ramyun Noodles** (eher Asia Supermarkt).\n\nGibt mit Sicherheit noch andere, echt leckere Varianten. Aber ich hab echt ne Menge durchprobiert und die Nissin Ramen haben in meinen Augen einfach die beste Brühe und die Shin Ramyum die besten Nudeln. Vom Schärfegrad her sind die Shin Ramyum definitiv nochmal ne andere Klasse (ich esse gerne scharf und fang dabei an zu schwitzen, besonders wenn die noch sehr heiß sind). Die Nissin Ramen haben aber Suppenbasis und \"spicy\" Faktor in zwei unterschiedlichen Tütchen, so dass man dort nach belieben selbst justieren kann.\n\n# Die Brühe\n\nNeben den Nudeln ist die Brühe der wichtigste Bestandteil von Ramen. Aber in den seltensten Fällen ist die irgendwie direkt so lecker, dass man sie auch bis zum letzten Tropfen austrinkt. Wer häufig die Reste der Brühe weggießt, kann weiter unten gern mal unter \"Leftovers\" schauen - denn nach dem Ende der Nudeln muss die Experience noch nicht zuende sein.\n\nFür mich ist sie häufig einfach zu wässig und zu lasch. Unverzichtbare Nr. 1 für mehr Umami: **Soja-Sauce.** Eigentlich etwas dumm, da die Ramen selbst meist schon sehr sehr salzig sind, aber selbst n kleiner Schuss hilft halt irgendwie, der Brühe n bisschen mehr Tiefe zu geben\n\nEin weiterer großer Geschmacksträger, der bei fast allen Ramen geht, ist ein Schuss **Sesamöl**. Die Profis greifen dabei zu dem vom Asiaten, welches aus geröstetem Sesam gewonnen wird. Aber auch die Supermarkt-Alternative aus ungeröstetem Sesam ist echt nice.\n\nDa mir damit die Sauce aber in den meisten Fällen immernoch zu \"wässig\" ist und ich es lieber etwas cremiger mag, gibts noch weitere Dinge, mit der man die Brühe aufpeppen kann.\n\n1. **Kokosmilch + Erdnussbutter**: Da beides relativ fett ist, macht es Sinn, vorsichtig zu dosieren wenn man nur eine Packung Ramen zubereiten möchte. Ich nehme meistens 1-3 EL Kokosmilch und 1/2-1 EL stückige Erdnussbutter. Beides löst sich im heißen Wasser vollständig auf und gibt der Brühe n ganz anderes Profil. Plus: Die Erdnusstückchen bringen ein bisschen extra crunch. (Ramen Favorit: Nissin Damae Spicy).\n2. **Milch / Pflanzenmilch + abgepackter Chester Schmelzkäse:** Fiese Ausgeburt der Hölle dieser Käse :D Aber für Ramen halt einfach unschlagbar. Passiert bei mir eher mit den Shin Ramyum, um etwas Schärfe rauszunehmen. Man kann das gesamte Kochwasser durch Milch oder Pflanzenmilch ersetzen oder nur einen Teil. Der Käse kommt aber erst ganz zum Schluss! Weil der fast nur aus Palmfett besteht, schmilzt der im heißen Wasser komplett weg. Ist zwar mega nice für die Konsistenz der Brühe, aber dadurch verpasst man den \"Nudeln mit geschmolzenem Käse\"-Faktor. Wer es richtig hardcore mag, kann damit fast ne Mac-n-Cheese artige Version schaffen.\n\n# Toppings\n\nKlassiker sind ein paar fein aufgeschnittene **Lauchzwiebeln**. Dafür muss man die aber vorrätig haben und manchmal ist man selbst dafür zu faul. Das universelle Highlight ist natürlich das **Ei mit flüssigem Kern**, allerdings ist das für mich in den meisten Fällen schon zu viel Arbeit.\n\nWas aber relativ schnell geht sind **Erbsen** (Dose oder TK, wobei TK erfordert, dass man die ein paar Minuten lang kocht) und / oder **Dosenmais**. Man kann eigentlich nahezu alles verarbeiten, was man als Gemüse in der Küche rumliegen hat. Ich nehme oft **Zucchini** (die ich dann ein bisschen mitkoche), oder **Paprika-Streifen** (roh). Selbst ein bisschen **Salat oder Kohl** geht, wobei der Kohl definitiv etwas mitgekocht werden sollte.\n\nDer Vollständigkeit halber wird die Chester-Käse-Scheibe hier nochmal erwähnt. Von den Inhaltsstoffen und Nährwerten einfach abartig, aber in Ramen einfach unschlagbar.\n\nFleischesser können hier natürlich ihrer Fantasie freien Lauf lassen. Nicht-Fleisch-Essern steht es natürlich frei, entsprechend mit Tofu aufzupeppen.\n\nDa Instant Ramen eher wenig wertvolle Inhaltsstoffe für den Körper hergeben, macht es Sinn, bei den Toppings etwas gegenzusteuern und Vitamine, Ballaststoffe oder einfach nur Farbe + Crunch hinzu zu fügen.\n\n**Leftovers**\n\nWie unsere Ramen auch, nähern wir uns langsam dem Ende. In den meisten Fällen endet das ganze Ding dann damit, dass man die Nudeln und Toppings rausisst (soweit möglich) und danach noch unverhältnismäßig viel Brühe und mehr oder weniger Resthunger übrig hat.\n\nGeheimtip ist an dieser Stelle, die Brühe nicht wegzukippen. Stattdessen kann man 1-2 rohe Eier hinein schlagen, durchrühren und mit der Brühe vermischen und das ganze Ding danach für ein paar Minuten in die Mikrowelle stellen. Falls möglich mit Deckel. Das Ei stockt und man hat danach eine Art Ramen-Inspired Steamed Egg, dass man mit dem Löffel essen kann. Ist insbesondere nützlich, wenn man Cup-Ramen im Büro isst, da man das ganze im Becher durchführen kann. Allerdings sei an dieser Stelle die Geruchswarnung auszusprechen. Wer seine Kollegen mag, lüftet nachdem man seine Ramen aufgegessen hat.\n\nFür den ganz ganz großen Nachhunger, kann man das Ei aber auch als Füllung für einen schnellen kalten Wrap verwenden. Das habe ich grade getan. Und es war so gut, dass ich danach diesen Beitrag verfasst habe x)\n\nUnd das war sie jetzt, die kleine große Ramen-Odysse. Wer sich jetzt berufen fühlt, Dinge auszuprobieren, soll bitte nicht vergessen, das Feedback hier zu posten :)  Und falls jemand noch ein paar interessante Ideen für Customization hat, immer gerne her damit!",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 840765,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "self",
+            "thumbnail_height": null,
+            "thumbnail_width": null,
+            "title": "Instant Ramen 101: Ergebnisse einer jahrelangen Selbststudie",
+            "top_awarded_type": null,
+            "total_awards_received": 4,
+            "treatment_tags": [],
+            "upvote_ratio": 0.94,
+            "url": "https://www.reddit.com/r/de/comments/zswuzf/instant_ramen_101_ergebnisse_einer_jahrelangen/",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 197,
+        "op_b": 179,
+        "total": 388
+    },
+    "error": null
+}

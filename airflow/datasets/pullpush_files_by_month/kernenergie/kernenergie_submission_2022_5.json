@@ -1,0 +1,155 @@
+{
+    "data": [
+        {
+            "all_awardings": [],
+            "allow_live_comments": false,
+            "archived": false,
+            "author": "i-have-no-mouth",
+            "author_created_utc": 1652169026,
+            "author_flair_background_color": null,
+            "author_flair_css_class": null,
+            "author_flair_richtext": [],
+            "author_flair_template_id": null,
+            "author_flair_text": null,
+            "author_flair_text_color": null,
+            "author_flair_type": "text",
+            "author_fullname": "t2_mx5so6s9",
+            "author_patreon_flair": false,
+            "author_premium": false,
+            "awarders": [],
+            "banned_by": null,
+            "can_gild": true,
+            "can_mod_post": false,
+            "category": null,
+            "content_categories": null,
+            "contest_mode": false,
+            "created_utc": 1652254203,
+            "discussion_type": null,
+            "distinguished": null,
+            "domain": "n-tv.de",
+            "edited": false,
+            "gilded": 0,
+            "gildings": {},
+            "hidden": false,
+            "hide_score": false,
+            "id": "un4943",
+            "is_created_from_ads_ui": false,
+            "is_crosspostable": true,
+            "is_meta": false,
+            "is_original_content": false,
+            "is_reddit_media_domain": false,
+            "is_robot_indexable": true,
+            "is_self": false,
+            "is_video": false,
+            "link_flair_background_color": "#0b3b0b",
+            "link_flair_css_class": "category environment",
+            "link_flair_richtext": [
+                {
+                    "e": "text",
+                    "t": "Umwelt"
+                }
+            ],
+            "link_flair_template_id": "b96aef02-25bd-11e7-bfe3-0ece441d4918",
+            "link_flair_text": "Umwelt",
+            "link_flair_text_color": "light",
+            "link_flair_type": "richtext",
+            "locked": false,
+            "media": null,
+            "media_embed": {},
+            "media_only": false,
+            "name": "t3_un4943",
+            "no_follow": false,
+            "num_comments": 120,
+            "num_crossposts": 0,
+            "over_18": false,
+            "parent_whitelist_status": "all_ads",
+            "permalink": "/r/de/comments/un4943/düstere_zukunft_der_kernenergie_atomkraft_ist/",
+            "pinned": false,
+            "post_hint": "link",
+            "preview": {
+                "enabled": false,
+                "images": [
+                    {
+                        "id": "Z6rU8EuCcvyKT9zDJE8zwkKHga_NilaX51fhe6nOgd4",
+                        "resolutions": [
+                            {
+                                "height": 60,
+                                "url": "https://external-preview.redd.it/RUwwsVmQn4R3y-kA6-LDQkvLTsGle_fTdeHUrZkG8Ek.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=4f7e5f588b1439ff48fb4ea422d6124eafe89445",
+                                "width": 108
+                            },
+                            {
+                                "height": 121,
+                                "url": "https://external-preview.redd.it/RUwwsVmQn4R3y-kA6-LDQkvLTsGle_fTdeHUrZkG8Ek.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2017995fd506beb47acdc57ff1cdee3b6332a11b",
+                                "width": 216
+                            },
+                            {
+                                "height": 180,
+                                "url": "https://external-preview.redd.it/RUwwsVmQn4R3y-kA6-LDQkvLTsGle_fTdeHUrZkG8Ek.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ca05a278eeaee24a4de8444416cac08346e66508",
+                                "width": 320
+                            },
+                            {
+                                "height": 360,
+                                "url": "https://external-preview.redd.it/RUwwsVmQn4R3y-kA6-LDQkvLTsGle_fTdeHUrZkG8Ek.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a45ce58d4983c30e02e2aa2ae34b9aaca29a25c",
+                                "width": 640
+                            },
+                            {
+                                "height": 540,
+                                "url": "https://external-preview.redd.it/RUwwsVmQn4R3y-kA6-LDQkvLTsGle_fTdeHUrZkG8Ek.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=f9cb00e79d0132fc98bcf603a2e07c15881a2935",
+                                "width": 960
+                            },
+                            {
+                                "height": 608,
+                                "url": "https://external-preview.redd.it/RUwwsVmQn4R3y-kA6-LDQkvLTsGle_fTdeHUrZkG8Ek.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e4ab4624e13f9e67f67b4f98e0b8b69a367823d4",
+                                "width": 1080
+                            }
+                        ],
+                        "source": {
+                            "height": 676,
+                            "url": "https://external-preview.redd.it/RUwwsVmQn4R3y-kA6-LDQkvLTsGle_fTdeHUrZkG8Ek.jpg?auto=webp&amp;s=23a3660934a09a5805b007b57ed5701ee9f70d7f",
+                            "width": 1200
+                        },
+                        "variants": {}
+                    }
+                ]
+            },
+            "pwls": 6,
+            "quarantine": false,
+            "removed_by": null,
+            "removed_by_category": null,
+            "retrieved_on": 1653953337,
+            "retrieved_utc": 1653953337,
+            "score": 80,
+            "secure_media": null,
+            "secure_media_embed": {},
+            "selftext": "",
+            "send_replies": true,
+            "spoiler": false,
+            "stickied": false,
+            "subreddit": "de",
+            "subreddit_id": "t5_22i0",
+            "subreddit_name_prefixed": "r/de",
+            "subreddit_subscribers": 628316,
+            "subreddit_type": "public",
+            "suggested_sort": null,
+            "thumbnail": "https://b.thumbs.redditmedia.com/ADHEN30w8WQ-KHagq6yyDO4iBfZXAZ7ikas_-H5PdKU.jpg",
+            "thumbnail_height": 78,
+            "thumbnail_width": 140,
+            "title": "Düstere Zukunft der Kernenergie: \"Atomkraft ist eine aussterbende Spezies\"",
+            "top_awarded_type": null,
+            "total_awards_received": 0,
+            "treatment_tags": [],
+            "upvote_ratio": 0.77,
+            "url": "https://www.n-tv.de/wirtschaft/Zukunft-der-Kernindustrie-im-Klima-Labor-Atomkraft-ist-eine-aussterbende-Spezies-article23295455.html",
+            "url_overridden_by_dest": "https://www.n-tv.de/wirtschaft/Zukunft-der-Kernindustrie-im-Klima-Labor-Atomkraft-ist-eine-aussterbende-Spezies-article23295455.html",
+            "view_count": null,
+            "whitelist_status": "all_ads",
+            "wls": 6
+        }
+    ],
+    "metadata": {
+        "op_a": 179,
+        "op_b": 169,
+        "total": 352
+    },
+    "error": null
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "text": "Les allées chauffées existent aussi en montagne.\n\nC'est pas forcément un problème si l'énergie utilisée est déjà là (par exemple solaire ou géothermie) mais c'est absurde dans tous les autres cas.",
+        "date": "2022-12-01",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Bac -20 ? Trouvez-vous normal de m'insulter juste parce que vous n'êtes pas d'accord ? \n\nj'ai dis :\n&gt;pas loin de 50% de leur électricité est fournie par les enr\n\ndans l'article il est dit :\n\n&gt; Les énergies renouvelables, éolien et solaire en tête, ont couvert 43 % de la demande d'électricité outre-Rhin en 2019, selon une première évaluation. En 2017, cette part n'était que de 36,3 % et de 38,2 % en 2018.\n\nJ'aimerais bien savoir en quoi ce que j'ai dit est faux ?\n\nj'ai aussi dit que ça progresse, là aussi j'aimerais comprendre pourquoi vous dites que c'est faux ?\n\nLa baisse actuelle est conjoncturelle mais ne change rien à la tendance de fond, vous ne trouvez pas votre argument très légèrement fallacieux et sorti de tout contexte ?\n\nQuant au prix de l’énergie nucléaire, les anciennes centrales vont couter de plus en plus cher en maintenance, sans compter qu'on n'en a un bon paquet à l'arrêt actuellement pour des problèmes de corrosion et autre, et ça coute très cher. Les nouveaux EPR auront très certainement un prix au kwh supérieur aux ENR, certaines sources parlent même du double du prix. \n\nC'est une énergie en déclin au niveau mondial, je sais bien que l'on a un biais énorme en France concernant le sacro-saint nucléaire, mais de temps en temps il faut quand même enlever ses œillères et admettre que ce n'est pas la panacée non plus et de loin, aucune technologie à ce jour n'est parfaite.",
+        "date": "2022-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Désolé d'insister mais le bilan carbone pour construire ce truc est désastreux : terrassement, boucle thermique, pompe de circulation,... \nEt non il n'y a pas d'excédent d'énergie, à la limite pour le solaire en été ça peut arriver mais là c pour l'hiver et la géothermie il faut faire fonctionner des auxiliaires électriques pour aller chercher la chaleur.\nSauf à être dans le déni, ce système est absurde et totalement contraire aux enjeux de sobriété nécessaires",
+        "date": "2022-12-01",
+        "sentiment": "negative"
+    },
+    {
+        "text": "bah si vous voulez discuter il faut être précis. \n\nje remets une dernière fois ce que j'ai mis plus haut, où est-ce que je trolle exactement ? \n\nj'ai dis :\n\n  &gt;  pas loin de 50% de leur électricité est fournie par les enr\n\ndans l'article il est dit :\n\n   &gt; Les énergies renouvelables, éolien et solaire en tête, ont couvert 43 % de la demande d'électricité outre-Rhin en 2019, selon une première évaluation. En 2017, cette part n'était que de 36,3 % et de 38,2 % en 2018.\n\nJ'aimerais bien savoir en quoi ce que j'ai dit est faux ?\n\net si c'est à propos d'autre chose, discutons mais soyez précis en disant sur quoi exactement vous n'êtes pas d'accord, si vous restez vagues évidement que je ne peux pas vous répondre.",
+        "date": "2022-12-02",
+        "sentiment": "negative"
+    },
+    {
+        "text": "D'après [ce papier](https://www.mediapart.fr/journal/politique/041222/loi-energies-renouvelables-en-position-de-force-la-nupes-engage-un-bras-de-fer-avec-la-majorite) de Mediapart, voici ce qui pourrait bloquer à gauche:\n\n&gt;À La France insoumise comme au Parti communiste français (PCF), on s’inquiète aussi de la philosophie générale d’un texte qui, derrière les discours consensuels sur la transition écologique, conduirait en réalité à déréguler plus encore le marché de l’énergie en offrant aux promoteurs privés le juteux pactole des renouvelables.  \n&gt;  \n&gt;Une approche moins écologique que « business », corroborée par le choix de l’exécutif d’avoir privilégié, pour l’examen préalable du texte, la commission des affaires économiques, présidée par le très libéral Guillaume Kasbarian, à celle du développement durable.  \n&gt;  \n&gt;\\[...\\]  \n&gt;  \n&gt;Parmi les autres points de blocage : l’article sur le « partage de la valeur », consistant à accorder des ristournes aux habitants des zones d’implantation des éoliennes comme un dédommagement pour le « préjudice » subi, qui rompt avec la tradition française de la péréquation tarifaire. Ou encore le développement à tout crin de l’agrivoltaïsme (la pose de panneaux solaires sur des surfaces agricoles), qui fait craindre une raréfaction des terres cultivables.  \n&gt;  \n&gt;« On reste également attentifs à l’amendement déposé par le gouvernement sur la notion d’“intérêt public majeur” qui permettrait de déroger automatiquement aux mesures de protection des espèces pour implanter des énergies renouvelables. C’est le risque d’ouvrir une boîte de Pandore alors qu’on peut largement réussir la transition en exploitant les endroits déjà artificialisés », ajoute Charles Fournier.",
+        "date": "2022-12-05",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt;Conclusion : Vive le mix Nucléaire + Renouvelables.\n\nC'est pas tout à fait vrai, regardes le graph de production sur le site de RTE : [https://www.rte-france.com/eco2mix/la-production-delectricite-par-filiere](https://www.rte-france.com/eco2mix/la-production-delectricite-par-filiere)\n\nIl est impossible d'absorber les pics avec le vent ou le solaire, ca ne correspond absolument pas aux bons moments. Franchement vu l'efficacité et réactivité l'hydro, je pense qu'on aurait du investir beaucoup plus dedans que dans l'éolien ou le solaire, même au détriment de quelques écosystèmes de montagne pour faire des retenues.\n\nA défaut, les énergies fossiles sont malheureusement le dernier recours pour fournir les pics.",
+        "date": "2022-12-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Panneau solaire, éoliennes, géo-thermique, l’énergie hydrolienne issue des courants, l’énergie houlomotrice issue des vagues et de la houle,",
+        "date": "2022-12-06",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Tout ce qui est éoliennes et panneaux solaires est loin d'être vert... sur le cycle entier de fabrication c'est même très émetteur de CO2",
+        "date": "2022-12-06",
+        "sentiment": "negative"
+    },
+    {
+        "text": "L'anti-nucléaire c'était l'écologie de l'abondance : on se permettait de pinailler sur du détails parce qu'on avait accès à tout sans aucune limitation.\n\nLà le choix c'est \"nucléaire et petite décroissance\" vs \"pas de nucléaire et grosse décroissance\" vs \"nan mais tkt en 2022 c'est déjà le turfu on va faire de l'anti-hydrogène solaire pour remplacer le nuke et faire de la croissance verte\".\n\nLa grosse décroissance subite personne ne veux ça (enfin personne ne veut le subir lui-même, les riches sont pour faire décroitre les pauvres et inversemment) donc ça limite beaucoup les choix restants !",
+        "date": "2022-12-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Ah non, pour moi tout ou au moins la moitié de l´argent que nous mettons maintenant dans des solutions pas efficace comme aeoliens, panneaux solaires etc. nous devrons le mettre dans la recherche pour des solutions et peut-être en parti envers Aspect..",
+        "date": "2022-12-07",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Je suis pour !\n\nEt pour financer cette mesure, je propose de mettre enfin en place une taxe sur le kérosène sur les vols extra-européens, et un alignement de la taxe sur le carburant aérien pour les vols interieurs européens, sur la taxation de l'essence. \n\nOn pourrait y ajouter la TVA sur les billets pour les vols hors Europe (qui pour l'instant ne sont pas taxés, à la différence des médicaments, des tampons, de la nourriture, de l’isolation ou des panneaux solaires...) , mais je pense que celle ci devrait juste revenir au budget de l'état comme le reste de la TVA.",
+        "date": "2022-12-11",
+        "sentiment": "positive"
+    },
+    {
+        "text": "Rien de spécial à l'aviation, quasiment tous les types de transports internationaux de biens et de personnes sont exonérés de la TVA. (https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033469152/2018-01-01)\n\nQuant aux autres TVA citées, la personne à qui tu réponds a volontairement omis leur taux pour maximiser son effet (puisque le lecteur naïf va penser 20%) :\n\n* la nourriture est soumise au taux réduit de  5,5% ;\n* les médicaments (remboursables) au taux particulier de 2,1% ;\n* les travaux d'isolation sont aussi au taux réduit de 5,5% ;\n* les panneaux solaires, suivant leur catégorie, peuvent être au taux normal, intermédiaire (10%) ou réduit (5,5%).\n\nLe législateurs a déjà mis en place un traitement de faveur sur ces produits/prestations pour encourager leur usage.",
+        "date": "2022-12-11",
+        "sentiment": "negative"
+    },
+    {
+        "text": "&gt; Installée sur 49 hectares anciennement dédiés au stockage de produits pétroliers, le site détenu par TotalEnergies déploie 78 260 panneaux pour une puissance de 33 mégawatts-crête (MWc).\n\nD'après [le dossier public de ce projet](https://www.paca.developpement-durable.gouv.fr/13-2019-fos-sur-mer-projet-d-amenagement-d-une-a12211.html) la production d’énergie de ce parc solaire est estimée à 60 GWh/an.\n\nPour mettre les choses en perspective, la centrale nucléaire de Bugey construite en 1965 occupe 100 hectares et produit 26.25 TWh /an, soit 26250 GWh /an ou **430x** plus d'énergie produite que ce nouveau plus grand parc solaire en France.",
+        "date": "2022-12-12",
+        "sentiment": "positive"
+    },
+    {
+        "text": "&gt;Donc, ramené à la même surface, la centrale nucléaire produit 215 fois plus (a moins que vous ayez déjà intégré cela ?).\n\nNon, la surface n'est pas comptabilisée dans mes calculs mais c'est aussi intéressant de prendre cela en compte.\n\n&gt;MAIS, on parle ici d’une centrale implantée sur un ancien dépôt pétrolier dont les sols doivent être tellement pollués qu’il n’aurait sans doute pas été possible d’installer autre chose. Il y a beaucoup de sites de ce genre en France, sans compter les aciennes mines à ciel ouvert, les sites SEVESO abandonnés… autant les utiliser (en espérant qu’il n’y grêle pas trop)’\n\nOui tout à fait, le fait qu'un parc solaire produit énormément moins qu'une centrale nucléaire n'enlève pas l'intérêt de construction des parcs solaires, surtout dans des sites pollués comme tu l'indiques.\n\nMes calculs c'était essentiellement pour se faire une idée de combien parcs solaires les plus grands on aurait besoin de construire si on souhaiterait produire l'équivalent d'une seule centrale nucléaire. C'est beaucoup, 430 parcs solaires pour une centrale nucléaire. Ça devrait donner à quoi réfléchir aux antinucléaires.",
+        "date": "2022-12-12",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "&gt;33 mégawatts-crête\n\nNon pilotable,  donc acheter du photovoltaïque en chine  et se faire  remplacer la nuit et par mauvaise météo par des centrales de électrique pointe à méthane fossile c'est tout bénef pour des gens comme total, surement moins cher que de dépolluer ou d'investir dans les truc moins  court termiste comme l'électrolyse de l'hydrogène. Mais Pouyané  s'en fiche de financer indirectement  les centrales électriques à gaz en nous faisant acheter  de l'électricité \"crête\" de panneau solaire le midi quand il fait beau au tarif subventionné \"renouvelable\", parce qu'ensuite on achète son gaz la nuit et ça le met surement personnellement financièrement à l'abri des conséquence du monde à +3,5 degré dans lequel il veut nous faire vivre vu qu'il aura surement  de quoi s'acheter une ile privée en Norvège ou au Canada.\n\n Parce qu'évidement ont construira jamais les fameux \"stockage électrique à l'échelle du réseau pour vivre uniquement de renouvelable intermittent\" on a  déjà des goulets d'étranglement en matériaux pour faire des batteries pour les voitures et dispositifs portables et l'hydrogène issu d'électrolyse doit servir pour refonder toute l'industrie qui permet le monde contemporain comme les engrais azotés et la réduction des minerais pour les matériaux. Les pays  surs  et capables comme la France doivent jouer leur atout au max et se concentrer  sur le nucléaire  et l'efficacité énergétique et laisser les renouvelables intermittents  aux pays qui ont de vastes territoires inoccupés et non cultivables  qui voudront éventuellement vendre leurs excédents via des lignes courant continu très haute tension ou l'H2 compressé.",
+        "date": "2022-12-12",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Bonpote et son équipe ont fait un site pour simuler des discussions de repas de réveillon de Noel, quand l'écologie arrivera indéniablement sur la table !   \nça se présente sous une forme de remarques globalement fausses sur l'écologie, et ce que vous pouvez y répondre, avec une liste de sources.   \n\n\nPar exemple :   \n\n**Jean michel cycle Solaire** : Oui mais dans le passé on a déjà eu ça, ce sont des cycles !**  \n\n**L'écolo** : Tout dépend de quoi on parle, mais surtout, le sujet, c’est la vitesse du changement actuel. L’ampleur des changements récents dans l’ensemble du système climatique et l’état actuel de nombreux aspects du système climatique sont sans précédent, de plusieurs siècles à plusieurs milliers d’années.",
+        "date": "2022-12-13",
+        "sentiment": "negative"
+    },
+    {
+        "text": "C'est anti-écologique que ça en peut plus .....\n\nOn a des technos existantes qui font très bien le job et sont immensément plus sobres (station d'épuration centralisée pour toute une commune, récupération d'eaux de pluie, échangeur de chaleur, lavage à la bassine, chauffe eau solaire ....). Mais les gars nous expliquent que désormais, pour prendre une douche, on va avoir besoin d'une pompe, d'un mini réchauffe-eau, d'une lumière UV, d'un système de filtres .... et que c'est \"green\".\n\nSachant que bien entendu, tout ça là-dedans est complètement redondant, et fonctionne beaucoup mieux (et plus écologiquement) quand on centralise. Ce qu'on fait déjà pour tout sauf la partie chauffage qui est le plus souvent décentralisée.\n\n&amp;#x200B;\n\nBref, ça pourrait avoir du sens dans les régions désertiques, et encore (il reste plus intéressant de centraliser les dispositifs, que ce soit le pompage, le filtrage, l'épuration, etc ....).",
+        "date": "2022-12-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "[https://savoie-antinucleaire.fr/2022/12/20/les-discours-trompeurs-de-jean-marc-jancovici/](https://savoie-antinucleaire.fr/2022/12/20/les-discours-trompeurs-de-jean-marc-jancovici/) \n\nEn partant  de ce lien je vois  ces problèmes : \n\n\"Et pour cause. Le solaire et l’éolien terrestre sont, dans la grande majorité des pays, les moyens les moins chers de produire de l’électricité\" On pensait en avoir finis avec cet effet début de courbe de Dunning-Krueger  chez les gens des humanités et pourtant ils continuent.  Les coûts actuels de l'électricité renouvelable intermittent moyennés sur une année de production sont uniquement possibles grâce aux centrales à gaz fossile auquel les moyens intermittents sont adossés et qui ont obligation de s'éteindre quand il y a du vent et du soleil  et de produire la nuit  ou en absence de vent. Dès qu'on sait que l'équilibrage (le stockage d'un surplus d'intermittent pour quelques heures plus tard) du réseau électrique sans turbines à gaz ne peut se faire qu'avec des barrages hydroélectriques et du pompage et que les sites géologiques exploitable dans les pays développés le sont tous déjà on se rend compte de l'inconscience de l'auteur.\n\n&amp;#x200B;\n\n\"\\[...\\]déployer au plus tôt les réacteurs nucléaires surgénérateurs, dits de quatrième génération \\[...\\]ce qu’a tenté de faire la France depuis les années 1960, avec le programme Phénix, puis Astrid, sans succès\"   C'est salé de leur part de sous entendre que les RNR français auraient été arrêtés pour des raisons scientifiques ou techniques alors que c'est une de leur principales \"victoire\" politique d'avoir réussi à les faire arrêter sans justification technique grâce à des alliances électorales avec Jospin et Hollande.\n\n&amp;#x200B;\n\n\"Plaider en faveur du nucléaire n’autorise pas à en minimiser les risques et badiner sur le nombre de victimes \\[...\\] conséquences matérielles et humaines sont, dans tous les cas, extrêmement lourdes, même s’il y a des débats sur les bilans des catastrophes passées\" Encore du militantisme bas du front, ils accusent de minimiser les risques en cas d'accident mais refusent de parler des études qui quantifient le risques d'accident parce qu'elle démontrent que possibilité ne veut pas dire danger imminent et osent encore moins citer les études sur le bilan médical des pires accidents accepté par l'OMS car il est si bas comparé aux fantasmes répandus que ça rend leur position ridicule (tchernobyl d'après l'UNSCEAR en 2008 :  moins de 200 syndrome d'irradiation aigue chez les nettoyeurs et moins de 7000 cancer de la tyroïde, et on parle d'une catastrophe soviétique avec des civils sciemment exposés pour ne pas perdre la face politiquement pour comparaison un barrage qui cède c'est 10 000 mort instantané  pas 10 000 malades).\n\nLes gens qui downvotent sans être capable de répondre vous ne faite que pointer votre volonté de refuser de mettre à jour vos connaissances et de protéger vos préjugés/votre ego.",
+        "date": "2022-12-20",
+        "sentiment": "negative"
+    },
+    {
+        "text": "Déso mec, mais là c'est bien toi qui ne sais pas lire, 100% de leur électricité vient du solaire et de l'éolien. Je t'avais même remis la citation. Leur gaz il est vendu... en tant que gaz. Tu sais pour les gens qui chauffent leur eau à l'aide d'une machine qu'on appelle une chaudière.",
+        "date": "2022-12-23",
+        "sentiment": "neutral"
+    },
+    {
+        "text": "Ah oui, en effet. C'est encore pire ! Et ils vendent autant d'électricité que de gaz en kWh. Fantastique. Et ça se dit vert.\n\nÉvidemment, note qu'ils mentent quand ils disent qu'ils vendent de l'énergie 100% renouvelable. Evidemment, ils se fournissent sur le réseau comme tout le monde (donc gaz et lignite) et ils n'ont même pas besoin de garantir l'approvisionnement quand il n'y a pas assez de vent/soleil/eau, et peuvent faire ça grâce aux lois un peu débiles qui régissent la gestion de l'énergie en Allemagne (et en Europe), passées grâce à des associations et politiques prétendûment verts et anti-nucléaires. Et en plus de ça, ils vendent à peu près autant de gaz que d'électricité. Lol.\n\nC'est facile avec ces règles. Vu que j'investis dans des installations solaires (entre autres), je peux me chauffer au mazout et prendre l'avion sans problème vu que mes investissements ont produit bien plus que l'énergie nécessaire pour traverser l'Atlantique plusieurs fois et me chauffer jusqu'à ma mort. Ce sera exactement la même chose.\n\nHeureusement que leur proximité avec Greenpeace ne nuit pas à leur crédibilité, parce que sinon, qu'est-ce que ce serait.",
+        "date": "2022-12-23",
+        "sentiment": "negative"
+    }
+]
